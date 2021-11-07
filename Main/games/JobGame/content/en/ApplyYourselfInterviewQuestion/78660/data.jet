@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "¡Es el día de traer tu perro al trabajo y tu vecino de cubículo trajo un lobo salvaje! ¿Cómo reaccionas?"
+  },
+  {
+   "t": "S",
+   "v": "¡Es el día de traer tu perro al trabajo y tu vecino de cubículo trajo un lobo salvaje! ¿Cómo reaccionas?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

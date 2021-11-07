@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "De alguna manera tu idea para el \"baile de trabajo\" es aprobada. ¿Cuál es el mejor tema para el evento?"
+  },
+  {
+   "t": "S",
+   "v": "De alguna manera tu idea para el \"baile de trabajo\" es aprobada. ¿Cuál es el mejor tema para el evento?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

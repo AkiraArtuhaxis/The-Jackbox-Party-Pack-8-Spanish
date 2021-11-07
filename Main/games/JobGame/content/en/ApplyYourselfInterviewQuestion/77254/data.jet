@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Tyler dice que él es la persona más flexible en la oficina. ¿Cómo haces para arruinar esa imagen por completo?"
+  },
+  {
+   "t": "S",
+   "v": "Tyler dice que él es la persona más flexible en la oficina. ¿Cómo haces para arruinar esa imagen por completo?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

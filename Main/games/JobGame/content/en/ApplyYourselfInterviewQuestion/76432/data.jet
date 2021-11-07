@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "El retiro de la compañía se ha convertido predeciblemente en una situación sacada de [i]El señor de las moscas[/i]. ¿Cuál es tu rol en esta nueva sociedad sanguinaria?"
+  },
+  {
+   "t": "S",
+   "v": "El retiro de la compañía se ha convertido predeciblemente en una situación sacada de [i]El señor de las moscas[/i]. ¿Cuál es tu rol en esta nueva sociedad sanguinaria?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

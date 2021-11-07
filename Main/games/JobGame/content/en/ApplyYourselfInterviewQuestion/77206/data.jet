@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Trent está dando vueltas preguntando si alguien quiere \"pasar el rato\" después del trabajo. ¿Qué haces para evitarlo?"
+  },
+  {
+   "t": "S",
+   "v": "Trent está dando vueltas preguntando si alguien quiere \"pasar el rato\" después del trabajo. ¿Qué haces para evitarlo?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

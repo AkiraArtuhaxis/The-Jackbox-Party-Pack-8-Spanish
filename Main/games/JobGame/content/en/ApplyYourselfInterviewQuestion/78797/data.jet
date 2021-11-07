@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Un monolito de obsidiana que hace un zumbido incesante ha aparecido en la sala de descanso. ¿Cuál es tu respuesta?"
+  },
+  {
+   "t": "S",
+   "v": "Un monolito de obsidiana que hace un zumbido incesante ha aparecido en la sala de descanso. ¿Cuál es tu respuesta?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

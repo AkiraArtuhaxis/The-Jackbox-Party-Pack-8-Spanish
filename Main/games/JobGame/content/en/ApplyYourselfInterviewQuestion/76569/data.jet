@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Voluntario en \n\"Grandes {{BLANK}}, Pequeños {{BLANK}}\""
+  },
+  {
+   "t": "S",
+   "v": "Voluntario en \n\"Grandes {{BLANK}}, Pequeños {{BLANK}}\"",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Trabajo de voluntario"
+  },
+  {
+   "t": "S",
+   "v": "Trabajo de voluntario",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

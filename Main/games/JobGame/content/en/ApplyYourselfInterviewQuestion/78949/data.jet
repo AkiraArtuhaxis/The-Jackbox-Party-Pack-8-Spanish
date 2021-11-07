@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Entrenó un grupo disparatado de {{BLANK}}\n\nGanó el campeonato de {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "Entrenó un grupo disparatado de {{BLANK}}\n\nGanó el campeonato de {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Mentoría"
+  },
+  {
+   "t": "S",
+   "v": "Mentoría",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

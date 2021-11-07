@@ -1,0 +1,3820 @@
+{
+ "content": [
+  {
+   "id": "76200",
+   "isValid": "",
+   "question": "¿Cuál es tu mayor fortaleza?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76201",
+   "isValid": "",
+   "question": "¿Puedes contarme acerca de una vez en la que hayas fallado?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76202",
+   "isValid": "",
+   "question": "¿Dónde te ves a ti en cinco años?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76203",
+   "isValid": "",
+   "question": "¿Cómo te gusta ser gestionado?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76204",
+   "isValid": "",
+   "question": "¿Cuál es el trabajo de tus sueños?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76206",
+   "isValid": "",
+   "question": "¿Qué te hace único?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76207",
+   "isValid": "",
+   "question": "¿Qué es lo que más te apasiona?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76209",
+   "isValid": "",
+   "question": "¿Cómo defines al éxito?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76210",
+   "isValid": "",
+   "question": "¿Qué hace que quieras trabajar aquí?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76211",
+   "isValid": "",
+   "question": "¿Qué estabas haciendo durante el hueco en tu historial laboral?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76212",
+   "isValid": "",
+   "question": "¿De qué logro estás más orgulloso?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76214",
+   "isValid": "",
+   "question": "¿Cuál es tu enfoque al llevarte bien con los demás?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76215",
+   "isValid": "",
+   "question": "¿Cómo te enteraste de esta posición?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76216",
+   "isValid": "",
+   "question": "¿Qué significa “liderazgo” para ti?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76217",
+   "isValid": "",
+   "question": "¿Cuál es la decisión más difícil que has tenido que hacer?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76218",
+   "isValid": "",
+   "question": "¿Cómo te describirían tus colegas?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76219",
+   "isValid": "",
+   "question": "Si eres contratado, ¿qué se puede esperar de usted en sus primeros 30 días?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76220",
+   "isValid": "",
+   "question": "¿Cómo salieron las cosas en el último proyecto que lideraste?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76221",
+   "isValid": "",
+   "question": "¿Cuál es la retroalimentacion más importante que has recibido?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76222",
+   "isValid": "",
+   "question": "Si pudieras cambiar una cosa sobre ti, ¿cuál sería?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76223",
+   "isValid": "",
+   "question": "¿Qué buscas en cuestión de beneficios de empleados?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76224",
+   "isValid": "",
+   "question": "¿Qué es el mas grande aporte que traerías a nuestra empresa?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76305",
+   "isValid": "",
+   "question": "¿Cómo describirías tu personalidad?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76306",
+   "isValid": "",
+   "question": "¿Cómo te tranquilizas cuando estás estresado?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76307",
+   "isValid": "",
+   "question": "¿Qué te motiva?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76308",
+   "isValid": "",
+   "question": "¿Qué es algo que lo inspira?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76309",
+   "isValid": "",
+   "question": "¿Cómo hace una buena primera impresión?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76310",
+   "isValid": "",
+   "question": "¿Qué es algo de lo que está orgulloso?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76311",
+   "isValid": "",
+   "question": "¿Qué es algo para lo que desearías tener más tiempo?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76312",
+   "isValid": "",
+   "question": "¿Cuál es un pasatiempo interesante que disfruta?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76313",
+   "isValid": "",
+   "question": "¿Cómo te relajas después de trabajar?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76314",
+   "isValid": "",
+   "question": "¿Cómo describiría su ética de trabajo?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76315",
+   "isValid": "",
+   "question": "¿Qué significa \"lealtad\" para usted?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76316",
+   "isValid": "",
+   "question": "¿Cómo lidias con el conflicto?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76317",
+   "isValid": "",
+   "question": "¿Qué te saca una reacción?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76318",
+   "isValid": "",
+   "question": "¿Cuánto puedes levantar?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76319",
+   "isValid": "",
+   "question": "¿Qué le hace llorar?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76320",
+   "isValid": "",
+   "question": "¿Qué contiene su maletín en este momento?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76346",
+   "isValid": "",
+   "question": "¿Cuál es su espacio de trabajo ideal?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76347",
+   "isValid": "",
+   "question": "¿De dónde vienen las buenas ideas?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76348",
+   "isValid": "",
+   "question": "¿Cuál es su mayor arrepentimiento?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76349",
+   "isValid": "",
+   "question": "¿Cuál es tu plan de respaldo profesional?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76350",
+   "isValid": "",
+   "question": "¿Cuál fue su mayor problema con su empleador anterior?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76351",
+   "isValid": "",
+   "question": "¿Por qué abandonó su antigua ocupación?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76352",
+   "isValid": "",
+   "question": "¿Cuál es la manera más efectiva de iniciar una reunión?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76353",
+   "isValid": "",
+   "question": "¿Qué le motiva a dar el 110% cada día?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76354",
+   "isValid": "",
+   "question": "En tu opinión, ¿cuál es el rol principal de un gerente?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76355",
+   "isValid": "",
+   "question": "¿Cómo comenzarías una presentación de ventas?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76356",
+   "isValid": "",
+   "question": "¿Qué diría el departamento de RRHH de tu último trabajo sobre ti?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76357",
+   "isValid": "",
+   "question": "¿Qué regla esperas encontrar en el manual de empleados?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76358",
+   "isValid": "",
+   "question": "¿Cuál es el secreto para un equilibrio entre el trabajo y la vida?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76359",
+   "isValid": "",
+   "question": "De niño/a, ¿cuál era su carrera soñada?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76360",
+   "isValid": "",
+   "question": "¿Qué es algo en tu lista de objetivos de vida?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76362",
+   "isValid": "",
+   "question": "¿Qué opinas del romance en la oficina?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76363",
+   "isValid": "",
+   "question": "¿Qué cualidades busca en un equipo?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76364",
+   "isValid": "",
+   "question": "¿Cómo describirías tu atuendo de viernes casual?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76367",
+   "isValid": "",
+   "question": "¿Qué mata usualmente a los emprendimientos pequeños en su primer año?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76368",
+   "isValid": "",
+   "question": "¿Dónde deberíamos enviar su primer pago?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76369",
+   "isValid": "",
+   "question": "¿Cuál es un ejercicio para fomentar el trabajo en equipo que te gustaría que implementemos?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76370",
+   "isValid": "",
+   "question": "¿Qué esperas encontrar en la sala de recreación de la oficina?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76371",
+   "isValid": "",
+   "question": "¿Tienes alguna resolución para el año nuevo?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76404",
+   "isValid": "",
+   "question": "¿Cuáles son tus principales fortalezas?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76406",
+   "isValid": "",
+   "question": "Describe tu retiro ideal.",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76408",
+   "isValid": "",
+   "question": "Además de la familia o lo que sea, ¿qué es lo que te brinda más alegría?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76409",
+   "isValid": "",
+   "question": "¿Cuál es una debilidad tuya que podría verse como una fortaleza?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76411",
+   "isValid": "",
+   "question": "¿Cuál es tu atuendo ideal para sentirte empoderado?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76413",
+   "isValid": "",
+   "question": "¿Cómo lidiaría con gente grosera?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76415",
+   "isValid": "",
+   "question": "¿Cuál es tu típico almuerzo laboral?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76416",
+   "isValid": "",
+   "question": "¿Qué significa \"familia\" para ti?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76417",
+   "isValid": "",
+   "question": "¿Qué es algo que siempre mantienes en tu billetera?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76418",
+   "isValid": "",
+   "question": "¿Tiene alguna pregunta para nosotros?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76434",
+   "isValid": "",
+   "question": "¿Cómo podemos mejorar nuestra iniciativa de salud y bienestar?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76435",
+   "isValid": "",
+   "question": "¿Dónde te gustaría ir para el retiro de la compañía?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76436",
+   "isValid": "",
+   "question": "¿Cómo gestionarías a los empleados sin ser condescendiente?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76437",
+   "isValid": "",
+   "question": "¿Cómo sabes que estás demasiado enfermo para ir al trabajo?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76439",
+   "isValid": "",
+   "question": "¿Qué pregunta te gustaría hacerle a nuestro director ejecutivo?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76440",
+   "isValid": "",
+   "question": "¿Cuál es una habilidad poco apreciada en la cultura corporativa de hoy en día?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76441",
+   "isValid": "",
+   "question": "¿Qué consejo de seguridad en el lugar de trabajo te parece el más importante?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76526",
+   "isValid": "",
+   "question": "¿Qué te hace que te emocione despertarte por la mañana?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76528",
+   "isValid": "",
+   "question": "¿Qué te pone ansioso?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76537",
+   "isValid": "",
+   "question": "¿Cuál es una causa caritativa que mantienes cerca de tu corazón?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76538",
+   "isValid": "",
+   "question": "¿Dónde se encuentra espiritualmente/emocionalmente en la vida?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76539",
+   "isValid": "",
+   "question": "¿Cómo haces para dar vuelta las cosas cuando tienes ganas de rendirte?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76540",
+   "isValid": "",
+   "question": "¿Qué es lo único más emocionante que el éxito laboral?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76542",
+   "isValid": "",
+   "question": "¿Cuál es la diferencia entre un jugador de equipo y un trabajador solitario?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76543",
+   "isValid": "",
+   "question": "¿Qué le gusta escuchar mientras trabaja?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76544",
+   "isValid": "",
+   "question": "¿Cómo terminarías una reunión que ya ha durado demasiado?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76991",
+   "isValid": "",
+   "question": "¿Cómo despediría a un compañero de trabajo?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76992",
+   "isValid": "",
+   "question": "¿Qué es lo que busca en un mentor?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76993",
+   "isValid": "",
+   "question": "¿Cuál es tu mayor placer culposo?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76994",
+   "isValid": "",
+   "question": "¿Cómo planeas en ir al trabajo?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76995",
+   "isValid": "",
+   "question": "¿Cuál es la clave para hacer buenos contactos?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76996",
+   "isValid": "",
+   "question": "¿Cuál es el mayor obstáculo que ha superado?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76997",
+   "isValid": "",
+   "question": "¿En qué cree?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77078",
+   "isValid": "",
+   "question": "¿Cuál es una meta diaria que se ha fijado para usted mismo?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77079",
+   "isValid": "",
+   "question": "¿Cuál es la mejor manera de hacer múltiples tareas a la vez?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77273",
+   "isValid": "",
+   "question": "¿Qué funciones esperarías ver en el baño ejecutivo?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77843",
+   "isValid": "",
+   "question": "¿Cuál es tu mayor temor del lugar de trabajo?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78084",
+   "isValid": "",
+   "question": "¿De qué manera consigues nuevos amigos en el trabajo?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78085",
+   "isValid": "",
+   "question": "¿Qué es algo que te hace enojar?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78087",
+   "isValid": "",
+   "question": "¿Cómo le darías un \"toque personal\" a tu escritorio?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78088",
+   "isValid": "",
+   "question": "¿Cuál es una lección que aprendiste de tu último trabajo?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78089",
+   "isValid": "",
+   "question": "¿Cuál es la primera regla de una presentación exitosa?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78255",
+   "isValid": "",
+   "question": "¿Cuál es la mejor manera de motivarle?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78258",
+   "isValid": "",
+   "question": "¿De dónde obtiene sus mejores ideas?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78259",
+   "isValid": "",
+   "question": "¿Qué significa colaboración para ti?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78260",
+   "isValid": "",
+   "question": "¿Cómo piensas utilizar tus días de enfermedad pagos este año?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78262",
+   "isValid": "",
+   "question": "¿Cómo podemos cultivar una vibra joven como empresa?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78462",
+   "isValid": "",
+   "question": "¿Cómo se mantiene motivado en el trabajo?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78464",
+   "isValid": "",
+   "question": "¿Cómo actúa bajo presión?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78465",
+   "isValid": "",
+   "question": "Cuéntame sobre alguna vez en la que mostraste cualidades de liderazgo.",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78466",
+   "isValid": "",
+   "question": "Cuéntame un poco sobre ti.",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78538",
+   "isValid": "",
+   "question": "¿Cómo te sientes sobre trabajar horas extra los fines de semana?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78544",
+   "isValid": "",
+   "question": "¿Cuál fue una vez en la que estuviste en desacuerdo con una decisión tomada en el trabajo?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78877",
+   "isValid": "",
+   "question": "¿Cómo vas a usar tus 15 minutos de recreo obligatorios por contrato?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79293",
+   "isValid": "",
+   "question": "En el día a día, ¿cómo esperas empoderar a tus compañeros de trabajo?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79300",
+   "isValid": "",
+   "question": "¿Cuál dirías que es tu mayor fortaleza?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79304",
+   "isValid": "",
+   "question": "¿Puedes contarme de un momento en el que se te haya ocurrido algo fuera de lo normal?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79571",
+   "isValid": "",
+   "question": "Dígame, ¿por qué debería ser empleado del mes?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80074",
+   "isValid": "",
+   "question": "¿Cómo describiría su sentido del humor?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80075",
+   "isValid": "",
+   "question": "¿Cómo maneja el rechazo?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80076",
+   "isValid": "",
+   "question": "¿Cuál diría que fue el punto culminante de su carrera?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80077",
+   "isValid": "",
+   "question": "¿Cómo definiría \"integridad\"?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80078",
+   "isValid": "",
+   "question": "¿Qué es lo más emocionante sobre el futuro de nuestra industria?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80079",
+   "isValid": "",
+   "question": "¿Cuál considerarías el punto más bajo de tu carrera?",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80080",
+   "isValid": "",
+   "question": "Describe cómo ayudarías a llevar nuestra empresa al siguiente nivel.",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80083",
+   "isValid": "",
+   "question": "Dame una buena razón por la cuál NO debería contratarlo.",
+   "round": "one",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76225",
+   "isValid": "",
+   "question": "Descubres que tu almuerzo no está en la heladera de la compañía. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76226",
+   "isValid": "",
+   "question": "Alguien ha estado orinando en el armario de suministros y sabes quién es. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": true
+  },
+  {
+   "id": "76227",
+   "isValid": "",
+   "question": "Tu gerente pide sugerencias para subir la moral de la compañía. ¿Qué le dices?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76228",
+   "isValid": "",
+   "question": "Un compañero de trabajo te pide que compres suscripciones de revistas para la banda de marcha de su hijo. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76229",
+   "isValid": "",
+   "question": "Notas que se han robado algo de dinero de la caja chica. ¿Cómo manejas el asunto?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76230",
+   "isValid": "",
+   "question": "El negocio de al lado dice que estamos haciendo demasiado ruido. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76231",
+   "isValid": "",
+   "question": "Tu compañero/a de trabajo te invita a su rutina de comedia improvisada. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76232",
+   "isValid": "",
+   "question": "Estás en el juego de paintball de la compañía, y tienes a tu gerente en la mira. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76233",
+   "isValid": "",
+   "question": "Tu compañero de trabajo tiene conversaciones ruidosas frecuentes en altavoz. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76234",
+   "isValid": "",
+   "question": "Descubres que tu gerente está tomando el crédito de tus ideas. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76235",
+   "isValid": "",
+   "question": "Te dan la tarea de incrementar la productividad en un 50%. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76236",
+   "isValid": "",
+   "question": "Alguien puso pescado en el microondas de la cocina de la oficina. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76237",
+   "isValid": "",
+   "question": "Descubres que tu compañero de trabajo cuenta chismes sobre ti a tus espaldas. ¿Qué le dices?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76238",
+   "isValid": "",
+   "question": "Los de la oficina no pueden acordar la mejor temperatura para el termostato. ¿Cómo resuelves el problema?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76239",
+   "isValid": "",
+   "question": "Son las 10 AM y no tenemos más café. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76240",
+   "isValid": "",
+   "question": "Un gorila ha escapado del zoológico y está rondando por la oficina. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76241",
+   "isValid": "",
+   "question": "La oficina es golpeada por un túnel temporal y todos excepto tú se convierten en bebés dinosaurio. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76242",
+   "isValid": "",
+   "question": "El gemelo idéntico de tu jefe se la pasa haciendo bromas en la oficina. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76243",
+   "isValid": "",
+   "question": "La compañía organiza un show de talentos para recaudar dinero para la caridad. ¿Cuál es tu talento?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76386",
+   "isValid": "",
+   "question": "En el retiro de la compañía, todos compartieron un secreto vulnerable, y te toca a ti. ¿Qué dices?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76389",
+   "isValid": "",
+   "question": "Un compañero de trabajo tiene a una mascota bajo su escritorio, a pesar de nuestra política de \"cero animales\". ¿Qué dices?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76394",
+   "isValid": "",
+   "question": "Un compañero de trabajo nunca te tiene en cuenta para la orden grupal del almuerzo. ¿Qué le dices?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76398",
+   "isValid": "",
+   "question": "Sospechas que las decoraciones para la fiesta de la oficina violan el código de seguridad contra incendios. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76419",
+   "isValid": "",
+   "question": "Es el día opuesto, y ahora TÚ ERES el jefe. ¿Cuál es tu primer decreto?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76420",
+   "isValid": "",
+   "question": "Fuiste a tomar la engrapadora y accidentalmente rozaste manos con un compañero de trabajo. ¿Qué haces ahora?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76421",
+   "isValid": "",
+   "question": "Hay alguien dentro de la sala que reservaste para la reunión del equipo. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76422",
+   "isValid": "",
+   "question": "Todos se están riendo de algo en la cocina. ¿De qué se ríen?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76423",
+   "isValid": "",
+   "question": "Madre mía, tu corbata tiene UN MONTÓN de mostaza. ¿Qué procedes a hacer?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76424",
+   "isValid": "",
+   "question": "El nuevo pasante es muchísimo más inteligente que tú. ¿Cómo haces para hacerte valer?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76425",
+   "isValid": "",
+   "question": "En este momento hay un limpiavidrios fuera de la ventana de tu oficina. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76426",
+   "isValid": "",
+   "question": "Es jueves de pizza y te toca llamar a ti. ¿Qué ordenas para que todos estén contentos?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76427",
+   "isValid": "",
+   "question": "La tarjeta de cumpleaños de Ted llega a tu escritorio. ¿Qué mensaje escribes dentro?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76428",
+   "isValid": "",
+   "question": "Hora de una nueva firma de email. ¿Qué frase inspiradora figurará bajo tu nombre?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76429",
+   "isValid": "",
+   "question": "Debra tiene una reserva de snacks increíble en su escritorio. ¿Qué vas a agarrar de allí?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76430",
+   "isValid": "",
+   "question": "Tu nuevo gerente quiere saber exactamente lo que haces aquí. ¿Qué le dices?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76431",
+   "isValid": "",
+   "question": "Trent está contando spoilers de televisión en el viaje al trabajo otra vez. ¿Cómo te vengas de Trent?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76432",
+   "isValid": "",
+   "question": "El retiro de la compañía se ha convertido predeciblemente en una situación sacada de [i]El señor de las moscas[/i]. ¿Cuál es tu rol en esta nueva sociedad sanguinaria?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76443",
+   "isValid": "",
+   "question": "No tenemos una guardería, así que, ¿qué planeas hacer con tus hijos durante el día?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76444",
+   "isValid": "",
+   "question": "Nuestra oficina quizá esté algo embrujada, ¿sabes cómo deshacerte de los fantasmas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76445",
+   "isValid": "",
+   "question": "El director ejecutivo está llegando tarde. Los inversores se están empezando a preocupar. ¿Cómo haces tiempo?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76446",
+   "isValid": "",
+   "question": "Atrapas a uno de tus compañeros de trabajo robando suministros de la oficina. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76447",
+   "isValid": "",
+   "question": "Tu gerente te envía mensajes de texto fuera de horas de trabajo. ¿Qué le respondes para que sepa que no es el horario adecuado?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76449",
+   "isValid": "",
+   "question": "Si un clon intentara robarte tu trabajo, ¿cómo podríamos diferenciarte a ti y a tu versión malvada?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76450",
+   "isValid": "",
+   "question": "Nos gusta pensar en nuestra oficina como el equipo de un robo a un banco. ¿Cuál sería tu trabajo en un robo así?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76451",
+   "isValid": "",
+   "question": "Nuestra oficina está participando de una sala de escape temática de los 80. ¿Cuál es tu primer paso para encontrar una salida?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76452",
+   "isValid": "",
+   "question": "Digamos que un compañero de trabajo de incrimina por un delito. ¿Cómo evades a las autoridades?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76521",
+   "isValid": "",
+   "question": "Te prestamos la máquina del tiempo de la compañía. ¿Qué es lo primero que haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76522",
+   "isValid": "",
+   "question": "A nuestra oficina le gusta participar del Día de los Inocentes. ¿Cuál es tu broma favorita?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76523",
+   "isValid": "",
+   "question": "Por error bebiste una gaseosa de la heladera de la oficina que dice “No Tocar”. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76525",
+   "isValid": "",
+   "question": "¡Es noche de karaoke en la compañía! La asistencia y cantar son obligatorios. ¿Cuál es el nombre de tu canción predilecta?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76527",
+   "isValid": "",
+   "question": "Si tuviéramos que despedirte algún día, ¿cómo te gustaría que te notificáramos?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76529",
+   "isValid": "",
+   "question": "Accidentalmente activaste el sistema de rociadores automático de la oficina. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76530",
+   "isValid": "",
+   "question": "Tu gerente dice que serías un héroe si pudieras lograr trabajar toda la noche del viernes. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76531",
+   "isValid": "",
+   "question": "Estás atorado en un ascensor roto con un compañero de trabajo que se ha estado robando tus lapiceras. ¿Qué le dices?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76532",
+   "isValid": "",
+   "question": "En un retiro para fomentar el trabajo en equipo, tus compañeros de trabajo han tenido un terrible accidente con la “caída de confianza”. Te toca caer a ti. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76533",
+   "isValid": "",
+   "question": "Un caso hipotético extraño... ¿Qué le dirías a la policía si comenzarán a investigar nuestras prácticas empresariales?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76534",
+   "isValid": "",
+   "question": "¡Un asesino de película merodea por nuestra oficina! ¿Cómo sobrevives?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76535",
+   "isValid": "",
+   "question": "Cuando se retire el director ejecutivo, ¿qué regalo piensas llevar a la fiesta?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76536",
+   "isValid": "",
+   "question": "¡Se ha cometido un asesinato en la sala de descansos! ¿¡Cómo piensas resolver el misterio!?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76546",
+   "isValid": "",
+   "question": "Supongamos que es tu último día en la oficina. ¿Cuáles son tus palabras de despedida en la reunión con todos los de la empresa?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76877",
+   "isValid": "",
+   "question": "Tenemos algo en nuestro sótano... ¿Cómo matas a un vampiro?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76878",
+   "isValid": "",
+   "question": "Eres el primero en llegar a la videoconferencia. ¿Cómo pasas el rato antes de que lleguen los demás?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76879",
+   "isValid": "",
+   "question": "Nuestro departamento de marketing quiere atraer a los consumidores jóvenes. ¿Qué le gusta a los estudiantes universitarios en estos tiempos?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76998",
+   "isValid": "",
+   "question": "Trish acaba de guiñarte el ojo y dijo \"Parece que es lunes.\" ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77000",
+   "isValid": "",
+   "question": "Hay algo sonando incesantemente cerca del escritorio de Frank. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77002",
+   "isValid": "",
+   "question": "La empresa está instituyendo una política de vestimenta más estricta. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77003",
+   "isValid": "",
+   "question": "Trish acaba de insinuar que tu presencia en las redes sociales es \"algo picante\". ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77004",
+   "isValid": "",
+   "question": "El equipo de softbol de la compañía necesita algo para aumentar sus posibilidades de ganar el campeonato. ¿Qué sugieres?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77005",
+   "isValid": "",
+   "question": "Te das cuenta de que Frank se quedó dormido en su escritorio de nuevo. ¿Qué haces para despertarlo?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77071",
+   "isValid": "",
+   "question": "Todos en el trabajo creen que tus ideas son terribles. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77074",
+   "isValid": "",
+   "question": "Una lluvia de ideas creativa se descontrola. ¿Cómo haces para que todos bajen a tierra?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77076",
+   "isValid": "",
+   "question": "La compañía está buscando una nueva mascota. ¿Qué sugieres?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77122",
+   "isValid": "",
+   "question": "Tu gerente quiere que escribas sus reportes por él/ella. ¿Cómo respondes a ello?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77123",
+   "isValid": "",
+   "question": "Todos se van a almorzar antes de que tú estés listo. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77124",
+   "isValid": "",
+   "question": "Ted fue ascendido a gerente a pesar de que eras el próximo en camino a una promoción. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77125",
+   "isValid": "",
+   "question": "Treinta robots de tamaño humano que se parecen a ti y a tus compañeros de trabajo son entregados a la oficina. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77126",
+   "isValid": "",
+   "question": "Debra se la pasa montando un escándalo por su aniversario del trabajo. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77205",
+   "isValid": "",
+   "question": "Accidentalmente te tiras uno en un espacio abierto de la oficina. ¿Qué es lo mejor que puedes decir post-pedo?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77206",
+   "isValid": "",
+   "question": "Trent está dando vueltas preguntando si alguien quiere \"pasar el rato\" después del trabajo. ¿Qué haces para evitarlo?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77207",
+   "isValid": "",
+   "question": "Debra quiere que riegues sus preciadas suculentas mientras se va a la playa. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77208",
+   "isValid": "",
+   "question": "De alguna manera tu idea para el \"baile de trabajo\" es aprobada. ¿Cuál es el mejor tema para el evento?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77209",
+   "isValid": "",
+   "question": "Necesitas un informe de Barb, pero ella se niega a dártelo. ¿Cómo consigues el informe?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77210",
+   "isValid": "",
+   "question": "La oficina está tratando de “volverse verde”. ¿Cómo intentarías personalmente salvar el planeta en el trabajo?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77230",
+   "isValid": "",
+   "question": "Parece que se ha iniciado un pequeño incendio, ¿qué deberíamos hacer?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77233",
+   "isValid": "",
+   "question": "¿Cómo vas a superar el gran sándwich de Trent en la fiesta de fin de año de la compañía?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77234",
+   "isValid": "",
+   "question": "El tacho de basura está lleno y todos lo están ignorando. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77235",
+   "isValid": "",
+   "question": "¿Qué tuiteaste que hizo que te reporten a RRHH?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77236",
+   "isValid": "",
+   "question": "Nuestra oficina tiene un parque de juegos; ¿cómo pasas tus 30 minutos de recreo?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77237",
+   "isValid": "",
+   "question": "Alguien superó tu puntación en la máquina de pinball de la compañía. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77238",
+   "isValid": "",
+   "question": "¿Cómo convencerías a todos de que eres la persona más fuerte en la oficina?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77239",
+   "isValid": "",
+   "question": "Chase, el payaso de la oficina, te engañó para que te sientes en un cojín de pedos. Todos te están mirando. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77240",
+   "isValid": "",
+   "question": "Un pájaro ha construido un nido fuera de tu ventana. ¿Cómo respondes profesionalmente?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77241",
+   "isValid": "",
+   "question": "Tu compañía ha puesto un firewall estricto sobre algunos sitios web. ¿Cómo lo eludirías?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77242",
+   "isValid": "",
+   "question": "Tu gerente ha sido reemplazado por un alienígena que sorprendentemente es un buen jefe. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77243",
+   "isValid": "",
+   "question": "Ah, recórcholis. Tu lapicera no tiene tinta. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77244",
+   "isValid": "",
+   "question": "Terminaste tu trabajo y son solo las 4:30 de la tarde. ¿Cómo matas el tiempo?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77245",
+   "isValid": "",
+   "question": "Nuestra oficina funciona a bese de retroalimentación positiva. ¿Cuál es la crítica más buena que has recibido?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77247",
+   "isValid": "",
+   "question": "Chase, el payaso de la oficina, se ha robado todo el papel higiénico de los baños. ¿Qué haces cuando tienes que... ya sabes?",
+   "round": "two",
+   "round3Header": null,
+   "x": true
+  },
+  {
+   "id": "77248",
+   "isValid": "",
+   "question": "¿Cuál es la mejor manera de lograr una clásica \"siesta de reunión\"?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77249",
+   "isValid": "",
+   "question": "Nadie está bailando en la fiesta navideña. ¿Cómo haces para levantar la fiesta?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77250",
+   "isValid": "",
+   "question": "Has sido elegido para ir a tu primer viaje de negocios internacional. ¿Cómo te preparas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77251",
+   "isValid": "",
+   "question": "A veces trabajamos hasta tarde. ¿La luna llena te afecta de alguna manera extraña de la que debamos saber?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77252",
+   "isValid": "",
+   "question": "No hay suficientes chismes jugosos en esta oficina. ¿Qué rumor esparcirías?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77253",
+   "isValid": "",
+   "question": "Chase, el payaso de la oficina, ha soltado un ganso en el edificio. ¿Qué haces si el ave te acorrala?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77254",
+   "isValid": "",
+   "question": "Tyler dice que él es la persona más flexible en la oficina. ¿Cómo haces para arruinar esa imagen por completo?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77255",
+   "isValid": "",
+   "question": "Si tu mamá se presentara a trabajar aquí, ¿para qué departamento sería útil?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77256",
+   "isValid": "",
+   "question": "¿Puedes mantener un secreto? Tenemos un montón de información protegida. ¿Qué tomaría para que lo reveles todo?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77257",
+   "isValid": "",
+   "question": "¿Cómo llamarías la atención durante el reporte de presupuesto cuatrimestral?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77259",
+   "isValid": "",
+   "question": "Tu jefe vendrá a cenar. ¿Cómo haces para caerle bien?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77260",
+   "isValid": "",
+   "question": "¿Cómo convences a tus compañeros de trabajo de que vayan a tu espectáculo de teatro comunitario?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77262",
+   "isValid": "",
+   "question": "Tienes que pasar por la seguridad todos los días. ¿Qué encontraremos en un escaneo completo de rayos x?",
+   "round": "two",
+   "round3Header": null,
+   "x": true
+  },
+  {
+   "id": "77263",
+   "isValid": "",
+   "question": "Aquí nos gustan las tazas con mensajes. ¿Qué dice la tuya?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77264",
+   "isValid": "",
+   "question": "Tu jefe está aburrido... ¿Cuál es el dato curioso más interesante que conoces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77269",
+   "isValid": "",
+   "question": "Larry está vendiendo dulces para la banda de marcha de su hijo. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77270",
+   "isValid": "",
+   "question": "Cuando tomemos fotos en la oficina, ¿qué harías si pidiéramos hacer una divertida?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77271",
+   "isValid": "",
+   "question": "Digamos que Mark acaba de ocupar tu lugar de estacionamiento, ¿cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77272",
+   "isValid": "",
+   "question": "Alrededor de las fiestas, nos gusta hacer algo de beneficencia. ¿Qué estarías dispuesto a donar?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77275",
+   "isValid": "",
+   "question": "Si filmaran nuestra oficina para una sitcom, ¿qué divertidas locuras podríamos esperar de tu personaje?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77277",
+   "isValid": "",
+   "question": "Es el Día del Profesional Administrativo. ¿Qué es algo lindo que podemos hacer por Rhonda?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77278",
+   "isValid": "",
+   "question": "No estamos acusándote de nada... ¿pero qué estabas haciendo el jueves pasado a las 7 PM?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77396",
+   "isValid": "",
+   "question": "Te toca a ti cambiar el tóner de la fotocopiadora, algo que nunca has hecho. ¿Cómo lidias con la situación?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77397",
+   "isValid": "",
+   "question": "¡Parece que hay una competición amigable de snacks de oficina caseros! ¿Qué llevas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77398",
+   "isValid": "",
+   "question": "Todos están discutiendo otra vez sobre la sala de descansos sucia. ¿Cómo calmas la tensión?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77399",
+   "isValid": "",
+   "question": "Llegas tarde a la videoconferencia, justo para escuchar al director ejecutivo preguntar \"¿Hay algo que les gustaría comentar?\" ¿Qué dices?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77418",
+   "isValid": "",
+   "question": "¡Te encuentras con tu gerente en un entorno no laboral! ¿Cuál es un saludo apropiado?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77468",
+   "isValid": "",
+   "question": "Estamos organizando un evento elegante, tu director ejecutivo te pide que le hagas un cambio de look. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77469",
+   "isValid": "",
+   "question": "Teóricamente... estamos haciendo despidos masivos. Solo podemos salvar a una persona de tu equipo. ¿Qué dirías para mantener tu trabajo?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77470",
+   "isValid": "",
+   "question": "¿Qué colocas en tu escritorio para demostrarle a todos que eres \"divertido\"?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77472",
+   "isValid": "",
+   "question": "El director ejecutivo está dando una visita y quiere tu opinión honesta sobre tu gerente. ¿Qué le dices?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77473",
+   "isValid": "",
+   "question": "Candice hizo un gran trabajo poniendo casa para el happy hour de la oficina. ¿Cómo muestras tu aprecio?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77474",
+   "isValid": "",
+   "question": "Ambos sabemos lo que ocurrió. ¿Te gustaría explicarte?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77475",
+   "isValid": "",
+   "question": "Has sido nombrado Eco-Capitán del departamento. ¿Cuál es tu primer decreto ecológico?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77476",
+   "isValid": "",
+   "question": "¿Qué mensaje dejarías cuando no estás en la oficina para asegurarte de que nadie te contacte por ninguna razón?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77477",
+   "isValid": "",
+   "question": "¡Recórcholis! Te has convertido en una cucaracha por la noche. ¿Cómo informas a tu superior de tu metamorfosis?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77479",
+   "isValid": "",
+   "question": "¿Cuál es el título del video cuyo enlace accidentalmente enviaste a toda la compañía?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77480",
+   "isValid": "",
+   "question": "Tu gerente te dice que ahora estás a cargo de la formación de ejecutivos. ¿Cuál es el título de tu curso de desarrollo profesional?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77482",
+   "isValid": "",
+   "question": "La discusión de hoy del club de lectura se está poniendo intensa. ¿Cómo contribuyes a la discusión?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77483",
+   "isValid": "",
+   "question": "Los servidores de la empresa están caídos. ¿Cómo convences a tus compañeros de trabajo que definitivamente sabes cómo arreglarlos?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77484",
+   "isValid": "",
+   "question": "Trent tomó un pedazo del borde de la torta de cumpleaños de Becca sin preguntar. ¿Tú qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77485",
+   "isValid": "",
+   "question": "¡Estás a un día de jubilarte! ¿Con qué actividad poco recomendable tientas al destino?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77487",
+   "isValid": "",
+   "question": "Fuimos estafados por un vendedor que hablaba ligero... otra vez. ¿Qué deberíamos hacer con todas las bananas y súper pegamentos que compramos?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77724",
+   "isValid": "",
+   "question": "Descubres que alguien ha hecho del baño un lugar inhóspito. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77726",
+   "isValid": "",
+   "question": "Trent ha venido a trabajar en un hoverboard otra vez. ¿Cómo logras que pare de hacerlo?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77727",
+   "isValid": "",
+   "question": "El tipo aterrador de las computadoras ha dejado los platos sin lavar en el fregadero de la cocina. ¿Cómo te enfrentas a él sin hacer que se enoje?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77728",
+   "isValid": "",
+   "question": "Chase, el payaso de la oficina, está llorando discretamente en la sala de descanso mientras llena globos de agua. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77735",
+   "isValid": "",
+   "question": "Un cliente no está satisfecho con su servicio y se está enfureciendo. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77783",
+   "isValid": "",
+   "question": "Es el día de llevar a tu hijo al trabajo y el hijo de Terry no deja de molestarte. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77784",
+   "isValid": "",
+   "question": "El águila enorme que está aterrorizando a la oficina inevitablemente rapta a nuestro compañero de trabajo más pequeño. ¿Cómo lo rescatas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77786",
+   "isValid": "",
+   "question": "Tu gaseosa sin calorías favorita es reemplaza por una marca genérica. ¿Cómo armas un berrinche sobre esto profesionalmente?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77787",
+   "isValid": "",
+   "question": "Todos los dongles están enredados. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77788",
+   "isValid": "",
+   "question": "Descubres que Trish se está presentando para un nuevo trabajo en la empresa rival. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77790",
+   "isValid": "",
+   "question": "Es el picnic anual de la empresa. ¿Qué traes al banquete?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77848",
+   "isValid": "",
+   "question": "Tu gerente te pide que dones un riñón a su sobrino enfermo. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": true
+  },
+  {
+   "id": "77849",
+   "isValid": "",
+   "question": "La gran promoción está entre Jerry y tú. ¿Qué haces para asegurarte de conseguirla?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77850",
+   "isValid": "",
+   "question": "Todos están hablando sobre una serie de televisión que nunca has visto. ¡Rápido, di algo profundo sobre el episodio de ayer!",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77851",
+   "isValid": "",
+   "question": "Tu ser querido dice que quiere trabajar aquí también. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77852",
+   "isValid": "",
+   "question": "Una de tus compañeras de trabajo, Candice, es súper genial. ¿Cómo consigues que sea tu amiga del trabajo?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77853",
+   "isValid": "",
+   "question": "No puedes encontrar el baño en tu primer día de trabajo. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77854",
+   "isValid": "",
+   "question": "Frank no deja de escuchar música muy fuerte mientras trabaja. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77855",
+   "isValid": "",
+   "question": "Tienes tiempo para meter un entrenamiento rápido durante el almuerzo. ¿Qué ejercicio haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77856",
+   "isValid": "",
+   "question": "Quieres que tus compañeros de trabajo sepan que es tu cumpleaños, pero de una manera sutil y calmada. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77897",
+   "isValid": "",
+   "question": "Vas a la sala de descanso y descubres que Jerry está sentado en tu lugar favorito. ¿Cómo reaccionas?",
+   "round": "two",
+   "round3Header": "",
+   "x": false
+  },
+  {
+   "id": "77898",
+   "isValid": "",
+   "question": "Accidentalmente hiciste clic en un correo de suplantación de identidad, ¡y ahora los datos de la empresa fueron robados! ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77900",
+   "isValid": "",
+   "question": "Accidentalmente rompiste el microondas compartido separando la puerta de sus bisagras. ¿Qué haces ahora?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77901",
+   "isValid": "",
+   "question": "Recibiste la info de que hay un baño extremadamente lujoso en la oficina del director ejecutivo. El director está de vacaciones. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77902",
+   "isValid": "",
+   "question": "El cielorraso encima de tu escritorio está goteando agua justo en tu cabeza. ¿Cómo reaccionas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77904",
+   "isValid": "",
+   "question": "Le enviaste a tu gerente un mensaje picante que iba dirigido a alguien más. ¿Cómo lidias con el error?",
+   "round": "two",
+   "round3Header": null,
+   "x": true
+  },
+  {
+   "id": "77905",
+   "isValid": "",
+   "question": "La moral de la empresa está por el suelo luego de una mala reunión. ¿Qué dices para levantar el espíritu de todos?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77906",
+   "isValid": "",
+   "question": "¡Estás en el asado anual de la empresa y Todd está quemando toda la carne! ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77907",
+   "isValid": "",
+   "question": "Los de la compañía nos juntamos a comer pescado frito, ¡pero ya no hay pescado! ¿Cuál es tu respuesta?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77908",
+   "isValid": "",
+   "question": "El gerente del distrito está visitando la oficina y quieres hacer una buena impresión. ¿Cómo haces para destacar?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77909",
+   "isValid": "",
+   "question": "¡Recomendaste a alguien a la compañía y resulta que es un completo desastre! ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77910",
+   "isValid": "",
+   "question": "Tu supervisor te da una evaluación de rendimiento nada más que deplorable. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77912",
+   "isValid": "",
+   "question": "Tu gerente decide reproducir música horrible por los parlantes todo el día. ¿Cómo reaccionas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77913",
+   "isValid": "",
+   "question": "Hay donas en la mesa de la cocina de la oficina con una nota que dice, \"Tomar solo una.\" ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77914",
+   "isValid": "",
+   "question": "¡Llegas a trabajar y encuentras que hay un scooter rosa metálico estacionado en tu lugar reservado! ¿Cómo reaccionas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77915",
+   "isValid": "",
+   "question": "Tus auriculares han sido cubiertos de mermelada de uva por el bromista de la oficina. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77916",
+   "isValid": "",
+   "question": "La oficina siempre está o demasiado fría o demasiado calurosa. ¿Qué le dices al de mantenimiento?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77917",
+   "isValid": "",
+   "question": "Tu gerente te dio el auto de la compañía por el fin de semana y lo destruiste por completo. ¿Qué haces a continuación?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77918",
+   "isValid": "",
+   "question": "¡Un compañero de trabajo se robó una de las ventas en la que más trabajaste! ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77919",
+   "isValid": "",
+   "question": "Era tu turno de hacer andar el lavavajillas de la empresa, pero ya terminaste de trabajar por hoy. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77920",
+   "isValid": "",
+   "question": "La vieja máquina expendedora se ha quedado con uno de tus preciados dólares otra vez. ¿Cómo reaccionas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77922",
+   "isValid": "",
+   "question": "¡Te han tomado la foto para tu insignia del trabajo y es horrible! ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77923",
+   "isValid": "",
+   "question": "Uno de tus compañeros de trabajo ha sido despedido y está muy triste. ¿Qué le dices para consolarlo?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77948",
+   "isValid": "",
+   "question": "Eres el último en la oficina hoy. ¿Qué haces para hacer especial el día de mañana de todos?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77949",
+   "isValid": "",
+   "question": "Trish acaba de comprometerse. ¿Cómo ocultas tu ira y celos?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77950",
+   "isValid": "",
+   "question": "La compañía utiliza \"software de seguridad\" para espiar las computadoras de todos. (¡Es por su propio bien!) ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "77951",
+   "isValid": "",
+   "question": "Hay un periodo obligatorio de \"iniciación\" para los nuevos empleados. ¿Qué apodo ofensivo prefieres?",
+   "round": "two",
+   "round3Header": null,
+   "x": true
+  },
+  {
+   "id": "77953",
+   "isValid": "",
+   "question": "No has sido invitado a la boda de Trish. ¿Eso implica algo? ¿Cómo reaccionas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78039",
+   "isValid": "",
+   "question": "¡El mundo va a explotar en dos minutos! ¿¡¿Qué haces?!?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78078",
+   "isValid": "",
+   "question": "Carol quiere pasar el rato después del trabajo. ¿Cuál es tu excusa para no ir?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78079",
+   "isValid": "",
+   "question": "En tu opinión, ¿por qué fue semejante desastre el picnic de la compañía el año pasado?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78080",
+   "isValid": "",
+   "question": "Decides faltar al trabajo. ¿Qué haces en su lugar?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78082",
+   "isValid": "",
+   "question": "¡La última página de tu informe importante está perdida! ¿Qué le dices a tu gerente?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78083",
+   "isValid": "",
+   "question": "Trent lleva en el baño una hora. ¿Qué le susurras debajo de la puerta?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78098",
+   "isValid": "",
+   "question": "Tienes 30 segundos. ¿Cómo te deshaces de esta calabaza?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78119",
+   "isValid": "",
+   "question": "Ha ocurrido un desastre natural y los servicios de emergencia no llegan a la oficina. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78121",
+   "isValid": "",
+   "question": "Te encuentras trabajando hasta tarde solo con el charlatán guardia. ¿Cómo eludes el hecho de que no sabes su nombre?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78126",
+   "isValid": "",
+   "question": "La fiesta de fin de año de la oficina se está convirtiendo en un pequeño alboroto. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78127",
+   "isValid": "",
+   "question": "Ha sido un día largo y estresante y tu jefe ha dejado que todos se vayan temprano menos tú. ¿Cómo reaccionas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78128",
+   "isValid": "",
+   "question": "Llegas a la oficina y está cerrada por feriado. ¡Nadie te avisó! ¿Cómo reaccionas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78131",
+   "isValid": "",
+   "question": "La cafetera de la oficina adquirió conciencia y está aterrorizando al personal con café descafeinado hirviendo. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78132",
+   "isValid": "",
+   "question": "Derramaste tu lasaña por toda la alfombra recién colocada de la oficina. ¿Qué es lo próximo que haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78134",
+   "isValid": "",
+   "question": "Tu gerente te ofrece una hermosa laptop laboral, sin saber que ya has recibido una. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78135",
+   "isValid": "",
+   "question": "Greg se la pasa copiándote comprando las mismas corbatas peculiares que tú. ¿Cómo reaccionas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78136",
+   "isValid": "",
+   "question": "Has atascado la impresora costosa de la oficina, posiblemente permanentemente. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78137",
+   "isValid": "",
+   "question": "¡Visitaste la dark web UNA VEZ y ahora tu computadora de trabajo tiene un virus! ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": true
+  },
+  {
+   "id": "78138",
+   "isValid": "",
+   "question": "Estás por dar una presentación a toda la empresa, ¡pero no preparaste nada! ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78140",
+   "isValid": "",
+   "question": "Te despiertas sintiéndote mal, pero no tienes días de enfermedad restantes. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78141",
+   "isValid": "",
+   "question": "Un reportero te para en tu camino al trabajo y te dice que la compañía está siendo investigada por fraude. ¿Cómo reaccionas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78289",
+   "isValid": "",
+   "question": "Te han notado que miras las redes sociales de la nueva pareja de tu ex en tu tiempo laboral. ¿Cómo explicas lo que haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78290",
+   "isValid": "",
+   "question": "Los superiores están solicitando que toda la tecnología de la compañía sea devuelta al sector de informática para su inspección. ¿Qué podríamos encontrar en tu historial del navegador?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78297",
+   "isValid": "",
+   "question": "Ves a Frank levantar algo de la basura y comerlo. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78298",
+   "isValid": "",
+   "question": "Ves que compañeros de trabajo dejan la misma casilla de baño juntos. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": true
+  },
+  {
+   "id": "78469",
+   "isValid": "",
+   "question": "Te tocó a Frank para el santa secreto de la oficina. ¿Qué le consigues?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78470",
+   "isValid": "",
+   "question": "Michel, el fantasma de la oficina, ha estado espantando tu cubículo. ¿Cómo reaccionas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78471",
+   "isValid": "",
+   "question": "Estás a cargo de diseñar los uniformes para el partido de softbol de la compañía. ¿Qué va a tener ese uniforme?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78473",
+   "isValid": "",
+   "question": "Flora no deja de mostrarte fotos de sus nietos. ¿Qué le dices?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78474",
+   "isValid": "",
+   "question": "El retiro para fomentar la construcción de equipos es este fin de semana. ¿Cómo piensas librarte de él?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78475",
+   "isValid": "",
+   "question": "El nuevo parece súper genial. ¿Qué haces para que se sienta bienvenido en la oficina?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78476",
+   "isValid": "",
+   "question": "¡Estás atorado en el ascensor luego de terminar tu jornada! ¿Cómo escapas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78477",
+   "isValid": "",
+   "question": "Debra y sus cuatro hurones quieren ir al trabajo en el mismo auto que tú. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78539",
+   "isValid": "",
+   "question": "Un compañero de trabajo ha mencionado casualmente la sindicalización. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78551",
+   "isValid": "",
+   "question": "Un compañero de trabajo que arrancó antes que tú acaba de preguntarte cuál es tu salario. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78552",
+   "isValid": "",
+   "question": "Todos menos tú se han convertido en infantes. ¿Cómo mantienes la compañía en funcionamiento?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78553",
+   "isValid": "",
+   "question": "Frank se robó la silla buena tuya que gira. De nuevo. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78647",
+   "isValid": "",
+   "question": "¡Tu gerente te va a liberar de tu cargo y pide que entrenes a tu reemplazo! ¿Cómo reaccionas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78648",
+   "isValid": "",
+   "question": "La oficina está siendo fumigada en este momento, pero necesitas un archivo importante de tu escritorio. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78649",
+   "isValid": "",
+   "question": "Alguien ha estado fotocopiando su trasero y dejando las imágenes en tu cubículo. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78650",
+   "isValid": "",
+   "question": "La directora ejecutiva te acaba de decir que se va a jubilar y va a darte el control a ti. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78651",
+   "isValid": "",
+   "question": "Tu compañero de trabajo no logra hablar en una reunión importante. ¿Cómo lo ayudas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78652",
+   "isValid": "",
+   "question": "La oficina va a trasladarse a Wisconsin, pero tienes un miedo irracional al Medio Oeste estadounidense. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78653",
+   "isValid": "",
+   "question": "¡Tu taza desapareció de la cocina de la oficina! ¿Cuál es tu próximo paso?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78655",
+   "isValid": "",
+   "question": "¡Tu mejor amigo de la oficina está almorzando con el nuevo en vez de contigo! ¿Cómo reaccionas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78656",
+   "isValid": "",
+   "question": "El vago de la oficina te pide ayuda para un proyecto que se entrega mañana. ¿Cuál es tu reacción?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78657",
+   "isValid": "",
+   "question": "Nick, el coleccionista de cupones definitivo, se robó tu volante de 20% de descuento para la pizzería local. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78658",
+   "isValid": "",
+   "question": "El manual de empleados se actualiza con la incorporación de una prohibición del pelo teñido y tatuajes. Tienes ambas cosas. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78659",
+   "isValid": "",
+   "question": "Descubres un portal a otra dimensión en el armario de suministros de la oficina. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78660",
+   "isValid": "",
+   "question": "¡Es el día de traer tu perro al trabajo y tu vecino de cubículo trajo un lobo salvaje! ¿Cómo reaccionas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78661",
+   "isValid": "",
+   "question": "Estás jugando al golf con el director ejecutivo y accidentalmente lo descubres haciendo trampa. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78795",
+   "isValid": "",
+   "question": "Frank no ha venido a la oficina por un mes y nadie lo ha visto ni ha escuchado de él. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78797",
+   "isValid": "",
+   "question": "Un monolito de obsidiana que hace un zumbido incesante ha aparecido en la sala de descanso. ¿Cuál es tu respuesta?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78801",
+   "isValid": "",
+   "question": "Meghan está poniendo a todos en tu contra. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78802",
+   "isValid": "",
+   "question": "El Wi-Fi está insoportablemente lento. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78866",
+   "isValid": "",
+   "question": "Es marzo y el árbol de navidad sigue puesto, arruinando el lobby. ¿Cómo planeas deshacerte de él?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78867",
+   "isValid": "",
+   "question": "Tenemos dos RRHH. Un RH mamá y un RH papá. ¿Cómo deberíamos decidir cuál obtiene custodia de ti?",
+   "round": "two",
+   "round3Header": null,
+   "x": true
+  },
+  {
+   "id": "78952",
+   "isValid": "",
+   "question": "Notas que un compañero de trabajo cercano está liberando su escritorio a mitad de la jornada. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78958",
+   "isValid": "",
+   "question": "Tu gerente te informa que el director ejecutivo está siendo reemplazada por la junta de la compañía. ¿Cómo reaccionas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78959",
+   "isValid": "",
+   "question": "Has dormido de más por una noche de bolos extrema. Tu jefe llama y exige saber por qué estás llegando tarde. ¿Qué le dices?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78960",
+   "isValid": "",
+   "question": "Notas un error de tipeo vergonzoso en el sitio de la compañía. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78961",
+   "isValid": "",
+   "question": "¡Los superiores han introducido un nuevo uniforme de la empresa y es horrible! ¿Cómo reaccionas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78962",
+   "isValid": "",
+   "question": "El director ejecutivo te pide que digas el eslogan de la empresa en su nuevo comercial. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "78963",
+   "isValid": "",
+   "question": "La compañía instala una nueva heladera cervecera para usar los viernes por la tarde. ¿Cómo reaccionas?",
+   "round": "two",
+   "round3Header": null,
+   "x": true
+  },
+  {
+   "id": "79121",
+   "isValid": "",
+   "question": "¡Finalmente has conseguido la codiciada oficina en la esquina! ¿Cómo vas a celebrar?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79123",
+   "isValid": "",
+   "question": "Toda la oficina está cubierta de arena. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79158",
+   "isValid": "",
+   "question": "Trent está DEMASIADO competitivo en la noche de trivia de la oficina. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79161",
+   "isValid": "",
+   "question": "¡Estás atorado en un largo viaje en ascensor con el gerente del distrito! ¡Rápido, di algo para hacerlo menos incómodo!",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79167",
+   "isValid": "",
+   "question": "¿Qué crees que está rondando en nuestro misterioso decimotercer piso?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79173",
+   "isValid": "",
+   "question": "Acabas de regresar de unas estupendas vacaciones. ¿Qué souvenir les has traído a tus compañeros de trabajo?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79179",
+   "isValid": "",
+   "question": "Has venido a la oficina en bicicleta y llegaste todo sudoroso, ¡pero no hay ducha que puedas usar para refrescarte! ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79180",
+   "isValid": "",
+   "question": "Llegas a la oficina y hay un pájaro sentado en tu escritorio, haciendo tranquilo tu trabajo. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79181",
+   "isValid": "",
+   "question": "El hijo de tu gerente exige saber qué ocurre después de morir. ¿Qué le dices?",
+   "round": "two",
+   "round3Header": null,
+   "x": true
+  },
+  {
+   "id": "79307",
+   "isValid": "",
+   "question": "En tus videoconferencias diarias, una figura oscura y fantasmal anda detrás del cliente y está viniendo cada vez más cerca. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79309",
+   "isValid": "",
+   "question": "Cada día de esta semana, el director ejecutivo te ha ofrecido a ti, y solo a ti, una paleta. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79310",
+   "isValid": "",
+   "question": "Estás en un viaje de negocios de 72 horas con tu compañero de trabajo más charlatán. ¿Cómo te mantienes cuerdo?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79311",
+   "isValid": "",
+   "question": "A todos se les ha ofrecido un bono de vacaciones menos a ti. ¿Cómo reaccionas ante el error?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79312",
+   "isValid": "",
+   "question": "Una entrega de barriles que estaba destinada a un bar con el mismo nombre ha llegado a la compañía. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": true
+  },
+  {
+   "id": "79314",
+   "isValid": "",
+   "question": "La compañía ha despedido al personal de limpieza e implementó una rueda de quehaceres. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79315",
+   "isValid": "",
+   "question": "El terrible hijo del director ejecutivo es ahora tu superior directo. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79316",
+   "isValid": "",
+   "question": "A todos en la oficina les ha crecido inesperadamente un bigote. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79317",
+   "isValid": "",
+   "question": "La masiva colección de juguetes en el escritorio de Trent está invadiendo tu espacio. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79318",
+   "isValid": "",
+   "question": "Todos en la oficina están de repente descalzos. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79319",
+   "isValid": "",
+   "question": "Para promover la salud y el bienestar, las sillas de todos fueron reemplazadas por pelotas de goma gigantes. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79321",
+   "isValid": "",
+   "question": "¡Trent y Frank andan a los golpes en el estacionamiento! ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79525",
+   "isValid": "",
+   "question": "Los viernes, el crimen es legal en la oficina. ¿Qué vas a hacer?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79526",
+   "isValid": "",
+   "question": "Una jauría de perros callejeros logra entrar a la oficina, ¿cómo demostrarías dominancia?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79529",
+   "isValid": "",
+   "question": "Te pierdes en el bosque durante el retiro de la empresa. ¿Qué es lo primero que haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79530",
+   "isValid": "",
+   "question": "Necesitas volver a la oficina, pero te olvidaste las llaves. ¿Cómo pasas el sistema de seguridad?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79532",
+   "isValid": "",
+   "question": "Te buscamos en las redes sociales... ¿Puedes explicarme lo que estás haciendo en esta foto?",
+   "round": "two",
+   "round3Header": "",
+   "x": false
+  },
+  {
+   "id": "79585",
+   "isValid": "",
+   "question": "¡Es Halloween! ¿Qué disfraz llevas a la oficina?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "79586",
+   "isValid": "",
+   "question": "Alguien reemplazo los mejores snacks de la oficina con unos saludables. ¿Cómo reaccionas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80084",
+   "isValid": "",
+   "question": "Uno de los internos te ha llamado Kelly. No eres Kelly. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80086",
+   "isValid": "",
+   "question": "Accidentalmente te han enviado un correo electrónico con información sensible. ¿Cuál es tu respuesta?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80087",
+   "isValid": "",
+   "question": "Somos una oficina genial. ¿Qué cosa increíble deberíamos conseguir para hacer que el trabajo sea divertido para ti?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80088",
+   "isValid": "",
+   "question": "Te han culpado de comer el almuerzo de alguien más de la heladera. ¿Cómo reaccionarías?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80089",
+   "isValid": "",
+   "question": "Has estado observando a Flora intentar cargar su celular con el cable equivocado por una hora. ¿Cómo intervienes finalmente?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80090",
+   "isValid": "",
+   "question": "Una compañera de trabajo en una videoconferencia piensa que tiene la cámara apagada y se está hurgando la nariz. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80091",
+   "isValid": "",
+   "question": "Es tu cumpleaños y nadie se acordó. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80092",
+   "isValid": "",
+   "question": "Un compañero de trabajo está visiblemente enfermo. ¿Cómo desinfectarías la zona sin ofenderlo?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80093",
+   "isValid": "",
+   "question": "Trent lleva puestos los pantalones más cortos posibles por el viernes casual. ¿Cómo lo confrontas con tacto?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80179",
+   "isValid": "",
+   "question": "¿Qué te gusta hacer cuando llegas a la oficina antes que los demás?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80180",
+   "isValid": "",
+   "question": "Mentiste diciendo que hablabas alemán en tu currículum... y ha llegado ahora alguien de la oficina alemana. ¿Qué haces?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80181",
+   "isValid": "",
+   "question": "¡Algunas personas de la oficina quieren comenzar un equipo de bolos! ¿Cómo debería llamarse el equipo?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80183",
+   "isValid": "",
+   "question": "Trent no deja de interrumpirte para mostrarte videos virales de gatitos. ¿Cómo respondes?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80184",
+   "isValid": "",
+   "question": "Te estás quejando de tu jefe cuando levantas la mirada y observas que te está mirando. ¿Cómo intentas rescatarte?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80185",
+   "isValid": "",
+   "question": "¡Estamos repartiendo cosas en el picnic de la empresa! ¿Qué te gustaría ver en tu bolsa de regalos?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80186",
+   "isValid": "",
+   "question": "Debra te exige que aceptes su solicitud de amistad en las redes sociales. ¿Cómo reaccionas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80187",
+   "isValid": "",
+   "question": "A Trent le gusta levantar pesas en su escritorio. ¿Cómo reaccionas?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "80188",
+   "isValid": "",
+   "question": "La oficina está llena de termitas. ¿Cómo podemos librarnos de ellas a bajo costo?",
+   "round": "two",
+   "round3Header": null,
+   "x": false
+  },
+  {
+   "id": "76383",
+   "isValid": "",
+   "question": "Universidad de {{BLANK}}\n\nGraduado en {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Educación",
+   "x": false
+  },
+  {
+   "id": "76384",
+   "isValid": "",
+   "question": "{{BLANK}}\n@\n{{BLANK}}.com",
+   "round": "tres",
+   "round3Header": "Información de contacto",
+   "x": false
+  },
+  {
+   "id": "76385",
+   "isValid": "",
+   "question": "Trabajó en {{BLANK}} Inc.\n\nOficial Jefe de {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Antiguo empleador",
+   "x": false
+  },
+  {
+   "id": "76387",
+   "isValid": "",
+   "question": "Habilidoso en {{BLANK}} y {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Habilidades relevantes",
+   "x": false
+  },
+  {
+   "id": "76388",
+   "isValid": "",
+   "question": "{{BLANK}} de medio tiempo\n\n{{BLANK}} de tiempo completo",
+   "round": "tres",
+   "round3Header": "Experiencia laboral",
+   "x": false
+  },
+  {
+   "id": "76390",
+   "isValid": "",
+   "question": "{{BLANK}} del mes\n\nMás probable que {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Premios y logros",
+   "x": false
+  },
+  {
+   "id": "76392",
+   "isValid": "",
+   "question": "Miembro de la Sociedad {{BLANK}}\n\n{{BLANK}} profesional",
+   "round": "tres",
+   "round3Header": "Logros personales",
+   "x": false
+  },
+  {
+   "id": "76395",
+   "isValid": "",
+   "question": "{{BLANK}} invitado a la Conferencia {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Apariciones en conferencias",
+   "x": false
+  },
+  {
+   "id": "76396",
+   "isValid": "",
+   "question": "Jugó {{BLANK}} universitario \n\nCapitán de \"Los {{BLANK}} peleadores\"",
+   "round": "tres",
+   "round3Header": "Deportes",
+   "x": false
+  },
+  {
+   "id": "76397",
+   "isValid": "",
+   "question": "Ganó concurso de {{BLANK}}\n\nApodo: \"El {{BLANK}}\"",
+   "round": "tres",
+   "round3Header": "Datos curiosos",
+   "x": false
+  },
+  {
+   "id": "76548",
+   "isValid": "",
+   "question": "Se comunica fluido en {{BLANK}}\n\nEstudió en la Academia de {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Habilidades especiales",
+   "x": false
+  },
+  {
+   "id": "76549",
+   "isValid": "",
+   "question": "Título honorario en {{BLANK}}\n\nResidencia en el Instituto {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Honores especiales",
+   "x": false
+  },
+  {
+   "id": "76551",
+   "isValid": "",
+   "question": "{{BLANK}} certificado \n\ncon enfoque en {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Certificaciones",
+   "x": false
+  },
+  {
+   "id": "76553",
+   "isValid": "",
+   "question": "Fundó la Fundación {{BLANK}} para {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Caridad",
+   "x": false
+  },
+  {
+   "id": "76554",
+   "isValid": "",
+   "question": "Hizo prácticas en las oficinas de derecho de {{BLANK}} & {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Experiencia legal",
+   "x": false
+  },
+  {
+   "id": "76558",
+   "isValid": "",
+   "question": "Verificado en {{BLANK}}.com\n\nViral luego de {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Redes sociales",
+   "x": false
+  },
+  {
+   "id": "76559",
+   "isValid": "",
+   "question": "Llame a:\nProfesor {{BLANK}}\n\nNO llame a:\n{{BLANK}} Johnson",
+   "round": "tres",
+   "round3Header": "Referencias",
+   "x": false
+  },
+  {
+   "id": "76562",
+   "isValid": "",
+   "question": "Estudió en Le {{BLANK}}\n\nInventó \"Pollo y {{BLANK}}\"",
+   "round": "tres",
+   "round3Header": "Experiencia culinaria",
+   "x": false
+  },
+  {
+   "id": "76563",
+   "isValid": "",
+   "question": "Elegido Alcalde de {{BLANK}}\n\nRetirado por {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Servicio cívico",
+   "x": false
+  },
+  {
+   "id": "76564",
+   "isValid": "",
+   "question": "Otorgado la Medalla {{BLANK}} por mostrar excelencia en {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Conducta meritoria",
+   "x": false
+  },
+  {
+   "id": "76565",
+   "isValid": "",
+   "question": "Calle {{BLANK}} 123\n\nPueblo {{BLANK}}, EEUU",
+   "round": "tres",
+   "round3Header": "Dirección postal",
+   "x": false
+  },
+  {
+   "id": "76566",
+   "isValid": "",
+   "question": "Gerente en \"Proyecto {{BLANK}}\"\n\nEntregó consistentemente {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Liderazgo",
+   "x": false
+  },
+  {
+   "id": "76567",
+   "isValid": "",
+   "question": "Orientado a {{BLANK}}\n\nAmante de {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Trasfondo personal",
+   "x": false
+  },
+  {
+   "id": "76568",
+   "isValid": "",
+   "question": "Analista de {{BLANK}}\n\nLiteralmente escribió el libro sobre {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Investigación",
+   "x": false
+  },
+  {
+   "id": "76569",
+   "isValid": "",
+   "question": "Voluntario en \n\"Grandes {{BLANK}}, Pequeños {{BLANK}}\"",
+   "round": "tres",
+   "round3Header": "Trabajo de voluntario",
+   "x": false
+  },
+  {
+   "id": "76570",
+   "isValid": "",
+   "question": "Enseñó a {{BLANK}} cómo {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Experiencia docente",
+   "x": false
+  },
+  {
+   "id": "76571",
+   "isValid": "",
+   "question": "Incrementó {{BLANK}} un 15%\n\nRedujo significantemente {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Rendimiento",
+   "x": false
+  },
+  {
+   "id": "76572",
+   "isValid": "",
+   "question": "Organizó \"Concurso de {{BLANK}}\" para la oficina\n\nInicio los \"Viernes de {{BLANK}}\"",
+   "round": "tres",
+   "round3Header": "Construcción de moral",
+   "x": false
+  },
+  {
+   "id": "76578",
+   "isValid": "",
+   "question": "Realizó un discurso introductorio:\n\"Cómo {{BLANK}} un {{BLANK}}\"",
+   "round": "tres",
+   "round3Header": "Conferencias",
+   "x": false
+  },
+  {
+   "id": "76605",
+   "isValid": "",
+   "question": "Prefiere ser remunerado en {{BLANK}}\n\nDebe estar cerca de {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Demandas adicionales",
+   "x": false
+  },
+  {
+   "id": "76636",
+   "isValid": "",
+   "question": "Invitado frecuente en el podcast \"{{BLANK}} sobre {{BLANK}}\"",
+   "round": "tres",
+   "round3Header": "Entrenamiento mediático",
+   "x": false
+  },
+  {
+   "id": "76653",
+   "isValid": "",
+   "question": "Nombrado \"Mejor {{BLANK}}\" por la revista {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Elogios",
+   "x": false
+  },
+  {
+   "id": "78109",
+   "isValid": "",
+   "question": "{{BLANK}} certificado por la Sociedad Americana de {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Habilidades especiales",
+   "x": false
+  },
+  {
+   "id": "78299",
+   "isValid": "",
+   "question": "Otorgado Medalla de {{BLANK}} por {{BLANK}} heróico",
+   "round": "tres",
+   "round3Header": "Honores",
+   "x": false
+  },
+  {
+   "id": "78300",
+   "isValid": "",
+   "question": "Habla {{BLANK}} fluido\n\nY puede conversar en {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Habilidades especiales",
+   "x": false
+  },
+  {
+   "id": "78425",
+   "isValid": "",
+   "question": "{{BLANK}} por las mañanas\n\n{{BLANK}} por las noches",
+   "round": "tres",
+   "round3Header": "Lema personal",
+   "x": false
+  },
+  {
+   "id": "78534",
+   "isValid": "",
+   "question": "Atendió mesas en el gastropub \"{{BLANK}} & {{BLANK}}\"",
+   "round": "tres",
+   "round3Header": "Experiencia laboral",
+   "x": false
+  },
+  {
+   "id": "78550",
+   "isValid": "",
+   "question": "¡Interpretó el rol de \"{{BLANK}}\" en [i]{{BLANK}} el Musical[/i]!",
+   "round": "tres",
+   "round3Header": "Artes escénicas",
+   "x": false
+  },
+  {
+   "id": "78607",
+   "isValid": "",
+   "question": "{{BLANK}} en la calle\n\n{{BLANK}} en la cama",
+   "round": "tres",
+   "round3Header": "Carácter personal",
+   "x": true
+  },
+  {
+   "id": "78618",
+   "isValid": "",
+   "question": "Vendió más {{BLANK}} para los {{BLANK}} Exploradores",
+   "round": "tres",
+   "round3Header": "Trabajo de voluntario",
+   "x": false
+  },
+  {
+   "id": "78624",
+   "isValid": "",
+   "question": "Promovido a {{BLANK}}\n\nluego de 3 años de {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Historial laboral",
+   "x": false
+  },
+  {
+   "id": "78633",
+   "isValid": "",
+   "question": "Piloto de {{BLANK}} con licencia\n\nColeccionista de {{BLANK}} raros",
+   "round": "tres",
+   "round3Header": "Pasatiempos",
+   "x": false
+  },
+  {
+   "id": "78638",
+   "isValid": "",
+   "question": "Asistente del Profesor {{BLANK}}\n\nEn la Escuela de Bellas {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Profesor asistente",
+   "x": false
+  },
+  {
+   "id": "78671",
+   "isValid": "",
+   "question": "{{BLANK}} titular en la Escuela {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Liderazgo escolar",
+   "x": false
+  },
+  {
+   "id": "78672",
+   "isValid": "",
+   "question": "Logró {{BLANK}} perfecta\nVotado mejor {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Honores escolares",
+   "x": false
+  },
+  {
+   "id": "78673",
+   "isValid": "",
+   "question": "Entrenó {{BLANK}} salvajes para que {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Experiencia en la intemperie",
+   "x": false
+  },
+  {
+   "id": "78674",
+   "isValid": "",
+   "question": "Inventó {{BLANK}}\npara detener {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Innovación",
+   "x": false
+  },
+  {
+   "id": "78675",
+   "isValid": "",
+   "question": "Con conocimiento de {{BLANK}}\nCon un ojo para {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Arte",
+   "x": false
+  },
+  {
+   "id": "78715",
+   "isValid": "",
+   "question": "Graduado de {{BLANK}} Cum Laude\n\nCon Maestría en {{BLANK}}-ología",
+   "round": "tres",
+   "round3Header": "Excelencia académica",
+   "x": false
+  },
+  {
+   "id": "78839",
+   "isValid": "",
+   "question": "Inventó la frase \"Pues, ¡{{BLANK}} mis {{BLANK}}!\"",
+   "round": "tres",
+   "round3Header": "Datos curiosos",
+   "x": false
+  },
+  {
+   "id": "78949",
+   "isValid": "",
+   "question": "Entrenó un grupo disparatado de {{BLANK}}\n\nGanó el campeonato de {{BLANK}}",
+   "round": "tres",
+   "round3Header": "Mentoría",
+   "x": false
+  }
+ ]
+}

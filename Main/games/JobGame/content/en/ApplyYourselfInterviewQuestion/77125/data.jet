@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Treinta robots de tamaño humano que se parecen a ti y a tus compañeros de trabajo son entregados a la oficina. ¿Cómo respondes?"
+  },
+  {
+   "t": "S",
+   "v": "Treinta robots de tamaño humano que se parecen a ti y a tus compañeros de trabajo son entregados a la oficina. ¿Cómo respondes?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

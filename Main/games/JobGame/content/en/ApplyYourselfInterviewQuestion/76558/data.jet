@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Verificado en {{BLANK}}.com\n\nViral luego de {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "Verificado en {{BLANK}}.com\n\nViral luego de {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Redes sociales"
+  },
+  {
+   "t": "S",
+   "v": "Redes sociales",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

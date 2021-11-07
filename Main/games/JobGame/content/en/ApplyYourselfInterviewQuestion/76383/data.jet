@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Universidad de {{BLANK}}\n\nGraduado en {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "Universidad de {{BLANK}}\n\nGraduado en {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Educación"
+  },
+  {
+   "t": "S",
+   "v": "Educación",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

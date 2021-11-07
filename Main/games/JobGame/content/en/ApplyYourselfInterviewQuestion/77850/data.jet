@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Todos están hablando sobre una serie de televisión que nunca has visto. ¡Rápido, di algo profundo sobre el episodio de ayer!"
+  },
+  {
+   "t": "S",
+   "v": "Todos están hablando sobre una serie de televisión que nunca has visto. ¡Rápido, di algo profundo sobre el episodio de ayer!",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

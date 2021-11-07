@@ -1,0 +1,42 @@
+{
+    "table": {
+        "en": {
+            "LANGUAGE_NAME": "English",
+            "LANGUAGE": "Language",
+            "INTERNET_CONNECTED": "Acabamos de descubrir internet.",
+            "INTERNET_DISCONNECTED": "Parece que no podemos conectarte a los servidores de Jackbox Games.<br />Comprueba que tu conexión a Internet funciona correctamente.",
+            "ROOM_DESTROYED": "Se ha producido un error y tu sala se ha desintegrado.<br />Comprueba que tu conexión a Internet funciona correctamente.",
+            "ROOM_EXIT_CAUSE_LOBBY_TIMEOUT": "Se ha producido un error y tu sala se ha desintegrado.<br/>Comprueba que tu conexión a Internet funciona correctamente. (Causa: 1)",
+            "ROOM_EXIT_CAUSE_JOIN_TIMEOUT": "Se ha producido un error y tu sala se ha desintegrado.<br/>Comprueba que tu conexión a Internet funciona correctamente. (Causa: 2)",
+            "ROOM_EXIT_CAUSE_GAME_TIMEOUT": "Se ha producido un error y tu sala se ha desintegrado.<br/>Comprueba que tu conexión a Internet funciona correctamente. (Causa: 3)",
+            "ROOM_EXIT_CAUSE_DISCONNECT": "Se ha producido un error y tu sala se ha desintegrado.<br/>Comprueba que tu conexión a Internet funciona correctamente. (Causa: 4)",
+            "ROOM_EXIT_CAUSE_BY_REQUEST": "Se ha producido un error y tu sala se ha desintegrado.<br/>Comprueba que tu conexión a Internet funciona correctamente. (Causa: 5)",
+            "ROOM_EXIT_CAUSE_SHUTTING_DOWN": "Se ha producido un error y tu sala se ha desintegrado.<br/>Comprueba que tu conexión a Internet funciona correctamente. (Causa: 6)",
+            "SOCKET_DISCONNECTED ": "Hemos perdido la conexión con los servidores de Jackbox Games.",
+            "TIMEOUT": "Parece que no podemos conectarte a los servidores de Jackbox Games.<br />Comprueba que tu conexión a Internet funciona correctamente.",
+            "TIMEOUT_INTERNET": "Parece que no podemos conectarte a los servidores de Jackbox Games.<br />Comprueba que tu conexión a Internet funciona correctamente.",
+            "USER_DISCONNECT": "Te has desconectado del servidor. Vuelve a intentarlo.",
+            "USER_ACCESS_DENIED": "Lo sentimos, no podemos proceder.",
+            "START_PRIVILEGE_ERROR": "Lo sentimos, no podemos proceder.",
+            "TROPHY_PREPARE_ERROR": "Lo sentimos, no podemos proceder.",
+            "SAVE_PREPARE_FAIL": "Lo sentimos, no podemos proceder.",
+            "LICENSE_ERROR": "¡No hemos encontrado la licencia para este contenido!",
+            "LOST_LICENSE": "¡No hemos encontrado la licencia para este contenido!",
+            "STEAM_ERROR": "No hemos podido validar tu licencia de Steam.",
+            "TWITCH_PRIME_ERROR": "No hemos podido validar tu licencia de Twitch.",
+            "LOST_DLC": "No hemos encontrado la licencia para el contenido descargable. Volviendo al menú principal...",
+            "START": "EMPEZAR",
+            "SKIP": "OMITIR",
+            "LOADING": "CARGANDO...",
+            "SWITCH_USER": "CAMBIAR DE USUARIO",
+            "LEGAL": "Traducción no oficial. Creado y desarrollado por Jackbox Games, Inc. Juego y Software © 2021 Jackbox Games, Inc. Todos los derechos reservados. Jackbox Games y el logo de Jackbox Games son marcas registradas de Jackbox Games, Inc. Drawful Animate, The Wheel of Enormous Proportions, Job Job, The Poll Mine, Weapons Drawn, and Party Pack son marcas registradas de Jackbox Games, Inc. Todas las otras marcas y logotipos son de la propiedad de sus respectivos propietarios.",
+            "LEGAL_CRIWARE": "Impulsado por \"CRIWARE\". CRIWARE es una marca de CRI Middleware Co., Ltd.",
+            "LEGAL_FMOD": "Este producto usa FMOD Sound System por Firelight Technologies",
+            "LEGAL_STADIA": "No hay apoyo o afiliación entre Stadia y los fabricantes de controladores o consolas que no sean de Stadia. STADIA, Google y las marcas y logotipos relacionados son marcas comerciales de Google LLC. Las demás marcas comerciales son propiedad de sus respectivos dueños."
+        },
+        "fr": {},
+        "it": {},
+        "de": {},
+        "es": {}
+    }
+}

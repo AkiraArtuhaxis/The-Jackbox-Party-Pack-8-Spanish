@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Accidentalmente te tiras uno en un espacio abierto de la oficina. ¿Qué es lo mejor que puedes decir post-pedo?"
+  },
+  {
+   "t": "S",
+   "v": "Accidentalmente te tiras uno en un espacio abierto de la oficina. ¿Qué es lo mejor que puedes decir post-pedo?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

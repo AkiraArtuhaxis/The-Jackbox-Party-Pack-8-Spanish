@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Un compañero de trabajo te pide que compres suscripciones de revistas para la banda de marcha de su hijo. ¿Qué haces?"
+  },
+  {
+   "t": "S",
+   "v": "Un compañero de trabajo te pide que compres suscripciones de revistas para la banda de marcha de su hijo. ¿Qué haces?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

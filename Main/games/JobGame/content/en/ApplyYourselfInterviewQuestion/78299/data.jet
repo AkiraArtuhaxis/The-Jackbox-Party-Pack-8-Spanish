@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Otorgado Medalla de {{BLANK}} por {{BLANK}} heróico"
+  },
+  {
+   "t": "S",
+   "v": "Otorgado Medalla de {{BLANK}} por {{BLANK}} heróico",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Honores"
+  },
+  {
+   "t": "S",
+   "v": "Honores",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

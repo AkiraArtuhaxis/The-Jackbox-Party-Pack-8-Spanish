@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Analista de {{BLANK}}\n\nLiteralmente escribió el libro sobre {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "Analista de {{BLANK}}\n\nLiteralmente escribió el libro sobre {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Investigación"
+  },
+  {
+   "t": "S",
+   "v": "Investigación",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

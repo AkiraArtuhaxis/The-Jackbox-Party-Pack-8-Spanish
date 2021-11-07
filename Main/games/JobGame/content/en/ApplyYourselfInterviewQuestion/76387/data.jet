@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Habilidoso en {{BLANK}} y {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "Habilidoso en {{BLANK}} y {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Habilidades relevantes"
+  },
+  {
+   "t": "S",
+   "v": "Habilidades relevantes",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

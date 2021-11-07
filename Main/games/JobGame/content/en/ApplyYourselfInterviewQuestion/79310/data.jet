@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Estás en un viaje de negocios de 72 horas con tu compañero de trabajo más charlatán. ¿Cómo te mantienes cuerdo?"
+  },
+  {
+   "t": "S",
+   "v": "Estás en un viaje de negocios de 72 horas con tu compañero de trabajo más charlatán. ¿Cómo te mantienes cuerdo?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

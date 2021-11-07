@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Otorgado la Medalla {{BLANK}} por mostrar excelencia en {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "Otorgado la Medalla {{BLANK}} por mostrar excelencia en {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Conducta meritoria"
+  },
+  {
+   "t": "S",
+   "v": "Conducta meritoria",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

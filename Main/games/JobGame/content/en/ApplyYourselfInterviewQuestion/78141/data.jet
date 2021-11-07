@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Un reportero te para en tu camino al trabajo y te dice que la compañía está siendo investigada por fraude. ¿Cómo reaccionas?"
+  },
+  {
+   "t": "S",
+   "v": "Un reportero te para en tu camino al trabajo y te dice que la compañía está siendo investigada por fraude. ¿Cómo reaccionas?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

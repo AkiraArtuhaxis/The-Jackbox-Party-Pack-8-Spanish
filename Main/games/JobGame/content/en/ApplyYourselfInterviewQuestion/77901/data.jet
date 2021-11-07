@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Recibiste la info de que hay un baño extremadamente lujoso en la oficina del director ejecutivo. El director está de vacaciones. ¿Qué haces?"
+  },
+  {
+   "t": "S",
+   "v": "Recibiste la info de que hay un baño extremadamente lujoso en la oficina del director ejecutivo. El director está de vacaciones. ¿Qué haces?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

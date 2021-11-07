@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Para promover la salud y el bienestar, las sillas de todos fueron reemplazadas por pelotas de goma gigantes. ¿Cómo respondes?"
+  },
+  {
+   "t": "S",
+   "v": "Para promover la salud y el bienestar, las sillas de todos fueron reemplazadas por pelotas de goma gigantes. ¿Cómo respondes?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

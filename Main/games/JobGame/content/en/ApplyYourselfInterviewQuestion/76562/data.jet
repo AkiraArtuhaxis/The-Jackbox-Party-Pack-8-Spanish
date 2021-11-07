@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Estudió en Le {{BLANK}}\n\nInventó \"Pollo y {{BLANK}}\""
+  },
+  {
+   "t": "S",
+   "v": "Estudió en Le {{BLANK}}\n\nInventó \"Pollo y {{BLANK}}\"",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Experiencia culinaria"
+  },
+  {
+   "t": "S",
+   "v": "Experiencia culinaria",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

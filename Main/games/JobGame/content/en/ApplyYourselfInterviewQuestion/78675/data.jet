@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Con conocimiento de {{BLANK}}\nCon un ojo para {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "Con conocimiento de {{BLANK}}\nCon un ojo para {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Arte"
+  },
+  {
+   "t": "S",
+   "v": "Arte",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

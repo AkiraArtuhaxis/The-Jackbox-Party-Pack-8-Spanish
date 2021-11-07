@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Entrenó {{BLANK}} salvajes para que {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "Entrenó {{BLANK}} salvajes para que {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Experiencia en la intemperie"
+  },
+  {
+   "t": "S",
+   "v": "Experiencia en la intemperie",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

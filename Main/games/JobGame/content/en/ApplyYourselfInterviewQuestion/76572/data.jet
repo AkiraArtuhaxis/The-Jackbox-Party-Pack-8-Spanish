@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Organizó \"Concurso de {{BLANK}}\" para la oficina\n\nInicio los \"Viernes de {{BLANK}}\""
+  },
+  {
+   "t": "S",
+   "v": "Organizó \"Concurso de {{BLANK}}\" para la oficina\n\nInicio los \"Viernes de {{BLANK}}\"",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Construcción de moral"
+  },
+  {
+   "t": "S",
+   "v": "Construcción de moral",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

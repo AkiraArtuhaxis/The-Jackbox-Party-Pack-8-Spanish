@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Hizo prácticas en las oficinas de derecho de {{BLANK}} & {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "Hizo prácticas en las oficinas de derecho de {{BLANK}} & {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Experiencia legal"
+  },
+  {
+   "t": "S",
+   "v": "Experiencia legal",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

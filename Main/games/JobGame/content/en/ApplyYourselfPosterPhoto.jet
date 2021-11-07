@@ -1,0 +1,706 @@
+{
+ "content": [
+  {
+   "altText": "globos aerostáticos",
+   "id": "86132",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "agujero en una pared de ladrillo",
+   "id": "86133",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "tiburón",
+   "id": "86134",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "círculo de árboles",
+   "id": "86135",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "persona con el puño levantado en frente de la puesta de sol",
+   "id": "86136",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "persona en kayak",
+   "id": "86137",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "perro en una toalla con pepinos en los ojos",
+   "id": "86138",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "personas chocando los cinco en una montaña",
+   "id": "86139",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "raíces de árboles",
+   "id": "86140",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "rompiendo una barra de pan",
+   "id": "86141",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "silueta de empresarios estrechando las manos",
+   "id": "86142",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "caballos salvajes",
+   "id": "86143",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "equipo de personas cruzando un barranco",
+   "id": "86144",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "semillas de dientes de león volando",
+   "id": "86145",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "caracol",
+   "id": "86146",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "flecha apuntando hacia adelante en una senda junto a zapatillas",
+   "id": "86147",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "tubería vertiendo agua",
+   "id": "86148",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "pichones",
+   "id": "86149",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "persona parada en la entrada de una cueva",
+   "id": "86150",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "tigre",
+   "id": "86151",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "persona con ambos puños levantados",
+   "id": "86152",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "mariposa de agua",
+   "id": "86153",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "tortuga marina",
+   "id": "86154",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "zapato corriendo tirando tierra",
+   "id": "86155",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "manos sosteniendo una plántula",
+   "id": "86156",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "gato con gafas de sol",
+   "id": "86157",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "rompiendo un huevo en una sartén",
+   "id": "86158",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "zambulléndose en una piscina",
+   "id": "86159",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "astronauta en marte",
+   "id": "86160",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "escalera en espiral",
+   "id": "86161",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "avión",
+   "id": "86165",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "bola de cristal brillante con manos",
+   "id": "86166",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "espejo y mesa de camarín iluminados",
+   "id": "86167",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "mariposa",
+   "id": "86168",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "mujer yóguica en su teléfono",
+   "id": "86169",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "cielo azul",
+   "id": "86170",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "acampada por la noche",
+   "id": "86172",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "naranjas",
+   "id": "86173",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "niño pintando un sol",
+   "id": "86174",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "planta suculenta",
+   "id": "86175",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "dardos en el centro de una diana",
+   "id": "86176",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "café siendo servido",
+   "id": "86227",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "mujer en escritorio con las manos en el aire",
+   "id": "86228",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "laptop en el bosque",
+   "id": "86229",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "arcoíris",
+   "id": "86230",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "perro buscando fotos de perros en una laptop",
+   "id": "86231",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "valla blanca",
+   "id": "86232",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "pelota de fútbol en un estadio grande",
+   "id": "86233",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "tubería de metal vertiendo agua",
+   "id": "86234",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "aves",
+   "id": "86235",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "frutillas",
+   "id": "86236",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "camión grande",
+   "id": "86237",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "persona mirando por la ventana",
+   "id": "86238",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "zanahorias",
+   "id": "86239",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "ojos de búho",
+   "id": "86240",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "mano en una escalera",
+   "id": "86241",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "paraguas bajo la lluvia",
+   "id": "86242",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "pingüinos abrazándose",
+   "id": "86243",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "bomberos apagando un fuego",
+   "id": "86244",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "tierra desde el espacio",
+   "id": "86245",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "dispensador de agua en la oficina",
+   "id": "86246",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "manos tocando el piano",
+   "id": "86247",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "helado de agua azul derretido",
+   "id": "86248",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "basurero",
+   "id": "86249",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "cubo de agua",
+   "id": "86250",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "ola de marea",
+   "id": "86251",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "pila de piedras lisas",
+   "id": "86252",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "palo de golf y bola sobre tee",
+   "id": "86253",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "bailarín con sombrero bombín",
+   "id": "86254",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "gato en una cuerda",
+   "id": "86255",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "lingotes de oro",
+   "id": "86256",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "hojas brotando sobre el tronco de un árbol",
+   "id": "86257",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "camino con grietas significantes",
+   "id": "86258",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "tres personas haciendo escalada en una montaña",
+   "id": "86259",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "un paraguas verde en una multitud de paraguas negros",
+   "id": "86260",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "dunas en el desierto",
+   "id": "86261",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "pez saltando de una pecera a otra",
+   "id": "86262",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "gente caminando por la nieve",
+   "id": "86263",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "persona empolvando sus manos cerca de una pesa rusa",
+   "id": "86264",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "tostada en una tostadora",
+   "id": "86265",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "persona caminando en cuerda floja entre edificios",
+   "id": "86266",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "iceberg",
+   "id": "86267",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "jacuzzi",
+   "id": "86268",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "cuerdas de puentismo coloridas atadas",
+   "id": "86269",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "manos sobre una máquina de escribir",
+   "id": "86270",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "peón de ajedrez reflejado en un espejo como reina",
+   "id": "86271",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "pared cubierta de notas adhesivas",
+   "id": "86272",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "pared de cráneos y huesos",
+   "id": "86273",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "muelle sobre el agua",
+   "id": "86274",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "águila volando",
+   "id": "86275",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "silueta de personas tomándose la mano en el atardecer",
+   "id": "86276",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "auto en una carretera en el desierto",
+   "id": "86277",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "círculo de lápices negros con puntas de colores",
+   "id": "86278",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "pozo profundo",
+   "id": "86279",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "palmeras en la puesta de sol",
+   "id": "86280",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "helicóptero",
+   "id": "86281",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "gorila",
+   "id": "86282",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "muchas velas encendidas",
+   "id": "86283",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "círculo de paracaidistas",
+   "id": "86284",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "piernas saliendo de una bañera rosa",
+   "id": "86791",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "hombre de negocios empujando a otro haciendo como superman sobre una silla de oficina",
+   "id": "86792",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "arcoíris de globos con caras sonrientes sobre ellos",
+   "id": "86793",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "mano acariciando la nariz de un caballo",
+   "id": "86794",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "cartón de huevos en un fondo rosa",
+   "id": "86795",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "pastel de cumpleaños con velas",
+   "id": "86796",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "manos tocándose a través de un círculo resplandeciente",
+   "id": "86797",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "hombre espeluznante enterrado en pilas de papeles",
+   "id": "86798",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "grupo de mascotas peludas",
+   "id": "86799",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "dinosaurio de juguete pintando sobre un lienzo pequeño",
+   "id": "86800",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "par de vaqueros azules",
+   "id": "86801",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "persona con traje y corbata de negocios pero le falta la cabeza",
+   "id": "86802",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "brazos y piernas de Barbies sobresaliendo de una pila de arena rosa",
+   "id": "86803",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "marioneta y niño científico llevando puestos cascos científicos que combinan",
+   "id": "86804",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "hombre sonriente sosteniendo un cuchillo",
+   "id": "86805",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "perro mirando por una ventana en la lluvia",
+   "id": "86806",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "centauro de negocios en una montaña",
+   "id": "86807",
+   "isValid": "",
+   "x": false
+  },
+  {
+   "altText": "cabra al lado de un gráfico de torta",
+   "id": "86808",
+   "isValid": "",
+   "x": false
+  }
+ ]
+}

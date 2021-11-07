@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "{{BLANK}} certificado por la Sociedad Americana de {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "{{BLANK}} certificado por la Sociedad Americana de {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Habilidades especiales"
+  },
+  {
+   "t": "S",
+   "v": "Habilidades especiales",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

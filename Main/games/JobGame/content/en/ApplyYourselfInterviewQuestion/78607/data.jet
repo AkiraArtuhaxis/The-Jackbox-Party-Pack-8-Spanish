@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "{{BLANK}} en la calle\n\n{{BLANK}} en la cama"
+  },
+  {
+   "t": "S",
+   "v": "{{BLANK}} en la calle\n\n{{BLANK}} en la cama",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Carácter personal"
+  },
+  {
+   "t": "S",
+   "v": "Carácter personal",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

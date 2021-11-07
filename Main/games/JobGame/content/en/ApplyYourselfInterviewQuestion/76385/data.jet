@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Trabajó en {{BLANK}} Inc.\n\nOficial Jefe de {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "Trabajó en {{BLANK}} Inc.\n\nOficial Jefe de {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Antiguo empleador"
+  },
+  {
+   "t": "S",
+   "v": "Antiguo empleador",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

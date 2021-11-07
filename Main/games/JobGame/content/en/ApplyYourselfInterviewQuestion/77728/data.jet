@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Chase, el payaso de la oficina, está llorando discretamente en la sala de descanso mientras llena globos de agua. ¿Cómo respondes?"
+  },
+  {
+   "t": "S",
+   "v": "Chase, el payaso de la oficina, está llorando discretamente en la sala de descanso mientras llena globos de agua. ¿Cómo respondes?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Nuestra oficina está participando de una sala de escape temática de los 80. ¿Cuál es tu primer paso para encontrar una salida?"
+  },
+  {
+   "t": "S",
+   "v": "Nuestra oficina está participando de una sala de escape temática de los 80. ¿Cuál es tu primer paso para encontrar una salida?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

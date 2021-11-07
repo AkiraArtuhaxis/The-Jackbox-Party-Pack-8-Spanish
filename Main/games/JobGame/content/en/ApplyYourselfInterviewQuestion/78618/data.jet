@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Vendió más {{BLANK}} para los {{BLANK}} Exploradores"
+  },
+  {
+   "t": "S",
+   "v": "Vendió más {{BLANK}} para los {{BLANK}} Exploradores",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Trabajo de voluntario"
+  },
+  {
+   "t": "S",
+   "v": "Trabajo de voluntario",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

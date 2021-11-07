@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Los superiores están solicitando que toda la tecnología de la compañía sea devuelta al sector de informática para su inspección. ¿Qué podríamos encontrar en tu historial del navegador?"
+  },
+  {
+   "t": "S",
+   "v": "Los superiores están solicitando que toda la tecnología de la compañía sea devuelta al sector de informática para su inspección. ¿Qué podríamos encontrar en tu historial del navegador?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

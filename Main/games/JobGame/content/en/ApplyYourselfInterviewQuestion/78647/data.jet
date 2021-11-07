@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "¡Tu gerente te va a liberar de tu cargo y pide que entrenes a tu reemplazo! ¿Cómo reaccionas?"
+  },
+  {
+   "t": "S",
+   "v": "¡Tu gerente te va a liberar de tu cargo y pide que entrenes a tu reemplazo! ¿Cómo reaccionas?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

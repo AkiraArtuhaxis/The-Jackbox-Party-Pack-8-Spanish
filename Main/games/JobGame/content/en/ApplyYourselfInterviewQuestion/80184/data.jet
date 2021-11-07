@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Te estás quejando de tu jefe cuando levantas la mirada y observas que te está mirando. ¿Cómo intentas rescatarte?"
+  },
+  {
+   "t": "S",
+   "v": "Te estás quejando de tu jefe cuando levantas la mirada y observas que te está mirando. ¿Cómo intentas rescatarte?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Piloto de {{BLANK}} con licencia\n\nColeccionista de {{BLANK}} raros"
+  },
+  {
+   "t": "S",
+   "v": "Piloto de {{BLANK}} con licencia\n\nColeccionista de {{BLANK}} raros",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Pasatiempos"
+  },
+  {
+   "t": "S",
+   "v": "Pasatiempos",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

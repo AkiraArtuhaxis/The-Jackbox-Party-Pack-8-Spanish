@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Fuimos estafados por un vendedor que hablaba ligero... otra vez. ¿Qué deberíamos hacer con todas las bananas y súper pegamentos que compramos?"
+  },
+  {
+   "t": "S",
+   "v": "Fuimos estafados por un vendedor que hablaba ligero... otra vez. ¿Qué deberíamos hacer con todas las bananas y súper pegamentos que compramos?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

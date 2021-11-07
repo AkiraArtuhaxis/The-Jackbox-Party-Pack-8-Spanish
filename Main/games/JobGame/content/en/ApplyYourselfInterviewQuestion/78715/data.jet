@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Graduado de {{BLANK}} Cum Laude\n\nCon Maestría en {{BLANK}}-ología"
+  },
+  {
+   "t": "S",
+   "v": "Graduado de {{BLANK}} Cum Laude\n\nCon Maestría en {{BLANK}}-ología",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Excelencia académica"
+  },
+  {
+   "t": "S",
+   "v": "Excelencia académica",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

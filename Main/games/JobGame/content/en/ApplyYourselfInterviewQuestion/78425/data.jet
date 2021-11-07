@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "{{BLANK}} por las mañanas\n\n{{BLANK}} por las noches"
+  },
+  {
+   "t": "S",
+   "v": "{{BLANK}} por las mañanas\n\n{{BLANK}} por las noches",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Lema personal"
+  },
+  {
+   "t": "S",
+   "v": "Lema personal",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

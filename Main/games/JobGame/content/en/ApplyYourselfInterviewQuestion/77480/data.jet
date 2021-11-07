@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Tu gerente te dice que ahora estás a cargo de la formación de ejecutivos. ¿Cuál es el título de tu curso de desarrollo profesional?"
+  },
+  {
+   "t": "S",
+   "v": "Tu gerente te dice que ahora estás a cargo de la formación de ejecutivos. ¿Cuál es el título de tu curso de desarrollo profesional?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

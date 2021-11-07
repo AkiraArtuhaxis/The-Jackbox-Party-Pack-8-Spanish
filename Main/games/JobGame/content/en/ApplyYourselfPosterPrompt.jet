@@ -1,0 +1,658 @@
+{
+ "content": [
+  {
+   "id": "80682",
+   "isValid": "",
+   "prompt": "Intenta {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80683",
+   "isValid": "",
+   "prompt": "Conduce el {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80684",
+   "isValid": "",
+   "prompt": "Consigue un {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80685",
+   "isValid": "",
+   "prompt": "Nunca {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80686",
+   "isValid": "",
+   "prompt": "Hora de {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80687",
+   "isValid": "",
+   "prompt": "Siempre {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80688",
+   "isValid": "",
+   "prompt": "Olvídate de {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80689",
+   "isValid": "",
+   "prompt": "Deja lugar para {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80690",
+   "isValid": "",
+   "prompt": "Huele el {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80691",
+   "isValid": "",
+   "prompt": "{{BLANK}} eso.",
+   "x": false
+  },
+  {
+   "id": "80692",
+   "isValid": "",
+   "prompt": "Eres el {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80693",
+   "isValid": "",
+   "prompt": "Inspira {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80694",
+   "isValid": "",
+   "prompt": "Usa tu {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80695",
+   "isValid": "",
+   "prompt": "Toma control de {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80696",
+   "isValid": "",
+   "prompt": "Conviértete {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80697",
+   "isValid": "",
+   "prompt": "Nuevo {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80698",
+   "isValid": "",
+   "prompt": "Cuida a {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80699",
+   "isValid": "",
+   "prompt": "Recuerda tus {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80700",
+   "isValid": "",
+   "prompt": "Para de {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80701",
+   "isValid": "",
+   "prompt": "Tómate un {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80702",
+   "isValid": "",
+   "prompt": "No temas {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80703",
+   "isValid": "",
+   "prompt": "Pide {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80704",
+   "isValid": "",
+   "prompt": "Es simplemente {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80705",
+   "isValid": "",
+   "prompt": "Termina {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80707",
+   "isValid": "",
+   "prompt": "{{BLANK}} es posible.",
+   "x": false
+  },
+  {
+   "id": "80708",
+   "isValid": "",
+   "prompt": "El éxito es {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80710",
+   "isValid": "",
+   "prompt": "Piensa fuera de lo {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80711",
+   "isValid": "",
+   "prompt": "No hay {{BLANK}} en EQUIPO.",
+   "x": false
+  },
+  {
+   "id": "80712",
+   "isValid": "",
+   "prompt": "La perseverancia es {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80713",
+   "isValid": "",
+   "prompt": "Súbete tu {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80714",
+   "isValid": "",
+   "prompt": "Mantén {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80715",
+   "isValid": "",
+   "prompt": "Es solo {{BLANK}} en acción.",
+   "x": false
+  },
+  {
+   "id": "80716",
+   "isValid": "",
+   "prompt": "{{BLANK}} es todo.",
+   "x": false
+  },
+  {
+   "id": "80717",
+   "isValid": "",
+   "prompt": "Sé más fuerte que tu {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80718",
+   "isValid": "",
+   "prompt": "Empodera {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80719",
+   "isValid": "",
+   "prompt": "Cuando estás aquí, estás {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82637",
+   "isValid": "",
+   "prompt": "Alcanza a las {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82638",
+   "isValid": "",
+   "prompt": "Únete a {{BLANK}}",
+   "x": false
+  },
+  {
+   "id": "82639",
+   "isValid": "",
+   "prompt": "El {{BLANK}} es correcto.",
+   "x": false
+  },
+  {
+   "id": "82640",
+   "isValid": "",
+   "prompt": "Un mundo, un {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82641",
+   "isValid": "",
+   "prompt": "Sé el {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82643",
+   "isValid": "",
+   "prompt": "{{BLANK}} es un regalo.",
+   "x": false
+  },
+  {
+   "id": "82644",
+   "isValid": "",
+   "prompt": "Apoya a tus {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82795",
+   "isValid": "",
+   "prompt": "Haz que {{BLANK}} suceda.",
+   "x": false
+  },
+  {
+   "id": "82796",
+   "isValid": "",
+   "prompt": "Atrévete a {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82797",
+   "isValid": "",
+   "prompt": "{{BLANK}} es un viaje.",
+   "x": false
+  },
+  {
+   "id": "82798",
+   "isValid": "",
+   "prompt": "Sin dolor no hay {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82799",
+   "isValid": "",
+   "prompt": "{{BLANK}} es lo que más deslumbra.",
+   "x": false
+  },
+  {
+   "id": "82800",
+   "isValid": "",
+   "prompt": "Estamos juntos en {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82801",
+   "isValid": "",
+   "prompt": "El coraje es triunfar sobre {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82804",
+   "isValid": "",
+   "prompt": "El éxito es una historia de {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82859",
+   "isValid": "",
+   "prompt": "Despierta tu {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82860",
+   "isValid": "",
+   "prompt": "Recupera tus {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82861",
+   "isValid": "",
+   "prompt": "Ponle algo de {{BLANK}} a tu día.",
+   "x": false
+  },
+  {
+   "id": "82862",
+   "isValid": "",
+   "prompt": "Justo aquí. Justo {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82863",
+   "isValid": "",
+   "prompt": "Sé el {{BLANK}} de tu equipo.",
+   "x": false
+  },
+  {
+   "id": "82865",
+   "isValid": "",
+   "prompt": "Ataca el {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82867",
+   "isValid": "",
+   "prompt": "Cambia tus {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82868",
+   "isValid": "",
+   "prompt": "La colaboración es {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82870",
+   "isValid": "",
+   "prompt": "No te enojes, {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "83383",
+   "isValid": "",
+   "prompt": "{{BLANK}} allí, bebé.",
+   "x": false
+  },
+  {
+   "id": "83384",
+   "isValid": "",
+   "prompt": "{{BLANK}} nunca dura.",
+   "x": false
+  },
+  {
+   "id": "83385",
+   "isValid": "",
+   "prompt": "{{BLANK}} como si nadie estuviera viendo.",
+   "x": false
+  },
+  {
+   "id": "83386",
+   "isValid": "",
+   "prompt": "Apunta a las {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "83387",
+   "isValid": "",
+   "prompt": "Empuja todos los {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "83388",
+   "isValid": "",
+   "prompt": "Quédate {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "83389",
+   "isValid": "",
+   "prompt": "Levántate y {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "83390",
+   "isValid": "",
+   "prompt": "{{BLANK}} duro, todos los días.",
+   "x": false
+  },
+  {
+   "id": "83392",
+   "isValid": "",
+   "prompt": "Vive. Respira. {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "83393",
+   "isValid": "",
+   "prompt": "No hay {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "83395",
+   "isValid": "",
+   "prompt": "Haz el {{BLANK}} de más.",
+   "x": false
+  },
+  {
+   "id": "83396",
+   "isValid": "",
+   "prompt": "Nunca pares de {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "83397",
+   "isValid": "",
+   "prompt": "Sigue {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "83398",
+   "isValid": "",
+   "prompt": "El ochenta por ciento del éxito es {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84036",
+   "isValid": "",
+   "prompt": "{{BLANK}} es la clave.",
+   "x": false
+  },
+  {
+   "id": "84038",
+   "isValid": "",
+   "prompt": "{{BLANK}} es para aburridos.",
+   "x": false
+  },
+  {
+   "id": "84039",
+   "isValid": "",
+   "prompt": "Fuerza en {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84045",
+   "isValid": "",
+   "prompt": "Nunca olvides {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84048",
+   "isValid": "",
+   "prompt": "Aprende de tus {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84049",
+   "isValid": "",
+   "prompt": "La vida es más que {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84050",
+   "isValid": "",
+   "prompt": "Escucha a tu {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84052",
+   "isValid": "",
+   "prompt": "{{BLANK}} tú mismo.",
+   "x": false
+  },
+  {
+   "id": "84054",
+   "isValid": "",
+   "prompt": "{{BLANK}} puede mover montañas.",
+   "x": false
+  },
+  {
+   "id": "84165",
+   "isValid": "",
+   "prompt": "Nunca deja que te vean {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84166",
+   "isValid": "",
+   "prompt": "{{BLANK}} no puede lastimarte.",
+   "x": false
+  },
+  {
+   "id": "84167",
+   "isValid": "",
+   "prompt": "{{BLANK}} hace el trabajo.",
+   "x": false
+  },
+  {
+   "id": "84173",
+   "isValid": "",
+   "prompt": "Todo {{BLANK}} cuenta.",
+   "x": false
+  },
+  {
+   "id": "84174",
+   "isValid": "",
+   "prompt": "Hay magia en {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84186",
+   "isValid": "",
+   "prompt": "Encuentra tu {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84190",
+   "isValid": "",
+   "prompt": "En sus marcas, listos, ¡{{BLANK}}!",
+   "x": false
+  },
+  {
+   "id": "84193",
+   "isValid": "",
+   "prompt": "Sin excusas. Solo {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84197",
+   "isValid": "",
+   "prompt": "El que madruga consigue {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84328",
+   "isValid": "",
+   "prompt": "Aspira a {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84341",
+   "isValid": "",
+   "prompt": "Trabaja duro. {{BLANK}} en grande.",
+   "x": false
+  },
+  {
+   "id": "84342",
+   "isValid": "",
+   "prompt": "{{BLANK}} tu camino al éxito.",
+   "x": false
+  },
+  {
+   "id": "84839",
+   "isValid": "",
+   "prompt": "Todo trata sobre {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84843",
+   "isValid": "",
+   "prompt": "Solo {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84845",
+   "isValid": "",
+   "prompt": "Conquista tus {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84847",
+   "isValid": "",
+   "prompt": "Las acciones hablan más que {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84848",
+   "isValid": "",
+   "prompt": "{{BLANK}} es poder.",
+   "x": false
+  },
+  {
+   "id": "84850",
+   "isValid": "",
+   "prompt": "{{BLANK}} es dinero.",
+   "x": false
+  },
+  {
+   "id": "84853",
+   "isValid": "",
+   "prompt": "Construye un mejor {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84857",
+   "isValid": "",
+   "prompt": "{{BLANK}} es un estado mental.",
+   "x": false
+  },
+  {
+   "id": "84863",
+   "isValid": "",
+   "prompt": "Sueña en grande. {{BLANK}} aún más grande.",
+   "x": false
+  },
+  {
+   "id": "84866",
+   "isValid": "",
+   "prompt": "Un {{BLANK}} a la vez.",
+   "x": false
+  },
+  {
+   "id": "84888",
+   "isValid": "",
+   "prompt": "{{BLANK}} es la mejor medicina.",
+   "x": false
+  },
+  {
+   "id": "84967",
+   "isValid": "",
+   "prompt": "{{BLANK}}  no espera a nadie.",
+   "x": false
+  },
+  {
+   "id": "84970",
+   "isValid": "",
+   "prompt": "Nunca eres demasiado  {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84972",
+   "isValid": "",
+   "prompt": "{{BLANK}} no es una opción.",
+   "x": false
+  }
+ ]
+}

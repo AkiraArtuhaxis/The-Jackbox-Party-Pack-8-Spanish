@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Atendió mesas en el gastropub \"{{BLANK}} & {{BLANK}}\""
+  },
+  {
+   "t": "S",
+   "v": "Atendió mesas en el gastropub \"{{BLANK}} & {{BLANK}}\"",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Experiencia laboral"
+  },
+  {
+   "t": "S",
+   "v": "Experiencia laboral",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

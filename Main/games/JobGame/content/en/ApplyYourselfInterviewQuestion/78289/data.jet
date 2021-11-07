@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Te han notado que miras las redes sociales de la nueva pareja de tu ex en tu tiempo laboral. ¿Cómo explicas lo que haces?"
+  },
+  {
+   "t": "S",
+   "v": "Te han notado que miras las redes sociales de la nueva pareja de tu ex en tu tiempo laboral. ¿Cómo explicas lo que haces?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "El equipo de softbol de la compañía necesita algo para aumentar sus posibilidades de ganar el campeonato. ¿Qué sugieres?"
+  },
+  {
+   "t": "S",
+   "v": "El equipo de softbol de la compañía necesita algo para aumentar sus posibilidades de ganar el campeonato. ¿Qué sugieres?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

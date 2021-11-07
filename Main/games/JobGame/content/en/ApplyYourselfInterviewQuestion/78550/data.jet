@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "¡Interpretó el rol de \"{{BLANK}}\" en [i]{{BLANK}} el Musical[/i]!"
+  },
+  {
+   "t": "S",
+   "v": "¡Interpretó el rol de \"{{BLANK}}\" en [i]{{BLANK}} el Musical[/i]!",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Artes escénicas"
+  },
+  {
+   "t": "S",
+   "v": "Artes escénicas",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

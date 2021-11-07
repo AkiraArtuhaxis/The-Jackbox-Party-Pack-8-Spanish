@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Has venido a la oficina en bicicleta y llegaste todo sudoroso, ¡pero no hay ducha que puedas usar para refrescarte! ¿Qué haces?"
+  },
+  {
+   "t": "S",
+   "v": "Has venido a la oficina en bicicleta y llegaste todo sudoroso, ¡pero no hay ducha que puedas usar para refrescarte! ¿Qué haces?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

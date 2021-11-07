@@ -1,0 +1,102 @@
+{
+ "content": [
+  {
+   "firstPrompt": "TENGO {{BLANK}}",
+   "id": "85487",
+   "isValid": "",
+   "secondPrompt": "NECESITO {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "SOY {{BLANK}}",
+   "id": "85488",
+   "isValid": "",
+   "secondPrompt": "QUIERO {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "VOY A {{BLANK}}",
+   "id": "85489",
+   "isValid": "",
+   "secondPrompt": "NO VOY A {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "DOY {{BLANK}}",
+   "id": "85490",
+   "isValid": "",
+   "secondPrompt": "TOMO {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "PUEDO {{BLANK}}",
+   "id": "85491",
+   "isValid": "",
+   "secondPrompt": "NO PUEDO {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "ESPERO {{BLANK}}",
+   "id": "85492",
+   "isValid": "",
+   "secondPrompt": "SÉ {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "DIGO {{BLANK}}",
+   "id": "85493",
+   "isValid": "",
+   "secondPrompt": "HAGO {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "CREO {{BLANK}}",
+   "id": "85494",
+   "isValid": "",
+   "secondPrompt": "DESTRUYO {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "BUSCO {{BLANK}}",
+   "id": "85495",
+   "isValid": "",
+   "secondPrompt": "ENCUENTRO {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "MEREZCO {{BLANK}}",
+   "id": "85496",
+   "isValid": "",
+   "secondPrompt": "CONSIGO {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "SUEÑO {{BLANK}}",
+   "id": "85497",
+   "isValid": "",
+   "secondPrompt": "TEMO {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "PROMETO {{BLANK}}",
+   "id": "85498",
+   "isValid": "",
+   "secondPrompt": "CUMPLO {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "CREO {{BLANK}}",
+   "id": "85499",
+   "isValid": "",
+   "secondPrompt": "RECHAZO {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "AMO {{BLANK}}",
+   "id": "85500",
+   "isValid": "",
+   "secondPrompt": "ODIO {{BLANK}}",
+   "x": false
+  }
+ ]
+}

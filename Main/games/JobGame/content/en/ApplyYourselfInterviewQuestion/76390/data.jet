@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "{{BLANK}} del mes\n\nMás probable que {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "{{BLANK}} del mes\n\nMás probable que {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Premios y logros"
+  },
+  {
+   "t": "S",
+   "v": "Premios y logros",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

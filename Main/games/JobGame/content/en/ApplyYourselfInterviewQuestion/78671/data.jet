@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "{{BLANK}} titular en la Escuela {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "{{BLANK}} titular en la Escuela {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Liderazgo escolar"
+  },
+  {
+   "t": "S",
+   "v": "Liderazgo escolar",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Supongamos que es tu último día en la oficina. ¿Cuáles son tus palabras de despedida en la reunión con todos los de la empresa?"
+  },
+  {
+   "t": "S",
+   "v": "Supongamos que es tu último día en la oficina. ¿Cuáles son tus palabras de despedida en la reunión con todos los de la empresa?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

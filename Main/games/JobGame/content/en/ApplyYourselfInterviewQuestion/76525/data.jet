@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "¡Es noche de karaoke en la compañía! La asistencia y cantar son obligatorios. ¿Cuál es el nombre de tu canción predilecta?"
+  },
+  {
+   "t": "S",
+   "v": "¡Es noche de karaoke en la compañía! La asistencia y cantar son obligatorios. ¿Cuál es el nombre de tu canción predilecta?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

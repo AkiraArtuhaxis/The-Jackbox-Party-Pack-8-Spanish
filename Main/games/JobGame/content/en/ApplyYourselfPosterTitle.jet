@@ -1,0 +1,1042 @@
+{
+ "content": [
+  {
+   "id": "80612",
+   "isValid": "",
+   "title": "Determinación",
+   "x": false
+  },
+  {
+   "id": "80613",
+   "isValid": "",
+   "title": "Lealtad",
+   "x": false
+  },
+  {
+   "id": "80614",
+   "isValid": "",
+   "title": "Pasión",
+   "x": false
+  },
+  {
+   "id": "80615",
+   "isValid": "",
+   "title": "Coraje",
+   "x": false
+  },
+  {
+   "id": "80616",
+   "isValid": "",
+   "title": "Tenacidad",
+   "x": false
+  },
+  {
+   "id": "80617",
+   "isValid": "",
+   "title": "Compasión",
+   "x": false
+  },
+  {
+   "id": "80618",
+   "isValid": "",
+   "title": "Dedicación",
+   "x": false
+  },
+  {
+   "id": "80619",
+   "isValid": "",
+   "title": "Sinergia",
+   "x": false
+  },
+  {
+   "id": "80620",
+   "isValid": "",
+   "title": "Logística",
+   "x": false
+  },
+  {
+   "id": "80621",
+   "isValid": "",
+   "title": "Liderazgo",
+   "x": false
+  },
+  {
+   "id": "80622",
+   "isValid": "",
+   "title": "Comunidad",
+   "x": false
+  },
+  {
+   "id": "80623",
+   "isValid": "",
+   "title": "Potencial",
+   "x": false
+  },
+  {
+   "id": "80624",
+   "isValid": "",
+   "title": "Impulso",
+   "x": false
+  },
+  {
+   "id": "80625",
+   "isValid": "",
+   "title": "Competencia",
+   "x": false
+  },
+  {
+   "id": "80626",
+   "isValid": "",
+   "title": "Trayectoria",
+   "x": false
+  },
+  {
+   "id": "80627",
+   "isValid": "",
+   "title": "Banda ancha",
+   "x": false
+  },
+  {
+   "id": "80628",
+   "isValid": "",
+   "title": "Aprovechar",
+   "x": false
+  },
+  {
+   "id": "80629",
+   "isValid": "",
+   "title": "Interruptor",
+   "x": false
+  },
+  {
+   "id": "80630",
+   "isValid": "",
+   "title": "Influencer",
+   "x": false
+  },
+  {
+   "id": "80631",
+   "isValid": "",
+   "title": "Innovación",
+   "x": false
+  },
+  {
+   "id": "80632",
+   "isValid": "",
+   "title": "Estrategia",
+   "x": false
+  },
+  {
+   "id": "80633",
+   "isValid": "",
+   "title": "Eficiencia",
+   "x": false
+  },
+  {
+   "id": "80634",
+   "isValid": "",
+   "title": "Información",
+   "x": false
+  },
+  {
+   "id": "80635",
+   "isValid": "",
+   "title": "Comprensión",
+   "x": false
+  },
+  {
+   "id": "80636",
+   "isValid": "",
+   "title": "Cambio de paradigma",
+   "x": false
+  },
+  {
+   "id": "80637",
+   "isValid": "",
+   "title": "Creatividad",
+   "x": false
+  },
+  {
+   "id": "80638",
+   "isValid": "",
+   "title": "Errores",
+   "x": false
+  },
+  {
+   "id": "80639",
+   "isValid": "",
+   "title": "Perfección",
+   "x": false
+  },
+  {
+   "id": "80640",
+   "isValid": "",
+   "title": "Consulta",
+   "x": false
+  },
+  {
+   "id": "80641",
+   "isValid": "",
+   "title": "Trabajo en equipo",
+   "x": false
+  },
+  {
+   "id": "80642",
+   "isValid": "",
+   "title": "Sueña",
+   "x": false
+  },
+  {
+   "id": "80643",
+   "isValid": "",
+   "title": "Cree",
+   "x": false
+  },
+  {
+   "id": "80644",
+   "isValid": "",
+   "title": "Prospera",
+   "x": false
+  },
+  {
+   "id": "80645",
+   "isValid": "",
+   "title": "Visión",
+   "x": false
+  },
+  {
+   "id": "80646",
+   "isValid": "",
+   "title": "Excelencia",
+   "x": false
+  },
+  {
+   "id": "80647",
+   "isValid": "",
+   "title": "Actitud",
+   "x": false
+  },
+  {
+   "id": "80648",
+   "isValid": "",
+   "title": "Perspectiva",
+   "x": false
+  },
+  {
+   "id": "80649",
+   "isValid": "",
+   "title": "Ajetreo",
+   "x": false
+  },
+  {
+   "id": "80650",
+   "isValid": "",
+   "title": "Ejecución",
+   "x": false
+  },
+  {
+   "id": "80651",
+   "isValid": "",
+   "title": "Decisiones",
+   "x": false
+  },
+  {
+   "id": "80652",
+   "isValid": "",
+   "title": "Ahora",
+   "x": false
+  },
+  {
+   "id": "80653",
+   "isValid": "",
+   "title": "Mañana",
+   "x": false
+  },
+  {
+   "id": "80654",
+   "isValid": "",
+   "title": "Éxito",
+   "x": false
+  },
+  {
+   "id": "80655",
+   "isValid": "",
+   "title": "Organización",
+   "x": false
+  },
+  {
+   "id": "80656",
+   "isValid": "",
+   "title": "Volver a hablar al respecto",
+   "x": false
+  },
+  {
+   "id": "80657",
+   "isValid": "",
+   "title": "Mantenerse en contacto",
+   "x": false
+  },
+  {
+   "id": "80658",
+   "isValid": "",
+   "title": "Empoderamiento",
+   "x": false
+  },
+  {
+   "id": "80659",
+   "isValid": "",
+   "title": "Soluciones",
+   "x": false
+  },
+  {
+   "id": "80660",
+   "isValid": "",
+   "title": "Cooperación",
+   "x": false
+  },
+  {
+   "id": "80661",
+   "isValid": "",
+   "title": "Viaje",
+   "x": false
+  },
+  {
+   "id": "80662",
+   "isValid": "",
+   "title": "Impacto",
+   "x": false
+  },
+  {
+   "id": "80663",
+   "isValid": "",
+   "title": "Valores fundamentales",
+   "x": false
+  },
+  {
+   "id": "80665",
+   "isValid": "",
+   "title": "Incentivo",
+   "x": false
+  },
+  {
+   "id": "80667",
+   "isValid": "",
+   "title": "Contenido",
+   "x": false
+  },
+  {
+   "id": "80668",
+   "isValid": "",
+   "title": "Nube",
+   "x": false
+  },
+  {
+   "id": "80669",
+   "isValid": "",
+   "title": "Transformación",
+   "x": false
+  },
+  {
+   "id": "80670",
+   "isValid": "",
+   "title": "Paradigma",
+   "x": false
+  },
+  {
+   "id": "80671",
+   "isValid": "",
+   "title": "Colaboración",
+   "x": false
+  },
+  {
+   "id": "80672",
+   "isValid": "",
+   "title": "Aprendizaje",
+   "x": false
+  },
+  {
+   "id": "80673",
+   "isValid": "",
+   "title": "Persistencia",
+   "x": false
+  },
+  {
+   "id": "80674",
+   "isValid": "",
+   "title": "Responsabilidad",
+   "x": false
+  },
+  {
+   "id": "80675",
+   "isValid": "",
+   "title": "Educación",
+   "x": false
+  },
+  {
+   "id": "80676",
+   "isValid": "",
+   "title": "Motivación",
+   "x": false
+  },
+  {
+   "id": "80677",
+   "isValid": "",
+   "title": "Gente",
+   "x": false
+  },
+  {
+   "id": "80678",
+   "isValid": "",
+   "title": "Excusas",
+   "x": false
+  },
+  {
+   "id": "80679",
+   "isValid": "",
+   "title": "Fracaso",
+   "x": false
+  },
+  {
+   "id": "80680",
+   "isValid": "",
+   "title": "Servicio",
+   "x": false
+  },
+  {
+   "id": "80681",
+   "isValid": "",
+   "title": "Optimismo",
+   "x": false
+  },
+  {
+   "id": "82627",
+   "isValid": "",
+   "title": "Templanza",
+   "x": false
+  },
+  {
+   "id": "82628",
+   "isValid": "",
+   "title": "Espíritu",
+   "x": false
+  },
+  {
+   "id": "82629",
+   "isValid": "",
+   "title": "Productividad",
+   "x": false
+  },
+  {
+   "id": "82630",
+   "isValid": "",
+   "title": "Coordinación",
+   "x": false
+  },
+  {
+   "id": "82631",
+   "isValid": "",
+   "title": "Emoción",
+   "x": false
+  },
+  {
+   "id": "82633",
+   "isValid": "",
+   "title": "Fuerza",
+   "x": false
+  },
+  {
+   "id": "82634",
+   "isValid": "",
+   "title": "Hambre",
+   "x": false
+  },
+  {
+   "id": "82816",
+   "isValid": "",
+   "title": "Competición",
+   "x": false
+  },
+  {
+   "id": "82817",
+   "isValid": "",
+   "title": "Ingenuidad",
+   "x": false
+  },
+  {
+   "id": "82818",
+   "isValid": "",
+   "title": "Enfoque",
+   "x": false
+  },
+  {
+   "id": "82819",
+   "isValid": "",
+   "title": "Perseverancia",
+   "x": false
+  },
+  {
+   "id": "82820",
+   "isValid": "",
+   "title": "Orgullo",
+   "x": false
+  },
+  {
+   "id": "82821",
+   "isValid": "",
+   "title": "Empatía",
+   "x": false
+  },
+  {
+   "id": "82822",
+   "isValid": "",
+   "title": "Responsabilidad",
+   "x": false
+  },
+  {
+   "id": "82823",
+   "isValid": "",
+   "title": "Comunicación",
+   "x": false
+  },
+  {
+   "id": "82824",
+   "isValid": "",
+   "title": "Equidad",
+   "x": false
+  },
+  {
+   "id": "82825",
+   "isValid": "",
+   "title": "Disciplina",
+   "x": false
+  },
+  {
+   "id": "82826",
+   "isValid": "",
+   "title": "Honestidad",
+   "x": false
+  },
+  {
+   "id": "82873",
+   "isValid": "",
+   "title": "Cuidado",
+   "x": false
+  },
+  {
+   "id": "82874",
+   "isValid": "",
+   "title": "Simpatía",
+   "x": false
+  },
+  {
+   "id": "82875",
+   "isValid": "",
+   "title": "Preparación",
+   "x": false
+  },
+  {
+   "id": "82876",
+   "isValid": "",
+   "title": "Diversión",
+   "x": false
+  },
+  {
+   "id": "82878",
+   "isValid": "",
+   "title": "Instinto",
+   "x": false
+  },
+  {
+   "id": "82879",
+   "isValid": "",
+   "title": "Temeridad",
+   "x": false
+  },
+  {
+   "id": "82880",
+   "isValid": "",
+   "title": "Audacia",
+   "x": false
+  },
+  {
+   "id": "82881",
+   "isValid": "",
+   "title": "Personalidad",
+   "x": false
+  },
+  {
+   "id": "83368",
+   "isValid": "",
+   "title": "Imaginación",
+   "x": false
+  },
+  {
+   "id": "83369",
+   "isValid": "",
+   "title": "Esfuerzo",
+   "x": false
+  },
+  {
+   "id": "83370",
+   "isValid": "",
+   "title": "Diligencia",
+   "x": false
+  },
+  {
+   "id": "83371",
+   "isValid": "",
+   "title": "Inteligencia",
+   "x": false
+  },
+  {
+   "id": "83372",
+   "isValid": "",
+   "title": "Inspiración",
+   "x": false
+  },
+  {
+   "id": "83373",
+   "isValid": "",
+   "title": "Devoción",
+   "x": false
+  },
+  {
+   "id": "83374",
+   "isValid": "",
+   "title": "Astuto",
+   "x": false
+  },
+  {
+   "id": "83375",
+   "isValid": "",
+   "title": "Unicidad",
+   "x": false
+  },
+  {
+   "id": "83376",
+   "isValid": "",
+   "title": "Auto-conocimiento",
+   "x": false
+  },
+  {
+   "id": "83377",
+   "isValid": "",
+   "title": "Resistencia",
+   "x": false
+  },
+  {
+   "id": "83378",
+   "isValid": "",
+   "title": "Integridad",
+   "x": false
+  },
+  {
+   "id": "83379",
+   "isValid": "",
+   "title": "Honor",
+   "x": false
+  },
+  {
+   "id": "83380",
+   "isValid": "",
+   "title": "Confianza",
+   "x": false
+  },
+  {
+   "id": "83381",
+   "isValid": "",
+   "title": "Transparencia",
+   "x": false
+  },
+  {
+   "id": "83382",
+   "isValid": "",
+   "title": "Paciencia",
+   "x": false
+  },
+  {
+   "id": "83919",
+   "isValid": "",
+   "title": "Fe",
+   "x": false
+  },
+  {
+   "id": "83920",
+   "isValid": "",
+   "title": "Paz",
+   "x": false
+  },
+  {
+   "id": "83923",
+   "isValid": "",
+   "title": "Atención plena",
+   "x": false
+  },
+  {
+   "id": "83924",
+   "isValid": "",
+   "title": "Curiosidad",
+   "x": false
+  },
+  {
+   "id": "83926",
+   "isValid": "",
+   "title": "Dinámica",
+   "x": false
+  },
+  {
+   "id": "83928",
+   "isValid": "",
+   "title": "Lo desconocido",
+   "x": false
+  },
+  {
+   "id": "83929",
+   "isValid": "",
+   "title": "Misterio",
+   "x": false
+  },
+  {
+   "id": "84021",
+   "isValid": "",
+   "title": "Expectativas",
+   "x": false
+  },
+  {
+   "id": "84023",
+   "isValid": "",
+   "title": "Entusiasmo",
+   "x": false
+  },
+  {
+   "id": "84024",
+   "isValid": "",
+   "title": "Ferocidad",
+   "x": false
+  },
+  {
+   "id": "84025",
+   "isValid": "",
+   "title": "Resiliencia",
+   "x": false
+  },
+  {
+   "id": "84027",
+   "isValid": "",
+   "title": "Piensa",
+   "x": false
+  },
+  {
+   "id": "84028",
+   "isValid": "",
+   "title": "Familia",
+   "x": false
+  },
+  {
+   "id": "84029",
+   "isValid": "",
+   "title": "Sostenibilidad",
+   "x": false
+  },
+  {
+   "id": "84032",
+   "isValid": "",
+   "title": "Simplicidad",
+   "x": false
+  },
+  {
+   "id": "84034",
+   "isValid": "",
+   "title": "Conocimiento",
+   "x": false
+  },
+  {
+   "id": "84134",
+   "isValid": "",
+   "title": "Serenidad",
+   "x": false
+  },
+  {
+   "id": "84136",
+   "isValid": "",
+   "title": "Desafía",
+   "x": false
+  },
+  {
+   "id": "84140",
+   "isValid": "",
+   "title": "Autoridad",
+   "x": false
+  },
+  {
+   "id": "84144",
+   "isValid": "",
+   "title": "Crecimiento",
+   "x": false
+  },
+  {
+   "id": "84147",
+   "isValid": "",
+   "title": "Maestría",
+   "x": false
+  },
+  {
+   "id": "84149",
+   "isValid": "",
+   "title": "Multitasking",
+   "x": false
+  },
+  {
+   "id": "84151",
+   "isValid": "",
+   "title": "Fortaleza",
+   "x": false
+  },
+  {
+   "id": "84153",
+   "isValid": "",
+   "title": "Asertividad",
+   "x": false
+  },
+  {
+   "id": "84154",
+   "isValid": "",
+   "title": "Resultados",
+   "x": false
+  },
+  {
+   "id": "84156",
+   "isValid": "",
+   "title": "Calidad",
+   "x": false
+  },
+  {
+   "id": "84157",
+   "isValid": "",
+   "title": "Talento",
+   "x": false
+  },
+  {
+   "id": "84158",
+   "isValid": "",
+   "title": "Experiencia",
+   "x": false
+  },
+  {
+   "id": "84159",
+   "isValid": "",
+   "title": "Control",
+   "x": false
+  },
+  {
+   "id": "84160",
+   "isValid": "",
+   "title": "Audacia",
+   "x": false
+  },
+  {
+   "id": "84161",
+   "isValid": "",
+   "title": "Inmediatez",
+   "x": false
+  },
+  {
+   "id": "84164",
+   "isValid": "",
+   "title": "Brillantez",
+   "x": false
+  },
+  {
+   "id": "84305",
+   "isValid": "",
+   "title": "Arriesgado",
+   "x": false
+  },
+  {
+   "id": "84307",
+   "isValid": "",
+   "title": "Compromiso",
+   "x": false
+  },
+  {
+   "id": "84314",
+   "isValid": "",
+   "title": "Autosuficiencia",
+   "x": false
+  },
+  {
+   "id": "84315",
+   "isValid": "",
+   "title": "Fiabilidad",
+   "x": false
+  },
+  {
+   "id": "84317",
+   "isValid": "",
+   "title": "Humildad",
+   "x": false
+  },
+  {
+   "id": "84320",
+   "isValid": "",
+   "title": "Consideración",
+   "x": false
+  },
+  {
+   "id": "84322",
+   "isValid": "",
+   "title": "Atrevimiento",
+   "x": false
+  },
+  {
+   "id": "84323",
+   "isValid": "",
+   "title": "Valentía",
+   "x": false
+  },
+  {
+   "id": "84324",
+   "isValid": "",
+   "title": "Positividad",
+   "x": false
+  },
+  {
+   "id": "84814",
+   "isValid": "",
+   "title": "Ingeniosidad",
+   "x": false
+  },
+  {
+   "id": "84815",
+   "isValid": "",
+   "title": "Intuición",
+   "x": false
+  },
+  {
+   "id": "84816",
+   "isValid": "",
+   "title": "Bondad",
+   "x": false
+  },
+  {
+   "id": "84817",
+   "isValid": "",
+   "title": "Generosidad",
+   "x": false
+  },
+  {
+   "id": "84818",
+   "isValid": "",
+   "title": "Autenticidad",
+   "x": false
+  },
+  {
+   "id": "84819",
+   "isValid": "",
+   "title": "Progreso",
+   "x": false
+  },
+  {
+   "id": "84821",
+   "isValid": "",
+   "title": "Sabiduría",
+   "x": false
+  },
+  {
+   "id": "84823",
+   "isValid": "",
+   "title": "Metas",
+   "x": false
+  },
+  {
+   "id": "84825",
+   "isValid": "",
+   "title": "Adaptabilidad",
+   "x": false
+  },
+  {
+   "id": "84826",
+   "isValid": "",
+   "title": "Persuasividad",
+   "x": false
+  },
+  {
+   "id": "84828",
+   "isValid": "",
+   "title": "Credibilidad",
+   "x": false
+  },
+  {
+   "id": "84830",
+   "isValid": "",
+   "title": "Confianza",
+   "x": false
+  },
+  {
+   "id": "84831",
+   "isValid": "",
+   "title": "Reliabilidad",
+   "x": false
+  },
+  {
+   "id": "84833",
+   "isValid": "",
+   "title": "Exactitud",
+   "x": false
+  },
+  {
+   "id": "84834",
+   "isValid": "",
+   "title": "Precisión",
+   "x": false
+  },
+  {
+   "id": "84837",
+   "isValid": "",
+   "title": "Ambición",
+   "x": false
+  },
+  {
+   "id": "84838",
+   "isValid": "",
+   "title": "Negociación",
+   "x": false
+  },
+  {
+   "id": "84858",
+   "isValid": "",
+   "title": "Consistencia",
+   "x": false
+  },
+  {
+   "id": "84861",
+   "isValid": "",
+   "title": "Practicalidad",
+   "x": false
+  },
+  {
+   "id": "84865",
+   "isValid": "",
+   "title": "Versatilidad",
+   "x": false
+  },
+  {
+   "id": "84927",
+   "isValid": "",
+   "title": "Trabajo Ocupado",
+   "x": false
+  },
+  {
+   "id": "84928",
+   "isValid": "",
+   "title": "Profesionalismo",
+   "x": false
+  },
+  {
+   "id": "84932",
+   "isValid": "",
+   "title": "Consecuencias",
+   "x": false
+  }
+ ]
+}

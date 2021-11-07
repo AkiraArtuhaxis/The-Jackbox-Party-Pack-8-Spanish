@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Realizó un discurso introductorio:\n\"Cómo {{BLANK}} un {{BLANK}}\""
+  },
+  {
+   "t": "S",
+   "v": "Realizó un discurso introductorio:\n\"Cómo {{BLANK}} un {{BLANK}}\"",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Conferencias"
+  },
+  {
+   "t": "S",
+   "v": "Conferencias",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

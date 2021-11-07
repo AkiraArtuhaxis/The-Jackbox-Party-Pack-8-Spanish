@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Logró {{BLANK}} perfecta\nVotado mejor {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "Logró {{BLANK}} perfecta\nVotado mejor {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Honores escolares"
+  },
+  {
+   "t": "S",
+   "v": "Honores escolares",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

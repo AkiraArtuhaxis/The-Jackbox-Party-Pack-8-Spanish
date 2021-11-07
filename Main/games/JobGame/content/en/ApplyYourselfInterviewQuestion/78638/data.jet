@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Asistente del Profesor {{BLANK}}\n\nEn la Escuela de Bellas {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "Asistente del Profesor {{BLANK}}\n\nEn la Escuela de Bellas {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Profesor asistente"
+  },
+  {
+   "t": "S",
+   "v": "Profesor asistente",
+   "n": "Round3HeaderText"
+  }
+ ]
+}
