@@ -1,0 +1,854 @@
+﻿{
+    "content": [
+        {
+            "id": 0,
+            "x": false,
+            "text": "Glu glu"
+        },
+        {
+            "id": 1,
+            "x": false,
+            "text": "Gracia"
+        },
+        {
+            "id": 2,
+            "x": false,
+            "text": "Buffy"
+        },
+        {
+            "id": 3,
+            "x": false,
+            "text": "Mis secretos"
+        },
+        {
+            "id": 4,
+            "x": false,
+            "text": "Reunión"
+        },
+        {
+            "id": 5,
+            "x": false,
+            "text": "Conflicto"
+        },
+        {
+            "id": 6,
+            "x": false,
+            "text": "Osmosis"
+        },
+        {
+            "id": 7,
+            "x": false,
+            "text": "Vacaciones"
+        },
+        {
+            "id": 8,
+            "x": false,
+            "text": "Dirigido a las urnas"
+        },
+        {
+            "id": 9,
+            "x": false,
+            "text": "Mensajes mezclados"
+        },
+        {
+            "id": 10,
+            "x": false,
+            "text": "Tenacidad"
+        },
+        {
+            "id": 11,
+            "x": false,
+            "text": "Todo esto está mal"
+        },
+        {
+            "id": 12,
+            "x": false,
+            "text": "Un baile sucio"
+        },
+        {
+            "id": 13,
+            "x": false,
+            "text": "Bailando en la Oscuridad"
+        },
+        {
+            "id": 14,
+            "x": false,
+            "text": "Arte abstracto"
+        },
+        {
+            "id": 15,
+            "x": false,
+            "text": "Temor existencial "
+        },
+        {
+            "id": 16,
+            "x": false,
+            "text": "¿Sensación extraña en la boca?"
+        },
+        {
+            "id": 17,
+            "x": false,
+            "text": "Rojo delicioso"
+        },
+        {
+            "id": 18,
+            "x": false,
+            "text": "Ven a verme después de clase"
+        },
+        {
+            "id": 19,
+            "x": false,
+            "text": "Fútbol americano"
+        },
+        {
+            "id": 20,
+            "x": false,
+            "text": "¡Coraje!"
+        },
+        {
+            "id": 21,
+            "x": false,
+            "text": "El mago de Oz"
+        },
+        {
+            "id": 22,
+            "x": false,
+            "text": "Papa Palabra 2"
+        },
+        {
+            "id": 23,
+            "x": false,
+            "text": "Fundamentos básicos"
+        },
+        {
+            "id": 24,
+            "x": false,
+            "text": "Psicología deportiva"
+        },
+        {
+            "id": 25,
+            "x": false,
+            "text": "Terapia de arte"
+        },
+        {
+            "id": 26,
+            "x": false,
+            "text": "¡Feliz año nuevo!"
+        },
+        {
+            "id": 27,
+            "x": false,
+            "text": "Suplente de Broadway"
+        },
+        {
+            "id": 28,
+            "x": false,
+            "text": "Expertos políticos..."
+        },
+        {
+            "id": 29,
+            "x": false,
+            "text": "Oh me encanta este"
+        },
+        {
+            "id": 30,
+            "x": false,
+            "text": "Un momento interesante para tener"
+        },
+        {
+            "id": 31,
+            "x": false,
+            "text": "Fui a la universidad por esto"
+        },
+        {
+            "id": 32,
+            "x": false,
+            "text": "Dios mío oh vaya"
+        },
+        {
+            "id": 33,
+            "x": false,
+            "text": "Oh no muy mal"
+        },
+        {
+            "id": 34,
+            "x": false,
+            "text": "Lo que la magia ha causado"
+        },
+        {
+            "id": 35,
+            "x": false,
+            "text": "Vamos a retroceder"
+        },
+        {
+            "id": 36,
+            "x": false,
+            "text": "Que tengas un buen verano"
+        },
+        {
+            "id": 37,
+            "x": false,
+            "text": "Santo cielo"
+        },
+        {
+            "id": 38,
+            "x": false,
+            "text": "No tenía un plan más allá de esto"
+        },
+        {
+            "id": 39,
+            "x": false,
+            "text": "Puedes ayudarme"
+        },
+        {
+            "id": 40,
+            "x": false,
+            "text": "Por favor aplaudan"
+        },
+        {
+            "id": 41,
+            "x": false,
+            "text": "Pensé que era una fábrica de tartas de queso"
+        },
+        {
+            "id": 42,
+            "x": false,
+            "text": "Demasiado picante"
+        },
+        {
+            "id": 43,
+            "x": false,
+            "text": "Como se ve en televisión"
+        },
+        {
+            "id": 44,
+            "x": false,
+            "text": "¡Hey! Detente"
+        },
+        {
+            "id": 45,
+            "x": false,
+            "text": "Exprésate"
+        },
+        {
+            "id": 46,
+            "x": false,
+            "text": "no hay respuestas incorrectas"
+        },
+        {
+            "id": 47,
+            "x": false,
+            "text": "Vive en el momento"
+        },
+        {
+            "id": 48,
+            "x": false,
+            "text": "Tendré que limpiar eso"
+        },
+        {
+            "id": 49,
+            "x": false,
+            "text": "¡Bien! "
+        },
+        {
+            "id": 50,
+            "x": false,
+            "text": "Qué artesanía"
+        },
+        {
+            "id": 51,
+            "x": false,
+            "text": "Abunda la vergüenza"
+        },
+        {
+            "id": 52,
+            "x": false,
+            "text": "Oh vaya"
+        },
+        {
+            "id": 53,
+            "x": false,
+            "text": "Explícaselo a tu madre"
+        },
+        {
+            "id": 54,
+            "x": false,
+            "text": "Di “ahhhhhh”"
+        },
+        {
+            "id": 55,
+            "x": false,
+            "text": "Buena metáfora"
+        },
+        {
+            "id": 56,
+            "x": false,
+            "text": "Necesito un abrazo"
+        },
+        {
+            "id": 57,
+            "x": false,
+            "text": "Dona glaseada"
+        },
+        {
+            "id": 58,
+            "x": false,
+            "text": "Cacerola de atún y fideos"
+        },
+        {
+            "id": 59,
+            "x": false,
+            "text": "Sobras"
+        },
+        {
+            "id": 60,
+            "x": false,
+            "text": "El espectro de luz"
+        },
+        {
+            "id": 61,
+            "x": false,
+            "text": "Nihilismo"
+        },
+        {
+            "id": 62,
+            "x": false,
+            "text": "Esperando una buena masa"
+        },
+        {
+            "id": 63,
+            "x": false,
+            "text": "Crema hidratante"
+        },
+        {
+            "id": 64,
+            "x": false,
+            "text": "Un pájaro quizás"
+        },
+        {
+            "id": 65,
+            "x": false,
+            "text": "Alguna especie de burro"
+        },
+        {
+            "id": 66,
+            "x": false,
+            "text": "No lo sé, ¿ratas?"
+        },
+        {
+            "id": 67,
+            "x": false,
+            "text": "Muy buen trabajo quien sea que hizo esto"
+        },
+        {
+            "id": 68,
+            "x": false,
+            "text": "ja ja buena"
+        },
+        {
+            "id": 69,
+            "x": false,
+            "text": "Genes hereditarios"
+        },
+        {
+            "id": 70,
+            "x": false,
+            "text": "tu perfil de redes sociales"
+        },
+        {
+            "id": 71,
+            "x": false,
+            "text": "Desambiguación"
+        },
+        {
+            "id": 72,
+            "x": false,
+            "text": "Lo que hay dentro de mí"
+        },
+        {
+            "id": 73,
+            "x": false,
+            "text": "Fecha de caducidad"
+        },
+        {
+            "id": 74,
+            "x": false,
+            "text": "Apoteosis"
+        },
+        {
+            "id": 75,
+            "x": false,
+            "text": "Anhelo"
+        },
+        {
+            "id": 76,
+            "x": false,
+            "text": "no me gusta esta"
+        },
+        {
+            "id": 77,
+            "x": false,
+            "text": "increíble"
+        },
+        {
+            "id": 78,
+            "x": false,
+            "text": "mi sueño recurrente"
+        },
+        {
+            "id": 79,
+            "x": false,
+            "text": "Quiero comer esto"
+        },
+        {
+            "id": 80,
+            "x": false,
+            "text": "Yo vería esta película"
+        },
+        {
+            "id": 81,
+            "x": false,
+            "text": "una metáfora para la vida"
+        },
+        {
+            "id": 82,
+            "x": false,
+            "text": "un hobby mío"
+        },
+        {
+            "id": 83,
+            "x": false,
+            "text": "¡¡¡¡¡escandaloso!!!!!"
+        },
+        {
+            "id": 84,
+            "x": false,
+            "text": "uno de los diez mandamientos"
+        },
+        {
+            "id": 85,
+            "x": false,
+            "text": "Mi pequeño tatuaje secreto"
+        },
+        {
+            "id": 86,
+            "x": false,
+            "text": "anatómicamente imposible"
+        },
+        {
+            "id": 87,
+            "x": false,
+            "text": "no lo se pero no me gusta"
+        },
+        {
+            "id": 88,
+            "x": false,
+            "text": "odio el arte"
+        },
+        {
+            "id": 89,
+            "x": false,
+            "text": "El romance esta muerto"
+        },
+        {
+            "id": 90,
+            "x": false,
+            "text": "la vieja confiable"
+        },
+        {
+            "id": 91,
+            "x": false,
+            "text": "mi dama favorita"
+        },
+        {
+            "id": 92,
+            "x": false,
+            "text": "oooohh entiendo"
+        },
+        {
+            "id": 93,
+            "x": false,
+            "text": "no permitido"
+        },
+        {
+            "id": 94,
+            "x": false,
+            "text": "desayuno, en mi opinión"
+        },
+        {
+            "id": 95,
+            "x": false,
+            "text": "¡¡¡muy peligroso!!!"
+        },
+        {
+            "id": 96,
+            "x": false,
+            "text": "la última tendencia"
+        },
+        {
+            "id": 97,
+            "x": false,
+            "text": "un par de estos bebés + y me voy"
+        },
+        {
+            "id": 98,
+            "x": false,
+            "text": "elige este"
+        },
+        {
+            "id": 99,
+            "x": false,
+            "text": "humanidad"
+        },
+        {
+            "id": 100,
+            "x": false,
+            "text": "aw no debiste"
+        },
+        {
+            "id": 101,
+            "x": false,
+            "text": "valores"
+        },
+        {
+            "id": 102,
+            "x": false,
+            "text": "amistad <3"
+        },
+        {
+            "id": 103,
+            "x": false,
+            "text": "negación plausible"
+        },
+        {
+            "id": 104,
+            "x": false,
+            "text": "me encantaría moverme aquí"
+        },
+        {
+            "id": 105,
+            "x": false,
+            "text": "inspirador"
+        },
+        {
+            "id": 106,
+            "x": false,
+            "text": "veo esto cuando cierro mis ojos"
+        },
+        {
+            "id": 107,
+            "x": false,
+            "text": "tiembla picasso"
+        },
+        {
+            "id": 108,
+            "x": false,
+            "text": "mi deseo oculto"
+        },
+        {
+            "id": 109,
+            "x": false,
+            "text": "necesito conseguir uno de esos"
+        },
+        {
+            "id": 110,
+            "x": false,
+            "text": "Fundamentalismo"
+        },
+        {
+            "id": 111,
+            "x": false,
+            "text": "Porciones de salmón"
+        },
+        {
+            "id": 112,
+            "x": false,
+            "text": "Accidentes felices"
+        },
+        {
+            "id": 113,
+            "x": false,
+            "text": "amisttad"
+        },
+        {
+            "id": 114,
+            "x": false,
+            "text": "sobrecalificado"
+        },
+        {
+            "id": 115,
+            "x": false,
+            "text": "ser cancelado"
+        },
+        {
+            "id": 116,
+            "x": false,
+            "text": "Contenido basura"
+        },
+        {
+            "id": 117,
+            "x": false,
+            "text": "Contenido de calidad"
+        },
+        {
+            "id": 118,
+            "x": false,
+            "text": "qué es todo esto"
+        },
+        {
+            "id": 119,
+            "x": false,
+            "text": "pero qué"
+        },
+        {
+            "id": 120,
+            "x": false,
+            "text": "esto es molesto"
+        },
+        {
+            "id": 121,
+            "x": false,
+            "text": "la belleza del mundo"
+        },
+        {
+            "id": 122,
+            "x": false,
+            "text": "Hermoso <3"
+        },
+        {
+            "id": 123,
+            "x": false,
+            "text": "mira este buen trabajo"
+        },
+        {
+            "id": 124,
+            "x": false,
+            "text": "hmmmmm ni idea"
+        },
+        {
+            "id": 125,
+            "x": false,
+            "text": "sé quién dibujó esto"
+        },
+        {
+            "id": 126,
+            "x": false,
+            "text": "creo que ha habido un error"
+        },
+        {
+            "id": 127,
+            "x": false,
+            "text": "el juego está roto"
+        },
+        {
+            "id": 128,
+            "x": false,
+            "text": "mi mando no está funcionando"
+        },
+        {
+            "id": 129,
+            "x": false,
+            "text": "¿holaa?"
+        },
+        {
+            "id": 130,
+            "x": false,
+            "text": "un montón de garabatos"
+        },
+        {
+            "id": 131,
+            "x": false,
+            "text": "se parece un poco a mí"
+        },
+        {
+            "id": 132,
+            "x": false,
+            "text": "el animal más inteligente"
+        },
+        {
+            "id": 133,
+            "x": false,
+            "text": "por favor no"
+        },
+        {
+            "id": 134,
+            "x": false,
+            "text": "traición!"
+        },
+        {
+            "id": 135,
+            "x": false,
+            "text": "un mundo sin música"
+        },
+        {
+            "id": 136,
+            "x": false,
+            "text": "los beneficios de ser vegano"
+        },
+        {
+            "id": 137,
+            "x": false,
+            "text": "Vamos seamos serios"
+        },
+        {
+            "id": 138,
+            "x": false,
+            "text": "no aprobado por la fda"
+        },
+        {
+            "id": 139,
+            "x": false,
+            "text": "¿¿¿qué falta???"
+        },
+        {
+            "id": 140,
+            "x": false,
+            "text": "onda de campeón"
+        },
+        {
+            "id": 141,
+            "x": false,
+            "text": "modo bestia"
+        },
+        {
+            "id": 142,
+            "x": false,
+            "text": "dije que sostengas el queso"
+        },
+        {
+            "id": 143,
+            "x": false,
+            "text": "el nuevo amigo de mamá"
+        },
+        {
+            "id": 144,
+            "x": false,
+            "text": "soy la respuesta correcta"
+        },
+        {
+            "id": 145,
+            "x": false,
+            "text": "aliens..."
+        },
+        {
+            "id": 146,
+            "x": false,
+            "text": "francamente alegre"
+        },
+        {
+            "id": 147,
+            "x": false,
+            "text": "caos general"
+        },
+        {
+            "id": 148,
+            "x": false,
+            "text": "no te asustes... baila"
+        },
+        {
+            "id": 149,
+            "x": false,
+            "text": "solo vives una vez"
+        },
+        {
+            "id": 150,
+            "x": false,
+            "text": "pollo rostizado"
+        },
+        {
+            "id": 151,
+            "x": false,
+            "text": "trozos y manchas"
+        },
+        {
+            "id": 152,
+            "x": false,
+            "text": "cosas de película de acción"
+        },
+        {
+            "id": 153,
+            "x": false,
+            "text": "lollll"
+        },
+        {
+            "id": 154,
+            "x": false,
+            "text": "no sé, ¿un perro?"
+        },
+        {
+            "id": 155,
+            "x": false,
+            "text": "oh no te mordieron"
+        },
+        {
+            "id": 156,
+            "x": false,
+            "text": "la mejor medicina"
+        },
+        {
+            "id": 157,
+            "x": false,
+            "text": "verdadera felicidad"
+        },
+        {
+            "id": 158,
+            "x": false,
+            "text": "auch, mis sentimientos"
+        },
+        {
+            "id": 159,
+            "x": false,
+            "text": "los juguetes cobran vida cuando duermes"
+        },
+        {
+            "id": 160,
+            "x": false,
+            "text": "3 aves invisibles en el fondo"
+        },
+        {
+            "id": 161,
+            "x": false,
+            "text": "rencor"
+        },
+        {
+            "id": 162,
+            "x": false,
+            "text": "wiiiiii"
+        },
+        {
+            "id": 163,
+            "x": false,
+            "text": "un video musical malo"
+        },
+        {
+            "id": 164,
+            "x": false,
+            "text": "dibujas muy bien"
+        },
+        {
+            "id": 165,
+            "x": false,
+            "text": "Cuánto anhelo"
+        },
+        {
+            "id": 166,
+            "x": false,
+            "text": "necesitamos una luz estroboscópica"
+        },
+        {
+            "id": 167,
+            "x": false,
+            "text": "Cambio climático, desafortunadamente"
+        },
+        {
+            "id": 168,
+            "x": false,
+            "text": "olvida eso"
+        },
+        {
+            "id": 169,
+            "x": false,
+            "text": "norman suelta"
+        }
+    ]
+}

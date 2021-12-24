@@ -1,0 +1,37 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio",
+   "s": "Esta es una encuesta muy poco conocida, probablemente nunca hayas escuchado sobre ella."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Están iniciando una banda de rock indie. ¿Qué cosas únicas te encantaría usar para ayudar a definir tu sonido?"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio",
+   "s": "Ahora lo único que les falta es un nombre innovador y artístico, ¿puedo sugerirles \"Atrapados en una cueva para siempre\"?"
+  }
+ ]
+}

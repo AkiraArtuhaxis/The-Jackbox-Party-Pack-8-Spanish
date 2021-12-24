@@ -1,0 +1,508 @@
+{
+ "content": [
+  {
+   "name": "Los pelusitas"
+  },
+  {
+   "name": "Equipo misterioso"
+  },
+  {
+   "name": "No asesinos"
+  },
+  {
+   "name": "Nerds"
+  },
+  {
+   "name": "Abuelas"
+  },
+  {
+   "name": "Sonámbulos"
+  },
+  {
+   "name": "Bebés sueltos"
+  },
+  {
+   "name": "Conocidos"
+  },
+  {
+   "name": "Hamburguesa y sus patatas"
+  },
+  {
+   "name": "La pandilla de la mano"
+  },
+  {
+   "name": "Aspirantes"
+  },
+  {
+   "name": "¡¡¡Equipo Sin Reglas!!!"
+  },
+  {
+   "name": "Equipo simplemente perfecto"
+  },
+  {
+   "name": "Equipo Nada especial"
+  },
+  {
+   "name": "Equipo Mamacita"
+  },
+  {
+   "name": "Amienemigos"
+  },
+  {
+   "name": "Criaturas espeluznantes"
+  },
+  {
+   "name": "Equipo Venganza"
+  },
+  {
+   "name": "Equipo Caspa"
+  },
+  {
+   "name": "Nos Divertimos"
+  },
+  {
+   "name": "Equipo Mortadela"
+  },
+  {
+   "name": "Alemanes"
+  },
+  {
+   "name": "Los Manos Sudorosas"
+  },
+  {
+   "name": "Caramelitos"
+  },
+  {
+   "name": "Demasiado Caliente para ser Manejado"
+  },
+  {
+   "name": "Cocineros de la tele"
+  },
+  {
+   "name": "Albóndigas"
+  },
+  {
+   "name": "Diablitos"
+  },
+  {
+   "name": "Buena Gente"
+  },
+  {
+   "name": "El equipo perfecto"
+  },
+  {
+   "name": "Aves no Voladoras"
+  },
+  {
+   "name": "Beisbolistas junior"
+  },
+  {
+   "name": "Equipo ¡Yupi!"
+  },
+  {
+   "name": "Polenta de la vieja escuela"
+  },
+  {
+   "name": "Nos Rendimos"
+  },
+  {
+   "name": "Equipo Música de Ascensor"
+  },
+  {
+   "name": "Asustados hasta el hueso"
+  },
+  {
+   "name": "Equipo Uh-la-la"
+  },
+  {
+   "name": "Grisines libres"
+  },
+  {
+   "name": "Pandilla de tontos"
+  },
+  {
+   "name": "Equipo Va Va Voom"
+  },
+  {
+   "name": "Neurocirujanos"
+  },
+  {
+   "name": "Los Oh No"
+  },
+  {
+   "name": "Los teléfonos de tapa"
+  },
+  {
+   "name": "Equipo Miranda"
+  },
+  {
+   "name": "Primeras tubas"
+  },
+  {
+   "name": "Alborotadores"
+  },
+  {
+   "name": "Vendedores telefónicos"
+  },
+  {
+   "name": "Los Aros de Cebolla"
+  },
+  {
+   "name": "Equipo Quejidos"
+  },
+  {
+   "name": "Equipo Tramposo"
+  },
+  {
+   "name": "Upsi dupsis"
+  },
+  {
+   "name": "Los Globos de Animales"
+  },
+  {
+   "name": "Equipo que no es como otros equipos"
+  },
+  {
+   "name": "Los Linces"
+  },
+  {
+   "name": "Club de los Mejores Amigos"
+  },
+  {
+   "name": "Las Serpientes del Trueno"
+  },
+  {
+   "name": "Dr. Caderas y sus amigos"
+  },
+  {
+   "name": "Equipo Tryhard"
+  },
+  {
+   "name": "Los Becarios sin Sueldo"
+  },
+  {
+   "name": "El equipo malvado"
+  },
+  {
+   "name": "Los upsi dupsis"
+  },
+  {
+   "name": "Equipo Risitas"
+  },
+  {
+   "name": "Solo Gente Normal"
+  },
+  {
+   "name": "Los Tomates Dulces"
+  },
+  {
+   "name": "Los Amigos de tu Padre"
+  },
+  {
+   "name": "Los bobitos más tontitos"
+  },
+  {
+   "name": "Insectos Disfrazados"
+  },
+  {
+   "name": "Y Los Nominados Son"
+  },
+  {
+   "name": "Docena de bananero"
+  },
+  {
+   "name": "Los tortellini"
+  },
+  {
+   "name": "Los bros del cora"
+  },
+  {
+   "name": "Villanos bigotudos"
+  },
+  {
+   "name": "Equipo Bolsillo"
+  },
+  {
+   "name": "El Elenco de Friends"
+  },
+  {
+   "name": "Los Ricos"
+  },
+  {
+   "name": "Fiesta de Langosta"
+  },
+  {
+   "name": "Equipo Carne"
+  },
+  {
+   "name": "Gente fideo"
+  },
+  {
+   "name": "Lomos de cerdo"
+  },
+  {
+   "name": "Un Chat de Grupo "
+  },
+  {
+   "name": "Gatos Venenosos"
+  },
+  {
+   "name": "Jorobados"
+  },
+  {
+   "name": "El Club de Geografía"
+  },
+  {
+   "name": "Amigos de buen cabello"
+  },
+  {
+   "name": "Equipo McDonalds"
+  },
+  {
+   "name": "NO SE PERMITEN CHICOS"
+  },
+  {
+   "name": "¡Compas!"
+  },
+  {
+   "name": "Quienes se aguantan entre sí"
+  },
+  {
+   "name": "Los Sobrecalificados"
+  },
+  {
+   "name": "Ex Actores Infantiles"
+  },
+  {
+   "name": "Últimos en ir al baño"
+  },
+  {
+   "name": "Un Grupo de NERDS"
+  },
+  {
+   "name": "Bichos de amor"
+  },
+  {
+   "name": "Nombre Asignado por el Juego"
+  },
+  {
+   "name": "Los patos sueltos"
+  },
+  {
+   "name": "U2 (No la banda)"
+  },
+  {
+   "name": "No Escribió Nombre"
+  },
+  {
+   "name": "Las jefas"
+  },
+  {
+   "name": "Spoileamos Películas"
+  },
+  {
+   "name": "Reyes Malvados"
+  },
+  {
+   "name": "Los Boston Celtics"
+  },
+  {
+   "name": "Unas manzanas podridas"
+  },
+  {
+   "name": "Clásicos del cine"
+  },
+  {
+   "name": "Los Tíos"
+  },
+  {
+   "name": "Equipo Monóculo"
+  },
+  {
+   "name": "Mejores amigos de Mamá"
+  },
+  {
+   "name": "No muy ávidos lectores"
+  },
+  {
+   "name": "Equipo Cerebritoz"
+  },
+  {
+   "name": "Cabina 347"
+  },
+  {
+   "name": "Elenco de Bones"
+  },
+  {
+   "name": "Unas Personas Picantes"
+  },
+  {
+   "name": "Una banda de bromistas"
+  },
+  {
+   "name": "Olvidó un nombre"
+  },
+  {
+   "name": "Buscando cuevas"
+  },
+  {
+   "name": "Las Damas Rosas"
+  },
+  {
+   "name": "Nombre de equipo genérico"
+  },
+  {
+   "name": "Equipo Carpincho"
+  },
+  {
+   "name": "Noche de Maestros-Padres"
+  },
+  {
+   "name": "La Bella y las Bestias"
+  },
+  {
+   "name": "Calculadoras Gráficas"
+  },
+  {
+   "name": "100% Gente Normal"
+  },
+  {
+   "name": "Los Cangrejos de Lucha"
+  },
+  {
+   "name": "Los Doctores Medicos"
+  },
+  {
+   "name": "Los Pasteles Vivientes"
+  },
+  {
+   "name": "La clase de la señorita Gremlik"
+  },
+  {
+   "name": "Equipo ¡¿EH?!"
+  },
+  {
+   "name": "Algunos Pandas"
+  },
+  {
+   "name": "Nadie escribió nada"
+  },
+  {
+   "name": "Kevin y los Kevin"
+  },
+  {
+   "name": "Marley y Yo y Nosotros"
+  },
+  {
+   "name": "Equipo Manteca"
+  },
+  {
+   "name": "Alianza de Apicultores"
+  },
+  {
+   "name": "Equipo Sopa Caliente"
+  },
+  {
+   "name": "Equipo Olímpico de Sondeo"
+  },
+  {
+   "name": "¡Las Cuervos! ¡¡¡AHHH!!!"
+  },
+  {
+   "name": "Equipo Pasta Cruda"
+  },
+  {
+   "name": "Gaviotas Gloriosas"
+  },
+  {
+   "name": "Equipo divertido para pasarla bien"
+  },
+  {
+   "name": "Los papitos con onda"
+  },
+  {
+   "name": "Los trols encuestadores"
+  },
+  {
+   "name": "Muppets Prohibidos"
+  },
+  {
+   "name": "Los mentirosos de Filadelfia"
+  },
+  {
+   "name": "Los Hijos Secretos de la Reina"
+  },
+  {
+   "name": "Los cuerpos de playa"
+  },
+  {
+   "name": "Banda Tanga"
+  },
+  {
+   "name": "Los Hijos del Medio"
+  },
+  {
+   "name": "En busca de un abrazo"
+  },
+  {
+   "name": "Las Sailor Scouts"
+  },
+  {
+   "name": "[CENSURADO]"
+  },
+  {
+   "name": "Fanáticos de Papa Palabra"
+  },
+  {
+   "name": "#ReinasIconic"
+  },
+  {
+   "name": "Las camisetas arrugadas"
+  },
+  {
+   "name": "Los pura onda"
+  },
+  {
+   "name": "Insultafantasmas"
+  },
+  {
+   "name": "Banda de covers de Pearl Jam"
+  },
+  {
+   "name": "Los Piratas Cuidadosos"
+  },
+  {
+   "name": "Los Precavidos"
+  },
+  {
+   "name": "Las Cosas más Finas"
+  },
+  {
+   "name": "Los Más Ruidosos"
+  },
+  {
+   "name": "Observadores de aves"
+  },
+  {
+   "name": "Equipo Espinaca"
+  },
+  {
+   "name": "Enemigos del Abuelo"
+  },
+  {
+   "name": "Los campeones del chili"
+  },
+  {
+   "name": "Ejército de Aves Grandes"
+  },
+  {
+   "name": "Equipo de Tango Mango"
+  },
+  {
+   "name": "Equipo Margarita"
+  },
+  {
+   "name": "Criminales victorianos"
+  }
+ ]
+}

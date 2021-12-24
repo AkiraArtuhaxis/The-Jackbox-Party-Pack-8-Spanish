@@ -1,0 +1,166 @@
+{
+ "content": [
+  {
+   "prompt": "Tu saludo preferido",
+   "choices": [
+    "Abrazo Tibio",
+    "Saludo de manos",
+    "Chocar los cinco",
+    "Inclinación de Cabeza",
+    "Beso en la mejilla"
+   ]
+  },
+  {
+   "prompt": "Mejores añadidos para el chocolate caliente",
+   "choices": [
+    "Malvaviscos",
+    "Crema batida",
+    "Canela",
+    "Bastones de caramelo",
+    "Ralladura de naranja"
+   ]
+  },
+  {
+   "prompt": "Sombreros más asombrosos",
+   "choices": [
+    "Sombrero de copa",
+    "Gorro de lana",
+    "Fedora",
+    "Boina",
+    "Corona"
+   ]
+  },
+  {
+   "prompt": "Mejores maneras de cerrar pantalones",
+   "choices": [
+    "Botón",
+    "Cierre",
+    "Pin de seguridad",
+    "Velcro",
+    "Cuerda"
+   ]
+  },
+  {
+   "prompt": "Colores de cabello favoritos",
+   "choices": [
+    "Rubio",
+    "Moreno",
+    "Negro",
+    "Gris",
+    "Pelado"
+   ]
+  },
+  {
+   "prompt": "Mejores herramientas de jardinería",
+   "choices": [
+    "Rastrillo",
+    "Pala",
+    "Tijeras",
+    "Azada",
+    "Cortadora de césped"
+   ]
+  },
+  {
+   "prompt": "Mejores juguetes para bebé",
+   "choices": [
+    "Sonajero",
+    "Bloques",
+    "Oso de peluche",
+    "Llaves",
+    "Roca genial"
+   ]
+  },
+  {
+   "prompt": "Mejores cosas en las que sentarse",
+   "choices": [
+    "Sillón de dos plazas",
+    "Banco de bar",
+    "Pelota de yoga",
+    "Banco de madera",
+    "Sillón puf"
+   ]
+  },
+  {
+   "prompt": "Qué es más Pegajoso",
+   "choices": [
+    "Pegamento",
+    "Miel",
+    "Alquitrán",
+    "Miel de maple",
+    "Chicle mascado"
+   ]
+  },
+  {
+   "prompt": "Médicos más confiables",
+   "choices": [
+    "Dr. Malito",
+    "Dr. Oz",
+    "Dr. Strange",
+    "Dr. Seuss",
+    "Dra. Ruth"
+   ]
+  },
+  {
+   "prompt": "Capitanes más heroicos",
+   "choices": [
+    "Cap. América",
+    "Cap. Marvel",
+    "Cap. Kirk",
+    "Cap. Planeta",
+    "Cap. Tsubasa"
+   ]
+  },
+  {
+   "prompt": "¿Qué te hace reír?",
+   "choices": [
+    "Chistes de pedos",
+    "Peleas de tortazos",
+    "Memes Raros",
+    "Locuras de gatos",
+    "Juegos de palabras de cuevas"
+   ]
+  },
+  {
+   "prompt": "Mejores cosas para empujar o presionar",
+   "choices": [
+    "Un botón",
+    "Un cochecito",
+    "Un columpio",
+    "Una puerta",
+    "Un tonto"
+   ]
+  },
+  {
+   "prompt": "Cosas favoritas para prender fuego",
+   "choices": [
+    "Vela",
+    "Tronco",
+    "Petardo",
+    "Creps",
+    "Efigie"
+   ]
+  },
+  {
+   "prompt": "Peores usos para la salsa picante",
+   "choices": [
+    "Pasta de dientes",
+    "Champú",
+    "Desodorante",
+    "Enjuague bucal",
+    "Protector solar"
+   ]
+  },
+  {
+   "prompt": "Las partes más asombrosas del espacio",
+   "choices": [
+    "Meteoros",
+    "Agujeros negros",
+    "Estrellas",
+    "¿Alienígenas?",
+    "Lunas"
+   ]
+  }
+ ]
+}
+
+

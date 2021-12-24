@@ -1,0 +1,451 @@
+{
+    "table": {
+        "en": {
+            "LANGUAGE_NAME": "Literatura",
+            "LANGUAGE": "Language",
+            "INTERNET_CONNECTED": "Acabamos de descubrir Internet.",
+            "INTERNET_DISCONNECTED": "Parece que no podemos conectarte a los servidores de Jackbox Games.<br/>Comprueba que tu conexión a Internet funciona correctamente.",
+            "ROOM_DESTROYED": "Se ha producido un error y tu sala se ha desintegrado.<br/>Comprueba que tu conexión a Internet funciona correctamente.",
+            "ROOM_EXIT_CAUSE_LOBBY_TIMEOUT": "Se ha producido un error y tu sala se ha desintegrado.<br/>Comprueba que tu conexión a Internet funciona correctamente. (Causa: 1)",
+            "ROOM_EXIT_CAUSE_JOIN_TIMEOUT": "Se ha producido un error y tu sala se ha desintegrado.<br/>Comprueba que tu conexión a Internet funciona correctamente. (Causa: 2)",
+            "ROOM_EXIT_CAUSE_GAME_TIMEOUT": "Se ha producido un error y tu sala se ha desintegrado.<br/>Comprueba que tu conexión a Internet funciona correctamente. (Causa: 3)",
+            "ROOM_EXIT_CAUSE_DISCONNECT": "Se ha producido un error y tu sala se ha desintegrado.<br/>Comprueba que tu conexión a Internet funciona correctamente. (Causa: 4)",
+            "ROOM_EXIT_CAUSE_BY_REQUEST": "Se ha producido un error y tu sala se ha desintegrado.<br/>Comprueba que tu conexión a Internet funciona correctamente. (Causa: 5)",
+            "ROOM_EXIT_CAUSE_SHUTTING_DOWN": "Se ha producido un error y tu sala se ha desintegrado.<br/>Comprueba que tu conexión a Internet funciona correctamente. (Causa: 6)",
+            "SOCKET_DISCONNECTED ": "Hemos perdido la conexión con los servidores de Jackbox Games.",
+            "TIMEOUT": "Parece que no podemos conectarte a los servidores de Jackbox Games.<br/>Comprueba que tu conexión a Internet funciona correctamente.",
+            "USER_DISCONNECT": "Te has desconectado del servidor. Vuelve a intentarlo.",
+            "LOST_LICENSE": "¡No hemos encontrado la licencia para este contenido!",
+            "STEAM_ERROR": "No hemos podido validar tu licencia de Steam.",
+            "TWITCH_PRIME_ERROR": "No hemos podido validar tu licencia de Twitch Prime.",
+            "LOST_DLC": "No hemos encontrado la licencia para el contenido descargable. Volviendo al menú principal...",
+            "BACK": "Atrás",
+            "CLOSE": "Cerrar",
+            "CANCEL": "Cancelar",
+            "SELECT": "Seleccionar",
+            "OR": "O",
+            "ON": "Sí",
+            "OFF": "No",
+            "HIDE": "Ocultar",
+            "UNHIDE": "Mostrar",
+            "HIDDEN_ROOM_CODE": "?????",
+            "JOIN": "Únete en jackbox.lol",
+            "PLAY": "Jugar",
+            "SETTINGS": "Ajustes",
+            "BACK_TO_PACK": "Atrás",
+            "PLAY_DESCRIPTION": "Crea una sala y juega",
+            "SETTINGS_DESCRIPTION": "Censura, público, y más",
+            "BACK_TO_PACK_DESCRIPTION": "Volver al Party Pack",
+            "STREAMER_MODE": "Modo Streamer",
+            "STREAMER_MODE_DESCRIPTION": "¡Juega contra tu público! Los streamers en un equipo, el público en el otro. <br> Recomendamos que le pongas contraseña a tu partida en los Ajustes antes de empezar.",
+            "SETTINGS_TITLE": "AJUSTES",
+            "CONNECTING": "Conectando a los servicios de Jackbox Games",
+            "CONNECTING_DELAY": "La cosa va despacio...<br/>Comprueba tu conexión a Internet.",
+            "GO_TO": "Ve a ",
+            "JOIN_ON_YOUR_DEVICE": "en tu dispositivo móvil para unirte",
+            "ENTER_ROOM_CODE": "e ingresa el código de sala",
+            "READ_ROOM_CODE": "Leer código de sala",
+            "PLAY_AGAIN": "¿Otra vez?",
+            "EVERYBODYS_IN": "¡Esperando a que %s inicie la partida!",
+            "WAITING_FOR_MORE": "¡Se necesitan %s jugadores para empezar!",
+            "PRESS": "Pulsa",
+            "TO_START": "para empezar",
+            "TO_CANCEL": "para cancelar",
+            "TO_START_GAME": "para empezar",
+            "TO_CANCEL_GAME": "para cancelar",
+            "JOIN_AUDIENCE": "¡Únete como público!",
+            "PLAY_AGAIN_WITH": "JUGAR OTRA VEZ CON",
+            "SAME_PLAYERS": "MISMOS JUGADORES",
+            "LOBBY_OR": "O",
+            "NEW_PLAYERS": "NUEVOS JUGADORES",
+            "LOBBY_HEADER_MESSAGE_PLAYERS_JOINED": "{CURRENT_PLAYERS}/{MAX_PLAYERS} jugadores unidos",
+            "LOBBY_STATUS_MESSAGE_WAITINGFORMORE": "{MIN_PLAYERS} jugadores requeridos para empezar",
+            "LOBBY_STATUS_MESSAGE_CANSTART": "Pulsa cuando todos estén listos",
+            "LOBBY_STATUS_MESSAGE_COUNTDOWN": "Cancelar inicio de juego",
+            "LOBBY_STATUS_MESSAGE_WAITINGFORVIP": "¡Esperando a que {VIP} inicie la partida!",
+            "LOBBY_STATUS_MESSAGE_WAITINGFORGAMEPAD": "¡Esperando a que comience el juego!",
+            "CONTROLLER_SIT_BACK": "SIÉNTATE Y RELÁJATE",
+            "CONTROLLER_WAIT_FOR_PLAYERS": "ESPERA A LOS OTROS JUGADORES",
+            "CONTROLLER_PRESS_EVERYBODYS_IN": "",
+            "CONTROLLER_EVERYBODYS_IN": "<div>¡PULSA CUANDO</div><div>TODOS ESTÉN LISTOS!</div>",
+            "CONTROLLER_PRESS_CANCEL": "",
+            "CONTROLLER_CANCEL": "<div>PULSA PARA</div><div>CANCELAR EL INICIO DEL JUEGO</div>",
+            "CONTROLLER_POSTGAME_CHOICE": "¿QUIERES JUGAR DE NUEVO?",
+            "CONTROLLER_SAME_PLAYERS": "MISMOS JUGADORES",
+            "CONTROLLER_NEW_PLAYERS": "NUEVOS JUGADORES",
+            "LOBBY_SETTINGS": "Ajustes",
+            "LOBBY_SETTINGS_ICON_MAX": "MAX",
+            "LOBBY_SETTINGS_ICON_MOD_PLURAL": "MODS",
+            "LOBBY_SETTINGS_ICON_MOD_SINGULAR": "MOD",
+            "MODERATION_TIMER_LABEL": "Esperando la moderación",
+            "GLOBAL_ROOM_CODE_LABEL": "Código de sala",
+            "GLOBAL_ROOM_CODE_SIMPLE_LABEL": "Código de sala",
+            "GLOBAL_ROOM_CODE_REMINDER_LABEL": "jack<br/>box<br/>.tv",
+            "FILTER_PLAYERNAME": "Filtrar enunciados con nombre de jugador",
+            "FILTER_PLAYERNAME_DESCRIPTION": "Elimina los enunciados que incorporan los nombres de los jugadores.",
+            "SURVEY_PROMPT_CHOICE_TEXT": "Elige tu %s respuesta",
+            "SURVEY_PROMPT_CHOICE_PLACE_0": "primera",
+            "SURVEY_PROMPT_CHOICE_PLACE_1": "segunda",
+            "SURVEY_PROMPT_CHOICE_PLACE_2": "tercera",
+            "SURVEY_PROMPT_CHOICE_PLACE_3": "cuarta",
+            "SURVEY_PROMPT_CHOICE_PLACE_4": "quinta",
+            "RANKING_CHOICE_PROMPT": "Elige una respuesta para la pregunta \n%s",
+            "RANK_ORDINAL_ENDINGS": [
+                "ra",
+                "da",
+                "ra",
+                "ta",
+                "ta",
+                "ta",
+                "ma",
+                "va"
+            ],
+            "DOOR_CHOICE_RANKING": "No: %s",
+            "RULESET_PROMPT_0_0": "3 mejores respuestas",
+            "RULESET_PROMPT_1_0": "Respuestas 2, 3, 4",
+            "RULESET_PROMPT_2": "Abajo hacia arriba\n(8 a 1)",
+            "SKIP_TUTORIAL_INTERACTION_TEXT": "¿Omitir tutorial?",
+            "SKIP_TUTORIAL_BUTTON_TEXT": "Omitir",
+            "AUDIENCE_LABEL": "Público",
+            "ROUND_MAP_WARNING_HEADING_WARNING": "Advertencia:",
+            "ROUND_MAP_WARNING_HEADING_CAUTION": "Precaución:",
+            "ROUND_MAP_WARNING_HEADING_BEWARE": "Cuidado:",
+            "ROUND_MAP_WARNING_TEXT_CAUTION": [
+                "Los monstruos pequeños son venenosos. Los monstruos grandes están seguros de sí mismos.",
+                "La sombra puede que no sea la tuya.",
+                "Debes prometerme que no te enamorarás.",
+                "Por favor, no tocar los sacos de huevos a menos que seas una madre insecto.",
+                "La venta de almas termina a la 1 PM.",
+                "Balrog circulando.",
+                "Traten de mantenerse callados por la Grieta Orca.",
+                "Genialidad agrietada por delante.",
+                "Google Maps es inútil en la mayoría de la cueva.",
+                "Las criaturas de la cueva prefieren las cuevas húmedas a las viscosas. Adecúense en función a ello.",
+                "Solteros ardientes en esta zona. ¡Tan ardientes que queman!",
+                "Cruce de diablillos.",
+                "Esa ahí debajo no es tu madre, créanme.",
+                "Los griales para beber no tienen etiqueta."
+            ],
+            "ROUND_MAP_WARNING_TEXT_BEWARE": [
+                "Las piedras normales y las arañas de piedra son idénticas.",
+                "Sean Conscientes.",
+                "La esfinge está particularmente obtusa hoy.",
+                "Regresar a la superficie implica confrontar su triste y vieja vida.",
+                "Los trols de la cueva ya no aceptan oro, solo aceptan cripto.",
+                "Todas las superficies son inflamables y comerciamos con antorchas.",
+                "Si escuchas un eco que no suena conocido no respondas a él.",
+                "La oscuridad está particularmente oscura hoy.",
+                "Los crustáceos de cueva están particularmente crustáceos hoy.",
+                "La mayoría de las profecías de la cueva tienen, algo así como una trampa.",
+                "A los goblins les gusta pellizcar.",
+                "Camino prohibido solo abierto de la primera a la segunda medianoche.",
+                "Inconvenientes mineros por delante.",
+                "Este no es un lugar de honor.",
+                "Bruja escucha podcasts sin auriculares.",
+                "Niños.",
+                "Dejar migas de pan para no perderte solo te ganará la furia de los Monstruos de las Migas de Pan."
+            ],
+            "ROUND_MAP_WARNING_TEXT_WARNING": [
+                "No hay \"sur\" en esta cueva, solo \"norte grande\" y \"norte chico\".",
+                "La bruja intentará armar planes con ustedes luego de su escape.",
+                "Una cueva dividida no puede mantenerse de pie. Así que cuidado con dónde pisan.",
+                "No se olviden de parar, desplomarse y llorar.",
+                "Algoritmo de desplazamiento por delante.",
+                "El puente tenebroso se puso tembloroso.",
+                "Obra mediocre en muchas de las estalagmitas.",
+                "No se aceptan reembolsos de tesoros de cueva, solo devoluciones a cambio de crédito cavernícola.",
+                "Los únicos nabos de cueva que no son venenosos crecen de adentro para afuera.",
+                "Las estalactitas y las estalagmitas siguen siendo indistinguibles para ustedes.",
+                "Puede que los monstruos de la cueva pidan noticias respecto a reality shows.",
+                "Los cangrejos de cueva solamente mienten. Los goblins solamente dicen la verdad. La dura verdad.",
+                "Los monstruos en el espejo están más cerca de lo que parece.",
+                "¡NO zambullirse! ¡Magma poco profundo!",
+                "No crean sus mentiras.",
+                "No corretear, arrastrarse o escurrirse fuera de horario.",
+                "Las tres cabezas de los perros de la cueva deben estar con correa."
+            ],
+            "ROUND_MAP_NOTE_TEXT": [
+                "Les he dejado unas deliciosas sanguijuelas solo para ustedes. Compártanlas, por favor.",
+                "Las opiniones son como ombligos… ¡Las necesitarán para escapar de la cueva!",
+                "Después del fiasco de la semana pasada, todos los aventureros han perdido los privilegios de acceder a hachas de guerra.",
+                "Con gusto me comeré cualquier antorcha que no vayan a usar.",
+                "Resulta que el verdadero tesoro era todo este oro que tengo.",
+                "Por favor, avísenme si se encuentran a mi amigo Jeff. Jeff es algo así como un PUÑADO de huesos.",
+                "Los monstruos son mis niños, pero también les pago dignamente como contratistas independientes.",
+                "Las fosas <u>no tienen</u> \"fin\", pero más en un plan de bebidas gratis que en plan morir de hambre.",
+                "Me encanta clasificar. Por ejemplo, todos ustedes ahora mismo están empatados entre \"muertos\" y \"súper muertos\". ¡Genial!",
+                "¡La cueva probablemente no colapsará sobre ustedes! ¡Aunque hay una primera vez para todo!",
+                "Acaríciale un poco la barbilla a la mantícora si la ves.",
+                "Siéntanse como en casa y dejen sus abrigos en cualquier abismo disponible.",
+                "La contraseña del wi-fi es \"DejasteUnAgujeroEnMiCora21!\" o algo así.",
+                "¡No puedo esperar a escuchar sus opiniones y gritos de horror! besitos",
+                "¡Háganme saber si necesitan algo, además de una ruta de escape!",
+                "¡Estoy tan feliz de tenerlos a todos aquí! O sea, no tenían opción. Pero igual, estoy feliz.",
+                "Uno de mis monstruos se llama Dante el Atemorizante. ¿Pueden adivinar cuál?",
+                "¡Las pulgas de la cueva son inofensivas! Siempre y cuando no caigan en su esquema de marketing multinivel.",
+                "Estate atento a la búsqueda de nuestra celebridad local favorita: ¡Ricardo Arjona con su canción Cavernícolas!",
+                "¿Atrapado para siempre? Mira el lado bueno, ¡nunca más vas a tener que conducir con cambios!",
+                "¿Quién necesita frutas frescas cuando tienes frutas de cueva? Así es como le digo al lodo.",
+                "¿Atascado en la mucosa? ¿La cosa está viscosa? ¡No puedo tomar partido, mas rimar es divertido!",
+                "¿Buscando una comida rápida y casual? ¡Tenemos un cocodrilo que se come al miembro más lento de tu grupo rápido y de manera casual!",
+                "¡Todos ustedes son mis cavernicolitas!",
+                "Lo que nos falta en oxígeno, ¡lo compensamos con grandes cantidades de huevos misteriosos!",
+                "¡Miren dónde pisan! Esta cueva está tan erosionado que habría que llamarla la Mina Hueca.",
+                "¡Griten cualquier comentario que tengan al abismo por favor!",
+                "Dejen sus extremidades justo donde las pierdan. ¡Voy a limpiar en la mañana!",
+                "Deje unas sodas para ustedes chicos. Solo asegúrense de que no sean un monstruo imitador.",
+                "¡Mantengan la fuerza, chicos! Sé que la mitad de ustedes puede.",
+                "¿Les gustan las antorchas? ¡Las hice usando las viejas escaleras que llevaban a la superficie!"
+            ],
+            "ROUND_MAP_ROOM_TITLES": [
+                [
+                    "Cueva Dulce",
+                    "Mina Amarga",
+                    "Caverna Extra Picante"
+                ],
+                [
+                    "Cueva Presión Baja",
+                    "Cueva Presión Alta",
+                    "Cavernado"
+                ],
+                [
+                    "Mina de Práctica",
+                    "Cueva de Practicar y Practicar",
+                    "Caverna Empresarial"
+                ],
+                [
+                    "Cueva Terror",
+                    "Caverna Aterradora",
+                    "Mina de Interacciones Incómodas"
+                ],
+                [
+                    "Mina Disentimiento",
+                    "Cueva Debate",
+                    "Caverna Puros Gritos"
+                ],
+                [
+                    "Túnel Primera Base",
+                    "Cueva Segunda Base",
+                    "Caverna De La Mano"
+                ],
+                [
+                    "La Caverna Tristeza",
+                    "La Caverna Regateo",
+                    "La Grieta Aceptación"
+                ],
+                [
+                    "Minas Quiebre",
+                    "Cavernas crujido",
+                    "Cuevas Explosión Masiva"
+                ],
+                [
+                    "Cueva Cuento Corto",
+                    "Estrecho Novela",
+                    "Atolones Antología"
+                ],
+                [
+                    "Cueva Choque",
+                    "Túnel Entrena Temperamento",
+                    "Minas en Monocarril a la Locura"
+                ],
+                [
+                    "La Cueva Buena",
+                    "La Mina Mala",
+                    "La Caverna Fea"
+                ],
+                [
+                    "La Mina de la Medianoche",
+                    "El Túnel Crepúsculo",
+                    "La Guarida Anochecer"
+                ],
+                [
+                    "Cueva Amigui",
+                    "Mina de Amantes",
+                    "Caverna Amienemiga"
+                ],
+                [
+                    "Cueva Sacudida",
+                    "Caverna Temblequeo",
+                    "Mina de rol"
+                ],
+                [
+                    "Caverna Atención",
+                    "Cueva Atención",
+                    "Túnel Tescuché"
+                ],
+                [
+                    "Hueco Amor",
+                    "Gruta Matrimonial",
+                    "Túnel Carrito de Bebé"
+                ],
+                [
+                    "Hueco Legislativo",
+                    "Mina Ejecutiva",
+                    "Grieta Judicial"
+                ],
+                [
+                    "Cueva: La serie original",
+                    "Cueva: La nueva generación",
+                    "Cueva: Estación cavernícola nueve"
+                ],
+                [
+                    "La Grieta Id",
+                    "La Caverna Ego",
+                    "La Cueva Superego"
+                ],
+                [
+                    "La Caverna Roca",
+                    "La Gruta de Papel",
+                    "El Abismo Tijeras"
+                ],
+                [
+                    "Hueco Choza de Paja",
+                    "Caverna Casa de Ramas",
+                    "Cámara de la Mansión de Ladrillo"
+                ],
+                [
+                    "Hoyo Athos",
+                    "Hueco Aramis",
+                    "Fosa Porthos"
+                ],
+                [
+                    "Brecha Bacon",
+                    "Barranco Lechuga",
+                    "Cueva Tomate"
+                ],
+                [
+                    "Caverna Calientísima",
+                    "Grieta Frío Polar",
+                    "Cueva piooola"
+                ],
+                [
+                    "Caverna Redondita",
+                    "Túnel Temblorcitos",
+                    "Gruta Sin Alegría"
+                ],
+                [
+                    "Caverna Amanecer",
+                    "Cueva Atardecer",
+                    "Hueco Almuerzo Tardío"
+                ],
+                [
+                    "Cueva Maldad Invisible",
+                    "Hueco Maldad Silenciosa",
+                    "Caverna Extremadamente Malvada"
+                ],
+                [
+                    "Hueco Cielo",
+                    "Barranco Infernal",
+                    "Abismo Newark, Nueva Jersey"
+                ],
+                [
+                    "Abismo Aperitivo",
+                    "Caverna Entrada",
+                    "Abismo Compartir La Cuenta"
+                ],
+                [
+                    "Caverna Jazz Suave",
+                    "Cueva Jazz Resbaladizo",
+                    "Abismo Jazz Empapado"
+                ],
+                [
+                    "Hueco Fiebre de Heno",
+                    "Mina de Polen",
+                    "Mina de Antihistamínico"
+                ],
+                [
+                    "Minas Arañas",
+                    "Cavernas Corgi",
+                    "Minas Arañas Parte II"
+                ],
+                [
+                    "Grieta Crepúsculo",
+                    "Hueco Eclipse",
+                    "Gruta Amanecer"
+                ],
+                [
+                    "Hueco Bocota",
+                    "Mina Lima",
+                    "Hueco 3,1415926535"
+                ],
+                [
+                    "Cavernas Escaleno",
+                    "Mina Isósceles",
+                    "Sumidero Equilátero"
+                ],
+                [
+                    "Primera Caverna",
+                    "Caverna Número Dos",
+                    "Caverna C"
+                ],
+                [
+                    "Minas Accidente",
+                    "Cavernas Coincidencia",
+                    "Gruta Patrón"
+                ]
+            ],
+            "ROUND_MAP_WELCOME": "¡Bienvenidos!",
+            "SURVEY_ROUND_HEADER": "Respondan la encuesta",
+            "TIMES_UP_MESSAGE_TEXT": "¡Se acabó el tiempo!",
+            "GAME_END_MESSAGE_TEXT": "¡Una respuesta correcta termina la partida!",
+            "AUDIENCE_COUNT_TEXT": "%s en el público",
+            "AUDIENCE_REVEAL_PERCENT_GUESS_CORRECT": "%s%<br>DEL PÚBLICO<br>RESPONDIÓ<br>CORRECTAMENTE",
+            "AUDIENCE_REVEAL_PERCENT_GUESS_INCORRECT": "%s%<br>DEL PÚBLICO<br>RESPONDIÓ<br>INCORRECTAMENTE",
+            "TEXT_DESCRIPTION_PLAYER_JOINED_VIP": "%s se unió y es el VIP.",
+            "TEXT_DESCRIPTION_PLAYER_JOINED": "%s se unió.",
+            "TEXT_DESCRIPTION_PLAYER_CHOOSE_AVATAR": "%s ha elegido su avatar",
+            "TEXT_DESCRIPTION_PLAYER_TEAM_SWITCH": "%s se ha cambiado de %s a %s",
+            "TEXT_DESCRIPTION_LEFT_TEAM": "equipo izquierdo",
+            "TEXT_DESCRIPTION_RIGHT_TEAM": "equipo derecho",
+            "TEXT_DESCRIPTION_PLAYER_NAMES_LIST": "%s están en %s competirán contra %s en %s",
+            "TEXT_DESCRIPTION_ROUND_RULES_0": "Para la ronda 1, elijan las 3 respuestas más populares",
+            "TEXT_DESCRIPTION_ROUND_RULES_1": "Para la ronda 2, elijan las segundas, terceras, y cuartas respuestas más populares",
+            "TEXT_DESCRIPTION_ROUND_RULES_2": "Para la ronda 3, encuentren todas las respuestas de la menos a la más popular comenzando por la 8va",
+            "TEXT_DESCRIPTION_NUM_TORCHES": "%s tienen %s antorcha(s)",
+            "TEXT_DESCRIPTION_TEAM_CHOOSING": "El equipo %s está eligiendo una puerta",
+            "TEXT_DESCRIPTION_REVEALED_SO_FAR_HEADER": "Esto es lo que sabemos.",
+            "TEXT_DESCRIPTION_REVEALED_SO_FAR_RANKING": "%s está en el puesto #%s",
+            "TEXT_DESCRIPTION_TEAM_CHOICE": "El equipo %s eligió %s",
+            "TEXT_DESCRIPTION_TEAM_CORRECT_CHOICE": "¡El equipo %s está en lo correcto y ha ganado una antorcha!",
+            "TEXT_DESCRIPTION_TEAM_WRONG_CHOICE": "¡El equipo %s se ha equivocado!",
+            "TEXT_DESCRIPTION_TEAM_WRONG_CHOICE_TORCH_LOSS": "¡El equipo %s se ha equivocado y ha perdido una antorcha!",
+            "TEXT_DESCRIPTION_OPPOSING_TEAM_FINAL_CHANCE": "%s está con su última oportunidad. %s tiene que acertar esta para ganar.",
+            "TEXT_DESCRIPTION_GAME_END_TEAM_WIN": "¡El equipo %s ha ganado! ¡El equipo %s ha perdido!",
+            "TEXT_DESCRIPTION_GAME_END_TEAM_TIE": "¡Los equipos %s y %s están empatados!",
+            "TEXT_DESCRIPTION_REVEAL": "%s",
+            "CREDITS_THEME_0": "Tenían un deseo de invadir el territorio de una bruja",
+            "CREDITS_THEME_1": "Ahora están atascados y no pueden salir así como así",
+            "CREDITS_THEME_2": "Está bien, son todos míos",
+            "CREDITS_THEME_3": "En mi dominio necesito opiniones",
+            "CREDITS_THEME_4": "La única manera en la que van a escapar",
+            "CREDITS_THEME_5": "Es eligiendo una puerta y viendo su clasificación",
+            "CREDITS_THEME_6": "[HABLADO] ¡No hay oro...!",
+            "CREDITS_THEME_7": "[CANTADO] Pero puedes responder encuestas",
+            "CREDITS_THEME_8": "Aprenderán su lección por adivinar mal",
+            "CREDITS_THEME_9": "Es la Poll Mine",
+            "CREDITS_THEME_10": "Hagamos la encuesta",
+            "CREDITS_THEME_11": "Es la Poll Mine",
+            "CREDITS_THEME_12": "Así es cómo se juega: ",
+            "CREDITS_THEME_13": "Les doy las preguntas y también las respuestas...",
+            "CREDITS_THEME_14": "[HABLADO] De nada.",
+            "CREDITS_THEME_15": "Eligen las tres que les parezcan mejores...",
+            "CREDITS_THEME_16": "[HABLADO] Fácil, ¿eh?",
+            "CREDITS_THEME_17": "Determinen su orden y sean muy valientes",
+            "CREDITS_THEME_18": "Los dejaré libres mientras no se caigan",
+            "CREDITS_THEME_19": "Poll Mine",
+            "CREDITS_THEME_20": "¿Seguirás las tendencias o te enfrentarás a tus amigos?",
+            "CREDITS_THEME_21": "Poll Mine",
+            "CREDITS_THEME_22": "Excaven para ascender y llegar al final",
+            "CREDITS_THEME_23": "Poll Mine",
+            "CREDITS_THEME_24": "Vengan y díganlo",
+            "CREDITS_THEME_25": "Es la Poll Mine",
+            "CREDITS_THEME_26": "Vengan y juéguenlo",
+            "CREDITS_THEME_27": "Es la Poll Mine",
+            "CREDITS_THEME_28": "[RISA MALVADA]"
+        },
+        "fr": {},
+        "it": {},
+        "de": {},
+        "es": {}
+    }
+}
