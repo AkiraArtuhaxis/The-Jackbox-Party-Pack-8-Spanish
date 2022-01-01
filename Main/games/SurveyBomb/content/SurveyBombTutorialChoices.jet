@@ -6,7 +6,7 @@
     "Abrazo Tibio",
     "Saludo de manos",
     "Chocar los cinco",
-    "Inclinación de Cabeza",
+    "Asentir",
     "Beso en la mejilla"
    ]
   },
@@ -16,7 +16,7 @@
     "Malvaviscos",
     "Crema batida",
     "Canela",
-    "Bastones de caramelo",
+    "Bastones de dulce",
     "Ralladura de naranja"
    ]
   },
@@ -81,7 +81,7 @@
    ]
   },
   {
-   "prompt": "Qué es más Pegajoso",
+   "prompt": "Lo que es más pegajoso",
    "choices": [
     "Pegamento",
     "Miel",
@@ -117,7 +117,7 @@
     "Peleas de tortazos",
     "Memes Raros",
     "Locuras de gatos",
-    "Juegos de palabras de cuevas"
+    "Chistes de cuevas"
    ]
   },
   {
