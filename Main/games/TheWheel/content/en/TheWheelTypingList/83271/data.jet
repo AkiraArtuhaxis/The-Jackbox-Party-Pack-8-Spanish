@@ -1,0 +1,151 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "¿Qué países comienzan con la letra “P”?"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "answers_0_hint",
+   "n": "ClueAudio0"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "answers_1_hint",
+   "n": "ClueAudio1",
+   "s": "Uno de estos lugares es conocido por su canal."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "A",
+   "v": "answers_2_hint",
+   "n": "ClueAudio2",
+   "s": "Hay dos países que comienzan con P en América del Sur."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "A",
+   "v": "answers_3_hint",
+   "n": "ClueAudio3",
+   "s": "No es Afganistán, sino..."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio4"
+  },
+  {
+   "t": "A",
+   "v": "answers_4_hint",
+   "n": "ClueAudio4"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio5"
+  },
+  {
+   "t": "A",
+   "v": "answers_5_hint",
+   "n": "ClueAudio5",
+   "s": "Un país limita con España. Y no es Francia."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio6"
+  },
+  {
+   "t": "A",
+   "v": "answers_6_hint",
+   "n": "ClueAudio6"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio7"
+  },
+  {
+   "t": "A",
+   "v": "answers_7_hint",
+   "n": "ClueAudio7",
+   "s": "Hay dos países que comienzan con P en América del Sur."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio8"
+  },
+  {
+   "t": "A",
+   "v": "answers_8_hint",
+   "n": "ClueAudio8"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio9"
+  },
+  {
+   "t": "A",
+   "v": "answers_9_hint",
+   "n": "ClueAudio9",
+   "s": "Uno de ellos es reconocido como un estado soberano. Está en la Ribera Occidental del río Jordán."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio"
+  }
+ ]
+}

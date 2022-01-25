@@ -1,0 +1,122 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Nombra los 7 personajes de [i]Clue[/i]"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "answers_0_hint",
+   "n": "ClueAudio0",
+   "s": "Este es el nombre del anfitrión y aparece muerto."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "answers_1_hint",
+   "n": "ClueAudio1",
+   "s": "¿Alguien quiere Grey Poupon?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "A",
+   "v": "answers_2_hint",
+   "n": "ClueAudio2",
+   "s": "Una de ellos tiene un tono de palidez."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "A",
+   "v": "answers_3_hint",
+   "n": "ClueAudio3"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio4"
+  },
+  {
+   "t": "A",
+   "v": "answers_4_hint",
+   "n": "ClueAudio4",
+   "s": "¡Una está siempre pavoneándose como si fuera del color de un pájaro extravagante!"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio5"
+  },
+  {
+   "t": "A",
+   "v": "answers_5_hint",
+   "n": "ClueAudio5",
+   "s": "El cesped ciertamente es ESTO en el otro lado, donde no estás acusado de asesinato."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio6"
+  },
+  {
+   "t": "A",
+   "v": "answers_6_hint",
+   "n": "ClueAudio6",
+   "s": "Un personaje ciertamente es una damisela más bien ROJA."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio",
+   "s": "¡Y no te olvides del ANFITRIÓN de la mansión!"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio"
+  }
+ ]
+}

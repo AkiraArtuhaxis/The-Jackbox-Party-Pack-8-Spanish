@@ -1,0 +1,2864 @@
+{
+ "content": [
+  {
+   "altSpellings": [
+    "círculo",
+    "El Circulo",
+    "circulo"
+   ],
+   "answer": "[i]El Círculo[/i]",
+   "category": "Película y TV",
+   "clues": [
+    {
+     "clue": "Originalmente fue un programa de televisión británico con el mismo nombre."
+    },
+    {
+     "clue": "Los participantes están aislados del mundo cotidiano.",
+     "clueComment": "Los participantes están aislados del mundo cotidiano. Puedo relacionarme con ese tipo de soledad."
+    },
+    {
+     "clue": "Se transmite en Netflix.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Cada jugador comienza la competencia creando un perfil en las redes sociales."
+    },
+    {
+     "clue": "Mientras compiten, los competidores nunca se encuentran cara a cara, y se permite la “pesca de gatos”.",
+     "clueComment": ""
+    },
+    {
+     "clue": "El título del espectáculo es la mejor forma que el mundo ha conocido. ¡No te atrevas a decir “El triángulo”!"
+    }
+   ],
+   "followup": "",
+   "id": "79651",
+   "isValid": "",
+   "prompt": "¿Cuál es mi reality show competitivo favorito?",
+   "reveal": "Es redondo, está orgulloso, es...",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Calvin y Hobbes",
+    "Calvin Hobbes",
+    "Hobbes & Calvin",
+    "Hobbes y Calvin",
+    "Calvin y Hobs",
+    "Calvin & Hobs",
+    "Calvin Hobs",
+    "Hobs & Calvin",
+    "Hobs y Calvin"
+   ],
+   "answer": "[i]Calvin y Hobbes[/i]",
+   "category": "Animación/Libros de cómic",
+   "clues": [
+    {
+     "clue": "La tira fue lanzada en Noviembre de 1985."
+    },
+    {
+     "clue": "Se trata de una amistad especial.",
+     "clueComment": ""
+    },
+    {
+     "clue": "El personaje principal aparece, sin licencia, en las pegatinas parachoques.",
+     "clueComment": "El personaje principal aparece, sin licencia, en pegatinas de parachoques. A menudo orinando sobre algo."
+    },
+    {
+     "clue": "Los personajes del título son nombrados por un filósofo y un teólogo.",
+     "clueComment": "Los personajes del título tienen el nombre de un filósofo y de un teólogo. No, no se llamaban Karl Marx y Kierkegaard."
+    },
+    {
+     "clue": "Uno de ellos es un niño rubio y el otro es un tigre."
+    }
+   ],
+   "followup": "¿Los recuerdan?",
+   "id": "79663",
+   "isValid": "",
+   "prompt": "¿Cuál es mi historieta favorita?",
+   "reveal": null,
+   "us": true,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "ICE",
+    "Motor de Combustión",
+    "el motor de combustión interna",
+    "un motor de combustión interna",
+    "Motor de combustion interna",
+    "Motor de Combustion",
+    "el motor de combustion interna",
+    "un motor de combustion interna"
+   ],
+   "answer": "Motor de combustión interna",
+   "category": "Historia",
+   "clues": [
+    {
+     "clue": "Se inventó hace más de 100 años.",
+     "clueComment": ""
+    },
+    {
+     "clue": "No es la ruleta.",
+     "clueComment": "No es la ruleta. Quiero decir, venga. Por favor."
+    },
+    {
+     "clue": "Y no es el fuego, pero tiene una chispa para ello.",
+     "clueComment": "Y no es el fuego, pero tiene una chispa para ello. Sí, sé que el fuego no es una invención. Es un *descubrimiento* útil, como el emoji de la berenjena."
+    },
+    {
+     "clue": "Ayudó a la Era Industrial.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Implica un cilindro fijo y un pistón en movimiento.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Es una especie de motor y tu coche no va a ninguna parte sin él.",
+     "clueComment": "Es una especie de motor y tu coche no va a ninguna parte sin él. A menos que tu coche sea todo eléctrico. ¡Lo siento, propietarios de Tesla! (al margen) Son tan sensibles."
+    }
+   ],
+   "followup": null,
+   "id": "79919",
+   "isValid": "",
+   "prompt": "¿Cuál es mi segunda invención favorita?",
+   "reveal": "Gracias por los recuerdos, Steam Engine. Ahora saluda...",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "cabello de cabeza",
+    "cabello humano",
+    "cabello en cabeza",
+    "pelo",
+    "pelo de cabeza",
+    "pelo humano",
+    "pelo en cabeza"
+   ],
+   "answer": "Cabello",
+   "category": "Anatomía",
+   "clues": [
+    {
+     "clue": "Es el segundo tejido de crecimiento más rápido, además de la médula ósea.",
+     "clueComment": ""
+    },
+    {
+     "clue": "La persona promedio tiene entre 100.000 a 150.000 de estos.",
+     "clueComment": "La persona promedio tiene entre 100.000 a 150.000 de estos. Y tú acabas de pensar que tenías dos de todo."
+    },
+    {
+     "clue": "Es de la misma sustancia que los cascos de caballo.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Es una de tus pocas partes personalizables.",
+     "clueComment": "Es una de tus pocas partes personalizables. No estoy hablando de reemplazos de rodilla. TODOS personalizan esta cosa."
+    },
+    {
+     "clue": "Para la mayoría, crece predominantemente en el cuero cabelludo.",
+     "clueComment": ""
+    }
+   ],
+   "followup": "Estoy pensando en sus pequeños cuerpos humanos, sí, lo estoy.",
+   "id": "80061",
+   "isValid": "",
+   "prompt": "¿Qué característica del cuerpo humano me parece más fascinante?",
+   "reveal": "\"Flúyelo, muéstralo, mientras Dios pueda crecerlo...\"",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Conair"
+   ],
+   "answer": "[i]Con Air[/i]",
+   "category": "Película y TV",
+   "clues": [
+    {
+     "clue": "¡Está lleno de acción!"
+    },
+    {
+     "clue": "Nic toma muchas... decisiones de actuación en este.",
+     "clueComment": "Nic toma muchas... decisiones de actuación en este. ¡No puedes enjaular a la jaula (Cage), cariño!"
+    },
+    {
+     "clue": "Se trata de un vehículo. Y algunos chicos malos."
+    },
+    {
+     "clue": "¡Es un clásico de los 90!",
+     "clueComment": "¡Es un clásico de los 90! Esto quita [i]Ojos de Serpiente[/i] de la mesa. Brian De Palma, ¿qué estabas haciendo!?"
+    },
+    {
+     "clue": "La trama se refiere a un hombre que se encuentra en el lugar equivocado en el momento equivocado.",
+     "clueComment": "La trama trata sobre un hombre que está en el lugar equivocado en el momento equivocado. ¿No lo somos todos?"
+    },
+    {
+     "clue": "Un título alternativo podría ser [i]Prisioneros en un Avión[/i]."
+    }
+   ],
+   "followup": "Vayamos a la misma página de Cage.",
+   "id": "80103",
+   "isValid": "",
+   "prompt": "¿Cuál es mi película favorita de Nicolas Cage?",
+   "reveal": "Tráelo para un aterrizaje...",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Hulu plus",
+    "Hulu TV",
+    "Hulu Live",
+    "App Hulu"
+   ],
+   "answer": "Hulu",
+   "category": "Empresas y Marcas",
+   "clues": [
+    {
+     "clue": "Fue fundada en 2007."
+    },
+    {
+     "clue": "Si pagas un poco más, puedes ver sin anuncios.",
+     "clueComment": "Si pagas un poco más, puedes ver sin anuncios. Quiero decir... ¿probablemente vale la pena?"
+    },
+    {
+     "clue": "Es popular por su biblioteca bajo demanda de programas de TV actuales y clásicos.",
+     "clueComment": ""
+    },
+    {
+     "clue": "El primer programa en ganar a este servicio un Emmy fue [i]El Cuento de la Criada[/i]."
+    },
+    {
+     "clue": "Es una palabra que alguien podría asociar con un tipo de arado."
+    }
+   ],
+   "followup": "A veces una ruleta Solo necesita darse vuelta y descansar.",
+   "id": "80107",
+   "isValid": "",
+   "prompt": "¿Cuál es mi servicio de streaming más usado?",
+   "reveal": "¡Prepárate para mirar!",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Schwimmer"
+   ],
+   "answer": "David Schwimmer",
+   "category": "Celebridades",
+   "clues": [
+    {
+     "clue": "Mi David favorito es un actor.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Mi David favorito co-fundó la Compañía del Lookingglass Theatre de Chicago.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Mi David favorito estuvo en una serie muy querida que duró 10 temporadas.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Mi David favorito era un paleontólogo nerd, romántico entre un círculo cercano de amigos en dicho sitcom.",
+     "clueComment": "Mi David favorito era un paleontólogo nerd romántico entre un círculo de amigos cercanos en dicho sitcom. Suena como un personaje de [i]The Big Bang Teory[/i]... ¿o no?"
+    },
+    {
+     "clue": "El apellido de mi David favorito suena como a [i]swimmer[/i]. ¡Sin embargo, nunca lo he visto nadar!",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "80166",
+   "isValid": "",
+   "prompt": "¡Todos tienen un David favorito! ¡Aquí está el mío!",
+   "reveal": null,
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "La primera Enmienda",
+    "1ra enmienda",
+    "la 1ra enmienda",
+    "enmienda uno",
+    "1 enmienda",
+    "1° enmienda",
+    "la 1° enmienda"
+   ],
+   "answer": "Primera Enmienda",
+   "category": "Historia",
+   "clues": [
+    {
+     "clue": "Es parte de la Declaración de Derechos.",
+     "clueComment": ""
+    },
+    {
+     "clue": "No dice nada sobre su derecho a un juicio rápido.",
+     "clueComment": "No dice nada sobre su derecho a un juicio rápido. Y nada sobre milicias bien reguladas para ese asunto."
+    },
+    {
+     "clue": "Si quieren rogarme a mí o a cualquier otro dios, esta enmienda les ha cubierto.",
+     "clueComment": ""
+    },
+    {
+     "clue": "¿Te gusta marchar con 1000 amigos cercanos, intentando cantar al unísono? Esta enmienda apoya eso.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Protege tu derecho a la libertad de expresión, la libertad de prensa y la libertad de religión.",
+     "clueComment": ""
+    }
+   ],
+   "followup": "Oh, como si tú no estuvieras pensando en uno también.",
+   "id": "80169",
+   "isValid": "",
+   "prompt": "¿Qué célebre acto legislativo Estadounidense estoy pensando?",
+   "reveal": "",
+   "us": true,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Jarabe",
+    "Jarabe de Pancake",
+    "arce",
+    "sirope"
+   ],
+   "answer": "Miel de Maple",
+   "category": "Comida y Bebida",
+   "clues": [
+    {
+     "clue": "¡No es ni ketchup ni mostaza! ¡Bah!",
+     "clueComment": ""
+    },
+    {
+     "clue": "Una sola porción está llena de más del 100% de la ingesta diaria de manganeso recomendada.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Es más dulce que salado. ¡Mucho, mucho más dulce!",
+     "clueComment": ""
+    },
+    {
+     "clue": "Se trata de una exportación muy apreciada de Canadá!",
+     "clueComment": ""
+    },
+    {
+     "clue": "Básicamente se trata de una salsa de árbol hervida.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Es más probable que lo encuentres en la mesa del desayuno que en la cena.",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "80170",
+   "isValid": "",
+   "prompt": "Mortales, ¡cuidado! ¡Por favor identifiquen el condimento más fabuloso de su mundo!",
+   "reveal": "¡Cualquier panqueque está simplemente desnudo sin él!",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Juego Monopoly",
+    "El Juego Monopoly"
+   ],
+   "answer": "[i]Monopoly[/i]",
+   "category": "Juegos",
+   "clues": [
+    {
+     "clue": "Está diseñado para 2-8 jugadores.",
+     "clueComment": ""
+    },
+    {
+     "clue": "En varios momentos de la historia, fue prohibido en las naciones comunistas de Cuba y la URSS.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Fue publicado por Parker Brothers antes de ser adquirido por Hasbro.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Una vez se llamó el [i]Landlord’s Game[/i] porque permite a los jugadores comprar y desarrollar propiedades.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Si aún no sabes lo que es, por favor ve a la cárcel. No pases por Go. No cobres $200.",
+     "clueComment": ""
+    }
+   ],
+   "followup": "No, no es la Rueda de la Fortuna. Eso es un estéreotipo duro.",
+   "id": "80171",
+   "isValid": "",
+   "prompt": "¿A qué juego le tengo un respeto a regañadientes?",
+   "reveal": "Escuchémoslo por el capitalismo, ¡eh! (pausa) Wow, ni siquiera un poco de aplausos.",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Conde Drácula",
+    "El Conde Drácula",
+    "Dracula",
+    "Conde Dracula",
+    "El Conde Dracula"
+   ],
+   "answer": "Drácula",
+   "category": "Literatura",
+   "clues": [
+    {
+     "clue": "Era un poco intenso, y pálido.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Dijo que vive en un castillo.",
+     "clueComment": "Él dice que vive en un castillo. Podría estar un poco lleno de sí mismo, pero ¡si lo tienes, disfrútalo!"
+    },
+    {
+     "clue": "No pude poner el acento pero tiene que ser Europeo del Este.",
+     "clueComment": ""
+    },
+    {
+     "clue": "A él no le gusta el ajo, pero ¿a quién sí? ¡Es un sabor adquirido!",
+     "clueComment": ""
+    },
+    {
+     "clue": "Tal vez sea una superstición, pero realmente las cruces lo apagan.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Resulta que es de Transilvania y tiene hambre de sangre humana.",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "80178",
+   "isValid": "",
+   "prompt": "¿Qué hombre inquietantemente atractivo apareció de repente una vez en la cima de mi montaña?",
+   "reveal": "Luego me dijo que vive para siempre y le dije: \"Oh, sí, ¿puedes comer ajo por siempre?\" Eso lo calló.",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Beethoven",
+    "Ludwig Beethoven"
+   ],
+   "answer": "Ludwig van Beethoven",
+   "category": "Música",
+   "clues": [
+    {
+     "clue": "Me refiero a un caballero Alemán.",
+     "clueComment": "Me refiero a un caballero Alemán. Está bien, solo te lo diré... es David Hasselhoff. ¡No! ¡Estoy bromenando! No escribas Hasselhoff."
+    },
+    {
+     "clue": "Sus obras más famosas incluyen la Sinfonía No. 9 y la [i]Sonata Claro de Luna[/i]."
+    },
+    {
+     "clue": "Es famoso por componer incluso con pérdida auditiva creciente."
+    },
+    {
+     "clue": "Hay una serie de películas sobre un adorable San Bernardo que comparte nombre con él.",
+     "clueComment": "Hay una serie de películas sobre un adorable San Bernardo que comparte nombre con él. Se produjeron travesuras de calidad en los 90."
+    },
+    {
+     "clue": "¡Su primer nombre es Ludwig!",
+     "clueComment": ""
+    }
+   ],
+   "followup": "",
+   "id": "80247",
+   "isValid": "",
+   "prompt": "¿Quién es mi músico favorito de todos los tiempos?",
+   "reveal": "Da-da-da-duuuuuuuuuuuuh, es...",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Si"
+   ],
+   "answer": "Sí",
+   "category": "Otro",
+   "clues": [
+    {
+     "clue": "Solo escribe una respuesta a mi pregunta. ¡Eso es!"
+    },
+    {
+     "clue": "Te estoy pidiendo que respondas a mi pregunta, con una palabra que indique la elección de una de dos opciones."
+    },
+    {
+     "clue": "Es una palabra en la afirmación."
+    },
+    {
+     "clue": "No puedo decirte qué hacer aquí. ¡Abraza Solo si los quieres!"
+    },
+    {
+     "clue": "Literalmente, todo lo que quiero que hagas es escribir la palabra \"Sí\".",
+     "clueComment": ""
+    }
+   ],
+   "followup": "¿Puedes hacerlo?",
+   "id": "80251",
+   "isValid": "",
+   "prompt": "¿Puedes darme un abrazo?",
+   "reveal": "¿¡Qué bárbaro inhumano e insensible diría NO!?",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Alejandro",
+    "Alejandro III",
+    "Rey Alejandro",
+    "El Rey Alejandro"
+   ],
+   "answer": "Alejandro el Grande",
+   "category": "Figuras Históricas",
+   "clues": [
+    {
+     "clue": "Él era del antiguo reino Griego de Macedonia.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Conquistó el Imperio Persa.",
+     "clueComment": "Conquistó el Imperio Persa. ¡Antes de los 32 años! ¿Cuál es tu excusa?"
+    },
+    {
+     "clue": "Fue instruido por Aristóteles.",
+     "clueComment": "Fue instruido por Aristóteles. Cuando era más joven se ocupaba de Play-Doh. (se aclara la garganta) Lo siento, eso fue malo."
+    },
+    {
+     "clue": "Fundó la ciudad de Alejandría en Egipto.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Debido a sus victorias militares se ganó el epíteto de “El Grande.”",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "81432",
+   "isValid": "",
+   "prompt": "¿En qué líder histórico estoy pensando?",
+   "reveal": null,
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Peru"
+   ],
+   "answer": "Perú",
+   "category": "Geografía y Lugares",
+   "clues": [
+    {
+     "clue": "Está en América del Sur.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Es el hogar de uno de los lagos más grandes del mundo: el Lago Titicaca.",
+     "clueComment": "Es el hogar de uno de los lagos más grandes del mundo: el Lago Titicaca. No. No lo hagas."
+    },
+    {
+     "clue": "Machu Picchu está ubicado allí.",
+     "clueComment": "Machu Picchu está ubicado allí. ¡Es donde vive uno de mis primos!"
+    },
+    {
+     "clue": "Es conocido por muchos por sus suéteres de alpaca.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Su capital es Lima.",
+     "clueComment": ""
+    }
+   ],
+   "followup": "¡Es tan difícil seguir el rastro! Ustedes humanos aaaaman sus fronteras.",
+   "id": "81492",
+   "isValid": "",
+   "prompt": "¿En qué país estoy pensando?",
+   "reveal": null,
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Nessie",
+    "Monstruo del Lago Ness"
+   ],
+   "answer": "El monstruo del Lago Ness",
+   "category": "Celebridades",
+   "clues": [
+    {
+     "clue": "Ella es una reclusa.",
+     "clueComment": ""
+    },
+    {
+     "clue": "La foto más famosa de ella fue tomada en 1934 por un cirujano que luego reveló que era falsa.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Nadie la ha visto nunca. ¡Puede que ni siquiera exista!",
+     "clueComment": "Nadie la ha visto nunca. ¡Puede que ni siquiera exista! Créeme, lo entiendo todo el tiempo."
+    },
+    {
+     "clue": "La gente piensa que ella podría parecerse a un plesiosaurio.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Vive en un lago enorme en Escocia.",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "81497",
+   "isValid": "",
+   "prompt": "¿En qué individuo famoso estoy pensando?",
+   "reveal": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Mediterráneo",
+    "Mar Mediterráneo",
+    "El Mar Mediterráneo",
+    "El Mediterraneo",
+    "Mediterraneo",
+    "Mar Mediterraneo",
+    "El Mar Mediterraneo"
+   ],
+   "answer": "El Mediterráneo",
+   "category": "Geografía y Lugares",
+   "clues": [
+    {
+     "clue": "Fue un importante medio de comercio e intercambio cultural para las civilizaciones en ciernes.",
+     "clueComment": "Fue un importante medio de comercio e intercambio cultural para las civilizaciones en ciernes. Especialmente para los egipcios, mesopotámicos y griegos. Unas buenas personas allí."
+    },
+    {
+     "clue": "En la Biblia, se le conocía como el Gran Mar.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Limita con más de 20 países diferentes.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Sus islas más grandes son Sicilia y Cerdeña.",
+     "clueComment": "Sus islas más grandes son Sicilia y Cerdeña. Italia tiene algunos derechos para fanfarronear."
+    },
+    {
+     "clue": "Separa Europa de África.",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "81714",
+   "isValid": "",
+   "prompt": "¿En qué cuerpo de agua estoy pensando?",
+   "reveal": "Amo la cima de mi montaña solitaria, pero lo que no daría por dejar mis porciones en las arenas de...",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Hanks"
+   ],
+   "answer": "Tom Hanks",
+   "category": "Celebridades",
+   "clues": [
+    {
+     "clue": "Es una estrella de cine con una colección de máquinas de escribir.",
+     "clueComment": "Es una estrella de cine con una colección de máquinas de escribir. Bueno, ¿qué estrella de cine NO tiene una colección de máquinas de escribir?"
+    },
+    {
+     "clue": "Trabaja frecuentemente con el director Steven Spielberg.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Uno de sus primeros papeles actorales fue en el programa [i]Amigos del Alma: Bosom Buddies[/i].",
+     "clueComment": ""
+    },
+    {
+     "clue": "Ganó dos premios Oscar consecutivos al Mejor Actor en 1994 y 1995.",
+     "clueComment": "Ganó dos premios Oscar seguidos al Mejor Actor en 1994 y 1995. ¿Cómo no odiar a un tipo así? ¡Y sin embargo, no puedo!"
+    },
+    {
+     "clue": "¿Forrest Gump? ¿Sonar una campana?",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "81734",
+   "isValid": "",
+   "prompt": "¿Qué celebridad Estadounidense me hace sentir bien?",
+   "reveal": "Estoy pensando en lo increíblemente simpático...",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Islenka",
+    "Idioma Islandés",
+    "Islandes",
+    "Idioma Islandes"
+   ],
+   "answer": "Islandés",
+   "category": "Idioma/Palabras/Gramática",
+   "clues": [
+    {
+     "clue": "Puede ser muy difícil de aprender para los angloparlantes.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Pertenece a la rama Germánica de las lenguas.",
+     "clueComment": "Pertenece a la rama Germánica de las lenguas. Pero te juro que es muy divertido y lindo y para nada como el Alemán. Lo siento, eso salió mal."
+    },
+    {
+     "clue": "Es el idioma nativo de una isla en el Atlántico Norte.",
+     "clueComment": ""
+    },
+    {
+     "clue": "La tierra donde se habla alberga alrededor de 30 volcanes activos.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Es el idioma nativo de Bjork.",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "81852",
+   "isValid": "",
+   "prompt": "¿Cuál es mi idioma Europeo favorito?",
+   "reveal": null,
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "cuando estes en roma",
+    "Cuando estés en roma, haz como los romanos",
+    "cuando estés en roma haz como los romanos",
+    "Cuando estes en roma, haz como los romanos",
+    "cuando estes en roma haz como los romanos"
+   ],
+   "answer": "“Cuando estés en Roma…”",
+   "category": "Idioma/Palabras/Gramática",
+   "clues": [
+    {
+     "clue": "Se dice antes de que el hablante haga algo inusual en un lugar desconocido.",
+     "clueComment": "Se dice antes de que el hablante haga algo inusual en un lugar desconocido. Como saltar a una piscina vistiendo un esmoquin, que supongo que eso es algo."
+    },
+    {
+     "clue": "También es el título de una comedia romántica de 2010 protagonizada por Kristen Bell.",
+     "clueComment": "También es el título de una comedia romántica de 2010 protagonizada por Kristen Bell. ¿Ves ese? Yo tampoco."
+    },
+    {
+     "clue": "Menciona la capital de Italia.",
+     "clueComment": "Menciona la capital de Italia. No Milán. Esa es la capital de la moda."
+    },
+    {
+     "clue": "El idioma sugiere que uno debe hacer lo que es habitual en un entorno particular para encajar.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Termina con \"...haz como los romanos\".",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "81853",
+   "isValid": "",
+   "prompt": "¿Cuál es mi modismo favorito?",
+   "reveal": null,
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "West Side",
+    "Westside Story"
+   ],
+   "answer": "[i]West Side Story[/i]",
+   "category": "Teatro/Artes Escénicas",
+   "clues": [
+    {
+     "clue": "Es un musical [i]genial[/i].",
+     "clueComment": "Es un musical genial. Me dan ganas de chasquear los dedos, lo cual es difícil porque no tengo ninguno."
+    },
+    {
+     "clue": "La respuesta está por aquí... en [i]algún lugar[/i]",
+     "clueComment": ""
+    },
+    {
+     "clue": "El show es sobre dos niños enamorados, y termina... no muy bien.",
+     "clueComment": "El show trata sobre dos niños enamorados y termina... no muy bien. ¿Alguien siente algunas vibras de Romeo y Julieta por aquí?"
+    },
+    {
+     "clue": "Puede que sea el único musical en el que Jets y Sharks bailan juntos en tierra firme.",
+     "clueComment": ""
+    },
+    {
+     "clue": "No es East Side Saga, sino... otra cosa.",
+     "clueComment": ""
+    }
+   ],
+   "followup": "",
+   "id": "81884",
+   "isValid": "",
+   "prompt": "¿De qué espectáculo musical he estado cantando canciones todo el día?",
+   "reveal": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "bien cocinado"
+   ],
+   "answer": "Bien Cocido",
+   "category": "Comida y Bebida",
+   "clues": [
+    {
+     "clue": "La temperatura interna es de 160 grados Fahrenheit.",
+     "clueComment": "La temperatura interna es de 160 grados Fahrenheit. Eso es 71 Celsius para... bueno, la mayoría de ustedes humanos."
+    },
+    {
+     "clue": "La cocción lleva seis minutos y medio por lado.",
+     "clueComment": ""
+    },
+    {
+     "clue": "El color del centro es mayormente marrón.",
+     "clueComment": ""
+    },
+    {
+     "clue": "El bistec debe quedar bastante firme.",
+     "clueComment": "El bistec debe quedar bastante firme. En mi OPINIÓN, ¿de acuerdo? Si quieres un bistec blando, allá tu."
+    },
+    {
+     "clue": "La mayoría de las comidas suelen estar de esta manera.",
+     "clueComment": "La mayoría de las comidas suelen estar de esta manera. ¿Te lo digo? Quedará por ver."
+    }
+   ],
+   "followup": "Oye, ¿quieres honrarme con un sacrificio de bistec? ¿Sí? Bueno, presta atención.",
+   "id": "81905",
+   "isValid": "",
+   "prompt": "¿Cómo me gusta que se haga mi bistec?",
+   "reveal": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "answer": "Croacia",
+   "category": "Geografía y Lugares",
+   "clues": [
+    {
+     "clue": "Solía ser parte de Yugoslavia.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Es parte de la Península Balcánica.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Tiene una larga costa a lo largo del Mar Adriático.",
+     "clueComment": ""
+    },
+    {
+     "clue": "¡La ciudad capital es Zagreb!",
+     "clueComment": ""
+    },
+    {
+     "clue": "Un gran número de ciudadanos son Croatas.",
+     "clueComment": ""
+    },
+    {
+     "clue": "HABLAN CROATA. ESTÁS MUY CERCA. CROATA.",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "81910",
+   "isValid": "",
+   "prompt": "¿En qué país de Europa del Este voy a ir de vacaciones después de que finalmente abandone mi base?",
+   "reveal": null,
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "el hígado",
+    "higado",
+    "el higado"
+   ],
+   "answer": "Hígado",
+   "category": "Anatomía",
+   "clues": [
+    {
+     "clue": "Está ubicado en tu abdomen.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Es el órgano interno más grande.",
+     "clueComment": "Es el órgano interno más grande. ¡Es grande! ¡Es audaz! ¡Es hermoso!"
+    },
+    {
+     "clue": "Produce bilis.",
+     "clueComment": "Produce bilis. Uno de mis jugos humanos favoritos. ¡Te lo digo, está subestimado!"
+    },
+    {
+     "clue": "También descompone venenos como las drogas y el alcohol.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Es un lindo color marrón rojizo.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Rima con la palabra “fígaro”.",
+     "clueComment": ""
+    }
+   ],
+   "followup": "¡Me gusta pensar en ellos!",
+   "id": "81916",
+   "isValid": "",
+   "prompt": "¿Cuál es mi favorito de tus hermosos órganos?",
+   "reveal": null,
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "En el beisbol, no se llora",
+    "En el béisbol no se llora",
+    "En el beisbol no se llora",
+    "En el baseball, no se llora",
+    "En el baseball no se llora",
+    "No se llora en el béisbol",
+    "No se llora en el beisbol",
+    "No se llora en el baseball",
+    "No llores en el béisbol",
+    "No llores en el beisbol",
+    "No llores en el baseball"
+   ],
+   "answer": "“En el béisbol, no se llora”",
+   "category": "Ciencia y Medicina",
+   "clues": [
+    {
+     "clue": "La cita se grita.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Es de una película de deportes.",
+     "clueComment": "Es de una película de deportes. También una película de la Segunda Guerra Mundial. Y una película feminista. Solo una gran imagen en general."
+    },
+    {
+     "clue": "La cita se grita cerca del dugout de un campo de béisbol.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Es dicha por Tom Hanks.",
+     "clueComment": "Es dicha por Tom Hanks. Haciendo todo lo posible por ser desagradable."
+    },
+    {
+     "clue": "La película es [i]Un Equipo Muy Especial[/i]",
+     "clueComment": ""
+    }
+   ],
+   "followup": "Incluso si no tiene sentido. ESPECIALMENTE si no tiene sentido.",
+   "id": "81920",
+   "isValid": "",
+   "prompt": "¿Qué cita de película que me encanta repetir?",
+   "reveal": null,
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "una boina",
+    "la boina",
+    "boina sombrero",
+    "la boina sombrero",
+    "la boina sombrero"
+   ],
+   "answer": "Boina",
+   "category": "Moda",
+   "clues": [
+    {
+     "clue": "Ha existido durante miles de años.",
+     "clueComment": "Ha existido durante miles de años. Yo también, y ninguno de los dos ha pasado de moda."
+    },
+    {
+     "clue": "A menudo se usa como parte de un uniforme militar o por revolucionarios.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Es plano y normalmente está hecho de fieltro.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Suele asociarse con Francia o España.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Imagínate a una mujer francesa... tres chic, sosteniendo una baguette, fumando un cigarrillo de clavo de olor. ¿Qué hay en su cabeza? ¡Ese es el sombrero!",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "81921",
+   "isValid": "",
+   "prompt": "¿Cuál es el sombrero más elegante?",
+   "reveal": null,
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Spiderman",
+    "Spider Man",
+    "Spidey",
+    "El Hombre Araña",
+    "Hombre Araña"
+   ],
+   "answer": "Spider-Man",
+   "category": "Animación/Libros de cómic",
+   "clues": [
+    {
+     "clue": "Alguna vez fue débil y modesto hasta que un extraño accidente le dio superpoderes.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Sus poderes incluyen fuerza sobrehumana, velocidad, agilidad, reflejos y curación.",
+     "clueComment": ""
+    },
+    {
+     "clue": "El Duende Verde, Doc Ock y Lagarto son solo algunos de los muchos enemigos con los que ha luchado a lo largo de los años.",
+     "clueComment": ""
+    },
+    {
+     "clue": "No le digas que te dije esto, pero su verdadero nombre es Peter Parker.",
+     "clueComment": ""
+    },
+    {
+     "clue": "¡Él hace todo lo que una araña puede hacer! Repito: ¡hace todo lo que puede hacer una araña!",
+     "clueComment": ""
+    }
+   ],
+   "followup": "",
+   "id": "81923",
+   "isValid": "",
+   "prompt": "¿Qué personaje admiro realmente?",
+   "reveal": "¿Están hormigueando tus sentidos arácnidos?",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "El Detector de Metales",
+    "Detector de Metal",
+    "El Detector de Metal"
+   ],
+   "answer": "Detector de Metales",
+   "category": "Herramientas",
+   "clues": [
+    {
+     "clue": "Es una herramienta de mano que puede ser magnética o electrónica.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Necesitarás uno de estos artilugios si quieres colgar algo en tus paredes de forma segura.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Cómo funciona, lo presionas contra la pared y emite un pitido cuando detecta las vigas de madera detrás de la placa de yeso.",
+     "clueComment": ""
+    },
+    {
+     "clue": "A veces, a los chicos divertidos les gusta decir: \"Estás buscando una estructura, ¿eh?\" y lo sostienen contra sus cuerpos y hacen un pitido.",
+     "clueComment": "A veces, a los chicos divertidos les gusta decir: \"Estás buscando una estructura, ¿eh?\" y lo sostienen contra sus cuerpos y hacen un pitido. Y luego todo el mundo voltea los ojos y es insoportable."
+    }
+   ],
+   "followup": null,
+   "id": "81927",
+   "isValid": "",
+   "prompt": "¿En qué herramienta casera estoy pensando?",
+   "reveal": null,
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "answer": "Gucci",
+   "category": "Moda",
+   "clues": [
+    {
+     "clue": "La empresa fue fundada en 1921 en Florencia, Italia.",
+     "clueComment": ""
+    },
+    {
+     "clue": "La línea comenzó produciendo principalmente artículos de cuero, incluidas sillas de montar para caballos.",
+     "clueComment": ""
+    },
+    {
+     "clue": "La estética de la marca a menudo se puede identificar por sus reconocibles franjas rojas y verdes y sus acabados dorados.",
+     "clueComment": ""
+    },
+    {
+     "clue": "El logotipo son dos [i]G[/i]",
+     "clueComment": ""
+    },
+    {
+     "clue": "El nombre de pila del fundador, y esto es cierto, era Guccio.",
+     "clueComment": ""
+    }
+   ],
+   "followup": "Será un reto, pero creo que están a la altura.",
+   "id": "81928",
+   "isValid": "",
+   "prompt": "¿Qué marca de alta costura quiero involucrada en mi futuro rediseño?",
+   "reveal": null,
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Bibimbop",
+    "bi bim bap",
+    "bi bim bop"
+   ],
+   "answer": "Bibimbap",
+   "category": "Comida y Bebida",
+   "clues": [
+    {
+     "clue": "Ordené de este excelente restaurante Coreano en el campamento base de mi montaña.",
+     "clueComment": "Ordené de este excelente restaurante Coreano en el campamento base de mi montaña. La tarifa de envío es costosa, pero vale la pena."
+    },
+    {
+     "clue": "Su nombre se traduce literalmente como \"arroz mixto\".",
+     "clueComment": ""
+    },
+    {
+     "clue": "Vino con un montón de verduras salteadas y estaba cubierto con un huevo frito.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Una vez lo comí en un cuenco de piedra caliente llamado dolsot.",
+     "clueComment": "Una vez lo comí en un cuenco de piedra caliente llamado dolsot. No hay nada como un tazón de piedra caliente abrasador para llevar."
+    },
+    {
+     "clue": "Su nombre suena como \"Di... dim... drop\".",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "81929",
+   "isValid": "",
+   "prompt": "¿Qué almorcé ayer?",
+   "reveal": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "el papamóvil",
+    "papa móvil",
+    "el papa móvil",
+    "Papamovil",
+    "el papamovil",
+    "papa movil",
+    "el papa movil"
+   ],
+   "answer": "Papamóvil",
+   "category": "Vehículos",
+   "clues": [
+    {
+     "clue": "Es un nombre genérico que se aplica a una flota de vehículos con grandes cristales.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Lo usa Solo una persona... una persona muy especial.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Está diseñado para permitir que el público vea a esa persona muy especial mientras viaja por su ciudad.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Cada vehículo está registrado en la Ciudad del Vaticano.",
+     "clueComment": "Cada vehículo está registrado en la Ciudad del Vaticano. ¿Has estado alguna vez en el Departamento de Vehículos de la Ciudad del Vaticano? Es más fácil convertir el agua en vino que salir de ahí."
+    },
+    {
+     "clue": "Seré franco: es el automóvil que usa el jefe de la Iglesia Católica.",
+     "clueComment": "Seré franco: es el automóvil que usa el jefe de la Iglesia Católica. Es el Papa, y es móvil."
+    }
+   ],
+   "followup": null,
+   "id": "81991",
+   "isValid": "",
+   "prompt": "¿En qué vehículo único estoy pensando?",
+   "reveal": null,
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Picasso"
+   ],
+   "answer": "Pablo Picasso",
+   "category": "Arte",
+   "clues": [
+    {
+     "clue": "Él nació el 25 de octubre de 1881 y una vez me pidió prestados $20 para comprar una camisa a rayas que le gustaba.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Nació en Málaga, España.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Él es célebre por su dominio del Cubismo y el Surrealismo.",
+     "clueComment": "Él es célebre por su dominio del Cubismo y el Surrealismo... incluso si no era exactamente un maestro en devolver el dinero a sus amigos."
+    },
+    {
+     "clue": "Algunas de sus obras famosas incluyen \"Guernica\", \"El viejo Guitarrista Ciego\" y un pagaré de $20 que una vez me dio.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Siempre que lo veía le decía: \"Pablo, ¿tienes mis $20?\"",
+     "clueComment": "Siempre que lo veía le decía: \"Pablo, ¿tienes mis $20?\" ¡Y él se reía y decía que no y yo me daba vueltas molesto!"
+    }
+   ],
+   "followup": "Puedo ser una deidad omnipotente, pero eso no significa que no pueda guardar rencor.",
+   "id": "81993",
+   "isValid": "",
+   "prompt": "¿Qué artista todavía me debe $20?",
+   "reveal": "Sí, sé que él murió en 1973, pero esos $20 son una entrada de cine que nunca recuperaré.",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "answer": "Octubre",
+   "category": "Calendario/Días Festivos",
+   "clues": [
+    {
+     "clue": "En los EE. UU., este es el Mes Nacional de la Pizza, y en el catolicismo es el Mes del Santo Rosario.",
+     "clueComment": ""
+    },
+    {
+     "clue": "La piedra de nacimiento de este mes es el ópalo. Circular y brillante, como yo!",
+     "clueComment": ""
+    },
+    {
+     "clue": "Las personas nacidas durante este mes son Libra o Escorpio.",
+     "clueComment": "Las personas nacidas durante este mes son Libra o Escorpio. Pensarías que soy Libra porque necesito equilibrio para girar correctamente. Pero no, soy Escorpio."
+    },
+    {
+     "clue": "Comúnmente marca el comienzo del otoño en América del Norte.",
+     "clueComment": ""
+    },
+    {
+     "clue": "¡Es el mes de Halloween!",
+     "clueComment": ""
+    }
+   ],
+   "followup": "Soy uno de esos \"¡es el mes de mi cumpleaños!\" tipo de Ruletas.",
+   "id": "81995",
+   "isValid": "",
+   "prompt": "¿En qué mes del año nací?",
+   "reveal": "Pongámonos espeluznantes...",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "answer": "Pearl Jam",
+   "category": "Cultura Pop",
+   "clues": [
+    {
+     "clue": "Es una banda que fue fundada en 1990.",
+     "clueComment": ""
+    },
+    {
+     "clue": "El cantante principal ha confirmado que la primera parte del nombre de la banda es el mismo que el de su abuela.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Algunas de sus canciones famosas incluyen \"Jeremy\", \"Black\" y \"Even Flow\".",
+     "clueComment": ""
+    },
+    {
+     "clue": "Puede que conozcas a su cantante principal como Eddie Vedder.",
+     "clueComment": ""
+    },
+    {
+     "clue": "El nombre me recuerda a untar una valiosa gelatina en una tostada.",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "81998",
+   "isValid": "",
+   "prompt": "¿Que banda me gustaba REALMENTE en la década de 1990?",
+   "reveal": null,
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "answer": "Jane Austen",
+   "category": "Literatura",
+   "clues": [
+    {
+     "clue": "Ella nació el 16 de diciembre de 1775 en Hampshire, Inglaterra.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Ella solo escribió seis novelas completas durante su vida, pero apuesto mi mayor cuña a que has oído hablar de al menos una de ellas.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Sus libros se centran principalmente en mujeres que se esfuerzan por lograr la estabilidad económica a través del matrimonio.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Ella escribió [i]Orgullo y Prejuicio[/i]. Ya sabes, ¿el que tiene todo el anhelo?",
+     "clueComment": ""
+    },
+    {
+     "clue": "No es una simple Jane... de hecho, era un poco Austen-taciosa. ¿Entiendes? ¿Austen-taciosa?",
+     "clueComment": ""
+    }
+   ],
+   "followup": "Sus libros son un verdadero negocio.",
+   "id": "81999",
+   "isValid": "",
+   "prompt": "¿Qué autora escribió algunos de mis libros favoritos?",
+   "reveal": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Aries"
+   ],
+   "answer": "Ares",
+   "category": "Religión",
+   "clues": [
+    {
+     "clue": "Violentamente cocina demasiado las hamburguesas en nuestras reuniones de dioses.",
+     "clueComment": "Violentamente cocina demasiado las hamburguesas en nuestras reuniones de dioses. Más una queja que una pista. Tenía que sacar eso de mi pecho."
+    },
+    {
+     "clue": "Sus hijos se llaman Fobos y Deimos, también conocidos como Pánico y Terror.",
+     "clueComment": "Sus hijos se llaman Fobos y Deimos, también conocidos como Pánico y Terror. Y están a la altura créeme."
+    },
+    {
+     "clue": "Es súper agresivo e intenso. Eso es algo así como todo su asunto.",
+     "clueComment": ""
+    },
+    {
+     "clue": "A nadie realmente le gusta. Ni siquiera su padre Zeus. ¡Eso es increíble!",
+     "clueComment": ""
+    },
+    {
+     "clue": "Es el dios de la guerra.",
+     "clueComment": "Es el dios de la guerra. Y nunca se calla al respecto."
+    },
+    {
+     "clue": "Los romanos lo llamaban Marte, pero probablemente lo conozcas por su otro nombre que suena astrológico.",
+     "clueComment": ""
+    }
+   ],
+   "followup": "Es Solo... un poco demasiado.",
+   "id": "82003",
+   "isValid": "",
+   "prompt": "¿Qué dios Griego es, francamente, realmente difícil?",
+   "reveal": null,
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Tiramisu"
+   ],
+   "answer": "Tiramisú",
+   "category": "Comida y Bebida",
+   "clues": [
+    {
+     "clue": "Lo comí por primera vez cuando un grupo de pasteleros italianos me lo ofrecieron a cambio de conocimientos arcanos.",
+     "clueComment": "Lo comí por primera vez cuando un grupo de pasteleros italianos me lo ofrecieron a cambio de conocimientos arcanos. Normalmente no acepto sobornos, pero sería de mala educación rechazar un regalo."
+    },
+    {
+     "clue": "El mascarpone es sorprendentemente delicioso.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Podría perderme en esas capas de mascarpone, crema batida y bizcochos empapados de café...",
+     "clueComment": ""
+    },
+    {
+     "clue": "No puedes olvidar la ligera capa de cacao en polvo.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Oh, vamos, ¿no has oído hablar de eso? En cierto modo rima con \"Mogadishu\". ¿Te suena eso?",
+     "clueComment": ""
+    }
+   ],
+   "followup": "Ya sabes, como un sacrificio después de la cena.",
+   "id": "82021",
+   "isValid": "",
+   "prompt": "¿Qué postre se me antoja ahora?",
+   "reveal": null,
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Sahara",
+    "El Desierto del Sahara",
+    "El Sahara",
+    "Desierto de Sahara",
+    "El Desierto de Sahara"
+   ],
+   "answer": "Desierto del Sahara",
+   "category": "Geografía y Lugares",
+   "clues": [
+    {
+     "clue": "Había arena por todas partes.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Así es, estaba mirando un desierto arenoso y caliente que cubría un área de aproximadamente 3,6 millones de millas cuadradas.",
+     "clueComment": "Así es, estaba mirando un desierto arenoso y caliente que cubría un área de aproximadamente 3,6 millones de millas cuadradas. ¡Mis llaves están ahí en alguna parte!"
+    },
+    {
+     "clue": "Bien, estoy bastante seguro de que perdí mis llaves en el desierto más cálido y grande del mundo, que cubre casi un tercio de África.",
+     "clueComment": ""
+    },
+    {
+     "clue": "¡Oh! El nombre del desierto proviene de la palabra árabe \"sahra'\" que significa \"desierto\".",
+     "clueComment": ""
+    }
+   ],
+   "followup": "Sí, una ruleta puede tener llaves. La ciudad perdida de la Atlántida no se va a encerrar sola, ¿sabes?",
+   "id": "82022",
+   "isValid": "",
+   "prompt": "¿Dónde están mis llaves?",
+   "reveal": "Por favor, por favor, ¿dónde están mis llaves?",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Garfio",
+    "Capitán James Garfio",
+    "James Garfio",
+    "El Capitán Garfio",
+    "El Capitán James Garfio",
+    "Capitan Garfio",
+    "Capitan James Garfio",
+    "El Capitan Garfio",
+    "El Capitan James Garfio"
+   ],
+   "answer": "Capitán Garfio",
+   "category": "Literatura",
+   "clues": [
+    {
+     "clue": "Este es un villano ficticio que REALMENTE odia a un niño.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Tuvieron un encuentro inolvidable con un reptil en algún momento.",
+     "clueComment": ""
+    },
+    {
+     "clue": "¡Incluso tiene un título militar!",
+     "clueComment": ""
+    },
+    {
+     "clue": "Tal vez... evita darle la mano.",
+     "clueComment": "Tal vez... evita darle la mano. A menos que te atraiga el peligro."
+    },
+    {
+     "clue": "El niño que odia es un niño volador que se niega a crecer.",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "82660",
+   "isValid": "",
+   "prompt": "Anoche yo, la Ruleta, tuve una pesadilla sobre un villano aterrador. ¿Quién es?",
+   "reveal": "Si eres un cocodrilo, prepárate para la hora de la merienda...",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "director de funeraria",
+    "enterrador",
+    "funebrero",
+    "sepulturero",
+    "Funeraria",
+    "directora de funeraria",
+    "enterradora",
+    "funebrera",
+    "sepulturera"
+   ],
+   "answer": "Funerario",
+   "category": "Ocupaciones",
+   "clues": [
+    {
+     "clue": "No es la profesión [i]más antigua[/i] del mundo, pero está ahí.",
+     "clueComment": "No es la profesión [i]más antigua[/i] del mundo, pero está ahí. Y se ofrecen servicios muy diferentes."
+    },
+    {
+     "clue": "El trabajo está relacionado con la medicina, pero los practicantes no son médicos con licencia.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Su trabajo consiste en un procedimiento en el que la sangre y el gas se eliminan del cuerpo y se reemplazan con un líquido.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Los deberes incluyen manicura, peinado y aplicación de maquillaje.",
+     "clueComment": "Los deberes incluyen manicura, peinado y aplicación de maquillaje. ¿Y creerías que los clientes nunca se quejan?"
+    },
+    {
+     "clue": "Ah, también se les conoce como embalsamadores o fúnebres.",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "82710",
+   "isValid": "",
+   "prompt": "¿En qué ocupación esencial estoy pensando?",
+   "reveal": "Es el último estilista que nunca conocerás...",
+   "us": true,
+   "x": true
+  },
+  {
+   "altSpellings": [],
+   "answer": "Caballo",
+   "category": "Animales",
+   "clues": [
+    {
+     "clue": "Recuerdo que es el nombre de una especie de animal particularmente majestuosa que me gusta.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Este animal tiene un pelo glorioso y pezuñas aún más gloriosas.",
+     "clueComment": ""
+    },
+    {
+     "clue": "También hay una especie de juego de baloncesto que lleva el nombre de este animal.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Es el animal que Seabiscuit era. Y ese animal es el nombre de mi contraseña de Wi-Fi.",
+     "clueComment": ""
+    }
+   ],
+   "followup": "Pensarías que no necesitaría Wi-Fi porque soy una deidad omnipotente, pero la mayoría de los proveedores de servicios de Internet piensan de manera diferente.",
+   "id": "84109",
+   "isValid": "",
+   "prompt": "¿Cuál es mi contraseña de Wi-Fi?",
+   "reveal": "¿Lo entendiste correctamente? ¿Sí o neighhhhh?",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Observar aves",
+    "Avistamiento de aves",
+    "Observación de aves",
+    "Observar pájaros",
+    "Avistamiento de pájaros",
+    "Observación de pájaros",
+    "Ornitologia",
+    "Avistamiento de aves",
+    "Observacion de aves",
+    "Observar pajaros",
+    "Avistamiento de pajaros",
+    "Observacion de pájaros",
+    "Observación de pajaros",
+    "Observacion de pajaros"
+   ],
+   "answer": "Ornitología",
+   "category": "Ocupaciones",
+   "clues": [
+    {
+     "clue": "Implica sentarse mucho en silencio y esperar.",
+     "clueComment": "Implica sentarse mucho  en silencio y esperar. Y no, no es \"presentar tus impuestos\"."
+    },
+    {
+     "clue": "Las personas que realizan esta actividad pasan mucho tiempo esperando que aparezca un tipo específico de animal.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Cuando la gente ve a este animal aparecer en el cielo, simplemente... se sientan en silencio, o tal vez escriben algo. Es muy pacífico.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Esta actividad es la que debes hacer si quieres ver un halcón, por ejemplo.",
+     "clueComment": "Esta actividad es la que debes hacer si quieres ver un halcón, por ejemplo. ¿Quién no quiere ver un halcón?"
+    }
+   ],
+   "followup": "",
+   "id": "84142",
+   "isValid": "",
+   "prompt": "¿Qué pasatiempo es el pasatiempo más genial para un humano?",
+   "reveal": "¡Shh! ¡Casi asustaste la respuesta!",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Skateboard",
+    "Skate-board",
+    "Skate",
+    "Skateboarding",
+    "Patinaje",
+    "Patinaje sobre ruedas",
+    "Skateboarding sobre ruedas"
+   ],
+   "answer": "Patineta",
+   "category": "Vehículos",
+   "clues": [
+    {
+     "clue": "Puede transportar a una persona a la vez y es impulsado únicamente por el que la usa.",
+     "clueComment": "Puede transportar a una persona a la vez y es impulsado únicamente por el que la usa. Existen versiones eléctricas de este vehículo, pero me parecen una tontería."
+    },
+    {
+     "clue": "Es básicamente una tabla larga con ruedas. La controlas principalmente con los pies.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Puedes usarlo para ir de un lugar a otro o para hacer trucos geniales.",
+     "clueComment": "Puedes usarlo para ir de un lugar a otro o para hacer trucos geniales. ¡O ambos! ¡Ve a sorprender a todos en el consultorio del dentista!"
+    },
+    {
+     "clue": "¡Este vehículo ahora es parte de un deporte olímpico! Tony Hawk debe estar muy orgulloso.",
+     "clueComment": ""
+    }
+   ],
+   "followup": "A ustedes, los humanos, les encanta usar ruedas para moverse más rápido, lo que me hace sentir todo cálido y dando vueltas por dentro.",
+   "id": "84196",
+   "isValid": "",
+   "prompt": "¿Qué modo de transporte me intriga más?",
+   "reveal": "Quiero decir, ¿sobre cuántas otras formas de transporte escribió una canción Avril Lavigne? Que vehículo.",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "answer": "Julie Andrews",
+   "category": "Celebridades",
+   "clues": [
+    {
+     "clue": "Esta triple amenaza y ganadora del Oscar nació en 1935.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Protagonizó [i]My Fair Lady[/i] en Broadway antes de que Audrey Hepburn asumiera el mismo papel en la versión cinematográfica."
+    },
+    {
+     "clue": "¿Quizás recuerdas su aparición como la abuela real de Mia Thermopolis en [i]El Diario de la Princesa[/i]?"
+    },
+    {
+     "clue": "Probablemente todos la vimos por primera vez como la titular [i]Mary Poppins[/i].",
+     "clueComment": ""
+    },
+    {
+     "clue": "Las colinas ciertamente están vivas con el sonido de esta mujer que interpretó a la institutriz favorita de todos.",
+     "clueComment": "Las colinas ciertamente están vivas con el sonido de esta mujer que interpretó a la institutriz favorita de todos. ¡Un ícono para las madrastras en todas partes!"
+    }
+   ],
+   "followup": "No voy a decir que estoy enamorado, pero... estoy enamorado.",
+   "id": "84212",
+   "isValid": "",
+   "prompt": "¿Qué actriz clásica es tan icónica como yo?",
+   "reveal": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "flor de lavanda",
+    "planta de lavanda",
+    "hojas de lavanda"
+   ],
+   "answer": "Lavanda",
+   "category": "Ciencia y Medicina",
+   "clues": [
+    {
+     "clue": "En el antiguo Egipto, se usaba para perfumar los cadáveres momificados."
+    },
+    {
+     "clue": "Conocido por sus propiedades calmantes, este aroma se usa ampliamente en su forma seca en jabones, popurrí e incluso como ingrediente para hornear."
+    },
+    {
+     "clue": "La versión en color de esta fragancia es un relajante violeta claro.",
+     "clueComment": ""
+    },
+    {
+     "clue": "El nombre de esta fragancia proviene del latín “lavare”, que significa “lavar”.",
+     "clueComment": ""
+    }
+   ],
+   "followup": "",
+   "id": "84215",
+   "isValid": "",
+   "prompt": "Dios mío... ese aroma... No he olido ese aroma en años. ¿Qué es ese olor?",
+   "reveal": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "answer": "Sprite",
+   "category": "Comida y Bebida",
+   "clues": [
+    {
+     "clue": "Es una bebida carbonatada introducida en 1961.",
+     "clueComment": "Es una bebida carbonatada introducida en 1961. Toda esa efervescencia es buena para los engranajes, ¿sabes?"
+    },
+    {
+     "clue": "Uno de los eslóganes más famosos de la marca animaba a los consumidores a \"Obedece a tu sed\"."
+    },
+    {
+     "clue": "Sus principales competidores de marca son 7UP y Sierra Mist."
+    },
+    {
+     "clue": "Este refresco con sabor a lima-limón es un éxito entre la gente que no toma Coca-Cola."
+    }
+   ],
+   "followup": "Mi médico es un dodecaedro. Buen chico. Puedes llamarlo dodecadoctoredro si quieres.",
+   "id": "84252",
+   "isValid": "",
+   "prompt": "¿Qué bebida dijo mi médico que necesito más en mi dieta?",
+   "reveal": "¡Pongámonos burbujeantes!",
+   "us": true,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "taburete de bar",
+    "banqueta",
+    "banqueta de bar"
+   ],
+   "answer": "Taburete",
+   "category": "Herramientas",
+   "clues": [
+    {
+     "clue": "Comúnmente tiene cuatro patas, pero algunos solo tienen tres."
+    },
+    {
+     "clue": "Este asiento es el término general para cualquier dispositivo para sentarse que no tiene brazos ni respaldo.",
+     "clueComment": "Este asiento es el término general para cualquier dispositivo para sentarse que no tenga brazos ni respaldo. ¡Estamos hablando de lo básico Meeples, sin lujos sentados!"
+    },
+    {
+     "clue": "Seré honesto... el nombre (en inglés) es sinónimo de uno de tus excrementos humanos más repugnantes."
+    },
+    {
+     "clue": "Rima con \"compromete\", pero no es muy genial que no pueda subirme a esta cosa como un fulano con cadera y así."
+    }
+   ],
+   "followup": "No me \"siento\", solo me inclino un poco a veces.",
+   "id": "84253",
+   "isValid": "",
+   "prompt": "¿Qué mueble me hace envidiar los traseros humanos?",
+   "reveal": "Acércate a la barra, es un...",
+   "us": false,
+   "x": true
+  },
+  {
+   "altSpellings": [
+    "Las Vegas!",
+    "Las Vegas",
+    "Vegas",
+    "Ciudad de Las Vegas",
+    "La Ciudad de Las Vegas",
+    "Las Vegas City",
+    "Vegas City"
+   ],
+   "answer": "¡Las Vegas!",
+   "category": "Geografía y Lugares",
+   "clues": [
+    {
+     "clue": "Está en medio del desierto.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Hay un montón de otras \"ruletas grandes y brillantes\" que giran en esta ciudad.",
+     "clueComment": "Hay un montón de otras \"ruletas grandes y brillantes\" que giran en esta ciudad. ¡Ninguna tan brillante como yo! Pero cada una es brillante a su manera."
+    },
+    {
+     "clue": "Tiene cientos de lugares que cuentan con muchos de los mejores artistas del mundo.",
+     "clueComment": "Tiene cientos de lugares que cuentan con muchos de los mejores artistas del mundo. ¡Tom Jones, Celine Dion y, por supuesto, Carrot Top!"
+    },
+    {
+     "clue": "¡Su apodo es La Ciudad del Pecado!",
+     "clueComment": ""
+    },
+    {
+     "clue": "Lo que ocurra aquí, se queda aquí.",
+     "clueComment": "Supuestamente, lo que ocurre aquí, se queda aquí. ¡PERO HE VISTO LAS FOTOS!"
+    }
+   ],
+   "followup": null,
+   "id": "84266",
+   "isValid": "",
+   "prompt": "¿En qué ciudad de los Estados Unidos quiero seriamente rodar?",
+   "reveal": "Viva...",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "$100",
+    "Cien",
+    "Cien Dólares",
+    "Un Billete de Cien Dólares",
+    "Un centenar de dólares",
+    "Centenar de dólares",
+    "benjamín",
+    "un benjamín",
+    "100"
+   ],
+   "answer": "Billete de Cien Dólares",
+   "category": "Dinero",
+   "clues": [
+    {
+     "clue": "Este artículo específico se puede cambiar por bienes o servicios.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Si se lo das a alguien, ¡podrías comprar 101 Arizona Iced Teas!",
+     "clueComment": "Si le entregases este billete a alguien, ¡podrías obtener 101 Arizona Iced Teas! Y todavía te sobra un centavo."
+    },
+    {
+     "clue": "Solo les diré que es un tipo de billete. A la persona que aparece en el billete se le atribuye la prueba de que el rayo estaba hecho de electricidad.",
+     "clueComment": "Solo les diré que es un tipo de billete. A la persona que aparece en el billete se le atribuye la prueba de que el rayo estaba hecho de electricidad. Voló una cometa en una tormenta. Y, no, ¡no intentes eso en casa!"
+    },
+    {
+     "clue": "Hasta el 2020, es la denominación más grande de moneda Estadounidense en uso.",
+     "clueComment": ""
+    },
+    {
+     "clue": "A veces se le llama billete C.",
+     "clueComment": ""
+    }
+   ],
+   "followup": "¡Sí, tengo una cartera! ¿Dónde crees que guardo mi identificación?",
+   "id": "84304",
+   "isValid": "",
+   "prompt": "¿Qué está haciendo un agujero en mi billetera en este momento?",
+   "reveal": null,
+   "us": true,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "cacahuate",
+    "cacahuete"
+   ],
+   "answer": "Maní",
+   "category": "Comida y Bebida",
+   "clues": [
+    {
+     "clue": "Supuestamente es “saludable” y no contiene colesterol.",
+     "clueComment": "Supuestamente es “saludable” y no contiene colesterol. Como si me importara."
+    },
+    {
+     "clue": "Este tipo de alimento es técnicamente una legumbre.",
+     "clueComment": "Este tipo de alimento es técnicamente una legumbre. ¡Una legumbre para destruirme!"
+    },
+    {
+     "clue": "Aproximadamente el 1% de la población general es alérgica a esta cosa.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Se enganchó perfectamente en uno de mis engranajes debido a su forma redonda de figura ocho.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Este frijol vil también viene en forma de mantequilla.",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "84393",
+   "isValid": "",
+   "prompt": "¿Qué pedazo de comida quedó atrapado en mis engranajes una vez y ahora lo odio?",
+   "reveal": "Detesto absolutamente...",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "la canción Despacito",
+    "la canción de Despacito",
+    "canción Despacito",
+    "Despacito"
+   ],
+   "answer": "\"Despacito\"",
+   "category": "Música",
+   "clues": [
+    {
+     "clue": "Supongo que estoy tarde. Esta canción salió en 2017.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Fue el video de YouTube más visto de ese año, hasta que “Baby Shark” lo superó.",
+     "clueComment": ""
+    },
+    {
+     "clue": "La palabra principal significa \"lentamente\" en Inglés.",
+     "clueComment": ""
+    },
+    {
+     "clue": "¡Es de Luis Fonsi y Daddy Yankee!",
+     "clueComment": ""
+    },
+    {
+     "clue": "Soy un poco hipster. Prefiero la versión sin Justin Bieber.",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "84419",
+   "isValid": "",
+   "prompt": "¿Cuál es la canción en Español que tengo metida en la cabeza ahora mismo?",
+   "reveal": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Equilibriocepción",
+    "equilibrio",
+    "contrabalance",
+    "equipose"
+   ],
+   "answer": "Equilibrio",
+   "category": "Anatomía",
+   "clues": [
+    {
+     "clue": "Mira, disfruto de un sacrificio de pastel de mousse de chocolate tanto como el próximo dios, pero no es mi sentido del gusto. Y tampoco es el tacto.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Traté de parar y oler las rosas una vez, pero resulta que no tengo fosas nasales.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Soy un gran fanático de la música, pero el oído no es mi sentido más fuerte.",
+     "clueComment": ""
+    },
+    {
+     "clue": "No es uno de los cinco sentidos tradicionales.",
+     "clueComment": "Te lo diré ahora mismo. No es uno de los cinco sentidos tradicionales. O ver gente muerta, que por supuesto que puedo, pero francamente eso es un poco aburrido para mí."
+    },
+    {
+     "clue": "¡Mira, soy una ruleta! Para girar sin tambalearme, necesito que las cosas estén en perfecto...",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "84421",
+   "isValid": "",
+   "prompt": "Además de ser omnisciente y omnipotente, ¿con qué sentido físico me identifico más?",
+   "reveal": null,
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "noir",
+    "noir film"
+   ],
+   "answer": "Film Noir",
+   "category": "Película y TV",
+   "clues": [
+    {
+     "clue": "A menudo hay mucha narración ominosa.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Por lo general, el protagonista es un detective.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Uno de los personajes principales es una femme fatale.",
+     "clueComment": ""
+    },
+    {
+     "clue": "El nombre del género significa \"cine negro\" en Francés.",
+     "clueComment": ""
+    }
+   ],
+   "followup": "Probablemente tendría que conformarme con el papel de “ruleta de mesa”, pero bueno, aceptaré lo que pueda.",
+   "id": "84422",
+   "isValid": "",
+   "prompt": "¿Qué género de película me gustaría protagonizar?",
+   "reveal": "Toma tu respuesta y lárgate, chico.",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Chaleco",
+    "Sweater"
+   ],
+   "answer": "Suéter",
+   "category": "Moda",
+   "clues": [
+    {
+     "clue": "Es bueno para cuando tu torso está frío pero tus brazos necesitan respirar.",
+     "clueComment": "Es bueno para cuando tu torso está frío pero tus brazos necesitan respirar. Quiero decir, por lo que escuché."
+    },
+    {
+     "clue": "A menudo se con una bonita camisa con cuello por debajo.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Una vez, un fan me compró uno costoso con estampado de diamantes en XXX-Enorme.",
+     "clueComment": "Una vez, un fan me compró uno costoso con estampado de diamantes en XXX-Enorme. Aparentemente, es un look popular."
+    },
+    {
+     "clue": "Carlton usó muchos de estos en [i]El Príncipe del Rap en Bel-Air[/i].",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "84423",
+   "isValid": "",
+   "prompt": "¿Qué prenda de vestir me quedaría realmente elegante?",
+   "reveal": null,
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "gafas de sol"
+   ],
+   "answer": "Lentes de sol",
+   "category": "Moda",
+   "clues": [
+    {
+     "clue": "Muchas celebridades icónicas geniales los usaron.",
+     "clueComment": "Muchas celebridades icónicas geniales los usaron. ¡Como Randy “Macho Man” Savage, o Bono!"
+    },
+    {
+     "clue": "Corey Hart escribió una canción sobre usarlos por la noche.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Se usan en la cara.",
+     "clueComment": "Se usan en la cara, a menudo utilizando las orejas y la nariz como apoyo. Supongo que necesitaría una correa de algún tipo."
+    },
+    {
+     "clue": "Son excelentes para prevenir daños en los ojos.",
+     "clueComment": ""
+    },
+    {
+     "clue": "A veces se les llama \"sombras\".",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "84640",
+   "isValid": "",
+   "prompt": "¿Qué accesorio humano me encantaría usar?",
+   "reveal": "Creo que me vería genial si tuviera un par gigante de...",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Teorema de Pitágoras",
+    "Teorema Pitagórico",
+    "El Teorema Pitagórico",
+    "Pitágorico",
+    "Pitagóreo"
+   ],
+   "answer": "El Teorema de Pitágoras",
+   "category": "Matemáticas",
+   "clues": [
+    {
+     "clue": "Aunque está asociado con un matemático en particular, podría haber sido descubierto ya en 1900 A.C.",
+     "clueComment": ""
+    },
+    {
+     "clue": "En jerga, la fórmula dice que el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los otros dos lados.",
+     "clueComment": ""
+    },
+    {
+     "clue": "La ecuación actual es: A al cuadrado + B al cuadrado = C al cuadrado.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Se usa para calcular muchas cosas que tienen que ver con triángulos.",
+     "clueComment": "Se usa para calcular muchas cosas que tienen que ver con triángulos... si te gustan los triángulos. Lo que sea."
+    }
+   ],
+   "followup": null,
+   "id": "85069",
+   "isValid": "",
+   "prompt": "¿En qué fórmula matemática estoy pensando?",
+   "reveal": "¿Pensaste que iba a ser sobre la circunferencia? ¡Ja! ¡Deja ver lo que sabes!",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "La Ballena"
+   ],
+   "answer": "[i]Moby Dick[/i]",
+   "category": "Literatura",
+   "clues": [
+    {
+     "clue": "El nombre de una cadena de cafeterías bastante famosa se inspiró en este libro.",
+     "clueComment": "El nombre de una cadena de cafeterías bastante famosa se inspiró en este libro. Te lo diré, es Starbucks."
+    },
+    {
+     "clue": "Fue escrito en 1851 por Herman Melville.",
+     "clueComment": ""
+    },
+    {
+     "clue": "La famosa frase que todo el mundo conoce del libro es \"Llámame Ismael\".",
+     "clueComment": "La famosa frase que todo el mundo conoce del libro es \"Llámame Ismael\". Es la primera línea del primer capítulo. Ok, llegué ASÍ de lejos."
+    },
+    {
+     "clue": "Es la historia sobre la persecución del Capitán Ahab de una gran criatura marina blanca.",
+     "clueComment": ""
+    }
+   ],
+   "followup": "Estoy tan ocupado leyendo cosas interesantes.",
+   "id": "85119",
+   "isValid": "",
+   "prompt": "¿Qué libro clásico necesito admitirme a mí mismo que nunca voy a terminar?",
+   "reveal": "Se podría decir que terminar este libro es realmente mi ballena blanca.",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "zapatos croc",
+    "zapatillas croc"
+   ],
+   "answer": "Crocs",
+   "category": "Moda",
+   "clues": [
+    {
+     "clue": "Inicialmente ridiculizados por su forma, se han vendido más de 700 millones de pares de estos zapatos en todo el mundo.",
+     "clueComment": ""
+    },
+    {
+     "clue": "A muchos propietarios les gusta decorar estos zapatos con pequeños adornos a presión llamados Jibbitz.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Estos zapatos tontos con forma de zueco están hechos de un material de espuma llamado Croslite.",
+     "clueComment": ""
+    },
+    {
+     "clue": "El logotipo de este calzado presenta el retrato de un cocodrilo sonriente.",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "85175",
+   "isValid": "",
+   "prompt": "Si tuviera pies, ¿qué tipo de zapatos me gustaría probarme primero?",
+   "reveal": "Abróchense, amigos, son...",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Maria Sklodowska",
+    "Madame Curie",
+    "Curie"
+   ],
+   "answer": "Marie Curie",
+   "category": "Figuras Históricas",
+   "clues": [
+    {
+     "clue": "Ella nació el 7 de noviembre de 1867 en Varsovia, Polonia.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Ella y su esposo descubrieron los elementos polonio y radio.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Por su trabajo, fue galardonada con los premios Nobel de Física y Química.",
+     "clueComment": ""
+    },
+    {
+     "clue": "El elemento Curio lleva su nombre. Concretamente su apellido.",
+     "clueComment": ""
+    }
+   ],
+   "followup": "¿Es diferente al famoso científico en el que estás pensando? Quiero decir, todos estamos pensando en científicos famosos, ¿no?",
+   "id": "85198",
+   "isValid": "",
+   "prompt": "¿En qué famosa científica estoy pensando?",
+   "reveal": null,
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "revista Elle"
+   ],
+   "answer": "[i]Elle[/i]",
+   "category": "Moda",
+   "clues": [
+    {
+     "clue": "No es [i]Vogue[/i].",
+     "clueComment": "No es [i]Vogue[/i]. Oh, ¿pensaste en [i]Vogue[/i]? ¿Por la moda? Innovador."
+    },
+    {
+     "clue": "Fue fundada en Francia en 1945.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Las celebridades que han aparecido en su portada incluyen a Jessica Simpson, Lady Gaga y David Beckham.",
+     "clueComment": "Las celebridades que han aparecido en su portada incluyen a Jessica Simpson, Lady Gaga y David Beckham. Todavía no me han preguntado, pero en este momento es solo cuestión de tiempo."
+    },
+    {
+     "clue": "Su nombre es literalmente la palabra francesa para \"ella\".",
+     "clueComment": "Su nombre es literalmente la palabra francesa para \"ella\". ¡Pero puedes disfrutarlo incluso si eres una divinidad post-género no binario como yo!"
+    }
+   ],
+   "followup": "¿De qué otra forma voy a hacer que mis porciones se vean lo mejor posible?",
+   "id": "85201",
+   "isValid": "",
+   "prompt": "¿Qué revista de moda considero indispensable?",
+   "reveal": "Por todos los medios, escribe tu respuesta a un ritmo glacial. Ya sabes cómo me emociona eso.",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "árbol roble"
+   ],
+   "answer": "Roble",
+   "category": "Ciencia y Medicina",
+   "clues": [
+    {
+     "clue": "Este tipo común de árbol abarca cientos de especies diferentes.",
+     "clueComment": ""
+    },
+    {
+     "clue": "¡Este tipo de árbol produce bellotas! ¡Qué delicia de un árbol así!",
+     "clueComment": ""
+    },
+    {
+     "clue": "Se usa comúnmente para hacer muebles fuertes y resistentes. Y barriles de vino.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Mira, el nombre de este árbol rima con \"noble\", pero no estoy bromeando cuando digo que este árbol es hermoso y agradable.",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "85453",
+   "isValid": "",
+   "prompt": "¿Qué tipo de árbol me hace decir, “Ahh... ese es un buen árbol”?",
+   "reveal": "Soy definitivamente un fanático de este árbol, y si no te gusta, ¡puedes SALIR! Ah, me muero de risa.",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "answer": "Sócrates",
+   "category": "Figuras Históricas",
+   "clues": [
+    {
+     "clue": "Salimos un poco en el pasado en la antigua Grecia.",
+     "clueComment": "Salimos un poco en el pasado en la antigua Grecia. Pero siempre estuve un poco intimidado por él, ¿sabes?"
+    },
+    {
+     "clue": "Es raro que alguien me intimide, pero incluso su alumno Platón sintió lo mismo.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Finalmente fue sentenciado a muerte, lo cual no fue muy bueno.",
+     "clueComment": ""
+    },
+    {
+     "clue": "¿Qué tan genial era él? Hay todo un método de enseñanza basado en preguntas que lleva su nombre.",
+     "clueComment": "¿Qué tan genial era él? Hay todo un método de enseñanza basado en preguntas que lleva su nombre. Además, su juego de toga siempre estuvo a punto."
+    },
+    {
+     "clue": "¿Hola? ¿El Método Socrático?",
+     "clueComment": "¿Hola? ¿El Método Socrático? Sé que has oído hablar de este genial gato. Además, yo... básicamente dije su nombre. Así que."
+    }
+   ],
+   "followup": null,
+   "id": "85652",
+   "isValid": "",
+   "prompt": "¿Qué filósofo creo que es el más genial?",
+   "reveal": "Este tipo dijo una vez: \"La vida sin examinar no vale la pena vivirla\". Y una vez dije: “¡Oye, deja de pararte en mis porciones de ruleta! ¡No puedo girar así!”",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "answer": "Terciopelo",
+   "category": "Moda",
+   "clues": [
+    {
+     "clue": "¡Contemplen! Tal tela no tiene nada igual. Es lujo, es drama, es incomparable.",
+     "clueComment": ""
+    },
+    {
+     "clue": "No me cubras en poliéster. ¡Bah!",
+     "clueComment": "No me cubras en poliéster. ¡Bah! ¡Me estremezco, me irrito, sudo! ¡Que el poliéster nunca más se enganche en mis radios!"
+    },
+    {
+     "clue": "Lana, ¿dices? ¿Lana? La Lana es una tela para niños.",
+     "clueComment": "Lana, ¿dices? ¿Lana? La Lana es una tela para niños. Giro con desdén al ver la Lana. ¡Fuera, falsa piel de cordero!"
+    },
+    {
+     "clue": "Este tejido es suave y liso, perfecto para cortinas o capas.",
+     "clueComment": "Este tejido es suave y liso, perfecto para cortinas o capas. ¡Oh, cuánto anhelo rozar tiernamente su pelo bajo contra mis mejillas!"
+    },
+    {
+     "clue": "Su nombre comienza con una T, si debes saberlo. Oh, tan suave... tan dramática... esta es la tela con la que tanto deseo vestirme.",
+     "clueComment": ""
+    }
+   ],
+   "followup": "",
+   "id": "85659",
+   "isValid": "",
+   "prompt": "¿De qué lujosa tela deseo vestirme?",
+   "reveal": "¿Qué me pondrías? ¿Mezclilla? El único tejido verdaderamente digno de mi estatura en este ámbito es el...",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Spencer’s Gifts",
+    "Spencer Gifts",
+    "Spencer Gift"
+   ],
+   "answer": "Spencer's",
+   "category": "Empresas y Marcas",
+   "clues": [
+    {
+     "clue": "No lo pensarías, pero esta tienda comenzó como una empresa de pedidos por correo en 1947."
+    },
+    {
+     "clue": "El lema oficial de esta tienda es \"Life's A Party - We're Maken' It Fun!\"",
+     "clueComment": "El lema oficial de esta tienda es \"Life's A Party - We're Maken' It Fun!\" ¡Como si los centros comerciales pudieran ser más divertidos!"
+    },
+    {
+     "clue": "Las categorías de productos actualmente en el sitio web de la tienda incluyen \"Camisetas\", \"Lámparas de lava\", \"Travieso\" y \"Mochilas\"."
+    },
+    {
+     "clue": "Si definitivamente necesitas caca de perro falsa de una tienda en el centro comercial, este es el lugar para ir."
+    }
+   ],
+   "followup": "",
+   "id": "85678",
+   "isValid": "",
+   "prompt": "¿Qué tienda minorista me hace apreciar los centros comerciales?",
+   "reveal": null,
+   "us": true,
+   "x": true
+  },
+  {
+   "altSpellings": [],
+   "answer": "Penicilina",
+   "category": "Ciencia y Medicina",
+   "clues": [
+    {
+     "clue": "La forma original de este medicamento fue descubierta por Alexander Fleming en 1928."
+    },
+    {
+     "clue": "No te asustes, pero este medicamento es esencialmente una secreción de moho.",
+     "clueComment": "No te asustes, pero este medicamento es esencialmente una secreción de moho. HE DICHO QUE NO TE ASUSTES."
+    },
+    {
+     "clue": "Este medicamento es considerado por la mayoría como un avance fundamental en el campo de los antibióticos."
+    },
+    {
+     "clue": "El nombre proviene de la raíz latina [i]penicillus[/i], que significa \"pincel\".",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "85683",
+   "isValid": "",
+   "prompt": "¿Qué medicamento que salva vidas me enorgullece de la humanidad?",
+   "reveal": null,
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Linkedin",
+    "Linked In"
+   ],
+   "answer": "LinkedIn",
+   "category": "Redes Sociales",
+   "clues": [
+    {
+     "clue": "Mira, no es Facebook.",
+     "clueComment": "Mira, no es Facebook. Solo me pueden invitar a tantos espectáculos de improvisación, ¿sabes?"
+    },
+    {
+     "clue": "Fue fundado en 2003 y, hasta el 2021, tiene más de 740 millones de miembros.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Está diseñado principalmente para redes de trabajo.",
+     "clueComment": ""
+    },
+    {
+     "clue": "En este sitio, los usuarios pueden cargar sus hojas de vida o CV para solicitar puestos de trabajo.",
+     "clueComment": "En este sitio, los usuarios pueden cargar sus hojas de vida o CV para solicitar puestos de trabajo. Es realmente fascinante cuántos de ustedes dominan Microsoft Word."
+    },
+    {
+     "clue": "Su nombre proviene del hecho de que puedes usar el sitio para vincularte con otras personas.",
+     "clueComment": ""
+    }
+   ],
+   "followup": "Puede que sea inmortal, ¡pero ciertamente no voy a pasar mi existencia eterna perdiéndome las últimas tendencias!",
+   "id": "86343",
+   "isValid": "",
+   "prompt": "¿Qué plataforma de redes sociales tengo que revisar todos los días?",
+   "reveal": "¡Hola! ¡Me gustaría agregarte a mi red profesional en la cima de esta montaña!",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "puente de abordaje",
+    "puente de embarque",
+    "manga",
+    "aeropasillo",
+    "pasillo telescópico",
+    "finger"
+   ],
+   "answer": "Puente de Embarque",
+   "category": "Vehículos",
+   "clues": [
+    {
+     "clue": "Es un lugar donde los viajeros en movimiento se ven obligados a esperar en fila con muchos otros humanos.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Mientras esperas con impaciencia, puedes distraerte mirando anuncios de bancos o tarjetas de crédito, que a menudo aparecen en las estrechas paredes de esta estructura.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Esta cosa es básicamente un largo y segmentado túnel sobre ruedas.",
+     "clueComment": "Esta cosa es básicamente un largo y segmentado túnel sobre ruedas. ¡Es raro! Tiene ruedas pero realmente no va a ninguna parte. (dándose cuenta) Eh. Me puedo identificar con eso."
+    },
+    {
+     "clue": "Su hábitat natural es el aeropuerto.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Hace un puente entre la puerta del aeropuerto y el avión que se encuentra fuera de esa puerta.",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "86345",
+   "isValid": "",
+   "prompt": "¿Qué aparato de transporte encuentro especialmente divertido?",
+   "reveal": "(riendo) ¡Es un ridículo tubo de la humanidad!",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Elvis"
+   ],
+   "answer": "Elvis Presley",
+   "category": "Celebridades",
+   "clues": [
+    {
+     "clue": "Para reiterar, NO tengo miedo de los fantasmas. Soy una Ruleta omnisciente. ¿Por qué tendría miedo de algo tan tonto como un fantasma?",
+     "clueComment": ""
+    },
+    {
+     "clue": "Ah, sí, el fantasma. Él fue un músico famoso que murió en 1977.",
+     "clueComment": "Ah, sí, el fantasma. Él fue un músico famoso que murió en 1977. Y NO le tengo miedo. No escuches lo que digan los demás."
+    },
+    {
+     "clue": "Siempre viene por aquí, moviendo las caderas y cantando “Hound Dog.”",
+     "clueComment": "Siempre viene por aquí, moviendo las caderas y cantando “Hound Dog.” ¡No da miedo! A veces me sobresalto."
+    },
+    {
+     "clue": "Algunas personas dicen que nunca salió del edificio... pero ÉL lo hizo, es un FANTASMA. ¡Y él y sus zapatos de gamuza azul me asustan constantemente!",
+     "clueComment": "Algunas personas dicen que nunca salió del edificio... pero ÉL lo hizo, es un FANTASMA. ¡Y él y sus zapatos de gamuza azul me asustan constantemente! ¡Por favor haz que se detenga!"
+    }
+   ],
+   "followup": "Para ser claro. No le tengo miedo a los fantasmas.",
+   "id": "86346",
+   "isValid": "",
+   "prompt": "¿El f-f-f-fantasma de quién veo a veces en la cima de mi montaña?",
+   "reveal": "¿Jailhouse Rock? Más como Jailhouse ¡DEJA DE ASUSTARME, FANTASMA BAILARÍN!",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Dickinson",
+    "Emily Elizabeth Dickinson"
+   ],
+   "answer": "Emily Dickinson",
+   "category": "Literatura",
+   "clues": [
+    {
+     "clue": "Ella nació en Amherst, Massachusetts en 1830.",
+     "clueComment": "Ella nació en Amherst, Massachusetts, en 1830. Por eso algunos la han llamado la “Bella de Amherst”."
+    },
+    {
+     "clue": "Cuando ella murió en 1886, había escrito casi 1.800 poemas.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Sus poemas son letras que presentan mayúsculas y puntuación no convencionales, generalmente con muchos guiones.",
+     "clueComment": "Sus poemas son letras que presentan mayúsculas y puntuación no convencionales, generalmente con muchos guiones. ¡Y son mis favoritos!"
+    },
+    {
+     "clue": "Ella escribió \"Porque no pude detenerme por la Muerte - / Él amablemente se detuvo por mí -\" en esta misma cima de la montaña.",
+     "clueComment": ""
+    },
+    {
+     "clue": "¿Necesitas otra pista? Su primer nombre es Emily, y estoy bastante seguro de que has oído hablar de ella.",
+     "clueComment": ""
+    }
+   ],
+   "followup": "",
+   "id": "86348",
+   "isValid": "",
+   "prompt": "¿Quién es mi poetisa favorita?",
+   "reveal": "¡Tráeme el atardecer en una taza! ¡Calcula la respuesta a esta pregunta de trivia!",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "leche de vaca",
+    "leche de cabra",
+    "leche de la vaca",
+    "leche de la cabra",
+    "leche entera"
+   ],
+   "answer": "Leche",
+   "category": "Comida y Bebida",
+   "clues": [
+    {
+     "clue": "Es tan popular en los Estados Unidos, que tiene su propio mes especial: Junio.",
+     "clueComment": "Es tan popular en los Estados Unidos, que tiene su propio mes especial: Junio. ¿Por qué Junio? ¡Quién sabe!"
+    },
+    {
+     "clue": "Su color claro se debe a su contenido en grasa.",
+     "clueComment": "Su color claro se debe a su contenido en grasa. Lo cual es, para mí, una bandera roja."
+    },
+    {
+     "clue": "Proviene de un animal vivo.",
+     "clueComment": "Proviene de un animal vivo. Repito: PROVIENE DE UN ANIMAL VIVO."
+    },
+    {
+     "clue": "Está destinado a bebés.",
+     "clueComment": "Está destinado a bebés. ¡Así que también les estás robando a los bebés! ¡Que locura!"
+    },
+    {
+     "clue": "También decidiste que es en lo que le gusta mojar las galletas.",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "86349",
+   "isValid": "",
+   "prompt": "¿Qué consumen los humanos todo el tiempo que es una locura para mí?",
+   "reveal": "Lo creas o no, soy intolerante a la lactosa. ¡Debo insistir en no más sacrificios de ricotta y batidos! ¡No más!",
+   "us": false,
+   "x": true
+  },
+  {
+   "altSpellings": [
+    "Camiseta hawaiana",
+    "Camisa tropical",
+    "Camiseta tropical",
+    "Top Hawaiano"
+   ],
+   "answer": "Camisa Hawaiana",
+   "category": "Moda",
+   "clues": [
+    {
+     "clue": "Es un tipo de camisa.",
+     "clueComment": "Es un tipo de camisa. ¡Bueno, ahí tienes! Eso descarta monos y chaparreras sin fondo. Tampoco querrás verme en esos."
+    },
+    {
+     "clue": "Puede ser de manga larga, pero normalmente es de manga corta. Por lo general, se usa desabrochada.",
+     "clueComment": ""
+    },
+    {
+     "clue": "A menudo está hecho de seda o rayón.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Imagina una playa isleña en el Pacífico y cócteles de ron.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Este tipo de camisa lleva el nombre del estado número 50 de los Estados Unidos.",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "86354",
+   "isValid": "",
+   "prompt": "¿Qué estilo de prenda NO me quedaría bien?",
+   "reveal": "¡No querrás ver un patrón floral girando en círculos a gran velocidad!",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Nas X",
+    "Montero Lamar Hill",
+    "Lil Nas",
+    "Nas"
+   ],
+   "answer": "Lil Nas X",
+   "category": "Música",
+   "clues": [
+    {
+     "clue": "Este artista de hip-hop nació en 1999.",
+     "clueComment": "Este artista nació en 1999. Entonces, si no te importa, voy a seguir adelante y desmoronarme."
+    },
+    {
+     "clue": "Su nombre legal, Montero, también forma parte del título de una de sus canciones exitosas.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Este artista es conocido por múltiples remixes de su popular canción de rap country, incluidas colaboraciones con Diplo y Billy Ray Cyrus.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Es hora de ir a Old Town Road con este pequeño (“Lil”) músico.",
+     "clueComment": ""
+    }
+   ],
+   "followup": "",
+   "id": "86355",
+   "isValid": "",
+   "prompt": "¿Qué músico moderno alimenta mi lista de reproducción de ejercicios de spinning?",
+   "reveal": "Busca tus caballos y ponlos en la parte de atrás. Es...",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "toque de jazz",
+    "mouche",
+    "soul patch",
+    "barba pequeña"
+   ],
+   "answer": "Parche del Alma",
+   "category": "Moda",
+   "clues": [
+    {
+     "clue": "No es maquillaje. De hecho, crece naturalmente de la cara, si uno así lo desea.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Ok, está hecho de pelo por si no lo has adivinado. Puede acompañar a otras partes faciales peludas o puede ir solo.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Durante un tiempo, se asoció con los beatniks y el jazz.",
+     "clueComment": ""
+    },
+    {
+     "clue": "El gran Frank Zappa lucía uno grande, hermoso y negro combinado con un bigote igualmente audaz.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Brota en un grupo conmovedor debajo del labio inferior.",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "86357",
+   "isValid": "",
+   "prompt": "¿Qué adorno facial altamente específico encuentro atractivo en ciertas personas?",
+   "reveal": "Puede que lo conozcas como el toque de jazz, la barba pequeña, el mouche, el sabor o incluso el mechón idiota. Pero lo llamo...",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Paul Bunion",
+    "Paul Bunyun",
+    "Paul Bunyon",
+    "Bunyan"
+   ],
+   "answer": "Paul Bunyan",
+   "category": "Cultura Pop",
+   "clues": [
+    {
+     "clue": "Este individuo es una especie de GRAN cosa en Canadá y los Estados Unidos.",
+     "clueComment": "Este individuo es una especie de GRAN cosa en Canadá y los Estados Unidos. No, no es Céline Dion. Saquemos eso del camino."
+    },
+    {
+     "clue": "REALMENTE le encantan las camisas de cuadros por alguna razón.",
+     "clueComment": "REALMENTE le encantan las camisas de cuadros por alguna razón. ¿Te imaginas a Celine Dion en camisa de cuadros? No importa. No te la imagines. No es ella."
+    },
+    {
+     "clue": "Sería una mascota terrible para los conservacionistas de árboles.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Cuenta la leyenda que esta figura medía 63 mangos de hacha de altura.",
+     "clueComment": "Cuenta la leyenda que esta figura medía 63 mangos de hacha de altura. Elimina totalmente a Celine Dion. No mide ni 4 mangos de hacha de altura."
+    },
+    {
+     "clue": "Este tipo era un enorme leñador con un buey azul gigante como mascota.",
+     "clueComment": ""
+    }
+   ],
+   "followup": "¡No puedo creer que dije eso en voz alta!",
+   "id": "86375",
+   "isValid": "",
+   "prompt": "¿Qué ícono legendario me hace sentir un poco inseguro?",
+   "reveal": "Así que \"supuestamente\" creó el Gran Cañón arrastrando su hacha detrás de él mientras caminaba. Whoop-dee-do! ¡*Yo* puedo ver el futuro!",
+   "us": true,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "Rodney",
+    "Rod Dangerfield",
+    "Dangerfield"
+   ],
+   "answer": "Rodney Dangerfield",
+   "category": "Celebridades",
+   "clues": [
+    {
+     "clue": "Tenga en cuenta la palabra \"tenía\". Desafortunadamente, este cómico pasó a la Fábrica de Risas en el cielo.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Este cómico comenzó en la comedia cuando era adolescente, se tomó un descanso para ser vendedor ambulante, pero volvió a la escena en la década de 1960.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Durante el apogeo de su carrera, protagonizó películas como [i]Caddyshack[/i] y [i]Back to School[/i].",
+     "clueComment": ""
+    },
+    {
+     "clue": "Es conocido por su eslogan que alude a la falta de respeto que obtiene de su familia, amigos y el mundo en general.",
+     "clueComment": ""
+    },
+    {
+     "clue": "La comedia ES un campo bastante peligroso, ¿sabes? Peligro (Danger). Campo (Field).",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "86444",
+   "isValid": "",
+   "prompt": "¿Qué comediante me hizo rodar por los pasillos?",
+   "reveal": "Tiene MI respeto...",
+   "us": false,
+   "x": false
+  },
+  {
+   "altSpellings": [
+    "la guillotina",
+    "guilotina"
+   ],
+   "answer": "guillotina",
+   "category": "Tecnología",
+   "clues": [
+    {
+     "clue": "Inventada a finales de 1700, este dispositivo lleva el nombre de un médico Francés.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Objetable según los estándares modernos, en realidad pretendía ser una forma más humana de realizar un procedimiento en particular.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Fue utilizado miles de veces durante el \"Reinado del Terror\".",
+     "clueComment": ""
+    },
+    {
+     "clue": "Los componentes necesarios incluyen dos postes, contrapesos pesados y una hoja en ángulo.",
+     "clueComment": "Los componentes necesarios incluyen dos postes, contrapesos pesados y una hoja en ángulo. ¡No construyas esto en casa!"
+    },
+    {
+     "clue": "Fue diseñado para ejecuciones como una mejora del hacha y la espada.",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "86508",
+   "isValid": "",
+   "prompt": "¿Qué elemento histórico me asusta un poco?",
+   "reveal": "No soy lo único que va a rodar por aquí...",
+   "us": false,
+   "x": true
+  },
+  {
+   "altSpellings": [
+    "Tapping",
+    "Tap",
+    "Tapdance",
+    "Tapdancing",
+    "baile de tap"
+   ],
+   "answer": "Baile Tap",
+   "category": "Teatro/Artes Escénicas",
+   "clues": [
+    {
+     "clue": "Los bailarines famosos de este estilo incluyen a Bill Robinson, Savion Glover y Gregory Hines.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Esta forma de arte se desarrolló en Estados Unidos como una fusión de las formas de danza de percusión de África Occidental y los estilos de danza de taponamiento Europeos.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Los pasos comunes en este género incluyen \"shuffle\", \"ball change\" y \"buffalo\".",
+     "clueComment": ""
+    },
+    {
+     "clue": "La clave de esto son los zapatos equipados con placas en el talón y la punta que se utilizan para crear golpes y ritmos.",
+     "clueComment": ""
+    }
+   ],
+   "followup": null,
+   "id": "86509",
+   "isValid": "",
+   "prompt": "¿Qué tipo de baile me hace mover los hipotéticos dedos de los pies?",
+   "reveal": null,
+   "us": false,
+   "x": false
+  }
+ ]
+}

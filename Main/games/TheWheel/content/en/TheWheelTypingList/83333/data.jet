@@ -1,0 +1,102 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "¿Qué 5 juegos están incluidos en [i]The Jackbox Party Pack 7[/i]?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "answers_0_hint",
+   "n": "ClueAudio0",
+   "s": "¡Pueden aprender más sobre este juego en jackboxgames punto com barra quiplash guion tres! ¡Qué momento para estar vivo!"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "answers_1_hint",
+   "n": "ClueAudio1",
+   "s": "¡3 a 8 jugadores pueden jugar este juego! ¡Guau! Para más información, ¡ve a jackboxgames punto com guion the guion devils guion and guion the guion details!"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "A",
+   "v": "answers_2_hint",
+   "n": "ClueAudio2",
+   "s": "¡Me han contado que recibiré una pequeña comisión si van a jackboxgames punto com barra champd barra up!"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "A",
+   "v": "answers_3_hint",
+   "n": "ClueAudio3",
+   "s": "¡A veces me gusta ir a jackboxgames punto com barra talking guion points! Es como logro mantenerme tan joven y girar tan fluidamente."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio4"
+  },
+  {
+   "t": "A",
+   "v": "answers_4_hint",
+   "n": "ClueAudio4",
+   "s": "¡Guau! ¿Cuántos juegos tienen el gran dominio de internet jackboxgames punto com barra blather guion round? ¡Hay uno que DEFINITIVAMENTE lo tiene!"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio",
+   "s": "¿Todos estos juegos por menos de 30 dólares? ¡Qué ganga! Espera, ¿esto es un anuncio?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio",
+   "s": "¿Jackbox me paga por esto? No, en serio: ¿puede alguna persona de Jackbox avisarme si me pagan por este contenido patrocinado? ¿Me estoy \"vendiendo\"? ¿Qué quieres decir con \"es hora de seguir adelante\"?"
+  }
+ ]
+}

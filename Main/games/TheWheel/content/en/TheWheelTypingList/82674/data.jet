@@ -1,0 +1,99 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Hasta el 2020, ¿cuáles son los 5 territorios habitados de los Estados Unidos que tienen residentes permanentes?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "answers_0_hint",
+   "n": "ClueAudio0",
+   "s": "Este país tiene una gran empresa de PR (Relaciones Públicas). Ocupa un lugar destacado en el musical [i]West Side Story[/i]."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "answers_1_hint",
+   "n": "ClueAudio1",
+   "s": "Si estás pensando en Virgin Records, estás en el camino correcto."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "A",
+   "v": "answers_2_hint",
+   "n": "ClueAudio2",
+   "s": "No confundas uno de estos territorios con Samoa, pero suena similar."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "A",
+   "v": "answers_3_hint",
+   "n": "ClueAudio3",
+   "s": "Este territorio está en el Pacífico y es el punto más occidental de los Estados Unidos."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio4"
+  },
+  {
+   "t": "A",
+   "v": "answers_4_hint",
+   "n": "ClueAudio4"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio"
+  }
+ ]
+}

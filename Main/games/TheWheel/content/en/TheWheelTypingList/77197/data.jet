@@ -1,0 +1,169 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Mis 14 Utensilios de Cocina Favoritos"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "answers_0_hint",
+   "n": "ClueAudio0",
+   "s": "¿Cómo puedes voltear panqueques sin ESTO?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "answers_1_hint",
+   "n": "ClueAudio1",
+   "s": "¿Cómo puedes revolver la masa sin ESTO? (aparte) bueno, supongo que te vendría bien cualquier cosa."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "A",
+   "v": "answers_2_hint",
+   "n": "ClueAudio2",
+   "s": "Tengo una gran primicia sobre una respuesta correcta. Y no es una cuchara para helado."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio4"
+  },
+  {
+   "t": "A",
+   "v": "answers_4_hint",
+   "n": "ClueAudio4",
+   "s": "¡Tu estrategia está llena de agujeros!"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio5"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio6"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio7"
+  },
+  {
+   "t": "A",
+   "v": "answers_7_hint",
+   "n": "ClueAudio7",
+   "s": "¿Qué tipo de herramienta es buena para un pepperoni con queso?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio8"
+  },
+  {
+   "t": "A",
+   "v": "answers_8_hint",
+   "n": "ClueAudio8",
+   "s": "Seguro que sería grato si pensaras en este. \"Rallar.\""
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio9"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio10"
+  },
+  {
+   "t": "A",
+   "v": "answers_10_hint",
+   "n": "ClueAudio10",
+   "s": "¿Comida china, alguien?"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio11"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio12"
+  },
+  {
+   "t": "A",
+   "v": "answers_12_hint",
+   "n": "ClueAudio12",
+   "s": "¡Estira esa masa!"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio13"
+  },
+  {
+   "t": "A",
+   "v": "answers_13_hint",
+   "n": "ClueAudio13",
+   "s": "No puede tomar ningún vino sin ESTO."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio"
+  }
+ ]
+}

@@ -1,0 +1,135 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Mis 8 snacks favoritos para viajes en carretera"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "answers_0_hint",
+   "n": "ClueAudio0",
+   "s": "Puede que tengan que tirarme las pasas y los cacahuetes. No tengo manos, soy una Rueda."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "answers_1_hint",
+   "n": "ClueAudio1",
+   "s": "Se derriten en tu boca, no en tu… esperen, no tengo manos."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "A",
+   "v": "answers_2_hint",
+   "n": "ClueAudio2",
+   "s": "¿Alguna vez han intentado pelar una sin manos? No es imposible."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "A",
+   "v": "answers_3_hint",
+   "n": "ClueAudio3",
+   "s": "Incluso sin manos, siempre termino con polvo de Doritos Cool Ranch por todo."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio4"
+  },
+  {
+   "t": "A",
+   "v": "answers_4_hint",
+   "n": "ClueAudio4",
+   "s": "¡Dedos de bruja! Si tuviera dedos, en todo caso."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio5"
+  },
+  {
+   "t": "A",
+   "v": "answers_5_hint",
+   "n": "ClueAudio5",
+   "s": "Sería tremenda VACA si no les diera una pista, ¿cierto? ¿Una rodantemente grande vaca?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio6"
+  },
+  {
+   "t": "A",
+   "v": "answers_6_hint",
+   "n": "ClueAudio6",
+   "s": "Verdaderamente pensaba que nos conocíamos mejor que esto. Solo escriban \"Snickers\"."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio7"
+  },
+  {
+   "t": "A",
+   "v": "answers_7_hint",
+   "n": "ClueAudio7",
+   "s": "Me gusta el sabor Pizzeria Pretzel."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio",
+   "s": "¿Qué voy a comer de camino a ver a mi primo, el London Eye?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio",
+   "s": "Miren, con bocadillo o sin bocadillo, creo que todos podemos estar de acuerdo en que es un milagro que consiga conducir un automóvil."
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio",
+   "s": "Digamos que tengo opiniones sólidas sobre esto..."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "¿Cuáles son las [i]Nuevas Siete Maravillas del Mundo[/i]?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio",
+   "s": "Basado en una encuesta mundial anunciada en 2007."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio",
+   "s": "No voy a mentir, no fui uno de los finalistas y estoy un poco sensible al respecto. ¡Le enseñé al Muro de China todo lo que sabe sobre ser grandioso! De acuerdo, he dicho suficiente."
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "10 buenos apodos para alguien llamado “Christopher”"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "answers_0_hint",
+   "n": "ClueAudio0",
+   "s": "No te olvides de la ortografía “K”. No discrimino."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio4"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio5"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio6"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio7"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio8"
+  },
+  {
+   "t": "A",
+   "v": "answers_8_hint",
+   "n": "ClueAudio8",
+   "s": "Podrías considerar la parte trasera de Christopher."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio9"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio"
+  }
+ ]
+}

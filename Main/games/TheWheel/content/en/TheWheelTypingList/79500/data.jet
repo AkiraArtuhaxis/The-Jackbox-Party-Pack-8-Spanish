@@ -1,0 +1,156 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Las 10 Aerolíneas que Boicoteo porque no Puedo Caber en los Aviones"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "answers_0_hint",
+   "n": "ClueAudio0",
+   "s": "¿Llamada así por el final de un río? Bastante aburrido."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "answers_1_hint",
+   "n": "ClueAudio1",
+   "s": "¡Vuelve a vender CDs en la megatienda!"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "A",
+   "v": "answers_2_hint",
+   "n": "ClueAudio2",
+   "s": "Una dirección y otra dirección... WOW, original!"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "A",
+   "v": "answers_3_hint",
+   "n": "ClueAudio3",
+   "s": "Este es irónico porque ya no entra en el gran desconocido, solo Cleveland."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio4"
+  },
+  {
+   "t": "A",
+   "v": "answers_4_hint",
+   "n": "ClueAudio4",
+   "s": "¡No puedes simplemente decir lo que eres y luego un color!"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio5"
+  },
+  {
+   "t": "A",
+   "v": "answers_5_hint",
+   "n": "ClueAudio5",
+   "s": "Iba a volar a la sede corporativa para quejarme, pero Dubái está demasiado lejos para mí."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio6"
+  },
+  {
+   "t": "A",
+   "v": "answers_6_hint",
+   "n": "ClueAudio6",
+   "s": "Esta aerolínea Europea suena sucia.\n\nALT. Qué decir de esta aerolínea Europea... bueno... todo está en la lengua."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio7"
+  },
+  {
+   "t": "A",
+   "v": "answers_7_hint",
+   "n": "ClueAudio7",
+   "s": "Suena como \"Lift Hans\", ¿verdad? Lo que sea."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio8"
+  },
+  {
+   "t": "A",
+   "v": "answers_8_hint",
+   "n": "ClueAudio8",
+   "s": "Lo llaman así porque si tomas uno de sus vuelos tu alma abandona tu cuerpo.\n\nALT. (imitando la alegría del espíritu) \"Tenemos una aerolínea, sí, tenemos una aerolínea, ¿y tú?\""
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio9"
+  },
+  {
+   "t": "A",
+   "v": "answers_9_hint",
+   "n": "ClueAudio9",
+   "s": "Es hora de disolver esta \"unión\"."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio",
+   "s": "Está bien. Está BIEN."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio"
+  }
+ ]
+}

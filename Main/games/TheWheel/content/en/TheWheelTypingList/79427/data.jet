@@ -1,0 +1,133 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio",
+   "s": "¿Es la siguiente pregunta difícil? ¿O simplemente una ilusión?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Mis 8 magos famosos favoritos"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "answers_0_hint",
+   "n": "ClueAudio0",
+   "s": "¿Ya saben, como el personaje de Dickens?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "answers_1_hint",
+   "n": "ClueAudio1",
+   "s": "¡Ellos tenían los tigres! Los tigres mágicos"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "A",
+   "v": "answers_2_hint",
+   "n": "ClueAudio2"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "A",
+   "v": "answers_3_hint",
+   "n": "ClueAudio3"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio4"
+  },
+  {
+   "t": "A",
+   "v": "answers_4_hint",
+   "n": "ClueAudio4",
+   "s": "Hay algo mágico sobre su diferencia de altura."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio5"
+  },
+  {
+   "t": "A",
+   "v": "answers_5_hint",
+   "n": "ClueAudio5",
+   "s": "¿Ya saben, el chico malo de la magia?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio6"
+  },
+  {
+   "t": "A",
+   "v": "answers_6_hint",
+   "n": "ClueAudio6",
+   "s": "El hombre que empezó todo, si por “todo” se refieren a ahogarse llevando esposas."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio7"
+  },
+  {
+   "t": "A",
+   "v": "answers_7_hint",
+   "n": "ClueAudio7",
+   "s": "Oh, ¿qué tal el tipo que estuvo encerrado en una caja por 44 días? Eso fue bastante mágico."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio",
+   "s": "¿Sabías que David Blaine es solo unos años más joven que yo? Pasó todas las Cruzadas mostrándome trucos de cartas. Fue abismal."
+  }
+ ]
+}

@@ -1,0 +1,6018 @@
+{
+ "content": [
+  {
+   "answers": [
+    {
+     "text": "antimateria",
+     "value": "1"
+    },
+    {
+     "text": "californio",
+     "value": "2"
+    },
+    {
+     "text": "diamantes",
+     "value": "3"
+    },
+    {
+     "text": "tritio",
+     "value": "4"
+    },
+    {
+     "text": "plutonio",
+     "value": "5"
+    },
+    {
+     "text": "platino",
+     "value": "6"
+    },
+    {
+     "text": "Caviar de beluga",
+     "value": "7"
+    },
+    {
+     "text": "trufas blancas",
+     "value": "8"
+    },
+    {
+     "text": "plata",
+     "value": "9"
+    },
+    {
+     "text": "cecina de vaca",
+     "value": "10"
+    },
+    {
+     "text": "plástico recicable",
+     "value": "11"
+    }
+   ],
+   "category": "Factoides",
+   "id": "76752",
+   "isValid": "",
+   "prompt": "¿Qué sustancia es más cara por gramo?",
+   "sort": "ascendiente",
+   "subtype": "más/menos",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Mastín",
+     "value": "230"
+    },
+    {
+     "text": "San Bernardo",
+     "value": "180"
+    },
+    {
+     "text": "Gran Danés",
+     "value": "175"
+    },
+    {
+     "text": "Terranova",
+     "value": "150"
+    },
+    {
+     "text": "Sabueso",
+     "value": "110"
+    },
+    {
+     "text": "Doberman Pinscher",
+     "value": "100"
+    },
+    {
+     "text": "Golden Retriever",
+     "value": "75"
+    },
+    {
+     "text": "Shar-Pei",
+     "value": "60"
+    },
+    {
+     "text": "Corgi galés de Pembroke",
+     "value": "30"
+    },
+    {
+     "text": "West Highland White Terrier",
+     "value": "20"
+    },
+    {
+     "text": "Grifón de Bruselas",
+     "value": "10"
+    },
+    {
+     "text": "Chihuahua",
+     "value": "6"
+    }
+   ],
+   "category": "Animales",
+   "id": "76791",
+   "isValid": "",
+   "prompt": "¿Qué raza de perro del American Kennel Club es más pesada?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "(en libras)",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Jefferson City, Misuri",
+     "value": "1"
+    },
+    {
+     "text": "Des Moines, Iowa",
+     "value": "2"
+    },
+    {
+     "text": "Springfield, Illinois",
+     "value": "3"
+    },
+    {
+     "text": "Denver, Colorado",
+     "value": "4"
+    },
+    {
+     "text": "Jackson, Misisipi",
+     "value": "5"
+    },
+    {
+     "text": "Dover, Delaware",
+     "value": "6"
+    },
+    {
+     "text": "Augusta, Maine",
+     "value": "7"
+    },
+    {
+     "text": "Olimpia, Washington",
+     "value": "8"
+    },
+    {
+     "text": "Juneau, Alaska",
+     "value": "9"
+    },
+    {
+     "text": "Honolulu, Hawaii",
+     "value": "10"
+    }
+   ],
+   "category": "Geografía y Lugares",
+   "id": "76792",
+   "isValid": "",
+   "prompt": "¿Qué capital de Estados Unidos está mas cerca de Topeka, Kansas?",
+   "sort": "ascendiente",
+   "subtype": "más cercano",
+   "unit": "(en millas)",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "camión semirremolque",
+     "value": "18"
+    },
+    {
+     "text": "Boeing 787 Dreamliner",
+     "value": "10"
+    },
+    {
+     "text": "patines tradicionales (par)",
+     "value": "8"
+    },
+    {
+     "text": "autobús escolar amarillo grande estándar",
+     "value": "6"
+    },
+    {
+     "text": "carrito para muebles",
+     "value": "4"
+    },
+    {
+     "text": "monopatín tradicional",
+     "value": "4"
+    },
+    {
+     "text": "triciclo",
+     "value": "3"
+    },
+    {
+     "text": "motocicleta + sidecar",
+     "value": "3"
+    },
+    {
+     "text": "Radio Flyer Mi Primer Scooter",
+     "value": "3"
+    },
+    {
+     "text": "Segway",
+     "value": "2"
+    },
+    {
+     "text": "moto",
+     "value": "2"
+    },
+    {
+     "text": "rickshaw con tracción humana",
+     "value": "2"
+    },
+    {
+     "text": "biciclo",
+     "value": "2"
+    },
+    {
+     "text": "bicicleta tándem",
+     "value": "2"
+    },
+    {
+     "text": "carretilla",
+     "value": "1"
+    },
+    {
+     "text": "uniciclo",
+     "value": "1"
+    },
+    {
+     "text": "Onewheel",
+     "value": "1"
+    },
+    {
+     "text": "trineo para 4 personas",
+     "value": "0"
+    },
+    {
+     "text": "patinetes de hielo",
+     "value": "0"
+    },
+    {
+     "text": "snowboard",
+     "value": "0"
+    }
+   ],
+   "category": "Vehículos",
+   "id": "76793",
+   "isValid": "",
+   "prompt": "¿Qué vehículo tiene más ruedas?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Conde Rugen de [i]La Princesa Prometida[/i] (mano derecha)",
+     "value": "6"
+    },
+    {
+     "text": "Mickey Mouse (una mano)",
+     "value": "4"
+    },
+    {
+     "text": "Bob Esponja (dos manos)",
+     "value": "8"
+    },
+    {
+     "text": "¡Victoria! (una mano)",
+     "value": "2"
+    },
+    {
+     "text": "choca los cinco (una mano)",
+     "value": "5"
+    },
+    {
+     "text": "El honor del scout",
+     "value": "3"
+    },
+    {
+     "text": "\"el pájaro\"",
+     "value": "1"
+    },
+    {
+     "text": "letra \"F\" en lenguaje de señas americano",
+     "value": "3"
+    },
+    {
+     "text": "señal del receptor de béisbol para la bola curva",
+     "value": "2"
+    },
+    {
+     "text": "papel en Piedra Papel Tijeras",
+     "value": "5"
+    },
+    {
+     "text": "\"comillas aéreas\"",
+     "value": "4"
+    },
+    {
+     "text": "manos de jazz",
+     "value": "10"
+    },
+    {
+     "text": "saludo de puño levantado",
+     "value": "0"
+    }
+   ],
+   "category": "Anatomía",
+   "id": "76856",
+   "isValid": "",
+   "prompt": "¿Qué personaje o gesto tiene más dedos?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Dan Aykroyd",
+     "value": "1975"
+    },
+    {
+     "text": "Gilda Radner",
+     "value": "1975"
+    },
+    {
+     "text": "Bill Murray",
+     "value": "1977"
+    },
+    {
+     "text": "Eddie Murphy",
+     "value": "1980"
+    },
+    {
+     "text": "Julia Louis-Dreyfus",
+     "value": "1982"
+    },
+    {
+     "text": "Maya Rudolph",
+     "value": "2000"
+    },
+    {
+     "text": "Kate McKinnon",
+     "value": "2012"
+    },
+    {
+     "text": "Dana Carvey",
+     "value": "1986"
+    },
+    {
+     "text": "Mike Myers",
+     "value": "1989"
+    },
+    {
+     "text": "Chris Rock",
+     "value": "1990"
+    },
+    {
+     "text": "Chris Farley",
+     "value": "1990"
+    },
+    {
+     "text": "Tim Meadows",
+     "value": "1991"
+    },
+    {
+     "text": "Will Ferrell",
+     "value": "1995"
+    },
+    {
+     "text": "Fred Armisen",
+     "value": "2002"
+    },
+    {
+     "text": "Kenan Thompson",
+     "value": "2003"
+    },
+    {
+     "text": "Andy Samberg",
+     "value": "2005"
+    },
+    {
+     "text": "Kristen Wiig",
+     "value": "2005"
+    },
+    {
+     "text": "Vanessa Bayer",
+     "value": "2010"
+    },
+    {
+     "text": "Leslie Jones",
+     "value": "2014"
+    }
+   ],
+   "category": "Película y TV",
+   "id": "77281",
+   "isValid": "",
+   "prompt": "¿Qué celebridad tuvo su primera aparición en [i]Saturday Night Live[/i] antes?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Estados Unidos",
+     "value": "2827"
+    },
+    {
+     "text": "Reino Unido",
+     "value": "883"
+    },
+    {
+     "text": "Alemania",
+     "value": "855"
+    },
+    {
+     "text": "Francia",
+     "value": "840"
+    },
+    {
+     "text": "Italia",
+     "value": "701"
+    },
+    {
+     "text": "Suecia",
+     "value": "652"
+    },
+    {
+     "text": "China",
+     "value": "608"
+    },
+    {
+     "text": "Canadá",
+     "value": "501"
+    },
+    {
+     "text": "Países Bajos",
+     "value": "415"
+    },
+    {
+     "text": "Corea del Sur",
+     "value": "415"
+    },
+    {
+     "text": "Cuba",
+     "value": "226"
+    },
+    {
+     "text": "Grecia",
+     "value": "116"
+    },
+    {
+     "text": "Jamaica",
+     "value": "78"
+    },
+    {
+     "text": "México",
+     "value": "69"
+    },
+    {
+     "text": "India",
+     "value": "28"
+    },
+    {
+     "text": "Filipinas",
+     "value": "10"
+    }
+   ],
+   "category": "Deportes",
+   "id": "77282",
+   "isValid": "",
+   "prompt": "Hasta 2020, ¿qué país tiene más medallas olímpicas?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "(medallas de los Juegos de Invierno y Verano)",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Cocodrilo de agua salada",
+     "value": "3700"
+    },
+    {
+     "text": "Hipopótamo",
+     "value": "1800"
+    },
+    {
+     "text": "Jaguar",
+     "value": "1500"
+    },
+    {
+     "text": "Gorila",
+     "value": "1300"
+    },
+    {
+     "text": "Oso polar",
+     "value": "1200"
+    },
+    {
+     "text": "Hiena",
+     "value": "1100"
+    },
+    {
+     "text": "Tortuga caimán",
+     "value": "1000"
+    },
+    {
+     "text": "León",
+     "value": "650"
+    },
+    {
+     "text": "Mastín",
+     "value": "550"
+    },
+    {
+     "text": "Lobo gris",
+     "value": "398"
+    },
+    {
+     "text": "Humano",
+     "value": "160"
+    }
+   ],
+   "category": "Animales",
+   "id": "77296",
+   "isValid": "",
+   "prompt": "¿Qué animal tiene la fuerza de mordida más fuerte en libras por pulgada cuadrada?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "(en libras por pulgada cuadrada)",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Teniente general",
+     "value": "1"
+    },
+    {
+     "text": "General de División",
+     "value": "2"
+    },
+    {
+     "text": "General de Brigada",
+     "value": "3"
+    },
+    {
+     "text": "Coronel",
+     "value": "4"
+    },
+    {
+     "text": "Teniente coronel",
+     "value": "5"
+    },
+    {
+     "text": "Mayor",
+     "value": "6"
+    },
+    {
+     "text": "Capitán",
+     "value": "7"
+    },
+    {
+     "text": "Primer teniente",
+     "value": "8"
+    },
+    {
+     "text": "Segundo teniente",
+     "value": "9"
+    },
+    {
+     "text": "Suboficial",
+     "value": "10"
+    },
+    {
+     "text": "Sargento",
+     "value": "11"
+    },
+    {
+     "text": "Cabo",
+     "value": "12"
+    },
+    {
+     "text": "Privado",
+     "value": "13"
+    }
+   ],
+   "category": "Ocupaciones",
+   "id": "78718",
+   "isValid": "",
+   "prompt": "¿Qué rango del ejército de los Estados Unidos está más cerca del general de cuatro estrellas?",
+   "sort": "ascendiente",
+   "subtype": "más cercano",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Georg Solti",
+     "value": "31"
+    },
+    {
+     "text": "Beyoncé Knowles",
+     "value": "28"
+    },
+    {
+     "text": "John Williams",
+     "value": "25"
+    },
+    {
+     "text": "Jay-Z",
+     "value": "23"
+    },
+    {
+     "text": "Bruce Springsteen",
+     "value": "20"
+    },
+    {
+     "text": "Yo-Yo Ma",
+     "value": "18"
+    },
+    {
+     "text": "Taylor Swift",
+     "value": "11"
+    },
+    {
+     "text": "Dolly Parton",
+     "value": "10"
+    },
+    {
+     "text": "Manhattan Transfer",
+     "value": "8"
+    },
+    {
+     "text": "Howard Shore",
+     "value": "4"
+    },
+    {
+     "text": "Lizzo",
+     "value": "3"
+    },
+    {
+     "text": "Ariana Grande",
+     "value": "2"
+    }
+   ],
+   "category": "Música",
+   "id": "78720",
+   "isValid": "",
+   "prompt": "Hasta 2020, ¿qué músico ha recibido más premios Grammy?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Productor ejecutivo/autor-productor",
+     "value": "1"
+    },
+    {
+     "text": "Productor co-ejecutivo",
+     "value": "2"
+    },
+    {
+     "text": "Productor supervisor",
+     "value": "3"
+    },
+    {
+     "text": "Productor",
+     "value": "4"
+    },
+    {
+     "text": "Co-productor",
+     "value": "5"
+    },
+    {
+     "text": "Editor de notícias",
+     "value": "6"
+    },
+    {
+     "text": "Redactor de la plantilla",
+     "value": "7"
+    },
+    {
+     "text": "Asistente de escritores",
+     "value": "8"
+    },
+    {
+     "text": "Asistente de producción",
+     "value": "9"
+    }
+   ],
+   "category": "Ocupaciones",
+   "id": "78721",
+   "isValid": "",
+   "prompt": "¿Qué rol está más cercano de la cima de la jerarquía de la sala de guionistas de televisión?",
+   "sort": "ascendiente",
+   "subtype": "más cercano",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Hawaii",
+     "value": "1959"
+    },
+    {
+     "text": "Alaska",
+     "value": "1959"
+    },
+    {
+     "text": "Arizona",
+     "value": "1912"
+    },
+    {
+     "text": "Utah",
+     "value": "1896"
+    },
+    {
+     "text": "Dakota del norte",
+     "value": "1889"
+    },
+    {
+     "text": "California",
+     "value": "1850"
+    },
+    {
+     "text": "Florida",
+     "value": "1845"
+    },
+    {
+     "text": "Maine",
+     "value": "1820"
+    },
+    {
+     "text": "Ohio",
+     "value": "1803"
+    },
+    {
+     "text": "Nueva York",
+     "value": "1788"
+    },
+    {
+     "text": "Delaware",
+     "value": "1787"
+    }
+   ],
+   "category": "Geografía y Lugares",
+   "id": "78723",
+   "isValid": "",
+   "prompt": "¿Qué estado de EE.UU. fue admitido más recientemente?",
+   "sort": "descenciente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "[i]River’s Edge[/i]",
+     "value": "1986"
+    },
+    {
+     "text": "[i]La magnífica aventura de Bill y Ted[/i]",
+     "value": "1989"
+    },
+    {
+     "text": "[i]Punto de quiebre[/i]",
+     "value": "1991"
+    },
+    {
+     "text": "[i]Mucho Ruido y Pocas Nueces[/i]",
+     "value": "1993"
+    },
+    {
+     "text": "[i]Speed: Máxima potencia[/i]",
+     "value": "1994"
+    },
+    {
+     "text": "[i]El abogado del diablo[/i]",
+     "value": "1997"
+    },
+    {
+     "text": "[i]Matrix[/i]",
+     "value": "1999"
+    },
+    {
+     "text": "[i]Constantine[/i]",
+     "value": "2005"
+    },
+    {
+     "text": "[i]El día que la Tierra se detuvo[/i]",
+     "value": "2008"
+    },
+    {
+     "text": "[i]47 Ronin: La leyenda del samurái[/i]",
+     "value": "2013"
+    },
+    {
+     "text": "[i]John Wick[/i]",
+     "value": "2014"
+    },
+    {
+     "text": "[i]Quizás para siempre[/i]",
+     "value": "2019"
+    }
+   ],
+   "category": "Película y TV",
+   "id": "78773",
+   "isValid": "",
+   "prompt": "¿Qué película protagonizada por Keanu Reeves salió primero?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "China",
+     "value": "1439"
+    },
+    {
+     "text": "India",
+     "value": "1380"
+    },
+    {
+     "text": "Estados Unidos de América",
+     "value": "331"
+    },
+    {
+     "text": "Indonesia",
+     "value": "273"
+    },
+    {
+     "text": "Pakistán",
+     "value": "220"
+    },
+    {
+     "text": "Brasil",
+     "value": "100"
+    },
+    {
+     "text": "Nigeria",
+     "value": "206"
+    },
+    {
+     "text": "Rusia",
+     "value": "146"
+    },
+    {
+     "text": "México",
+     "value": "129"
+    },
+    {
+     "text": "Japón",
+     "value": "126"
+    },
+    {
+     "text": "Etiopía",
+     "value": "115"
+    },
+    {
+     "text": "Filipinas",
+     "value": "109"
+    },
+    {
+     "text": "Canadá",
+     "value": "38"
+    },
+    {
+     "text": "Jamaica",
+     "value": "3"
+    },
+    {
+     "text": "Islandia",
+     "value": "1"
+    }
+   ],
+   "category": "Geografía y Lugares",
+   "id": "78775",
+   "isValid": "",
+   "prompt": "¿Qué país tenía una población más alta en 2020?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "(en millones de personas)",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "La Snitch Dorada (Quidditch)",
+     "value": "150"
+    },
+    {
+     "text": "diana (dardos)",
+     "value": "50"
+    },
+    {
+     "text": "reina de espadas (Corazones)",
+     "value": "13"
+    },
+    {
+     "text": "Z ([i]Scrabble[/i])",
+     "value": "10"
+    },
+    {
+     "text": "siete-diez de división (bolos)",
+     "value": "8"
+    },
+    {
+     "text": "touchdown (Fútbol americano)",
+     "value": "6"
+    },
+    {
+     "text": "ensayo (rugby)",
+     "value": "5"
+    },
+    {
+     "text": "grand slam (béisbol)",
+     "value": "4"
+    },
+    {
+     "text": "gol de campo (Fútbol americano)",
+     "value": "3"
+    },
+    {
+     "text": "\"Camino más largo\" ([i]Los Colonos de Catán[/i])",
+     "value": "2"
+    },
+    {
+     "text": "tiro libre (baloncesto)",
+     "value": "1"
+    },
+    {
+     "text": "love (tenis)",
+     "value": "0"
+    }
+   ],
+   "category": "Juegos",
+   "id": "78808",
+   "isValid": "",
+   "prompt": "¿Qué momento \"deportivo\" vale más puntos?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "McNuggets de pollo de 40 piezas",
+     "value": "1660"
+    },
+    {
+     "text": "Batido de chocolate grande",
+     "value": "830"
+    },
+    {
+     "text": "McFlurry regular con caramelos M&M",
+     "value": "640"
+    },
+    {
+     "text": "Rollo de canela McCafé",
+     "value": "560"
+    },
+    {
+     "text": "Big Mac",
+     "value": "550"
+    },
+    {
+     "text": "Patatas fritas grandes de fama mundial",
+     "value": "490"
+    },
+    {
+     "text": "Doble hamburguesa con queso",
+     "value": "450"
+    },
+    {
+     "text": "McPollo",
+     "value": "400"
+    },
+    {
+     "text": "Filete de pescado",
+     "value": "380"
+    },
+    {
+     "text": "Hamburguesa",
+     "value": "250"
+    },
+    {
+     "text": "Hash Brown",
+     "value": "140"
+    },
+    {
+     "text": "Cortes de manzana",
+     "value": "15"
+    }
+   ],
+   "category": "Comida y Bebida",
+   "id": "78810",
+   "isValid": "",
+   "prompt": "¿Qué elemento del menú de McDonalds tiene más calorías?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "(en calorías)",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "[i]El Gigante de Hierro[/i]",
+     "value": "96"
+    },
+    {
+     "text": "[i]Vengadores: Endgame[/i]",
+     "value": "94"
+    },
+    {
+     "text": "[i]Rescatando al soldado Ryan[/i]",
+     "value": "93"
+    },
+    {
+     "text": "[i]Guardianes de la Galaxia[/i]",
+     "value": "92"
+    },
+    {
+     "text": "[i]Rápidos y furiosos 7[/i]",
+     "value": "82"
+    },
+    {
+     "text": "[i]Eclipse mortal[/i]",
+     "value": "60"
+    },
+    {
+     "text": "[i]Rápido y furioso[/i]",
+     "value": "53"
+    },
+    {
+     "text": "[i]XXX[/i]",
+     "value": "48"
+    },
+    {
+     "text": "[i]Billy Lynn: Honor y sentimiento[/i]",
+     "value": "44"
+    },
+    {
+     "text": "[i]Una niñera a prueba de balas[/i]",
+     "value": "21"
+    },
+    {
+     "text": "[i]The Last Witch Hunter[/i]",
+     "value": "18"
+    },
+    {
+     "text": "[i]Babylon A.D.[/i]",
+     "value": "6"
+    }
+   ],
+   "category": "Película y TV",
+   "id": "78816",
+   "isValid": "",
+   "prompt": "¿Qué película de Vin Diesel tiene una puntuación más alta en el \"Tomatómetro\" de Rotten Tomatoes?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "oxígeno",
+     "value": "46.1"
+    },
+    {
+     "text": "silicio",
+     "value": "28.2"
+    },
+    {
+     "text": "aluminio",
+     "value": "8.2"
+    },
+    {
+     "text": "hierro",
+     "value": "5.6"
+    },
+    {
+     "text": "calcio",
+     "value": "4.1"
+    },
+    {
+     "text": "sodio",
+     "value": "2.4"
+    },
+    {
+     "text": "potasio",
+     "value": "2.09"
+    },
+    {
+     "text": "titanio",
+     "value": "0.57"
+    },
+    {
+     "text": "hidrógeno",
+     "value": "0.14"
+    },
+    {
+     "text": "circonio",
+     "value": "0.01"
+    }
+   ],
+   "category": "Ciencia y Medicina",
+   "id": "78819",
+   "isValid": "",
+   "prompt": "¿Qué elemento es más común en la corteza terrestre?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "(en % de masa)",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "El Sol",
+     "value": "1392000"
+    },
+    {
+     "text": "Júpiter",
+     "value": "142984"
+    },
+    {
+     "text": "Saturn",
+     "value": "120536"
+    },
+    {
+     "text": "Urano",
+     "value": "51118"
+    },
+    {
+     "text": "Neptuno",
+     "value": "49528"
+    },
+    {
+     "text": "Tierra",
+     "value": "12756"
+    },
+    {
+     "text": "Venus",
+     "value": "12102"
+    },
+    {
+     "text": "Marte",
+     "value": "6796"
+    },
+    {
+     "text": "Ganimedes",
+     "value": "5262"
+    },
+    {
+     "text": "Mercurio",
+     "value": "4880"
+    },
+    {
+     "text": "La Luna",
+     "value": "3474"
+    },
+    {
+     "text": "Plutón",
+     "value": "2374"
+    },
+    {
+     "text": "Ceres",
+     "value": "974"
+    }
+   ],
+   "category": "Anatomía",
+   "id": "78868",
+   "isValid": "",
+   "prompt": "¿Qué cuerpo celeste del Sistema Solar es más ancho?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "(en kilómetros)",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "[i]Call of Duty: Black Ops Cold War[/i]",
+     "value": "1"
+    },
+    {
+     "text": "[i]Call of Duty: Modern Warfare[/i]",
+     "value": "2"
+    },
+    {
+     "text": "[i]Animal Crossing: New Horizons[/i]",
+     "value": "3"
+    },
+    {
+     "text": "[i]Madden NFL 21[/i]",
+     "value": "4"
+    },
+    {
+     "text": "[i]Assassin’s Creed Valhalla[/i]",
+     "value": "5"
+    },
+    {
+     "text": "[i]The Last of Us Part II[/i]",
+     "value": "6"
+    },
+    {
+     "text": "[i]Ghost of Tsushima[/i]",
+     "value": "7"
+    },
+    {
+     "text": "[i]Mario Kart 8 Deluxe[/i]",
+     "value": "8"
+    },
+    {
+     "text": "[i]Super Mario 3D All-Stars[/i]",
+     "value": "9"
+    },
+    {
+     "text": "[i]Final Fantasy VII Remake[/i]",
+     "value": "10"
+    },
+    {
+     "text": "[i]Marvel’s Avengers[/i]",
+     "value": "11"
+    },
+    {
+     "text": "[i]Spider-Man: Miles Morales[/i]",
+     "value": "12"
+    },
+    {
+     "text": "[i]NBA 2K21[/i]",
+     "value": "13"
+    },
+    {
+     "text": "[i]Lumberjack’s Dynasty[/i]",
+     "value": "14"
+    }
+   ],
+   "category": "Juegos",
+   "id": "78875",
+   "isValid": "",
+   "prompt": "En 2020, ¿qué videojuego más vendido vendió más copias?",
+   "sort": "ascendiente",
+   "subtype": "más/menos",
+   "unit": "(en unidades vendidas)",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Moisés (Judaísmo)",
+     "value": "-1300"
+    },
+    {
+     "text": "Zaratustra (Zoroastrismo)",
+     "value": "-628"
+    },
+    {
+     "text": "Buda (Budismo)",
+     "value": "-623"
+    },
+    {
+     "text": "Confucio (Confucianismo)",
+     "value": "-551"
+    },
+    {
+     "text": "Jesucristo (Cristiandad)",
+     "value": "-4"
+    },
+    {
+     "text": "Mahoma (Islam)",
+     "value": "570"
+    },
+    {
+     "text": "Guru Nanak (Sijismo)",
+     "value": "1469"
+    },
+    {
+     "text": "Martín Lutero (Luteranismo)",
+     "value": "1483"
+    },
+    {
+     "text": "Joseph Smith (Mormonismo)",
+     "value": "1805"
+    },
+    {
+     "text": "Bahaʾullah (Fe bahá'í)",
+     "value": "1817"
+    },
+    {
+     "text": "L. Ron Hubbard (Cientología)",
+     "value": "1911"
+    }
+   ],
+   "category": "Religión",
+   "id": "78878",
+   "isValid": "",
+   "prompt": "¿Qué fundador religioso nació primero?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "finge una enfermedad para salir de la escuela",
+     "value": "1"
+    },
+    {
+     "text": "toca el clarinete",
+     "value": "2"
+    },
+    {
+     "text": "convence a Cameron para que tome el Ferrari de su padre",
+     "value": "3"
+    },
+    {
+     "text": "recoge a Sloane de la escuela",
+     "value": "4"
+    },
+    {
+     "text": "visita la Torre Sears",
+     "value": "5"
+    },
+    {
+     "text": "visita la Junta de Comercio de Chicago",
+     "value": "6"
+    },
+    {
+     "text": "almuerzo en Chez Quis",
+     "value": "7"
+    },
+    {
+     "text": "juego de los Cubs en Wrigley Field",
+     "value": "8"
+    },
+    {
+     "text": "visita el Instituto de Arte de Chicago",
+     "value": "9"
+    },
+    {
+     "text": "dirige el Desfile del Día de Von Steuben ",
+     "value": "10"
+    },
+    {
+     "text": "salva a Cameron de un ahogamiento falso",
+     "value": "11"
+    },
+    {
+     "text": "mira a Cameron destruir un Ferrari",
+     "value": "12"
+    },
+    {
+     "text": "corre por los patios traseros para llegar a casa",
+     "value": "13"
+    }
+   ],
+   "category": "Película y TV",
+   "id": "78884",
+   "isValid": "",
+   "prompt": "¿Qué hizo Ferris Bueller primero en su día libre?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "núcleo interno",
+     "value": "1"
+    },
+    {
+     "text": "núcleo externo",
+     "value": "2"
+    },
+    {
+     "text": "manto",
+     "value": "3"
+    },
+    {
+     "text": "corteza",
+     "value": "4"
+    },
+    {
+     "text": "troposfera",
+     "value": "5"
+    },
+    {
+     "text": "estratosfera",
+     "value": "6"
+    },
+    {
+     "text": "mesosfera",
+     "value": "7"
+    },
+    {
+     "text": "termosfera",
+     "value": "8"
+    },
+    {
+     "text": "exosfera",
+     "value": "9"
+    }
+   ],
+   "category": "Ciencia y Medicina",
+   "id": "78886",
+   "isValid": "",
+   "prompt": "¿Qué capa de la Tierra es más [i]interior[/i]?",
+   "sort": "ascendiente",
+   "subtype": "más cercano",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Neptuno",
+     "value": "12146"
+    },
+    {
+     "text": "Urano",
+     "value": "15233"
+    },
+    {
+     "text": "Saturn",
+     "value": "21675"
+    },
+    {
+     "text": "Júpiter",
+     "value": "29236"
+    },
+    {
+     "text": "Marte",
+     "value": "53858"
+    },
+    {
+     "text": "Tierra",
+     "value": "66615"
+    },
+    {
+     "text": "Venus",
+     "value": "78337"
+    },
+    {
+     "text": "Mercurio",
+     "value": "107082"
+    }
+   ],
+   "category": "Ciencia y Medicina",
+   "id": "79042",
+   "isValid": "",
+   "prompt": "¿Qué planeta tiene una velocidad orbital más lenta?",
+   "sort": "ascendiente",
+   "subtype": "más/menos",
+   "unit": "(en millas por hora)",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "[i]Los 8 más odiados[/i]",
+     "value": "168"
+    },
+    {
+     "text": "[i]Django sin cadenas[/i]",
+     "value": "165"
+    },
+    {
+     "text": "[i]Había una vez en Hollywood[/i]",
+     "value": "161"
+    },
+    {
+     "text": "[i]Pulp Fiction[/i]",
+     "value": "154"
+    },
+    {
+     "text": "[i]Jackie Brown[/i]",
+     "value": "154"
+    },
+    {
+     "text": "[i]Bastardos sin gloria[/i]",
+     "value": "154"
+    },
+    {
+     "text": "[i]Kill Bill: Vol. 2[/i]",
+     "value": "137"
+    },
+    {
+     "text": "[i]A prueba de muerte[/i]",
+     "value": "127"
+    },
+    {
+     "text": "[i]Kill Bill: Vol. 1[/i]",
+     "value": "111"
+    },
+    {
+     "text": "[i]Perros de la calle[/i]",
+     "value": "99"
+    }
+   ],
+   "category": "Película y TV",
+   "id": "79044",
+   "isValid": "",
+   "prompt": "¿Qué película de Quentin Tarantino dura más?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "(en minutos)",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Texas",
+     "value": "593"
+    },
+    {
+     "text": "Florida",
+     "value": "386"
+    },
+    {
+     "text": "California",
+     "value": "310"
+    },
+    {
+     "text": "Carolina del Norte",
+     "value": "214"
+    },
+    {
+     "text": "Illinois",
+     "value": "185"
+    },
+    {
+     "text": "Ohio",
+     "value": "172"
+    },
+    {
+     "text": "Missouri",
+     "value": "156"
+    },
+    {
+     "text": "Luisiana",
+     "value": "137"
+    },
+    {
+     "text": "Arkansas",
+     "value": "130"
+    },
+    {
+     "text": "Carolina del Sur",
+     "value": "123"
+    },
+    {
+     "text": "Michigan",
+     "value": "117"
+    }
+   ],
+   "category": "Factoides",
+   "id": "79061",
+   "isValid": "",
+   "prompt": "En 2021, ¿qué estado de los Estados Unidos tenía más Walmarts?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "(en Walmarts)",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "[i]Days of Our Lives[/i]",
+     "value": "55"
+    },
+    {
+     "text": "[i]Plaza Sésamo[/i]",
+     "value": "51"
+    },
+    {
+     "text": "[i]El Precio Justo[/i]",
+     "value": "48"
+    },
+    {
+     "text": "[i]Saturday Night Live[/i]",
+     "value": "45"
+    },
+    {
+     "text": "[i]Jeopardy![/i]",
+     "value": "36"
+    },
+    {
+     "text": "[i]El vecindario del Señor Rogers[/i]",
+     "value": "33"
+    },
+    {
+     "text": "[i]Los Simpsons[/i]",
+     "value": "31"
+    },
+    {
+     "text": "[i]The Real World[/i]",
+     "value": "28"
+    },
+    {
+     "text": "[i]Reading Rainbow[/i]",
+     "value": "23"
+    },
+    {
+     "text": "[i]Supernatural[/i]",
+     "value": "15"
+    },
+    {
+     "text": "[i]The Big Bang Theory[/i]",
+     "value": "12"
+    },
+    {
+     "text": "[i]Saludos[/i]",
+     "value": "12"
+    },
+    {
+     "text": "[i]Sexo en la ciudad[/i]",
+     "value": "7"
+    },
+    {
+     "text": "[i]Seinfeld[/i]",
+     "value": "9"
+    },
+    {
+     "text": "[i]Mighty Morphin Power Rangers[/i]",
+     "value": "3"
+    }
+   ],
+   "category": "Película y TV",
+   "id": "79063",
+   "isValid": "",
+   "prompt": "¿Qué programa de televisión ha durado más?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "(en años)",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Google",
+     "value": "92.5"
+    },
+    {
+     "text": "YouTube",
+     "value": "34.6"
+    },
+    {
+     "text": "Facebook",
+     "value": "25.5"
+    },
+    {
+     "text": "Twitter",
+     "value": "6.6"
+    },
+    {
+     "text": "Instagram",
+     "value": "6.1"
+    },
+    {
+     "text": "Wikipedia",
+     "value": "6.1"
+    },
+    {
+     "text": "Baidu",
+     "value": "5.6"
+    },
+    {
+     "text": "Yahoo",
+     "value": "3.8"
+    },
+    {
+     "text": "Whatsapp",
+     "value": "3.1"
+    },
+    {
+     "text": "Amazon",
+     "value": "2.9"
+    },
+    {
+     "text": "Zoom.us",
+     "value": "2.7"
+    },
+    {
+     "text": "Netflix",
+     "value": "2.4"
+    },
+    {
+     "text": "Reddit",
+     "value": "1.6"
+    }
+   ],
+   "category": "Internet",
+   "id": "79064",
+   "isValid": "",
+   "prompt": "En 2020, ¿cuál fué el sitio de Internet que se visitó con más frecuencia?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "(en miles de millones de visitantes por mes)",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Joseph Biden",
+     "value": "1"
+    },
+    {
+     "text": "George W. Bush",
+     "value": "2"
+    },
+    {
+     "text": "Ronald Reagan",
+     "value": "3"
+    },
+    {
+     "text": "Richard Nixon",
+     "value": "4"
+    },
+    {
+     "text": "Lyndon B. Johnson",
+     "value": "5"
+    },
+    {
+     "text": "Harry S. Truman",
+     "value": "6"
+    },
+    {
+     "text": "Woodrow Wilson",
+     "value": "7"
+    },
+    {
+     "text": "Theodore Roosevelt",
+     "value": "8"
+    },
+    {
+     "text": "Rutherford B. Hayes",
+     "value": "9"
+    },
+    {
+     "text": "Abraham Lincoln",
+     "value": "10"
+    },
+    {
+     "text": "Andrew Jackson",
+     "value": "11"
+    },
+    {
+     "text": "James Madison",
+     "value": "12"
+    },
+    {
+     "text": "George Washington",
+     "value": "13"
+    }
+   ],
+   "category": "Figuras Históricas",
+   "id": "79129",
+   "isValid": "",
+   "prompt": "¿Quién fue más recientemente presidente de los Estados Unidos?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "ácido de batería",
+     "value": "0"
+    },
+    {
+     "text": "ácido sulfúrico",
+     "value": "1"
+    },
+    {
+     "text": "jugo de limón",
+     "value": "2"
+    },
+    {
+     "text": "jugo de naranja",
+     "value": "3"
+    },
+    {
+     "text": "lluvia ácida",
+     "value": "4"
+    },
+    {
+     "text": "banana",
+     "value": "5"
+    },
+    {
+     "text": "leche",
+     "value": "6"
+    },
+    {
+     "text": "agua pura",
+     "value": "7"
+    },
+    {
+     "text": "agua de mar",
+     "value": "8"
+    },
+    {
+     "text": "bicarbonato de sodio",
+     "value": "9"
+    },
+    {
+     "text": "leche de magnesia",
+     "value": "10"
+    },
+    {
+     "text": "amoníaco",
+     "value": "11"
+    },
+    {
+     "text": "agua jabonosa",
+     "value": "12"
+    },
+    {
+     "text": "lejía",
+     "value": "13"
+    },
+    {
+     "text": "limpiador de drenaje líquido",
+     "value": "14"
+    }
+   ],
+   "category": "Ciencia y Medicina",
+   "id": "79859",
+   "isValid": "",
+   "prompt": "¿Qué líquido es más ácido en la escala de Ph?",
+   "sort": "ascendiente",
+   "subtype": "más/menos",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "[i]El Show de Mary Tyler Moore[/i]",
+     "value": "1973"
+    },
+    {
+     "text": "[i]El show de Betty White[/i]",
+     "value": "1977"
+    },
+    {
+     "text": "[i]El crucero del amor[/i]",
+     "value": "1980"
+    },
+    {
+     "text": "[i]Mama’s Family[/i]",
+     "value": "1983"
+    },
+    {
+     "text": "[i]Los Años Dorados[/i]",
+     "value": "1985"
+    },
+    {
+     "text": "[i]The Golden Palace[/i]",
+     "value": "1992"
+    },
+    {
+     "text": "[i]Ally McBeal[/i]",
+     "value": "1999"
+    },
+    {
+     "text": "[i]El Show de los 70[/i]",
+     "value": "2002"
+    },
+    {
+     "text": "[i]Justicia Ciega[/i]",
+     "value": "2005"
+    },
+    {
+     "text": "[i]The Bold and the Beautiful[/i]",
+     "value": "2006"
+    },
+    {
+     "text": "[i]Hot in Cleveland[/i]",
+     "value": "2010"
+    },
+    {
+     "text": "[i]Huesos[/i]",
+     "value": "2015"
+    }
+   ],
+   "category": "Celebridades",
+   "id": "80324",
+   "isValid": "",
+   "prompt": "¿En qué programa apareció Betty White primero?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Gwendoline Christie",
+     "value": "75"
+    },
+    {
+     "text": "Maria Sharapova",
+     "value": "73"
+    },
+    {
+     "text": "Allison Janney",
+     "value": "72"
+    },
+    {
+     "text": "Tyra Banks",
+     "value": "71"
+    },
+    {
+     "text": "Gigi Hadid",
+     "value": "70"
+    },
+    {
+     "text": "Jennifer Lawrence",
+     "value": "69"
+    },
+    {
+     "text": "Beyoncé",
+     "value": "68"
+    },
+    {
+     "text": "Miley Cyrus",
+     "value": "65"
+    },
+    {
+     "text": "Reese Witherspoon",
+     "value": "62"
+    },
+    {
+     "text": "Lady Gaga",
+     "value": "61"
+    },
+    {
+     "text": "Kourtney Kardashian",
+     "value": "60"
+    },
+    {
+     "text": "Snooki",
+     "value": "56"
+    }
+   ],
+   "category": "Celebridades",
+   "id": "82425",
+   "isValid": "",
+   "prompt": "¿Cuál de estas celebridades es más alta?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Cesar Romero",
+     "value": "1966"
+    },
+    {
+     "text": "Jack Nicholson",
+     "value": "1989"
+    },
+    {
+     "text": "Mark Hamill (voz)",
+     "value": "1992"
+    },
+    {
+     "text": "Kevin Michael Richardson (voz)",
+     "value": "2004"
+    },
+    {
+     "text": "Heath Ledger",
+     "value": "2008"
+    },
+    {
+     "text": "Brent Spiner (voz)",
+     "value": "2011"
+    },
+    {
+     "text": "Cameron Monaghan",
+     "value": "2015"
+    },
+    {
+     "text": "Jared Leto",
+     "value": "2016"
+    },
+    {
+     "text": "Zach Galifianakis (voz)",
+     "value": "2017"
+    },
+    {
+     "text": "Joaquin Phoenix",
+     "value": "2019"
+    },
+    {
+     "text": "Alan Tudyk (voz)",
+     "value": "2020"
+    }
+   ],
+   "category": "Película y TV",
+   "id": "82426",
+   "isValid": "",
+   "prompt": "¿Cuál de estos actores interpretó primero al Joker?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Brunei",
+     "value": "1984"
+    },
+    {
+     "text": "Belize",
+     "value": "1981"
+    },
+    {
+     "text": "Zimbabwe",
+     "value": "1980"
+    },
+    {
+     "text": "Jamaica",
+     "value": "1962"
+    },
+    {
+     "text": "Sierra Leona",
+     "value": "1961"
+    },
+    {
+     "text": "Malasia",
+     "value": "1957"
+    },
+    {
+     "text": "Sudán",
+     "value": "1956"
+    },
+    {
+     "text": "Pakistán",
+     "value": "1947"
+    },
+    {
+     "text": "The Bahamas",
+     "value": "1973"
+    },
+    {
+     "text": "Afganistán",
+     "value": "1919"
+    },
+    {
+     "text": "Irlanda",
+     "value": "1919"
+    },
+    {
+     "text": "Estados Unidos",
+     "value": "1776"
+    }
+   ],
+   "category": "Historia",
+   "id": "82427",
+   "isValid": "",
+   "prompt": "¿Qué país declaró su independencia del Imperio Británico más recientemente?",
+   "sort": "descenciente",
+   "subtype": "más cercano",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "[i]Lo que el viento se llevó[/i]",
+     "value": "238"
+    },
+    {
+     "text": "[i]Lawrence de Arabia[/i]",
+     "value": "228"
+    },
+    {
+     "text": "[i]Los siete samuráis[/i]",
+     "value": "207"
+    },
+    {
+     "text": "[i]El padrino II[/i]",
+     "value": "202"
+    },
+    {
+     "text": "[i]La lista de Schindler[/i]",
+     "value": "195"
+    },
+    {
+     "text": "[i]Vengadores: Endgame[/i]",
+     "value": "181"
+    },
+    {
+     "text": "[i]Braveheart[/i]",
+     "value": "178"
+    },
+    {
+     "text": "[i]Interestelar[/i]",
+     "value": "169"
+    },
+    {
+     "text": "[i]Parásitos[/i]",
+     "value": "132"
+    },
+    {
+     "text": "[i]Rocky[/i]",
+     "value": "120"
+    },
+    {
+     "text": "[i]Eterno resplandor de una mente sin recuerdos[/i]",
+     "value": "108"
+    },
+    {
+     "text": "[i]La Princesa Prometida[/i]",
+     "value": "98"
+    },
+    {
+     "text": "[i]El Rey León[/i] (1994)",
+     "value": "88"
+    },
+    {
+     "text": "[i]Antes del atardecer[/i]",
+     "value": "80"
+    }
+   ],
+   "category": "Película y TV",
+   "id": "83482",
+   "isValid": "",
+   "prompt": "¿Cuál de estos largometrajes tiene mayor duración?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "(en minutos)",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Atari 5200",
+     "value": "1982"
+    },
+    {
+     "text": "Nintendo Entertainment System",
+     "value": "1983"
+    },
+    {
+     "text": "Sega Genesis",
+     "value": "1988"
+    },
+    {
+     "text": "Super Nintendo Entertainment System",
+     "value": "1990"
+    },
+    {
+     "text": "PlayStation",
+     "value": "1994"
+    },
+    {
+     "text": "Nintendo 64",
+     "value": "1996"
+    },
+    {
+     "text": "Sega Dreamcast",
+     "value": "1998"
+    },
+    {
+     "text": "Xbox",
+     "value": "2001"
+    },
+    {
+     "text": "Wii",
+     "value": "2006"
+    },
+    {
+     "text": "Xbox One",
+     "value": "2013"
+    },
+    {
+     "text": "Nintendo Switch",
+     "value": "2017"
+    },
+    {
+     "text": "PlayStation 5",
+     "value": "2020"
+    }
+   ],
+   "category": "Juegos",
+   "id": "83483",
+   "isValid": "",
+   "prompt": "¿Qué consola de videojuegos salió primero?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "cerebro",
+     "value": "1"
+    },
+    {
+     "text": "ojos",
+     "value": "2"
+    },
+    {
+     "text": "lengua",
+     "value": "3"
+    },
+    {
+     "text": "esófago",
+     "value": "4"
+    },
+    {
+     "text": "pulmones",
+     "value": "6"
+    },
+    {
+     "text": "corazón",
+     "value": "6"
+    },
+    {
+     "text": "hígado",
+     "value": "7"
+    },
+    {
+     "text": "estómago",
+     "value": "8"
+    },
+    {
+     "text": "riñones",
+     "value": "9"
+    },
+    {
+     "text": "intestino delgado",
+     "value": "10"
+    },
+    {
+     "text": "útero",
+     "value": "11"
+    },
+    {
+     "text": "ano",
+     "value": "12"
+    }
+   ],
+   "category": "Anatomía",
+   "id": "83484",
+   "isValid": "",
+   "prompt": "En un ser humano de pie promedio, ¿cuál de estos órganos está más cerca de la parte superior?",
+   "sort": "ascendiente",
+   "subtype": "más cercano",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Starbucks Blonde Roast (16 oz)",
+     "value": "360"
+    },
+    {
+     "text": "Energía Regular de 5 horas (1.5 oz)",
+     "value": "200"
+    },
+    {
+     "text": "Infusión de Yerba Mate Dr. Uplift (16 oz)",
+     "value": "150"
+    },
+    {
+     "text": "Health-Ade Plus Energy Kombucha (16 oz)",
+     "value": "120"
+    },
+    {
+     "text": "Helado de Ben & Jerry's Brewed to Matter (1 taza)",
+     "value": "100"
+    },
+    {
+     "text": "Frappucino de Starbucks (16 oz)",
+     "value": "95"
+    },
+    {
+     "text": "Red Bull - Regular (8.4 oz)",
+     "value": "80"
+    },
+    {
+     "text": "Té Negro Puro sin Azúcar (16,9 oz)",
+     "value": "77"
+    },
+    {
+     "text": "Té Negro Lipton (1 bolsa elaborada)",
+     "value": "55"
+    },
+    {
+     "text": "Coca-Cola (12 oz)",
+     "value": "34"
+    },
+    {
+     "text": "Barra de Chocolate Negro Especial de Hershey",
+     "value": "20"
+    },
+    {
+     "text": "Folgers Clásico Descafeinado (12 oz)",
+     "value": "5"
+    },
+    {
+     "text": "Té de Hierbas",
+     "value": "0"
+    }
+   ],
+   "category": "Comida y Bebida",
+   "id": "83678",
+   "isValid": "",
+   "prompt": "¿Cuál de estos alimentos o bebidas tiene más cafeína?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "(en miligramos de cafeína)",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Alert, Nunavet, Canadá",
+     "value": "1"
+    },
+    {
+     "text": "Hammerfest, Noruega",
+     "value": "2"
+    },
+    {
+     "text": "Reykjavik, Islandia",
+     "value": "3"
+    },
+    {
+     "text": "Anchorage, Alaska, Estados Unidos",
+     "value": "4"
+    },
+    {
+     "text": "Aberdeen, Escocia",
+     "value": "5"
+    },
+    {
+     "text": "Winnipeg, Manitoba, Canadá",
+     "value": "6"
+    },
+    {
+     "text": "Nueva York",
+     "value": "7"
+    },
+    {
+     "text": "Beijing, China",
+     "value": "8"
+    },
+    {
+     "text": "Havana, Cuba",
+     "value": "9"
+    },
+    {
+     "text": "Bangkok, Tailandia",
+     "value": "10"
+    },
+    {
+     "text": "Nairobi, Kenia",
+     "value": "11"
+    },
+    {
+     "text": "Rio de Janeiro, Brasil",
+     "value": "12"
+    },
+    {
+     "text": "Ciudad del Cabo, Sudáfrica",
+     "value": "13"
+    },
+    {
+     "text": "Aukland, Nueva Zelanda",
+     "value": "14"
+    }
+   ],
+   "category": "Geografía y Lugares",
+   "id": "83684",
+   "isValid": "",
+   "prompt": "¿Cuál de estas ciudades está más cerca del Polo Norte?",
+   "sort": "ascendiente",
+   "subtype": "más cercano",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "La princesa Leia le da a R2-D2 los planos de la Estrella de la Muerte",
+     "value": "1"
+    },
+    {
+     "text": "La princesa Leia es capturada por Darth Vader",
+     "value": "2"
+    },
+    {
+     "text": "Luke Skywalker conoce a R2-D2 y C-3PO",
+     "value": "3"
+    },
+    {
+     "text": "Luke Skywalker conoce a Obi-Wan Kenobi",
+     "value": "4"
+    },
+    {
+     "text": "Luke y Obi-Wan conocen a Han Solo y Chewbacca",
+     "value": "5"
+    },
+    {
+     "text": "Alderaan es destruido por la Estrella de la Muerte",
+     "value": "6"
+    },
+    {
+     "text": "Luke, Han y Chewbacca rescatan a Leia",
+     "value": "7"
+    },
+    {
+     "text": "Los héroes están atrapados en un compactador de basura",
+     "value": "8"
+    },
+    {
+     "text": "Darth Vader se enfrenta a Obi-Wan Kenobi",
+     "value": "9"
+    },
+    {
+     "text": "Los héroes llegan a Yavin 4",
+     "value": "10"
+    },
+    {
+     "text": "Han Solo se va de Yavin 4 con su recompensa",
+     "value": "11"
+    },
+    {
+     "text": "Han Solo regresa para salvar a Luke de Darth Vader",
+     "value": "12"
+    },
+    {
+     "text": "Luke Skywalker usa la Fuerza para destruir la Estrella de la Muerte",
+     "value": "13"
+    },
+    {
+     "text": "Luke Skywalker y Han Solo reciben medallas",
+     "value": "14"
+    }
+   ],
+   "category": "Película y TV",
+   "id": "83762",
+   "isValid": "",
+   "prompt": "¿Qué ocurre primero en pantalla en [i]Star Wars: Episodio IV - Una nueva esperanza[/i]?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "[i]Nomadland[/i]",
+     "value": "2020"
+    },
+    {
+     "text": "[i]Parásitos[/i]",
+     "value": "2019"
+    },
+    {
+     "text": "[i]En primera plana[/i]",
+     "value": "2015"
+    },
+    {
+     "text": "[i]Chicago[/i]",
+     "value": "2002"
+    },
+    {
+     "text": "[i]Titanic[/i]",
+     "value": "1997"
+    },
+    {
+     "text": "[i]El silencio de los corderos[/i]",
+     "value": "1991"
+    },
+    {
+     "text": "[i]Gandhi[/i]",
+     "value": "1982"
+    },
+    {
+     "text": "[i]El Padrino[/i]",
+     "value": "1972"
+    },
+    {
+     "text": "[i]West Side Story[/i]",
+     "value": "1961"
+    },
+    {
+     "text": "[i]La malvada[/i]",
+     "value": "1950"
+    },
+    {
+     "text": "[i]Lo que el viento se llevó[/i]",
+     "value": "1939"
+    },
+    {
+     "text": "[i]Alas[/i]",
+     "value": "1927"
+    }
+   ],
+   "category": "Película y TV",
+   "id": "83873",
+   "isValid": "",
+   "prompt": "¿Qué ganadora del Oscar a la Mejor Película se estrenó más recientemente?",
+   "sort": "descenciente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "miriagón",
+     "value": "10000"
+    },
+    {
+     "text": "hectágono",
+     "value": "100"
+    },
+    {
+     "text": "pentadecágono",
+     "value": "15"
+    },
+    {
+     "text": "dodecágono",
+     "value": "12"
+    },
+    {
+     "text": "decágono",
+     "value": "10"
+    },
+    {
+     "text": "nonágono",
+     "value": "9"
+    },
+    {
+     "text": "octágono",
+     "value": "8"
+    },
+    {
+     "text": "heptágono",
+     "value": "7"
+    },
+    {
+     "text": "hexágono",
+     "value": "6"
+    },
+    {
+     "text": "pentágono",
+     "value": "5"
+    },
+    {
+     "text": "cuadrado",
+     "value": "4"
+    },
+    {
+     "text": "triángulo",
+     "value": "3"
+    }
+   ],
+   "category": "Matemáticas",
+   "id": "83877",
+   "isValid": "",
+   "prompt": "¿Qué forma tiene más lados?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Meghan Markle y el Príncipe Harry",
+     "value": "2018"
+    },
+    {
+     "text": "Kate Middleton y el Príncipe William",
+     "value": "2011"
+    },
+    {
+     "text": "Príncipe Charles y Camilla Parker Bowles",
+     "value": "2005"
+    },
+    {
+     "text": "Sarah Ferguson y Príncipe Andrew",
+     "value": "1986"
+    },
+    {
+     "text": "Princesa Diana y Príncipe Charles",
+     "value": "1981"
+    },
+    {
+     "text": "La reina Isabel II y Príncipe Philip",
+     "value": "1947"
+    },
+    {
+     "text": "Príncipe Edward y Wallis Simpson",
+     "value": "1937"
+    },
+    {
+     "text": "La reina Victoria y Príncipe Albert",
+     "value": "1840"
+    },
+    {
+     "text": "El rey George III y Reina Charlotte",
+     "value": "1761"
+    },
+    {
+     "text": "La reina \"Bloody\" Mary I y Príncipe Philip",
+     "value": "1554"
+    },
+    {
+     "text": "Henry VIII y Anne Boleyn",
+     "value": "1533"
+    }
+   ],
+   "category": "Celebridades",
+   "id": "83947",
+   "isValid": "",
+   "prompt": "¿Cuál de estas bodas reales británicas se celebró más recientemente?",
+   "sort": "descenciente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "[i]Rápidos y furiosos 9[/i]",
+     "value": "1"
+    },
+    {
+     "text": "[i]Rápidos y furiosos: Hobbs & Shaw[/i]",
+     "value": "2"
+    },
+    {
+     "text": "[i]Rápidos y furiosos 8[/i]",
+     "value": "3"
+    },
+    {
+     "text": "[i]Rápidos y furiosos 7[/i]",
+     "value": "4"
+    },
+    {
+     "text": "[i]Rápido y furioso: Reto Tokio[/i]",
+     "value": "5"
+    },
+    {
+     "text": "[i]Rápidos y furiosos 6[/i]",
+     "value": "6"
+    },
+    {
+     "text": "[i]Rápidos y furiosos: 5in control[/i]",
+     "value": "7"
+    },
+    {
+     "text": "[i]Rápido y furioso[/i]",
+     "value": "8"
+    },
+    {
+     "text": "[i]Más rápido, más furioso[/i]",
+     "value": "9"
+    },
+    {
+     "text": "[i]Rápido y furioso[/i]",
+     "value": "10"
+    }
+   ],
+   "category": "Película y TV",
+   "id": "83948",
+   "isValid": "",
+   "prompt": "¿Qué película de [i]Rápidos y Furiosos[/i] describe los eventos más recientes de la serie?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "primera vida multicelular",
+     "value": "1"
+    },
+    {
+     "text": "primer vertebrado verdadero",
+     "value": "2"
+    },
+    {
+     "text": "primeros dientes en peces",
+     "value": "3"
+    },
+    {
+     "text": "primer insecto conocido",
+     "value": "4"
+    },
+    {
+     "text": "primeros anfibios",
+     "value": "5"
+    },
+    {
+     "text": "aparecen los primeros mamíferos",
+     "value": "6"
+    },
+    {
+     "text": "primeras plantas con flores",
+     "value": "7"
+    },
+    {
+     "text": "los dinosaurios se extinguen",
+     "value": "8"
+    },
+    {
+     "text": "aparece el primer neandertal",
+     "value": "9"
+    },
+    {
+     "text": "Aristóteles propone que la tierra es redonda",
+     "value": "10"
+    },
+    {
+     "text": "se funda la Sociedad Internacional de Investigación de la Tierra Plana",
+     "value": "11"
+    },
+    {
+     "text": "primer aterrizaje lunar por humanos",
+     "value": "12"
+    }
+   ],
+   "category": "Ciencia y Medicina",
+   "id": "83980",
+   "isValid": "",
+   "prompt": "¿Qué hito en la evolución de la vida ocurrió primero?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "(en millones de años atrás)",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "“...Baby One More Time”",
+     "value": "1998"
+    },
+    {
+     "text": "“(You Drive Me) Crazy”",
+     "value": "1999"
+    },
+    {
+     "text": "“Oops!...I Did It Again”",
+     "value": "2000"
+    },
+    {
+     "text": "“I'm a Slave 4 U”",
+     "value": "2001"
+    },
+    {
+     "text": "“I'm Not a Girl, Not Yet a Woman”",
+     "value": "2002"
+    },
+    {
+     "text": "“Toxic”",
+     "value": "2004"
+    },
+    {
+     "text": "“Gimme More”",
+     "value": "2007"
+    },
+    {
+     "text": "“Womanizer”",
+     "value": "2008"
+    },
+    {
+     "text": "“3”",
+     "value": "2009"
+    },
+    {
+     "text": "“Hold It Against Me”",
+     "value": "2011"
+    },
+    {
+     "text": "“Work Bitch”",
+     "value": "2013"
+    },
+    {
+     "text": "“Make Me...” feat. G-Eazy",
+     "value": "2016"
+    }
+   ],
+   "category": "Música",
+   "id": "84258",
+   "isValid": "",
+   "prompt": "¿Qué sencillo de Britney Spears se lanzó más recientemente?",
+   "sort": "descenciente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "La Guerra Revolucionaria",
+     "value": "1775"
+    },
+    {
+     "text": "La Guerra del 1812",
+     "value": "1812"
+    },
+    {
+     "text": "Guerra México-Americana",
+     "value": "1846"
+    },
+    {
+     "text": "Guerra Civil Estadounidense",
+     "value": "1861"
+    },
+    {
+     "text": "La Guerra Hispano-estadounidense",
+     "value": "1898"
+    },
+    {
+     "text": "Primera Guerra Mundial",
+     "value": "1914"
+    },
+    {
+     "text": "Segunda Guerra Mundial",
+     "value": "1939"
+    },
+    {
+     "text": "La guerra de Corea",
+     "value": "1950"
+    },
+    {
+     "text": "La Guerra de Vietnam",
+     "value": "1959"
+    },
+    {
+     "text": "La Guerra en Afghanistán",
+     "value": "2001"
+    },
+    {
+     "text": "La Guerra de Irak",
+     "value": "2003"
+    }
+   ],
+   "category": "Historia",
+   "id": "84259",
+   "isValid": "",
+   "prompt": "¿Qué gran conflicto armado americano ocurrió antes?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "[i]Guerra y Paz[/i] de Leo Tolstoy",
+     "value": "587287"
+    },
+    {
+     "text": "[i]Juego de Tronos[/i] de George R. R. Martin",
+     "value": "292727"
+    },
+    {
+     "text": "[i]Jane Eyre[/i] de Charlotte Brontë",
+     "value": "183858"
+    },
+    {
+     "text": "[i]La metamorfosis[/i] de Franz Kafka",
+     "value": "60361"
+    },
+    {
+     "text": "[i]El dador[/i] de Lois Lowry",
+     "value": "43617"
+    },
+    {
+     "text": "[i]Charlie y la fábrica de chocolate[/i] de Roald Dahl",
+     "value": "30644"
+    },
+    {
+     "text": "“Éxodo” de la Biblia del Estudiante NIV",
+     "value": "28733"
+    },
+    {
+     "text": "\"Apocalipsis\" de la Biblia del Estuidante NIV",
+     "value": "11471"
+    },
+    {
+     "text": "La Declaración de Independencia",
+     "value": "1337"
+    },
+    {
+     "text": "[i]Hop On Pop[/i] de Dr. Seuss",
+     "value": "384"
+    },
+    {
+     "text": "El Discurso de Gettysburg",
+     "value": "272"
+    },
+    {
+     "text": "La última línea en [i]Hamlet[/i] de Shakespeare",
+     "value": "59"
+    }
+   ],
+   "category": "Literatura",
+   "id": "84263",
+   "isValid": "",
+   "prompt": "¿Qué pieza de escritura tiene el mayor número de palabras?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "(en palabras)",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "[i]Avatar[/i]",
+     "value": "1"
+    },
+    {
+     "text": "[i]Titanic[/i]",
+     "value": "2"
+    },
+    {
+     "text": "[i]Avengers: Infinity War[/i]",
+     "value": "3"
+    },
+    {
+     "text": "[i]Pantera Negra[/i]",
+     "value": "4"
+    },
+    {
+     "text": "[i]Frozen[/i]",
+     "value": "5"
+    },
+    {
+     "text": "[i]Los Minions[/i]",
+     "value": "6"
+    },
+    {
+     "text": "[i]El Señor de los Anillos: El Retorno del Rey[/i]",
+     "value": "7"
+    },
+    {
+     "text": "[i]Toy Story 3[/i]",
+     "value": "8"
+    },
+    {
+     "text": "[i]Batman: El caballero de la Noche[/i]",
+     "value": "9"
+    },
+    {
+     "text": "[i]Shrek 2[/i]",
+     "value": "10"
+    },
+    {
+     "text": "[i]El Origen[/i]",
+     "value": "11"
+    },
+    {
+     "text": "[i]Un Jefe en Pañales[/i]",
+     "value": "12"
+    },
+    {
+     "text": "[i]Crepúsculo[/i] (2008)",
+     "value": "13"
+    },
+    {
+     "text": "[i]El Juego del Miedo[/i]",
+     "value": "14"
+    }
+   ],
+   "category": "Película y TV",
+   "id": "84264",
+   "isValid": "",
+   "prompt": "Sin ajustar la inflación, ¿qué película tiene una vida útil bruta más alta en la taquilla mundial?",
+   "sort": "ascendiente",
+   "subtype": "más/menos",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "N",
+     "value": "1"
+    },
+    {
+     "text": "K",
+     "value": "2"
+    },
+    {
+     "text": "O",
+     "value": "2"
+    },
+    {
+     "text": "Q",
+     "value": "4"
+    },
+    {
+     "text": "H",
+     "value": "5"
+    },
+    {
+     "text": "S",
+     "value": "6"
+    },
+    {
+     "text": "F",
+     "value": "7"
+    },
+    {
+     "text": "E",
+     "value": "8"
+    },
+    {
+     "text": "V",
+     "value": "9"
+    },
+    {
+     "text": "D",
+     "value": "9"
+    },
+    {
+     "text": "W",
+     "value": "10"
+    },
+    {
+     "text": "X",
+     "value": "11"
+    },
+    {
+     "text": "A",
+     "value": "12"
+    },
+    {
+     "text": "Z",
+     "value": "13"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "id": "84270",
+   "isValid": "",
+   "prompt": "¿Qué letra se acerca más a la M en el alfabeto inglés?",
+   "sort": "ascendiente",
+   "subtype": "más cercano",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Ópera de Sydney",
+     "value": "1973"
+    },
+    {
+     "text": "El Cristo Redentor",
+     "value": "1931"
+    },
+    {
+     "text": "El Letrero de hollywood",
+     "value": "1923"
+    },
+    {
+     "text": "La Torre Eiffel",
+     "value": "1889"
+    },
+    {
+     "text": "La Estatua de la Libertad",
+     "value": "1886"
+    },
+    {
+     "text": "El Big Ben",
+     "value": "1859"
+    },
+    {
+     "text": "Taj Mahal",
+     "value": "1653"
+    },
+    {
+     "text": "Torre Inclinada de Pisa",
+     "value": "1372"
+    },
+    {
+     "text": "Santa Sofía",
+     "value": "537"
+    },
+    {
+     "text": "El Coliseo",
+     "value": "80"
+    },
+    {
+     "text": "El Partenón",
+     "value": "40"
+    },
+    {
+     "text": "Persépolis",
+     "value": "5"
+    },
+    {
+     "text": "La Gran Pirámide de Giza",
+     "value": "0"
+    }
+   ],
+   "category": "Geografía y Lugares",
+   "id": "84272",
+   "isValid": "",
+   "prompt": "¿Qué monumento famoso o sitio cultural completó la construcción más recientemente?",
+   "sort": "descenciente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "ultraexclusivamente",
+     "value": "16"
+    },
+    {
+     "text": "narcisistamente",
+     "value": "16"
+    },
+    {
+     "text": "objetivización",
+     "value": "15"
+    },
+    {
+     "text": "bacteriólogos",
+     "value": "15"
+    },
+    {
+     "text": "ridiculez",
+     "value": "14"
+    },
+    {
+     "text": "jellificaciones",
+     "value": "14"
+    },
+    {
+     "text": "charlatanes",
+     "value": "13"
+    },
+    {
+     "text": "apretabilidad",
+     "value": "13"
+    },
+    {
+     "text": "subjetivismo",
+     "value": "12"
+    },
+    {
+     "text": "cortauñas",
+     "value": "12"
+    },
+    {
+     "text": "razzamatazz",
+     "value": "11"
+    },
+    {
+     "text": "mozzarellas",
+     "value": "11"
+    },
+    {
+     "text": "vacunado",
+     "value": "10"
+    },
+    {
+     "text": "sabático",
+     "value": "10"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "id": "84337",
+   "isValid": "",
+   "prompt": "¿Qué palabra tiene más letras?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "12 x 1",
+     "value": "12"
+    },
+    {
+     "text": "121 ÷ 11",
+     "value": "11"
+    },
+    {
+     "text": "5 x 2",
+     "value": "10"
+    },
+    {
+     "text": "14 - 5",
+     "value": "9"
+    },
+    {
+     "text": "8 + 0",
+     "value": "8"
+    },
+    {
+     "text": "42 ÷ 6",
+     "value": "7"
+    },
+    {
+     "text": "7 -1",
+     "value": "6"
+    },
+    {
+     "text": "3 + 2",
+     "value": "5"
+    },
+    {
+     "text": "2 x 2",
+     "value": "4"
+    },
+    {
+     "text": "66 - 63",
+     "value": "3"
+    },
+    {
+     "text": "4 + (-2)",
+     "value": "2"
+    },
+    {
+     "text": "521-520",
+     "value": "1"
+    }
+   ],
+   "category": "Matemáticas",
+   "id": "84388",
+   "isValid": "",
+   "prompt": "¿Qué problema matemático tiene la respuesta más grande?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Queen",
+     "value": "1"
+    },
+    {
+     "text": "Rey",
+     "value": "1"
+    },
+    {
+     "text": "Príncipe",
+     "value": "2"
+    },
+    {
+     "text": "Princesa",
+     "value": "2"
+    },
+    {
+     "text": "Duque",
+     "value": "3"
+    },
+    {
+     "text": "Duquesa",
+     "value": "3"
+    },
+    {
+     "text": "Marqués",
+     "value": "4"
+    },
+    {
+     "text": "Marquesa",
+     "value": "4"
+    },
+    {
+     "text": "Conde",
+     "value": "5"
+    },
+    {
+     "text": "Condesa",
+     "value": "5"
+    },
+    {
+     "text": "Vizconde",
+     "value": "6"
+    },
+    {
+     "text": "Vizcondesa",
+     "value": "6"
+    },
+    {
+     "text": "Barón",
+     "value": "7"
+    },
+    {
+     "text": "Baronesa",
+     "value": "7"
+    },
+    {
+     "text": "Baroneta",
+     "value": "8"
+    }
+   ],
+   "category": "Historia",
+   "id": "84392",
+   "isValid": "",
+   "prompt": "¿Qué título de nobleza inglesa tiene una clasificación más alta?",
+   "sort": "ascendiente",
+   "subtype": "más cercano",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "[i]Star Wars: Una Nueva Esperanza[/i]",
+     "value": "1977"
+    },
+    {
+     "text": "[i]Star Wars: El Imperio Contraataca[/i]",
+     "value": "1980"
+    },
+    {
+     "text": "[i]Star Wars: El Retorno del Jedi[/i]",
+     "value": "1983"
+    },
+    {
+     "text": "[i]Star Wars: La Amenaza Fantasma[/i]",
+     "value": "1999"
+    },
+    {
+     "text": "[i]Star Wars: El Ataque de los clones[/i]",
+     "value": "2002"
+    },
+    {
+     "text": "[i]Star Wars: La Venganza de los Sith[/i]",
+     "value": "2005"
+    },
+    {
+     "text": "[i]Star Wars: El Despertar de la Fuerza[/i]",
+     "value": "2015"
+    },
+    {
+     "text": "[i]Rogue One: Una Historia de Star Wars[/i]",
+     "value": "2016"
+    },
+    {
+     "text": "[i]Star Wars: Los Últimos Jedi[/i]",
+     "value": "2017"
+    },
+    {
+     "text": "[i]Solo: Una Historia de Star Wars[/i]",
+     "value": "2018"
+    },
+    {
+     "text": "[i]Star Wars: El Ascenso de Skywalker[/i]",
+     "value": "2019"
+    }
+   ],
+   "category": "Película y TV",
+   "id": "84427",
+   "isValid": "",
+   "prompt": "¿Qué película de [i]Star Wars[/i] se estrenó más recientemente?",
+   "sort": "descenciente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "[i]Mujercitas[/i]",
+     "value": "2019"
+    },
+    {
+     "text": "[i]Mamma Mia! Vamos Otra Vez[/i]",
+     "value": "2018"
+    },
+    {
+     "text": "[i]Las Vueltas del Destino[/i]",
+     "value": "2013"
+    },
+    {
+     "text": "[i]La Dama de Hierro[/i]",
+     "value": "2011"
+    },
+    {
+     "text": "[i]El Fantástico Sr. Zorro[/i]",
+     "value": "2009"
+    },
+    {
+     "text": "[i]Julie y Julia[/i]",
+     "value": "2009"
+    },
+    {
+     "text": "[i]La Duda[/i]",
+     "value": "2008"
+    },
+    {
+     "text": "[i]El Diablo Viste a la Moda[/i]",
+     "value": "2006"
+    },
+    {
+     "text": "[i]Las Horas[/i]",
+     "value": "2002"
+    },
+    {
+     "text": "[i]Los Puentes de Madison[/i]",
+     "value": "1995"
+    },
+    {
+     "text": "[i]Visa al Paraíso[/i]",
+     "value": "1991"
+    },
+    {
+     "text": "[i]La Decisión de Sophie[/i]",
+     "value": "1982"
+    },
+    {
+     "text": "[i]Kramer vs. Kramer[/i]",
+     "value": "1979"
+    }
+   ],
+   "category": "Película y TV",
+   "id": "84433",
+   "isValid": "",
+   "prompt": "¿Cuál es la película más reciente de Meryl Streep?",
+   "sort": "descenciente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "LiveJournal",
+     "value": "1999"
+    },
+    {
+     "text": "Wikipedia",
+     "value": "2001"
+    },
+    {
+     "text": "MySpace",
+     "value": "2003"
+    },
+    {
+     "text": "LinkedIn",
+     "value": "2003"
+    },
+    {
+     "text": "YouTube",
+     "value": "2005"
+    },
+    {
+     "text": "Facebook",
+     "value": "2004"
+    },
+    {
+     "text": "Tumblr",
+     "value": "2007"
+    },
+    {
+     "text": "Twitter",
+     "value": "2006"
+    },
+    {
+     "text": "Instagram",
+     "value": "2010"
+    },
+    {
+     "text": "Snapchat",
+     "value": "2011"
+    },
+    {
+     "text": "Vine",
+     "value": "2013"
+    },
+    {
+     "text": "TikTok",
+     "value": "2016"
+    }
+   ],
+   "category": "Internet",
+   "id": "84434",
+   "isValid": "",
+   "prompt": "¿Qué sitio de redes sociales se lanzó primero?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "[i]Jesus Is King[/i]",
+     "value": "2019"
+    },
+    {
+     "text": "[i]Kids See Ghosts[/i]",
+     "value": "2018"
+    },
+    {
+     "text": "[i]ye[/i]",
+     "value": "2018"
+    },
+    {
+     "text": "[i]The Life of Pablo[/i]",
+     "value": "2016"
+    },
+    {
+     "text": "[i]Yeezus[/i]",
+     "value": "2013"
+    },
+    {
+     "text": "[i]Watch The Throne[/i]",
+     "value": "2011"
+    },
+    {
+     "text": "[i]My Beautiful Dark Twisted Fantasy[/i]",
+     "value": "2010"
+    },
+    {
+     "text": "[i]808s & Heartbreak[/i]",
+     "value": "2008"
+    },
+    {
+     "text": "[i]Graduation[/i]",
+     "value": "2007"
+    },
+    {
+     "text": "[i]Late Registration[/i]",
+     "value": "2005"
+    },
+    {
+     "text": "[i]The College Dropout[/i]",
+     "value": "2004"
+    }
+   ],
+   "category": "Música",
+   "id": "84435",
+   "isValid": "",
+   "prompt": "¿Cuál es el álbum más reciente de Kanye West?",
+   "sort": "descenciente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Lamborghini Veneno",
+     "value": "4500000"
+    },
+    {
+     "text": "Ferrari LaFerrari",
+     "value": "1400000"
+    },
+    {
+     "text": "Aston Martin DB11",
+     "value": "201820"
+    },
+    {
+     "text": "Audi R8",
+     "value": "172450"
+    },
+    {
+     "text": "Tesla Model X",
+     "value": "81190"
+    },
+    {
+     "text": "Cadillac Escalade",
+     "value": "75195"
+    },
+    {
+     "text": "Mercedes Benz C 300 Sedan",
+     "value": "41400"
+    },
+    {
+     "text": "Lexus NX",
+     "value": "36720"
+    },
+    {
+     "text": "Mazda MX-5 Miata RF",
+     "value": "26580"
+    },
+    {
+     "text": "Toyota Camry",
+     "value": "24425"
+    },
+    {
+     "text": "Hyandai Elantra",
+     "value": "21506"
+    },
+    {
+     "text": "Honda Civic",
+     "value": "19750"
+    }
+   ],
+   "category": "Vehículos",
+   "id": "84639",
+   "isValid": "",
+   "prompt": "En 2020, ¿cuál de estos autos tenía un precio de venta sugerido más caro?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "(en dólares estadounidenses)",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Hacer",
+     "value": "1"
+    },
+    {
+     "text": "Re",
+     "value": "2"
+    },
+    {
+     "text": "Mi",
+     "value": "3"
+    },
+    {
+     "text": "Fa",
+     "value": "4"
+    },
+    {
+     "text": "Sol",
+     "value": "5"
+    },
+    {
+     "text": "La",
+     "value": "6"
+    },
+    {
+     "text": "Si",
+     "value": "7"
+    },
+    {
+     "text": "Do (repite!)",
+     "value": "8"
+    }
+   ],
+   "category": "Música",
+   "id": "84655",
+   "isValid": "",
+   "prompt": "¿Qué viene primero en este tradicional solfeo musical?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Megan Rapinoe",
+     "value": "2019"
+    },
+    {
+     "text": "Golden State Warriors",
+     "value": "2018"
+    },
+    {
+     "text": "Serena Williams",
+     "value": "2015"
+    },
+    {
+     "text": "Michael Phelps",
+     "value": "2008"
+    },
+    {
+     "text": "Tom Brady",
+     "value": "2005"
+    },
+    {
+     "text": "Boston Red Sox",
+     "value": "2004"
+    },
+    {
+     "text": "Tiger Woods",
+     "value": "1996"
+    },
+    {
+     "text": "Don Shula",
+     "value": "1993"
+    },
+    {
+     "text": "Michael Jordan",
+     "value": "1991"
+    },
+    {
+     "text": "Wayne Gretzky",
+     "value": "1982"
+    },
+    {
+     "text": "Equipo olímpico de hockey de EE. UU.",
+     "value": "1980"
+    },
+    {
+     "text": "Muhammad Ali",
+     "value": "1974"
+    },
+    {
+     "text": "Billie Jean King",
+     "value": "1972"
+    },
+    {
+     "text": "Arnold Palmer",
+     "value": "1960"
+    }
+   ],
+   "category": "Deportes",
+   "id": "84657",
+   "isValid": "",
+   "prompt": "¿Qué persona o grupo fue nombrado \"Deportista del año\" de [i]Sports Illustrated[/i]?",
+   "sort": "descenciente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Prestissimo",
+     "value": "15"
+    },
+    {
+     "text": "Presto",
+     "value": "14"
+    },
+    {
+     "text": "Allegrissimo",
+     "value": "13"
+    },
+    {
+     "text": "Vivace",
+     "value": "12"
+    },
+    {
+     "text": "Allegro",
+     "value": "11"
+    },
+    {
+     "text": "Allegretto",
+     "value": "10"
+    },
+    {
+     "text": "Moderato",
+     "value": "9"
+    },
+    {
+     "text": "Andante",
+     "value": "8"
+    },
+    {
+     "text": "Adagio",
+     "value": "7"
+    },
+    {
+     "text": "Largo",
+     "value": "6"
+    },
+    {
+     "text": "Lento",
+     "value": "5"
+    },
+    {
+     "text": "Grave",
+     "value": "4"
+    },
+    {
+     "text": "Larghissimo",
+     "value": "3"
+    }
+   ],
+   "category": "Música",
+   "id": "84658",
+   "isValid": "",
+   "prompt": "¿Qué marca de tempo musical es más rápida?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "E-mails fuertes y malos",
+     "value": "2000"
+    },
+    {
+     "text": "Chico Numa Numa",
+     "value": "2004"
+    },
+    {
+     "text": "Leeroy Jenkins",
+     "value": "2005"
+    },
+    {
+     "text": "Charlie el Unicornio",
+     "value": "2005"
+    },
+    {
+     "text": "“Zapatos”",
+     "value": "2006"
+    },
+    {
+     "text": "Charlie Mordió Mi Dedo",
+     "value": "2007"
+    },
+    {
+     "text": "Gato del Teclado",
+     "value": "2007"
+    },
+    {
+     "text": "David Después del Dentista",
+     "value": "2009"
+    },
+    {
+     "text": "Brodyquest",
+     "value": "2010"
+    },
+    {
+     "text": "\"Viernes\" (Rebecca Black)",
+     "value": "2011"
+    },
+    {
+     "text": "“Gangnam Style” (PSY)",
+     "value": "2012"
+    },
+    {
+     "text": "Qué dice el zorro (Ylvis)",
+     "value": "2013"
+    },
+    {
+     "text": "[i]Too Many Cooks[/i]",
+     "value": "2014"
+    },
+    {
+     "text": "Walmart Yodeling Kid (Mason Ramsey)",
+     "value": "2018"
+    }
+   ],
+   "category": "Internet",
+   "id": "84875",
+   "isValid": "",
+   "prompt": "¿Qué video viral llegó a Internet primero?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Frank Sinatra",
+     "value": "1915"
+    },
+    {
+     "text": "Johnny Cash",
+     "value": "1932"
+    },
+    {
+     "text": "Leonard Cohen",
+     "value": "1934"
+    },
+    {
+     "text": "Elvis Presley",
+     "value": "1935"
+    },
+    {
+     "text": "John Lennon",
+     "value": "1940"
+    },
+    {
+     "text": "Dolly Parton",
+     "value": "1946"
+    },
+    {
+     "text": "Michael Jackson",
+     "value": "1958"
+    },
+    {
+     "text": "Jay-Z",
+     "value": "1969"
+    },
+    {
+     "text": "Tupac Shakur",
+     "value": "1971"
+    },
+    {
+     "text": "Beyoncé",
+     "value": "1981"
+    },
+    {
+     "text": "Lady Gaga",
+     "value": "1986"
+    },
+    {
+     "text": "Lorde",
+     "value": "1996"
+    },
+    {
+     "text": "Billie Eilish",
+     "value": "2001"
+    }
+   ],
+   "category": "Celebridades",
+   "id": "85035",
+   "isValid": "",
+   "prompt": "¿Qué cantante nació primero?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Jim Beam",
+     "value": "1795"
+    },
+    {
+     "text": "DuPont",
+     "value": "1802"
+    },
+    {
+     "text": "Colgate",
+     "value": "1806"
+    },
+    {
+     "text": "Remington",
+     "value": "1816"
+    },
+    {
+     "text": "Pabst Blue Ribbon",
+     "value": "1844"
+    },
+    {
+     "text": "20th Century Fox",
+     "value": "1935"
+    },
+    {
+     "text": "Sony",
+     "value": "1946"
+    },
+    {
+     "text": "McDonald's",
+     "value": "1955"
+    },
+    {
+     "text": "Wal-Mart",
+     "value": "1962"
+    },
+    {
+     "text": "Starbucks",
+     "value": "1971"
+    },
+    {
+     "text": "Apple",
+     "value": "1976"
+    },
+    {
+     "text": "Amazon",
+     "value": "1994"
+    },
+    {
+     "text": "Google",
+     "value": "1998"
+    }
+   ],
+   "category": "Empresas y Marcas",
+   "id": "85051",
+   "isValid": "",
+   "prompt": "¿Cuál de estas empresas se fundó antes?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Dr. Jill Biden",
+     "value": "1"
+    },
+    {
+     "text": "Michelle Obama",
+     "value": "2"
+    },
+    {
+     "text": "Barbara Bush",
+     "value": "3"
+    },
+    {
+     "text": "Betty Ford",
+     "value": "4"
+    },
+    {
+     "text": "Jackie Kennedy",
+     "value": "5"
+    },
+    {
+     "text": "Eleanor Roosevelt",
+     "value": "6"
+    },
+    {
+     "text": "Edith Wilson",
+     "value": "7"
+    },
+    {
+     "text": "Edith Roosevelt",
+     "value": "8"
+    },
+    {
+     "text": "Mary Todd Lincoln",
+     "value": "9"
+    },
+    {
+     "text": "Sarah Polk",
+     "value": "10"
+    },
+    {
+     "text": "Dolley Madison",
+     "value": "11"
+    },
+    {
+     "text": "Martha Washington",
+     "value": "12"
+    }
+   ],
+   "category": "Figuras Históricas",
+   "id": "85202",
+   "isValid": "",
+   "prompt": "¿Quién es la Primera Dama más reciente de los Estados Unidos?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Escalera Real",
+     "value": "1"
+    },
+    {
+     "text": "Escalera de Color",
+     "value": "2"
+    },
+    {
+     "text": "Póquer",
+     "value": "3"
+    },
+    {
+     "text": "Full House",
+     "value": "4"
+    },
+    {
+     "text": "Color",
+     "value": "5"
+    },
+    {
+     "text": "Escalera",
+     "value": "6"
+    },
+    {
+     "text": "Trío",
+     "value": "7"
+    },
+    {
+     "text": "Doble Par",
+     "value": "8"
+    },
+    {
+     "text": "Par",
+     "value": "9"
+    },
+    {
+     "text": "Carta Alta",
+     "value": "10"
+    },
+    {
+     "text": "Rey Alto",
+     "value": "11"
+    },
+    {
+     "text": "Reina Alta",
+     "value": "12"
+    },
+    {
+     "text": "Jack High",
+     "value": "13"
+    }
+   ],
+   "category": "Juegos",
+   "id": "85203",
+   "isValid": "",
+   "prompt": "¿Qué mano de póquer es más alta?",
+   "sort": "ascendiente",
+   "subtype": "más/menos",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Copérnico sugiere que la Tierra se mueve alrededor del sol",
+     "value": "1543"
+    },
+    {
+     "text": "Galileo descubre las lunas de Júpiter",
+     "value": "1610"
+    },
+    {
+     "text": "Urano descubierto",
+     "value": "1781"
+    },
+    {
+     "text": "Plutón descubierto",
+     "value": "1930"
+    },
+    {
+     "text": "Lanzamiento de Sputnik",
+     "value": "1957"
+    },
+    {
+     "text": "John Glenn orbita la Tierra",
+     "value": "1962"
+    },
+    {
+     "text": "primer aterrizaje en la Luna tripulado",
+     "value": "1969"
+    },
+    {
+     "text": "Lanzamiento de la nave espacial Voyager I",
+     "value": "1977"
+    },
+    {
+     "text": "Telescopio espacial Hubble lanzado en órbita",
+     "value": "1990"
+    },
+    {
+     "text": "La primera tripulación reside en la Estación Espacial Internacional",
+     "value": "2000"
+    },
+    {
+     "text": "Curiosity Rover aterriza en Marte",
+     "value": "2012"
+    }
+   ],
+   "category": "Historia",
+   "id": "85204",
+   "isValid": "",
+   "prompt": "¿Qué logro en la historia de la exploración espacial ocurrió primero?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Vivaldi",
+     "value": "1678"
+    },
+    {
+     "text": "J. S. Bach",
+     "value": "1685"
+    },
+    {
+     "text": "Mozart",
+     "value": "1756"
+    },
+    {
+     "text": "Beethoven",
+     "value": "1770"
+    },
+    {
+     "text": "Chopin",
+     "value": "1810"
+    },
+    {
+     "text": "Tchaikovsky",
+     "value": "1840"
+    },
+    {
+     "text": "George Gershwin",
+     "value": "1898"
+    },
+    {
+     "text": "Leonard Bernstein",
+     "value": "1918"
+    },
+    {
+     "text": "Stephen Sondheim",
+     "value": "1930"
+    },
+    {
+     "text": "Quincy Jones",
+     "value": "1933"
+    },
+    {
+     "text": "Philip Glass",
+     "value": "1937"
+    },
+    {
+     "text": "Herbie Hancock",
+     "value": "1940"
+    },
+    {
+     "text": "Pete Townshend",
+     "value": "1945"
+    },
+    {
+     "text": "Andrew Lloyd Webber",
+     "value": "1948"
+    },
+    {
+     "text": "Lin-Manuel Miranda",
+     "value": "1980"
+    }
+   ],
+   "category": "Figuras Históricas",
+   "id": "85449",
+   "isValid": "",
+   "prompt": "¿Qué compositor famoso nació primero?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Joliet, Illinois",
+     "value": "1"
+    },
+    {
+     "text": "Springfield, Illinois",
+     "value": "2"
+    },
+    {
+     "text": "St. Louis, Misuri",
+     "value": "3"
+    },
+    {
+     "text": "Little Rock, Arkansas",
+     "value": "4"
+    },
+    {
+     "text": "Texarkana, Arkansas",
+     "value": "5"
+    },
+    {
+     "text": "Dallas, Texas",
+     "value": "6"
+    },
+    {
+     "text": "Austin, Texas",
+     "value": "7"
+    },
+    {
+     "text": "El Paso, Texas",
+     "value": "8"
+    },
+    {
+     "text": "Deming, Nuevo México",
+     "value": "9"
+    },
+    {
+     "text": "Tucson, Arizona",
+     "value": "10"
+    },
+    {
+     "text": "Palm Springs, California",
+     "value": "11"
+    },
+    {
+     "text": "Pomona, California",
+     "value": "12"
+    }
+   ],
+   "category": "Vehículos",
+   "id": "85450",
+   "isValid": "",
+   "prompt": "Cuando viajas por la ruta Amtrak del Águila de Texas de 65 horas desde Chicago a Los Angeles, ¿en cuál ciudad te pararás primero?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "(de Chicago a Los Ángeles)",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "[i]Final Fantasy[/i]",
+     "value": "1987"
+    },
+    {
+     "text": "[i]Final Fantasy II[/i]",
+     "value": "1988"
+    },
+    {
+     "text": "[i]Final Fantasy III[/i]",
+     "value": "1990"
+    },
+    {
+     "text": "[i]Final Fantasy IV[/i]",
+     "value": "1991"
+    },
+    {
+     "text": "[i]Final Fantasy V[/i]",
+     "value": "1992"
+    },
+    {
+     "text": "[i]Final Fantasy VI[/i]",
+     "value": "1994"
+    },
+    {
+     "text": "[i]Final Fantasy VII[/i]",
+     "value": "1997"
+    },
+    {
+     "text": "[i]Final Fantasy VIII[/i]",
+     "value": "1999"
+    },
+    {
+     "text": "[i]Final Fantasy IX[/i]",
+     "value": "2000"
+    },
+    {
+     "text": "[i]Final Fantasy X[/i]",
+     "value": "2001"
+    },
+    {
+     "text": "[i]Final Fantasy XII[/i]",
+     "value": "2006"
+    },
+    {
+     "text": "[i]Final Fantasy XIII[/i]",
+     "value": "2009"
+    }
+   ],
+   "category": "Juegos",
+   "id": "85451",
+   "isValid": "",
+   "prompt": "¿Cuál juego de [i]Final Fantasy[/i] fue lanzado primero?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Arte Contemporáneo",
+     "value": "1970"
+    },
+    {
+     "text": "Pop Art",
+     "value": "1950"
+    },
+    {
+     "text": "Expresionismo Abstracto",
+     "value": "1940"
+    },
+    {
+     "text": "Surrealism",
+     "value": "1917"
+    },
+    {
+     "text": "Art Deco",
+     "value": "1909"
+    },
+    {
+     "text": "Cubismo",
+     "value": "1907"
+    },
+    {
+     "text": "Expresionismo",
+     "value": "1905"
+    },
+    {
+     "text": "Post-Impresionismo",
+     "value": "1885"
+    },
+    {
+     "text": "Impresionismo",
+     "value": "1865"
+    },
+    {
+     "text": "Romanticismo",
+     "value": "1780"
+    },
+    {
+     "text": "Neoclasicismo",
+     "value": "1750"
+    },
+    {
+     "text": "Rococó",
+     "value": "1699"
+    },
+    {
+     "text": "Barroco",
+     "value": "1600"
+    },
+    {
+     "text": "Renacimiento",
+     "value": "1400"
+    },
+    {
+     "text": "Arte medieval",
+     "value": "500"
+    }
+   ],
+   "category": "Arte",
+   "id": "85480",
+   "isValid": "",
+   "prompt": "¿Cuál de estos movimientos artísticos occidentales fue lanzado más recientemente?",
+   "sort": "descenciente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Julio César asesinado",
+     "value": "1"
+    },
+    {
+     "text": "Piedra de Rosetta inscrita",
+     "value": "2"
+    },
+    {
+     "text": "muerte de Plato",
+     "value": "3"
+    },
+    {
+     "text": "batalla de las Termópilas",
+     "value": "4"
+    },
+    {
+     "text": "nacimiento del profeta Mahoma",
+     "value": "5"
+    },
+    {
+     "text": "Los Chinos inventan la pólvora",
+     "value": "6"
+    },
+    {
+     "text": "fin del reinado del Rey David",
+     "value": "7"
+    },
+    {
+     "text": "Conquista Normanda",
+     "value": "8"
+    },
+    {
+     "text": "finalización de Stonehenge",
+     "value": "9"
+    },
+    {
+     "text": "Juicios de brujas de Salem",
+     "value": "10"
+    },
+    {
+     "text": "inicio de la revolución americana",
+     "value": "11"
+    },
+    {
+     "text": "fin de la Guerra Fría",
+     "value": "12"
+    },
+    {
+     "text": "inicio de la Segunda Guerra Mundial",
+     "value": "13"
+    },
+    {
+     "text": "el final de [i]Seinfeld[/i]",
+     "value": "14"
+    },
+    {
+     "text": "Kelly Clarkson gana el primer [i]American Idol[/i]",
+     "value": "15"
+    },
+    {
+     "text": "Estreno de [i]Avengers: Endgame[/i]",
+     "value": "16"
+    },
+    {
+     "text": "Gran pirámide de Giza construida",
+     "value": "17"
+    },
+    {
+     "text": "invención de la rueda",
+     "value": "18"
+    }
+   ],
+   "category": "Historia",
+   "id": "85504",
+   "isValid": "",
+   "prompt": "¿Cuál de estos eventos sucedió más cerca del año 1 de la Era Común (E.C.)?",
+   "sort": "ascendiente",
+   "subtype": "más cercano",
+   "unit": "(más cerca del año 1 de la Era Común)",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "director médico",
+     "value": "1"
+    },
+    {
+     "text": "jefe de departamento",
+     "value": "2"
+    },
+    {
+     "text": "médico tratante",
+     "value": "3"
+    },
+    {
+     "text": "fellow",
+     "value": "4"
+    },
+    {
+     "text": "jefe residente",
+     "value": "5"
+    },
+    {
+     "text": "residente principal",
+     "value": "6"
+    },
+    {
+     "text": "residente junior",
+     "value": "7"
+    },
+    {
+     "text": "interno",
+     "value": "8"
+    },
+    {
+     "text": "estudiante de medicina",
+     "value": "9"
+    },
+    {
+     "text": "estudiante de pre-medicina",
+     "value": "10"
+    }
+   ],
+   "category": "Ocupaciones",
+   "id": "85637",
+   "isValid": "",
+   "prompt": "¿Cuáles de estos roles están más cerca de la cima de la jerarquía de un hospital?",
+   "sort": "ascendiente",
+   "subtype": "más cercano",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "[i]La Odisea[/i]",
+     "value": "-725"
+    },
+    {
+     "text": "[i]Kama Sutra[/i]",
+     "value": "-400"
+    },
+    {
+     "text": "[i]La Divina Comedia[/i]",
+     "value": "1320"
+    },
+    {
+     "text": "[i]Hamlet[/i]",
+     "value": "1603"
+    },
+    {
+     "text": "[i]Orgullo y Prejuicio[/i]",
+     "value": "1813"
+    },
+    {
+     "text": "[i]El gran Gatsby[/i]",
+     "value": "1925"
+    },
+    {
+     "text": "[i]Telaraña de Charlotte[/i]",
+     "value": "1952"
+    },
+    {
+     "text": "[i]La Canción de Salomón[/i] de Toni Morrison",
+     "value": "1977"
+    },
+    {
+     "text": "[i]Eso[/i]",
+     "value": "1986"
+    },
+    {
+     "text": "[i]Harry Potter y la Piedra Filosofal[/i]",
+     "value": "1997"
+    },
+    {
+     "text": "[i]Comer, Rezar, Amar[/i]",
+     "value": "2006"
+    },
+    {
+     "text": "[i]Perdida[/i]",
+     "value": "2012"
+    }
+   ],
+   "category": "Literatura",
+   "id": "85664",
+   "isValid": "",
+   "prompt": "¿Qué texto famoso se publicó primero?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Dracula",
+     "value": "1897"
+    },
+    {
+     "text": "Nosferatu",
+     "value": "1922"
+    },
+    {
+     "text": "Conde Chocula",
+     "value": "1971"
+    },
+    {
+     "text": "El Conde Contar ([i]Plaza Sésamo[/i])",
+     "value": "1972"
+    },
+    {
+     "text": "Lestat de Lioncourt",
+     "value": "1976"
+    },
+    {
+     "text": "David Powers ([i]Los Muchachos Perdidos[/i])",
+     "value": "1987"
+    },
+    {
+     "text": "Alucard ([i]Castlevania[/i])",
+     "value": "1990"
+    },
+    {
+     "text": "Spike Pratt ([i]Buffy, La Cazavampiros[/i])",
+     "value": "1997"
+    },
+    {
+     "text": "Edward Cullen ([i]Crepúsculo[/i])",
+     "value": "2005"
+    },
+    {
+     "text": "Eric Northman ([i]Sangre Verdadera[/i])",
+     "value": "2008"
+    },
+    {
+     "text": "Nandor el Implacable ([i]Lo que Hacemos en las Sombras[/i])",
+     "value": "2019"
+    }
+   ],
+   "category": "Cultura Pop",
+   "id": "85702",
+   "isValid": "",
+   "prompt": "¿Qué vampiro de ficción se creó primero?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "[i]Sin Tiempo para Morir[/i]",
+     "value": "2021"
+    },
+    {
+     "text": "[i]Spectre[/i]",
+     "value": "2015"
+    },
+    {
+     "text": "[i]Operación Skyfall[/i]",
+     "value": "2012"
+    },
+    {
+     "text": "[i]Casino Royale[/i]",
+     "value": "2006"
+    },
+    {
+     "text": "[i]Otro Día para Morir[/i]",
+     "value": "2002"
+    },
+    {
+     "text": "[i]El Mañana Nunca Muere[/i]",
+     "value": "1997"
+    },
+    {
+     "text": "[i]GoldenEye[/i]",
+     "value": "1995"
+    },
+    {
+     "text": "[i]Licencia para matar[/i]",
+     "value": "1989"
+    },
+    {
+     "text": "[i]Octopussy[/i]",
+     "value": "1983"
+    },
+    {
+     "text": "[i]Moonraker: Misión Espacial[/i]",
+     "value": "1979"
+    },
+    {
+     "text": "[i]La Espía que me Amó[/i]",
+     "value": "1977"
+    },
+    {
+     "text": "[i]Vive y Deja Morir[/i]",
+     "value": "1973"
+    },
+    {
+     "text": "[i]Los Diamantes son Eternos[/i]",
+     "value": "1971"
+    },
+    {
+     "text": "[i]Goldfinger[/i]",
+     "value": "1964"
+    },
+    {
+     "text": "[i]De Rusia con Amor[/i]",
+     "value": "1963"
+    }
+   ],
+   "category": "Película y TV",
+   "id": "85717",
+   "isValid": "",
+   "prompt": "¿Qué película de James Bond se estrenó más recientemente?",
+   "sort": "descenciente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Jodie Whittaker",
+     "value": "2018"
+    },
+    {
+     "text": "Peter Capaldi",
+     "value": "2014"
+    },
+    {
+     "text": "Matt Smith",
+     "value": "2010"
+    },
+    {
+     "text": "David Tennant",
+     "value": "2006"
+    },
+    {
+     "text": "Christopher Eccleston",
+     "value": "2005"
+    },
+    {
+     "text": "Paul McGann",
+     "value": "1996"
+    },
+    {
+     "text": "Sylvester McCoy",
+     "value": "1987"
+    },
+    {
+     "text": "Colin Baker",
+     "value": "1984"
+    },
+    {
+     "text": "Peter Davison",
+     "value": "1982"
+    },
+    {
+     "text": "Tom Baker",
+     "value": "1974"
+    },
+    {
+     "text": "Jon Pertwee",
+     "value": "1970"
+    },
+    {
+     "text": "Patrick Troughton",
+     "value": "1966"
+    },
+    {
+     "text": "William Hartnell",
+     "value": "1963"
+    }
+   ],
+   "category": "Película y TV",
+   "id": "85755",
+   "isValid": "",
+   "prompt": "¿Qué actor interpretó a El Doctor en [i]Doctor Who[/i] más recientemente?",
+   "sort": "descenciente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Shaquille O'Neal",
+     "value": "1"
+    },
+    {
+     "text": "Pedro el Grande",
+     "value": "2"
+    },
+    {
+     "text": "William Wallace",
+     "value": "3"
+    },
+    {
+     "text": "Charles de Gaulle",
+     "value": "4"
+    },
+    {
+     "text": "Abraham Lincoln",
+     "value": "5"
+    },
+    {
+     "text": "Fidel Castro",
+     "value": "6"
+    },
+    {
+     "text": "George Washington",
+     "value": "7"
+    },
+    {
+     "text": "Michelle Obama",
+     "value": "8"
+    },
+    {
+     "text": "Amelia Earhart",
+     "value": "9"
+    },
+    {
+     "text": "Napoleón Bonaparte",
+     "value": "10"
+    },
+    {
+     "text": "Joseph Stalin",
+     "value": "11"
+    },
+    {
+     "text": "Mahatma Gandhi",
+     "value": "11"
+    },
+    {
+     "text": "Juana de Arco",
+     "value": "12"
+    },
+    {
+     "text": "Reina Victoria",
+     "value": "13"
+    }
+   ],
+   "category": "Figuras Históricas",
+   "id": "85759",
+   "isValid": "",
+   "prompt": "¿Cuál de estas figuras históricas tiene la altura más cercana a Andre the Giant (2.24 m de alto)?",
+   "sort": "ascendiente",
+   "subtype": "más cercano",
+   "unit": "(más cercano a 2.24 m de alto)",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "[i]The Carol Burnett Show[/i]",
+     "value": "1967"
+    },
+    {
+     "text": "[i]Saturday Night Live[/i]",
+     "value": "1975"
+    },
+    {
+     "text": "[i]Fridays[/i]",
+     "value": "1980"
+    },
+    {
+     "text": "[i]The Kids In The Hall[/i]",
+     "value": "1988"
+    },
+    {
+     "text": "[i]In Living Color[/i]",
+     "value": "1990"
+    },
+    {
+     "text": "[i]All That[/i]",
+     "value": "1994"
+    },
+    {
+     "text": "[i]Mad TV[/i]",
+     "value": "1995"
+    },
+    {
+     "text": "[i]The Amanda Show[/i]",
+     "value": "1999"
+    },
+    {
+     "text": "[i]Chapelle's Show[/i]",
+     "value": "2003"
+    },
+    {
+     "text": "[i]Portlandia[/i]",
+     "value": "2011"
+    },
+    {
+     "text": "[i]The Eric Andre Show[/i]",
+     "value": "2012"
+    },
+    {
+     "text": "[i]Drunk History[/i]",
+     "value": "2013"
+    }
+   ],
+   "category": "Película y TV",
+   "id": "85760",
+   "isValid": "",
+   "prompt": "¿Qué programa de comedia de sketches salió primero?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Chris Evans",
+     "value": "1981"
+    },
+    {
+     "text": "Ryan Gosling",
+     "value": "1980"
+    },
+    {
+     "text": "Bradley Cooper",
+     "value": "1975"
+    },
+    {
+     "text": "Leonardo DiCaprio",
+     "value": "1974"
+    },
+    {
+     "text": "Dwayne Johnson",
+     "value": "1972"
+    },
+    {
+     "text": "Idris Elba",
+     "value": "1972"
+    },
+    {
+     "text": "Matt Damon",
+     "value": "1970"
+    },
+    {
+     "text": "Matthew McConaughey",
+     "value": "1969"
+    },
+    {
+     "text": "Javier Bardem",
+     "value": "1969"
+    },
+    {
+     "text": "Will Smith",
+     "value": "1968"
+    },
+    {
+     "text": "George Clooney",
+     "value": "1961"
+    },
+    {
+     "text": "Denzel Washington",
+     "value": "1954"
+    },
+    {
+     "text": "Samuel L. Jackson",
+     "value": "1948"
+    }
+   ],
+   "category": "Celebridades",
+   "id": "85762",
+   "isValid": "",
+   "prompt": "¿Qué estrella de Hollywood es más joven?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "tomates",
+     "value": "181"
+    },
+    {
+     "text": "cebollas secas",
+     "value": "100"
+    },
+    {
+     "text": "pepinos/pepinillos",
+     "value": "88"
+    },
+    {
+     "text": "repollo",
+     "value": "70"
+    },
+    {
+     "text": "berenjena",
+     "value": "55"
+    },
+    {
+     "text": "zanahorias y nabos",
+     "value": "45"
+    },
+    {
+     "text": "chiles/pimientos",
+     "value": "38"
+    },
+    {
+     "text": "ajo",
+     "value": "30"
+    },
+    {
+     "text": "espinaca",
+     "value": "30"
+    },
+    {
+     "text": "lechuga",
+     "value": "29"
+    },
+    {
+     "text": "frijoles verdes",
+     "value": "27"
+    },
+    {
+     "text": "coliflores/brócoli",
+     "value": "27"
+    },
+    {
+     "text": "calabazas/calabacines/calabazas",
+     "value": "23"
+    },
+    {
+     "text": "frijoles verdes",
+     "value": "22"
+    },
+    {
+     "text": "champiñones/trufas",
+     "value": "12"
+    },
+    {
+     "text": "quimbombó",
+     "value": "10"
+    },
+    {
+     "text": "alcachofas",
+     "value": "2"
+    }
+   ],
+   "category": "Comida y Bebida",
+   "id": "85769",
+   "isValid": "",
+   "prompt": "Según los datos de 2019, ¿qué hortaliza se produce en masa a nivel mundial?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "(en millones de toneladas métricas)",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Spotify",
+     "value": "2008"
+    },
+    {
+     "text": "iPod",
+     "value": "2001"
+    },
+    {
+     "text": "radio satélite (Sirius/XM)",
+     "value": "2001"
+    },
+    {
+     "text": "Pandora",
+     "value": "2000"
+    },
+    {
+     "text": "Napster",
+     "value": "1999"
+    },
+    {
+     "text": "primer reproductor de mp3",
+     "value": "1997"
+    },
+    {
+     "text": "reproductor de discos compactos (CD)",
+     "value": "1979"
+    },
+    {
+     "text": "Cinta de 8 pistas",
+     "value": "1964"
+    },
+    {
+     "text": "reproductor de casetes",
+     "value": "1963"
+    },
+    {
+     "text": "grabadora de audio de carrete a carrete",
+     "value": "1928"
+    },
+    {
+     "text": "radio",
+     "value": "1895"
+    },
+    {
+     "text": "fonógrafo/tocadiscos",
+     "value": "1877"
+    },
+    {
+     "text": "música en vivo",
+     "value": "1"
+    }
+   ],
+   "category": "Tecnología",
+   "id": "85843",
+   "isValid": "",
+   "prompt": "¿Cuál de estos métodos de escuchar música surgió más recientemente?",
+   "sort": "descenciente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "asistencia sanitaria / social",
+     "value": "20413"
+    },
+    {
+     "text": "gobierno estatal/local",
+     "value": "19759"
+    },
+    {
+     "text": "ocio/hospitalidad",
+     "value": "16576"
+    },
+    {
+     "text": "venta",
+     "value": "15644"
+    },
+    {
+     "text": "fabricación",
+     "value": "12839"
+    },
+    {
+     "text": "actividades financieras",
+     "value": "8746"
+    },
+    {
+     "text": "construcción",
+     "value": "7492"
+    },
+    {
+     "text": "transporte/almacenamiento",
+     "value": "5618"
+    },
+    {
+     "text": "servicios educativos",
+     "value": "3765"
+    },
+    {
+     "text": "información",
+     "value": "2859"
+    },
+    {
+     "text": "gobierno federal",
+     "value": "2834"
+    },
+    {
+     "text": "agricultura/silvicultura /pesca/caza",
+     "value": "2303"
+    },
+    {
+     "text": "utilidades",
+     "value": "549"
+    },
+    {
+     "text": "minería",
+     "value": "685"
+    }
+   ],
+   "category": "Ocupaciones",
+   "id": "85847",
+   "isValid": "",
+   "prompt": "Hasta el 2020, ¿cuál de estas industrias empleó a más personas en los Estados Unidos?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "(en miles de trabajos)",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "fútbol (Australiano)",
+     "value": "18"
+    },
+    {
+     "text": "rugby",
+     "value": "15"
+    },
+    {
+     "text": "fútbol (Americano)",
+     "value": "11"
+    },
+    {
+     "text": "fútbol",
+     "value": "11"
+    },
+    {
+     "text": "críquet",
+     "value": "11"
+    },
+    {
+     "text": "hockey sobre césped",
+     "value": "11"
+    },
+    {
+     "text": "lacrosse",
+     "value": "10"
+    },
+    {
+     "text": "béisbol",
+     "value": "9"
+    },
+    {
+     "text": "ultimate frisbee",
+     "value": "7"
+    },
+    {
+     "text": "hockey sobre hielo",
+     "value": "6"
+    },
+    {
+     "text": "baloncesto",
+     "value": "5"
+    },
+    {
+     "text": "polo",
+     "value": "4"
+    },
+    {
+     "text": "bádminton doble",
+     "value": "2"
+    },
+    {
+     "text": "tenis individual",
+     "value": "1"
+    }
+   ],
+   "category": "Deportes",
+   "id": "85871",
+   "isValid": "",
+   "prompt": "¿Cuál de estos deportes tiene más jugadores POR EQUIPO en el juego al mismo tiempo?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Moneda de Abraham Lincoln (de perfil)",
+     "value": "1"
+    },
+    {
+     "text": "Moneda Thomas Jefferson (de perfil)",
+     "value": "2"
+    },
+    {
+     "text": "Moneda de Franklin Delano Roosevelt (de perfil)",
+     "value": "3"
+    },
+    {
+     "text": "Moneda de George Washington (de perfil)",
+     "value": "4"
+    },
+    {
+     "text": "Moneda de John F. Kennedy (de perfil)",
+     "value": "5"
+    },
+    {
+     "text": "Billete de George Washington (retrato)",
+     "value": "6"
+    },
+    {
+     "text": "Moneda Sacagawea",
+     "value": "6"
+    },
+    {
+     "text": "Billete de Thomas Jefferson (retrato)",
+     "value": "7"
+    },
+    {
+     "text": "Billete de Abraham Lincoln (retrato)",
+     "value": "8"
+    },
+    {
+     "text": "Billete de Alexander Hamilton",
+     "value": "9"
+    },
+    {
+     "text": "Billete de Andrew Jackson (retrato)",
+     "value": "10"
+    },
+    {
+     "text": "Billete de Ulysses S. Grant (retrato)",
+     "value": "11"
+    },
+    {
+     "text": "Billete de Benjamin Franklin (retrato)",
+     "value": "12"
+    }
+   ],
+   "category": "Dinero",
+   "id": "85876",
+   "isValid": "",
+   "prompt": "¿Qué figura histórica de la moneda estadounidense vale menos dinero? (solo moneda de circulación común)",
+   "sort": "ascendiente",
+   "subtype": "más/menos",
+   "unit": "(en moneda de circulación común)",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "[i]Capitán América: El Primer Vengador[/i]",
+     "value": "1"
+    },
+    {
+     "text": "[i]Capitana Marvel[/i]",
+     "value": "2"
+    },
+    {
+     "text": "[i]Iron Man[/i]",
+     "value": "3"
+    },
+    {
+     "text": "[i]El Increíble Hulk[/i]",
+     "value": "4"
+    },
+    {
+     "text": "[i]Thor[/i]",
+     "value": "4"
+    },
+    {
+     "text": "[i]Los Vengadores[/i]",
+     "value": "6"
+    },
+    {
+     "text": "[i]Iron Man 3[/i]",
+     "value": "7"
+    },
+    {
+     "text": "[i]Capitán América: El Soldado de Invierno[/i]",
+     "value": "8"
+    },
+    {
+     "text": "[i]Ant-Man[/i]",
+     "value": "9"
+    },
+    {
+     "text": "[i]Capitán América: Civil War[/i]",
+     "value": "10"
+    },
+    {
+     "text": "[i]Viuda Negra[/i]",
+     "value": "11"
+    },
+    {
+     "text": "[i]Pantera Negra[/i]",
+     "value": "11"
+    },
+    {
+     "text": "[i]Thor: Ragnarok[/i]",
+     "value": "11"
+    },
+    {
+     "text": "[i]Avengers: Infinity War[/i]",
+     "value": "13"
+    },
+    {
+     "text": "[i]Spider-Man: Lejos de Casa[/i]",
+     "value": "14"
+    }
+   ],
+   "category": "Película y TV",
+   "id": "85877",
+   "isValid": "",
+   "prompt": "Cronológicamente, ¿qué historia del Universo Cinematográfico de Marvel tiene lugar antes?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Capricornio",
+     "value": "1"
+    },
+    {
+     "text": "Acuario",
+     "value": "2"
+    },
+    {
+     "text": "Piscis",
+     "value": "3"
+    },
+    {
+     "text": "Aries",
+     "value": "4"
+    },
+    {
+     "text": "Tauro",
+     "value": "5"
+    },
+    {
+     "text": "Géminis",
+     "value": "6"
+    },
+    {
+     "text": "Cáncer",
+     "value": "7"
+    },
+    {
+     "text": "Leo",
+     "value": "8"
+    },
+    {
+     "text": "Virgo",
+     "value": "9"
+    },
+    {
+     "text": "Libra",
+     "value": "10"
+    },
+    {
+     "text": "Escorpio",
+     "value": "11"
+    },
+    {
+     "text": "Sagitario",
+     "value": "12"
+    }
+   ],
+   "category": "Calendario/Días Festivos",
+   "id": "85881",
+   "isValid": "",
+   "prompt": "¿Qué signo del zodíaco astrológico ocurre a principios del año calendario?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "“Oh, killing me softly and I’m still falling”",
+     "value": "1"
+    },
+    {
+     "text": "“Oh, you got me all gone, don’t ever let me go”",
+     "value": "2"
+    },
+    {
+     "text": "“My baby is a ten”",
+     "value": "3"
+    },
+    {
+     "text": "“We dressing to the nine”",
+     "value": "4"
+    },
+    {
+     "text": "“He pick me up, we eight”",
+     "value": "5"
+    },
+    {
+     "text": "“Make me feel so lucky, seven”",
+     "value": "6"
+    },
+    {
+     "text": "“He kiss me in his six”",
+     "value": "7"
+    },
+    {
+     "text": "“We be making love in five”",
+     "value": "8"
+    },
+    {
+     "text": "“Still the one I do this four”",
+     "value": "9"
+    },
+    {
+     "text": "“I’m trying to make us three”",
+     "value": "10"
+    },
+    {
+     "text": "“From that two”",
+     "value": "11"
+    },
+    {
+     "text": "“He still the one”",
+     "value": "12"
+    }
+   ],
+   "category": "Música",
+   "id": "85882",
+   "isValid": "",
+   "prompt": "En la canción \"Countdown\", ¿qué letra canta Beyoncé antes en el coro?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": true
+  },
+  {
+   "answers": [
+    {
+     "text": "medusa inmortal (Turritopsis dohrnii)",
+     "value": "1000"
+    },
+    {
+     "text": "tiburón de Groenlandia",
+     "value": "332"
+    },
+    {
+     "text": "artica islandica",
+     "value": "225"
+    },
+    {
+     "text": "tortuga gigante de Galápagos",
+     "value": "177"
+    },
+    {
+     "text": "almeja geoduck",
+     "value": "165"
+    },
+    {
+     "text": "humano",
+     "value": "72"
+    },
+    {
+     "text": "elefante Africano",
+     "value": "60"
+    },
+    {
+     "text": "loro gris Africano (en cautiverio)",
+     "value": "45"
+    },
+    {
+     "text": "orangután de Borneo",
+     "value": "35"
+    },
+    {
+     "text": "gato de interior",
+     "value": "15"
+    },
+    {
+     "text": "perro",
+     "value": "11"
+    },
+    {
+     "text": "ratones caseros",
+     "value": "1"
+    },
+    {
+     "text": "efímeras",
+     "value": "0"
+    }
+   ],
+   "category": "Animales",
+   "id": "85907",
+   "isValid": "",
+   "prompt": "¿Qué animal tiene un promedio de vida más largo?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "(en años)",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "@instagram",
+     "value": "420"
+    },
+    {
+     "text": "@arianagrande",
+     "value": "265"
+    },
+    {
+     "text": "@kyliejenner",
+     "value": "265"
+    },
+    {
+     "text": "@kimkardashian",
+     "value": "251"
+    },
+    {
+     "text": "@beyonce",
+     "value": "206"
+    },
+    {
+     "text": "@justinbieber",
+     "value": "194"
+    },
+    {
+     "text": "@natgeo",
+     "value": "183"
+    },
+    {
+     "text": "@mileycyrus",
+     "value": "144"
+    },
+    {
+     "text": "@iamcardib",
+     "value": "108"
+    },
+    {
+     "text": "@nasa",
+     "value": "70"
+    },
+    {
+     "text": "@emmawatson",
+     "value": "60"
+    },
+    {
+     "text": "@npr",
+     "value": "5"
+    },
+    {
+     "text": "@playjackboxgames",
+     "value": "2"
+    },
+    {
+     "text": "@icantbelieveitsnotbutter",
+     "value": "1"
+    }
+   ],
+   "category": "Internet",
+   "id": "85952",
+   "isValid": "",
+   "prompt": "En 2021, ¿qué cuenta de Instagram tenía más seguidores?",
+   "sort": "descenciente",
+   "subtype": "más/menos",
+   "unit": "(en millones de seguidores)",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "Coca-Cola (original)",
+     "value": "1886"
+    },
+    {
+     "text": "Coca-Cola Light",
+     "value": "1982"
+    },
+    {
+     "text": "Coca-Cola de cereza",
+     "value": "1985"
+    },
+    {
+     "text": "New Coke",
+     "value": "1985"
+    },
+    {
+     "text": "Coca-Cola light de Cereza",
+     "value": "1985"
+    },
+    {
+     "text": "Coca-Cola de Vainilla",
+     "value": "2002"
+    },
+    {
+     "text": "Coca-Cola con Lima",
+     "value": "2005"
+    },
+    {
+     "text": "Coca Zero",
+     "value": "2005"
+    },
+    {
+     "text": "Coca-Cola Naranja",
+     "value": "2007"
+    },
+    {
+     "text": "Coca de Jengibre",
+     "value": "2016"
+    },
+    {
+     "text": "Coca-Cola de Naranja-Sangría ",
+     "value": "2018"
+    },
+    {
+     "text": "Coca-Cola Energy",
+     "value": "2019"
+    },
+    {
+     "text": "Coca-Cola con Café",
+     "value": "2019"
+    },
+    {
+     "text": "Coca-Cola Cereza Vainilla",
+     "value": "2020"
+    }
+   ],
+   "category": "Empresas y Marcas",
+   "id": "86029",
+   "isValid": "",
+   "prompt": "¿Qué sabor o variante de Coca-Cola se lanzó primero?",
+   "sort": "ascendiente",
+   "subtype": "cronología",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "oxígeno",
+     "value": "1"
+    },
+    {
+     "text": "carbono",
+     "value": "2"
+    },
+    {
+     "text": "hidrógeno",
+     "value": "3"
+    },
+    {
+     "text": "nitrógeno",
+     "value": "4"
+    },
+    {
+     "text": "calcio",
+     "value": "5"
+    },
+    {
+     "text": "fósforo",
+     "value": "6"
+    },
+    {
+     "text": "potasio",
+     "value": "7"
+    },
+    {
+     "text": "azufre",
+     "value": "7"
+    },
+    {
+     "text": "sodio",
+     "value": "9"
+    },
+    {
+     "text": "cloro",
+     "value": "9"
+    },
+    {
+     "text": "magnesio",
+     "value": "11"
+    },
+    {
+     "text": "hierro",
+     "value": "12"
+    },
+    {
+     "text": "zinc",
+     "value": "13"
+    },
+    {
+     "text": "cobre",
+     "value": "14"
+    }
+   ],
+   "category": "Ciencia y Medicina",
+   "id": "86032",
+   "isValid": "",
+   "prompt": "¿Qué elemento constituye un mayor porcentaje del cuerpo humano?",
+   "sort": "ascendiente",
+   "subtype": "más/menos",
+   "unit": "",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "ENFJ",
+     "value": "1"
+    },
+    {
+     "text": "ENFP",
+     "value": "2"
+    },
+    {
+     "text": "ENTJ",
+     "value": "3"
+    },
+    {
+     "text": "ENTP",
+     "value": "4"
+    },
+    {
+     "text": "ESFJ",
+     "value": "5"
+    },
+    {
+     "text": "ESFP",
+     "value": "6"
+    },
+    {
+     "text": "ESTJ",
+     "value": "7"
+    },
+    {
+     "text": "ESTP",
+     "value": "8"
+    },
+    {
+     "text": "INFJ",
+     "value": "9"
+    },
+    {
+     "text": "INFP",
+     "value": "10"
+    },
+    {
+     "text": "INTJ",
+     "value": "11"
+    },
+    {
+     "text": "INTP",
+     "value": "12"
+    },
+    {
+     "text": "ISFJ",
+     "value": "13"
+    },
+    {
+     "text": "ISFP",
+     "value": "14"
+    },
+    {
+     "text": "ISTJ",
+     "value": "15"
+    },
+    {
+     "text": "ISTP",
+     "value": "16"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "id": "86044",
+   "isValid": "",
+   "prompt": "¿Qué tipo de personalidad de Myers-Briggs va de primero en ORDEN ALFABÉTICO?",
+   "sort": "ascendiente",
+   "subtype": "más/menos",
+   "unit": "",
+   "us": false,
+   "x": false
+  }
+ ]
+}

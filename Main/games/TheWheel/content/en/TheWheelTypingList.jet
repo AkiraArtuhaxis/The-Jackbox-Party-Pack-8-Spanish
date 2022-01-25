@@ -1,0 +1,7498 @@
+{
+ "content": [
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Federación Rusa",
+      "La Federación Rusa"
+     ],
+     "hint": "Hay uno que comparte frontera con Kazajstán. Enormes proporciones.",
+     "text": "Rusia"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¿Cúal es ese gran país de América del Norte?",
+     "text": "Canadá"
+    },
+    {
+     "altSpellings": [
+      "EE.UU.",
+      "Estados Unidos",
+      "América",
+      "Los EE.UU.",
+      "Los Estados Unidos de América",
+      "Estados Unidos de América",
+      "U.S.A.",
+      "U.S.",
+      "Los Estados Unidos",
+      "EEUU",
+      "USA"
+     ],
+     "hint": "",
+     "text": "EE.UU."
+    },
+    {
+     "altSpellings": [
+      "China Continental",
+      "República Popular de China",
+      "RPC",
+      "La República Popular de China"
+     ],
+     "hint": "Estoy pensando en un gran país Asiático.",
+     "text": "China"
+    },
+    {
+     "altSpellings": [
+      "Brazil",
+      "República Federativa de Brasil"
+     ],
+     "hint": "",
+     "text": "Brasil"
+    },
+    {
+     "altSpellings": [
+      "Mancomunidad de Australia"
+     ],
+     "hint": "Intenta buscar... abajo.",
+     "text": "Australia"
+    },
+    {
+     "altSpellings": [
+      "República de India"
+     ],
+     "hint": "",
+     "text": "India"
+    },
+    {
+     "altSpellings": [
+      "República Argentina"
+     ],
+     "hint": "",
+     "text": "Argentina"
+    }
+   ],
+   "category": "Geografía y Lugares",
+   "exactSpelling": false,
+   "id": "76584",
+   "isValid": "",
+   "prompt": "¿Qué países son más grandes que Kazajstán en masa terrestre?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "hamburguesa",
+      "patty",
+      "paty",
+      "carne",
+      "ternera a la parrilla"
+     ],
+     "hint": "",
+     "text": "carne"
+    },
+    {
+     "altSpellings": [
+      "tomates"
+     ],
+     "hint": "",
+     "text": "tomate"
+    },
+    {
+     "altSpellings": [],
+     "hint": "No olvides tus verduras.",
+     "text": "lechuga"
+    },
+    {
+     "altSpellings": [
+      "mayo"
+     ],
+     "hint": "",
+     "text": "mayonesa"
+    },
+    {
+     "altSpellings": [
+      "cátsup"
+     ],
+     "hint": "¡Piensa en condimentos! Como... el rojo.",
+     "text": "kétchup"
+    },
+    {
+     "altSpellings": [
+      "pepinillo",
+      "pepinos",
+      "pepino"
+     ],
+     "hint": "",
+     "text": "pepinillos"
+    },
+    {
+     "altSpellings": [
+      "cebolla",
+      "cebolla cruda",
+      "cebolla blanca",
+      "cebollas en rodajas",
+      "cebollas blancas",
+      "cebollas crudas"
+     ],
+     "hint": "Uno de estos ingredientes realmente me hace llorar.",
+     "text": "cebollas"
+    },
+    {
+     "altSpellings": [
+      "bollo",
+      "bollos",
+      "semillas de sésamo",
+      "pan",
+      "panes",
+      "pan con sesamo",
+      "panes con sesamo",
+      "panes de sesamo",
+      "pan de sesamo"
+     ],
+     "hint": "Para colmo, ¡necesitarás esto!",
+     "text": "pan con sésamo"
+    }
+   ],
+   "category": "Comida y Bebida",
+   "exactSpelling": false,
+   "id": "76586",
+   "isValid": "",
+   "prompt": "¿Cuáles son los ingredientes tradicionales de una Whopper de Burger King?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Año Nuevo"
+     ],
+     "hint": "",
+     "text": "Día de Año Nuevo"
+    },
+    {
+     "altSpellings": [
+      "Día de MLK",
+      "Día de Martin Luther King",
+      "Día de Martin Luther King Junior",
+      "MLK",
+      "Martin Luther King",
+      "Día de Martin Luther King Jr.",
+      "Martin Luther King Jr.",
+      "Martin Luther King Jr",
+      "Martin Luther King Junior"
+     ],
+     "hint": "El más reciente honra a un pionero en enero.",
+     "text": "El cumpleaños de Martin Luther King"
+    },
+    {
+     "altSpellings": [
+      "El cumpleaños de George Washington",
+      "Cumple de Washington",
+      "Día de George Washington",
+      "Dia de George Washington",
+      "Cumple de George Washington",
+      "George Washington",
+      "Día del presidente",
+      "Dia del presidente"
+     ],
+     "hint": "",
+     "text": "Cumpleaños de Washington"
+    },
+    {
+     "altSpellings": [
+      "Dia de la Independencia",
+      "Cuatro de Julio",
+      "4 de julio",
+      "El 4 de julio"
+     ],
+     "hint": "",
+     "text": "Día de la Independencia"
+    },
+    {
+     "altSpellings": [
+      "Dia de los Trabajadores",
+      "Trabajo",
+      "Fin de semana del día de los trabajadores",
+      "Fin de semana del dia de los trabajadores",
+      "Día del Trabajo",
+      "Dia del Trabajo"
+     ],
+     "hint": "No trabajes mucho para pensar en ESTA.",
+     "text": "Día de los Trabajadores"
+    },
+    {
+     "altSpellings": [
+      "Día de los pueblos indígenas",
+      "Dia de los pueblos indígenas",
+      "Día de Cristóbal Colón",
+      "Dia de Cristóbal Colón",
+      "Dia de Cristobal Colon",
+      "Colón",
+      "Colon",
+      "Día del pueblo indígena",
+      "Dia del pueblo indígena",
+      "Día de los nativos americanos",
+      "Dia de los nativos americanos",
+      "Día de los descubridores",
+      "Dia de los descubridores",
+      "Día de Colon",
+      "Dia de Colón",
+      "Dia de Colon",
+      "Cristóbal Colón"
+     ],
+     "hint": "",
+     "text": "Día de Colón"
+    },
+    {
+     "altSpellings": [
+      "Dia de los veteranos",
+      "Veteranos",
+      "Día del Armisticio",
+      "Dia del Armisticio"
+     ],
+     "hint": "",
+     "text": "Día de los veteranos"
+    },
+    {
+     "altSpellings": [
+      "Dia de Accion de Gracias",
+      "Día de Accion de Gracias",
+      "Dia de Acción de Gracias",
+      "Acción de Gracias",
+      "Accion de Gracias",
+      "Día de Pavo",
+      "Dia de Pavo"
+     ],
+     "hint": "",
+     "text": "Día de Acción de Gracias"
+    },
+    {
+     "altSpellings": [
+      "Navidad",
+      "La Navidad",
+      "Las Navidades",
+      "Navidades",
+      "Dia de Navidad"
+     ],
+     "hint": "",
+     "text": "Día de Navidad"
+    },
+    {
+     "altSpellings": [
+      "Dia de los Caidos",
+      "Día de los Caidos",
+      "Dia de los Caídos",
+      "Día de la Recordación",
+      "Día de la Recordacion",
+      "Dia de la Recordación",
+      "Dia de la Recordacion",
+      "Conmemoración",
+      "Caídos",
+      "Caidos",
+      "Recordación",
+      "Recordacion"
+     ],
+     "hint": "Uno de estos que siempre debes RECORDAR.",
+     "text": "Día de los Caídos"
+    }
+   ],
+   "category": "Calendario/Días Festivos",
+   "exactSpelling": false,
+   "id": "76588",
+   "isValid": "",
+   "prompt": "¿Cuáles son los días festivos federales en Estados Unidos?",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "perdiz en un peral",
+      "una perdiz en un peral"
+     ],
+     "hint": "",
+     "text": "perdiz"
+    },
+    {
+     "altSpellings": [
+      "pájaro",
+      "pajarito",
+      "cuatro pajaritos",
+      "4 pajaritos"
+     ],
+     "hint": "",
+     "text": "pájaros"
+    },
+    {
+     "altSpellings": [
+      "gallinitas",
+      "gallina",
+      "tres gallinitas",
+      "3 gallinitas"
+     ],
+     "hint": "¿Pollos domésticos, alguien?",
+     "text": "gallinas"
+    },
+    {
+     "altSpellings": [
+      "tortolas",
+      "tórtola",
+      "tortola",
+      "dos tortolitas",
+      "2 tortolitas",
+      "tortugas",
+      "tortuga"
+     ],
+     "hint": "",
+     "text": "tórtolas"
+    },
+    {
+     "altSpellings": [
+      "siete cisnitos",
+      "7 cisnitos",
+      "siete cisnes",
+      "7 cisnes",
+      "siete cisnes nadando",
+      "7 cisnes nadando"
+     ],
+     "hint": "Siete de ESTOS son... nadadores",
+     "text": "cisnes"
+    },
+    {
+     "altSpellings": [
+      "ganso",
+      "gansos",
+      "gansa",
+      "seis gansos",
+      "6 gansos",
+      "seis gansas",
+      "6 gansas",
+      "seis mamá gansas",
+      "6 mamá gansas"
+     ],
+     "hint": "Seis de ESTOS son... mamás",
+     "text": "gansas"
+    }
+   ],
+   "category": "Música",
+   "exactSpelling": false,
+   "id": "76590",
+   "isValid": "",
+   "prompt": "¿Qué pájaros se mencionan en “Los Doce Días de Navidad”?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "sustantivo"
+    },
+    {
+     "altSpellings": [
+      "lexical verb",
+      "auxiliary verb"
+     ],
+     "hint": "¿Cuál es la palabra que se trata de HACER cosas?",
+     "text": "verbo"
+    },
+    {
+     "altSpellings": [
+      "adjetivos"
+     ],
+     "hint": "enorme, majestuoso, redondo... perdón, sigo hablando de mí",
+     "text": "adjetivo"
+    },
+    {
+     "altSpellings": [
+      "pro nombre",
+      "pronombres"
+     ],
+     "hint": "",
+     "text": "pronombre"
+    },
+    {
+     "altSpellings": [
+      "ad verbio",
+      "adverbios"
+     ],
+     "hint": "Piensa en el que tiende a terminar en -ly. ¡Piénsalo!",
+     "text": "adverbio"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Antes, detrás, abajo, debajo... por ejemplo",
+     "text": "preposición"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Y... o... pero.",
+     "text": "conjunción"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Aquí hay una pista: ¡¡¡HEY!!!... ¿Eso ayudó?",
+     "text": "interjección"
+    },
+    {
+     "altSpellings": [
+      "artículos",
+      "artículo"
+     ],
+     "hint": "",
+     "text": "determinante"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "exactSpelling": false,
+   "id": "76591",
+   "isValid": "",
+   "prompt": "¿Cuáles son las 9 partes de la oración?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Conneticut"
+     ],
+     "hint": "",
+     "text": "Connecticut"
+    },
+    {
+     "altSpellings": [
+      "Road Island"
+     ],
+     "hint": "No olvides ese pequeño, pequeñin estado. Es tan lindo.",
+     "text": "Rhode Island"
+    },
+    {
+     "altSpellings": [
+      "Mass",
+      "Massechusets"
+     ],
+     "hint": "",
+     "text": "Massachusetts"
+    },
+    {
+     "altSpellings": [
+      "New Hamshire",
+      "New Hamsure"
+     ],
+     "hint": "¿Cuál es ese? No es el VIEJO Hampshire. ¿Es solo Hampshire?",
+     "text": "New Hampshire"
+    },
+    {
+     "altSpellings": [
+      "Delawear"
+     ],
+     "hint": "",
+     "text": "Delaware"
+    },
+    {
+     "altSpellings": [
+      "Pennsylvania"
+     ],
+     "hint": "¿En qué estado se encuentra Filadelfia?",
+     "text": "Pensilvania"
+    },
+    {
+     "altSpellings": [
+      "Jersey",
+      "New Jersey"
+     ],
+     "hint": "",
+     "text": "Nueva Jersey"
+    },
+    {
+     "altSpellings": [
+      "NY",
+      "New York"
+     ],
+     "hint": "La gran Manzana. ¿Por qué estoy pensando en la Gran Manzana?",
+     "text": "Nueva York"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Virginia"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Maryland"
+    },
+    {
+     "altSpellings": [
+      "North Carolina"
+     ],
+     "hint": "",
+     "text": "Carolina del Norte"
+    },
+    {
+     "altSpellings": [
+      "South Carolina"
+     ],
+     "hint": "",
+     "text": "Carolina del Sur"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¡Este estado sureño es un verdadero melocotón!",
+     "text": "Georgia"
+    }
+   ],
+   "category": "Historia",
+   "exactSpelling": false,
+   "id": "76593",
+   "isValid": "",
+   "prompt": "¿Cuáles son las 13 colonias Americanas originales?",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "cadmio"
+    },
+    {
+     "altSpellings": [
+      "cesium"
+     ],
+     "text": "cesio"
+    },
+    {
+     "hint": "Pista rápida... ¡puedes encontrarla en un buen vaso de leche fría!",
+     "text": "calcio"
+    },
+    {
+     "hint": "Uno de estos suena como un gran estado en la costa oeste.",
+     "text": "californio"
+    },
+    {
+     "hint": "Te estás perdiendo uno fácil. ¡Es uno de los pilares de la vida!",
+     "text": "carbono"
+    },
+    {
+     "text": "cerio"
+    },
+    {
+     "hint": "Hmm, ¿qué es eso que ponen en las piscinas?",
+     "text": "cloro"
+    },
+    {
+     "text": "cromo"
+    },
+    {
+     "text": "cobalto"
+    },
+    {
+     "text": "copernicio"
+    },
+    {
+     "hint": "¡Una de estas cosas está recubierta de centavos!",
+     "text": "cobre"
+    },
+    {
+     "text": "curio"
+    }
+   ],
+   "category": "Ciencia y Medicina",
+   "exactSpelling": false,
+   "id": "76855",
+   "isValid": "",
+   "prompt": "¿Qué elementos químicos comienzan con \"C\"?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Kris",
+      "Cris"
+     ],
+     "hint": "No te olvides de la ortografía “K”. No discrimino.",
+     "text": "Chris"
+    },
+    {
+     "altSpellings": [
+      "Kristoff",
+      "Christoph",
+      "Kristoph",
+      "Kristof"
+     ],
+     "text": "Christoff"
+    },
+    {
+     "altSpellings": [
+      "Kristo"
+     ],
+     "text": "Christo"
+    },
+    {
+     "altSpellings": [
+      "Kitt"
+     ],
+     "text": "Kit"
+    },
+    {
+     "altSpellings": [
+      "Chritter",
+      "Criter",
+      "Critter"
+     ],
+     "text": "Critter"
+    },
+    {
+     "altSpellings": [
+      "Christy",
+      "Kristy",
+      "Kristie",
+      "Cristi"
+     ],
+     "text": "Christie"
+    },
+    {
+     "altSpellings": [
+      "Kristobal",
+      "Christobal",
+      "Cristobal"
+     ],
+     "text": "Cristóbal"
+    },
+    {
+     "altSpellings": [
+      "Kristopherus",
+      "Christofferus",
+      "Christoferus",
+      "Kristofferus"
+     ],
+     "text": "Christopherus"
+    },
+    {
+     "altSpellings": [
+      "Toffer",
+      "Tofer"
+     ],
+     "hint": "Podrías considerar la parte trasera de Christopher.",
+     "text": "Topher"
+    },
+    {
+     "altSpellings": [
+      "Kris Kross",
+      "Chris Cross",
+      "Criss-Cross",
+      "Chris-Cross",
+      "Kris-Kross",
+      "Cris Cros"
+     ],
+     "text": "Criss Cross"
+    }
+   ],
+   "category": "Factoides",
+   "exactSpelling": true,
+   "id": "77196",
+   "isValid": "",
+   "prompt": "10 buenos apodos para alguien llamado “Christopher”",
+   "subtype": "subjetivo",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "rascador",
+      "rascadores",
+      "espátulas"
+     ],
+     "hint": "¿Cómo puedes voltear panqueques sin ESTO?",
+     "text": "espátula"
+    },
+    {
+     "altSpellings": [
+      "batidora"
+     ],
+     "hint": "¿Cómo puedes revolver la masa sin ESTO? (aparte) bueno, supongo que te vendría bien cualquier cosa.",
+     "text": "batidor"
+    },
+    {
+     "altSpellings": [
+      "cazo",
+      "cucharón de sopa",
+      "cazo de sopa"
+     ],
+     "hint": "Tengo una gran primicia sobre una respuesta correcta. Y no es una cuchara para helado.",
+     "text": "cucharón"
+    },
+    {
+     "altSpellings": [
+      "cuchillo para pan",
+      "cuchillo para panes",
+      "cuchillo de panes",
+      "cuchillos de pan",
+      "cuchillos para pan",
+      "cuchillos para panes"
+     ],
+     "text": "cuchillo de pan"
+    },
+    {
+     "altSpellings": [
+      "coladero",
+      "coladores"
+     ],
+     "hint": "¡Tu estrategia está llena de agujeros!",
+     "text": "colador"
+    },
+    {
+     "altSpellings": [
+      "tenedores"
+     ],
+     "text": "tenedor"
+    },
+    {
+     "altSpellings": [
+      "pisapapa",
+      "pisa papa",
+      "pisapatatas",
+      "pisa patatas",
+      "pisapapas",
+      "pisa papas"
+     ],
+     "text": "machacador"
+    },
+    {
+     "altSpellings": [
+      "cortapizzas",
+      "corta pizzas",
+      "cortador en forma de rueda",
+      "cortador curvo",
+      "cortador curvo de pizza",
+      "cortador de pizzas"
+     ],
+     "hint": "¿Qué tipo de herramienta es buena para un pepperoni con queso?",
+     "text": "cortador de pizza"
+    },
+    {
+     "altSpellings": [
+      "rallo",
+      "rallador de quesos",
+      "rallador"
+     ],
+     "hint": "Seguro que sería grato si pensaras en este. \"Rallar.\"",
+     "text": "rallador de queso"
+    },
+    {
+     "altSpellings": [
+      "brochetas",
+      "pinchos de kebab",
+      "brochetas de kebab"
+     ],
+     "text": "brocheta"
+    },
+    {
+     "altSpellings": [
+      "palillo",
+      "palito",
+      "palitos chinos",
+      "palillos chinos"
+     ],
+     "hint": "¿Comida china, alguien?",
+     "text": "palillos"
+    },
+    {
+     "altSpellings": [
+      "pinzas para cocina",
+      "pinzas de cocina"
+     ],
+     "text": "pinzas"
+    },
+    {
+     "altSpellings": [
+      "palo de amasar",
+      "amasador"
+     ],
+     "hint": "¡Estira esa masa!",
+     "text": "rodillo"
+    },
+    {
+     "altSpellings": [
+      "descorchador de vino",
+      "descorchador de vinos",
+      "destapador",
+      "descorchador"
+     ],
+     "hint": "No puede tomar ningún vino sin ESTO.",
+     "text": "sacacorchos"
+    }
+   ],
+   "category": "Herramientas",
+   "exactSpelling": false,
+   "id": "77197",
+   "isValid": "",
+   "prompt": "Mis 14 Utensilios de Cocina Favoritos",
+   "subtype": "subjetivo",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "porciones",
+      "cantidad por porción",
+      "porción",
+      "tamaño de porción"
+     ],
+     "text": "tamaño de la porción"
+    },
+    {
+     "altSpellings": [
+      "cal"
+     ],
+     "hint": "ESTO está en todo. Bueno, excepto en la Coca-Cola Zero.",
+     "text": "calorías"
+    },
+    {
+     "altSpellings": [
+      "grasa saturada",
+      "grasas trans",
+      "grasas saturadas",
+      "grasa",
+      "grasas totales"
+     ],
+     "text": "grasas"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Es posible que desees probar las claras de huevo para evitar ESTO.",
+     "text": "colesterol"
+    },
+    {
+     "altSpellings": [
+      "sal",
+      "sales"
+     ],
+     "hint": "Si no tienes ESTO, puedes sentirte un poco salado al respecto.",
+     "text": "sodio"
+    },
+    {
+     "altSpellings": [
+      "carbohidratos",
+      "glúcidos",
+      "hidratos de carbono",
+      "sacáridos"
+     ],
+     "hint": "¿Cuál es ese que realmente hace subir de peso?",
+     "text": "carbohidrato"
+    },
+    {
+     "altSpellings": [
+      "proteínas"
+     ],
+     "hint": "Ustedes, ratas de gimnasio, deberían estar familiarizados con ESTE.",
+     "text": "proteína"
+    },
+    {
+     "altSpellings": [
+      "fibra",
+      "fibra alimentaria",
+      "fibra alimenticia"
+     ],
+     "hint": "Puedes encontrar mucho de ESTO en muffins de salvado.",
+     "text": "fibra dietética"
+    },
+    {
+     "altSpellings": [
+      "azúcares totales",
+      "azúcares agregados"
+     ],
+     "hint": "¡No te olvides del que es dulce!",
+     "text": "azúcar"
+    },
+    {
+     "altSpellings": [
+      "porcentaje de valor diario",
+      "VD",
+      "% valor diario",
+      "% VD",
+      "porcentaje valor diario",
+      "porcentaje diario",
+      "porcentaje"
+     ],
+     "hint": "Uno de ellos es un porcentaje.",
+     "text": "valor diario"
+    }
+   ],
+   "category": "Comida y Bebida",
+   "exactSpelling": false,
+   "id": "77199",
+   "isValid": "",
+   "prompt": "Mis 10 Palabras Favoritas que se Encuentran en las Etiquetas Nutricionales",
+   "subtype": "subjetivo",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "syrah"
+     ],
+     "text": "Shiraz"
+    },
+    {
+     "altSpellings": [
+      "cabernet sauvignon",
+      "cab"
+     ],
+     "hint": "Permítame ayudar. ¿Cuál es otra palabra para un taxi?",
+     "text": "Cabernet"
+    },
+    {
+     "altSpellings": [
+      "Bordeaux wine"
+     ],
+     "hint": "ESTE viene de una región muy específica en Francia.",
+     "text": "Bordeaux"
+    },
+    {
+     "altSpellings": [
+      "Malbeck"
+     ],
+     "text": "Malbec"
+    },
+    {
+     "altSpellings": [
+      "Nebyolo",
+      "Nebolo",
+      "Nebbyolo"
+     ],
+     "hint": "Está ese que comienza con una \"N\".",
+     "text": "Nebbiolo"
+    },
+    {
+     "altSpellings": [
+      "Tempranila",
+      "Tempraniyo"
+     ],
+     "text": "Tempranillo"
+    },
+    {
+     "altSpellings": [
+      "Montapulchiano"
+     ],
+     "hint": "No olvides ese largo que comienza con una \"M\".",
+     "text": "Montepulciano"
+    },
+    {
+     "altSpellings": [
+      "Merlow",
+      "Murlow"
+     ],
+     "hint": "Por supuesto, está el vino que todos los que no beben vino dicen que es su favorito. ¿Eso ayuda?",
+     "text": "Merlot"
+    },
+    {
+     "altSpellings": [
+      "Peno Noir",
+      "Pino Noir"
+     ],
+     "text": "Pinot Noir"
+    },
+    {
+     "altSpellings": [
+      "Kianti",
+      "Keyanti"
+     ],
+     "text": "Chianti"
+    },
+    {
+     "altSpellings": [
+      "Barolo wine"
+     ],
+     "text": "Barolo"
+    },
+    {
+     "altSpellings": [
+      "primitivo",
+      "zinfundell"
+     ],
+     "hint": "¿Cuál es ese que empieza con Z?",
+     "text": "Zinfandel"
+    }
+   ],
+   "category": "Comida y Bebida",
+   "exactSpelling": false,
+   "id": "77201",
+   "isValid": "",
+   "prompt": "Mis 12 vinos tintos preferidos para cuando necesito... relajarme",
+   "subtype": "subjetivo",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Choclate"
+     ],
+     "hint": "(perturbado) Te lo voy a deletrear. ¡Chocolate! ¡Solo escribe chocolate!",
+     "text": "chocolate"
+    },
+    {
+     "hint": "Algunos podrían decir que es el sabor más aburrido.",
+     "text": "vainilla"
+    },
+    {
+     "altSpellings": [
+      "fresa"
+     ],
+     "text": "frutilla"
+    },
+    {
+     "altSpellings": [
+      "cookies and cream",
+      "cookies & cream",
+      "crema cookie",
+      "crema cookies",
+      "crema oreo"
+     ],
+     "text": "cookies 'n' cream"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¿Te gusta tu helado con cafeína?",
+     "text": "café"
+    },
+    {
+     "altSpellings": [
+      "chispa de chocolate",
+      "menta granizada",
+      "crema granizada",
+      "granizado",
+      "chocolate granizado"
+     ],
+     "text": "chispas de chocolate"
+    },
+    {
+     "altSpellings": [
+      "rockyroad",
+      "rocky road",
+      "chocolate marroc"
+     ],
+     "hint": "Aunque el camino puede ser largo, espero que también sea ESTO.",
+     "text": "camino rocoso"
+    },
+    {
+     "altSpellings": [
+      "almendrado"
+     ],
+     "text": "almendras"
+    },
+    {
+     "altSpellings": [
+      "avellanas",
+      "avellana",
+      "mantequilla de maní",
+      "nuez"
+     ],
+     "hint": "Uno de mis favoritos es agradable y mantecoso.",
+     "text": "mantequilla de nuez"
+    },
+    {
+     "altSpellings": [
+      "pistashio"
+     ],
+     "hint": "Uno de mis favoritos tiene un tinte verde con sabor a nuez.",
+     "text": "pistacho"
+    }
+   ],
+   "category": "Comida y Bebida",
+   "exactSpelling": false,
+   "id": "77203",
+   "isValid": "",
+   "prompt": "Los 10 mejores sabores de helado",
+   "subtype": "subjetivo",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Carry"
+     ],
+     "hint": "Nunca pensarás igual en un baile de secundaria después de leer ESTE.",
+     "text": "[i]Carrie[/i]"
+    },
+    {
+     "altSpellings": [
+      "Shining",
+      "The Shining",
+      "Resplandor"
+     ],
+     "text": "[i]El Resplandor[/i]"
+    },
+    {
+     "altSpellings": [
+      "Stand",
+      "The Stand"
+     ],
+     "hint": "¿Ninguno de ustedes danzará?",
+     "text": "[i]La Danza de la Muerte[/i]"
+    },
+    {
+     "altSpellings": [
+      "Kujo"
+     ],
+     "hint": "¿Cúal es esa del perro? Empieza con una \"C\".",
+     "text": "[i]Cujo[/i]"
+    },
+    {
+     "altSpellings": [
+      "Pet Sematary",
+      "Cementerio viviente"
+     ],
+     "text": "[i]Cementerio de Mascotas[/i]"
+    },
+    {
+     "altSpellings": [
+       "It"
+     ],
+     "hint": "Deja de \"hacer payasadas\". Simplemente escriban... eso.",
+     "text": "[i]Eso[/i]"
+    },
+    {
+     "altSpellings": [
+        "Misery"
+     ],
+     "hint": "Te sentirás miserable si obtienes ESTE.",
+     "text": "[i]Miseria[/i]"
+    },
+    {
+     "altSpellings": [
+      "Gerald's Game"
+     ],
+     "hint": "No sé qué tipo de JUEGO estás jugando, pero espero que no sea este.",
+     "text": "[i]El Juego de Gerald[/i]"
+    },
+    {
+     "altSpellings": [
+      "Dolores Clayborn",
+      "Eclipse Total"
+     ],
+     "hint": "Uno de ellos es el nombre y apellido de una mujer.",
+     "text": "[i]Dolores Claiborne[/i]"
+    },
+    {
+     "altSpellings": [
+      "The Dark Half",
+      "La Mitad Siniestra"
+     ],
+     "hint": "Hay la mitad clara, y luego está...",
+     "text": "[i]La Mitad Oscura[/i]"
+    },
+    {
+     "altSpellings": [
+      "Dr. Sleep",
+      "Doctor Sleep",
+      "Dr. Sueño"
+     ],
+     "text": "[i]Doctor Sueño[/i]"
+    },
+    {
+     "altSpellings": [
+      "The Tommyknockers"
+     ],
+     "text": "[i]Los Tommyknockers[/i]"
+    }
+   ],
+   "category": "Literatura",
+   "exactSpelling": false,
+   "id": "77211",
+   "isValid": "",
+   "prompt": "Las 12 Novelas de Stephen King que Fueron Demasiado Aterradoras para mi para Terminarlas",
+   "subtype": "subjetivo",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Kevin Jonas",
+      "Kev",
+      "Kev Jonas"
+     ],
+     "text": "Kevin"
+    },
+    {
+     "altSpellings": [
+      "Nicholas",
+      "Nick Jonas",
+      "Nicholas Jonas"
+     ],
+     "text": "Nick"
+    },
+    {
+     "altSpellings": [
+      "Joseph",
+      "Joe Jonas",
+      "Joseph Jonas"
+     ],
+     "text": "Joe"
+    },
+    {
+     "altSpellings": [
+      "Franklin",
+      "Frank",
+      "Frankie Jonas",
+      "Franklin Jonas"
+     ],
+     "text": "Frankie"
+    },
+    {
+     "altSpellings": [
+      "Alec Baldwin"
+     ],
+     "text": "Alec"
+    },
+    {
+     "altSpellings": [
+      "Daniel Baldwin",
+      "Dan Baldwin",
+      "Dan"
+     ],
+     "text": "Daniel"
+    },
+    {
+     "altSpellings": [
+      "Billy",
+      "Will",
+      "William Baldwin",
+      "Will Baldwin",
+      "Billy Baldwin"
+     ],
+     "text": "William"
+    },
+    {
+     "altSpellings": [
+      "Steven",
+      "Stephen Baldwin",
+      "Steven Baldwin"
+     ],
+     "text": "Stephen"
+    },
+    {
+     "altSpellings": [
+      "Beth",
+      "Elizabeth Keuchler"
+     ],
+     "text": "Elizabeth"
+    },
+    {
+     "altSpellings": [
+      "Jane Sasso"
+     ],
+     "text": "Jane"
+    }
+   ],
+   "category": "Celebridades",
+   "exactSpelling": false,
+   "id": "77212",
+   "isValid": "",
+   "prompt": "Nombre de cada hermano Jonas + Baldwin",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "chewie",
+      "wookiee",
+      "chewy",
+      "chuwi",
+      "chuwie",
+      "chubaca"
+     ],
+     "hint": "Estoy pensando en un personaje ALTO y adorable. Y digamos \"hirsuto\".",
+     "text": "Chewbacca"
+    },
+    {
+     "altSpellings": [
+      "Ewok",
+      "Iwok"
+     ],
+     "hint": "¡Sabes! ¡Los lindos con las caras de perro destrozadas! Ven ahora.",
+     "text": "Ewoks"
+    },
+    {
+     "altSpellings": [
+      "R2",
+      "R2D2",
+      "R2 D2",
+      "Artu",
+      "Arturito",
+      "Artu Ditu"
+     ],
+     "hint": "Una palabra: ¡Droide!",
+     "text": "R2-D2"
+    },
+    {
+     "altSpellings": [
+      "BB8",
+      "BB 8"
+     ],
+     "hint": "Está ese que se parece un poco a una pelota de fútbol.",
+     "text": "BB-8"
+    },
+    {
+     "altSpellings": [
+      "Porg"
+     ],
+     "hint": "¿Quiénes eran esos lindos pájaros regordetes en [i]El Ascenso de Skywalker[/i]?",
+     "text": "Porgs"
+    },
+    {
+     "altSpellings": [
+      "El Niño",
+      "Niño",
+      "Grogu",
+      "Baby Yoda"
+     ],
+     "hint": "Así que Yoda no estaba en mi lista, pero este sí.",
+     "text": "Bebé Yoda"
+    },
+    {
+     "altSpellings": [
+      "Zorro de hielo",
+      "Vulptices",
+      "Vulptex",
+      "Zorros de cristal",
+      "Zorros de hielo"
+     ],
+     "text": "Zorro de cristal"
+    },
+    {
+     "altSpellings": [
+      "Jawa"
+     ],
+     "text": "Jawas"
+    }
+   ],
+   "category": "Película y TV",
+   "exactSpelling": false,
+   "id": "77227",
+   "isValid": "",
+   "prompt": "Los 8 Personajes y Especies más Adorables de [i]Star Wars[/i]",
+   "subtype": "subjetivo",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "(SFX: flauta)",
+     "text": "flauta"
+    },
+    {
+     "altSpellings": [],
+     "hint": "(SFX: flautín)",
+     "text": "flautín"
+    },
+    {
+     "altSpellings": [],
+     "hint": "(SFX: oboe)",
+     "text": "oboe"
+    },
+    {
+     "altSpellings": [
+      "cor anglais"
+     ],
+     "hint": "(SFX: corno inglés)",
+     "text": "corno inglés"
+    },
+    {
+     "altSpellings": [
+      "clarinete en Si bemol",
+      "clarinete bajo",
+      "clarinete contrabajo"
+     ],
+     "hint": "(SFX: clarinete)",
+     "text": "clarinete"
+    },
+    {
+     "altSpellings": [
+      "contrafagot"
+     ],
+     "hint": "(SFX: fagot)",
+     "text": "fagot"
+    },
+    {
+     "altSpellings": [
+      "saxo",
+      "saxofón alto",
+      "saxofón soprano",
+      "saxofón sopranino",
+      "saxofón tenor",
+      "saxofón contrabajo",
+      "saxofón barítono",
+      "saxo alto",
+      "saxo soprano",
+      "saxo sopranino",
+      "saxo tenor",
+      "saxo barítono"
+     ],
+     "hint": "Uno de estos instrumentos de viento de madera es de bronce. Y es muy sexy.",
+     "text": "saxofón"
+    },
+    {
+     "altSpellings": [],
+     "hint": "(SFX: flauta dulce)",
+     "text": "flauta dulce"
+    }
+   ],
+   "category": "Música",
+   "exactSpelling": false,
+   "id": "77333",
+   "isValid": "",
+   "prompt": "¿Qué instrumentos de viento se pueden encontrar en una orquesta?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "oso polar",
+      "oso de peluche",
+      "oso pardo",
+      "oso marrón",
+      "oso grizzly",
+      "oso gris"
+     ],
+     "hint": "¡¡¡Rooaar!!! Bueno, eso podría aplicarse a algunos de estos en realidad.",
+     "text": "oso"
+    },
+    {
+     "altSpellings": [
+      "bisonte americano"
+     ],
+     "hint": "No exactamente un búfalo, pero similar.",
+     "text": "bisonte"
+    },
+    {
+     "altSpellings": [
+      "dromedario"
+     ],
+     "hint": "Piensa en... jorobas.",
+     "text": "camello"
+    },
+    {
+     "altSpellings": [
+      "puma",
+      "pantera",
+      "león de montaña",
+      "león americano",
+      "leopardo"
+     ],
+     "hint": "Uno de ellos es una especie de león, algo así.",
+     "text": "puma"
+    },
+    {
+     "altSpellings": [
+      "elefante africano",
+      "elefante asiático"
+     ],
+     "hint": "",
+     "text": "elefante"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Vamos, saca el cuello. ¡Tu CUELLO!",
+     "text": "jirafa"
+    },
+    {
+     "altSpellings": [
+      "simio",
+      "espalda plateada",
+      "gorila espalda plateada"
+     ],
+     "hint": "Piensa en King Kong, pero del tamaño de un bocado.",
+     "text": "gorila"
+    },
+    {
+     "altSpellings": [
+      "hipo"
+     ],
+     "hint": "",
+     "text": "hipopótamo"
+    },
+    {
+     "altSpellings": [
+      "hiénido"
+     ],
+     "hint": "",
+     "text": "hiena"
+    },
+    {
+     "altSpellings": [
+      "kanguro"
+     ],
+     "hint": "Busca en sus bolsas y ve lo que sale.",
+     "text": "canguro"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "león"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "mono"
+    },
+    {
+     "altSpellings": [
+      "rino"
+     ],
+     "hint": "",
+     "text": "rinoceronte"
+    },
+    {
+     "altSpellings": [
+      "foca de puerto",
+      "foca común",
+      "león marino"
+     ],
+     "hint": "",
+     "text": "foca"
+    },
+    {
+     "altSpellings": [
+      "cordero"
+     ],
+     "hint": "Baaaaaaa! (se aclara la garganta) Disculpa.",
+     "text": "oveja"
+    },
+    {
+     "altSpellings": [
+      "tigre bengala",
+      "bengala"
+     ],
+     "hint": "",
+     "text": "tigre"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¿Qué animal comienza con una C?",
+     "text": "cebra"
+    },
+    {
+     "altSpellings": [
+      "oso koala"
+     ],
+     "hint": "Uno es un marsupial que ama las hojas de eucalipto.",
+     "text": "koala"
+    }
+   ],
+   "category": "Comida y Bebida",
+   "exactSpelling": false,
+   "id": "77334",
+   "isValid": "",
+   "prompt": "¿Qué animales se incluyeron en Barnum's Animals Crackers (Edición del 100.° Aniversario)?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "beam"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "bream"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "cream"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "deem"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Puede que experimentes esto mientras estás durmiendo.",
+     "text": "dream"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "gleam"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "ream"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¿Qué es lo que haces cuando elaboras planes turbios?",
+     "text": "scheme"
+    },
+    {
+     "altSpellings": [],
+     "hint": "(SFX: grito)",
+     "text": "scream"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Encontrarás esto a lo largo del costado de un par de pantalones.",
+     "text": "seam"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "seem"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Si te gustan las saunas, sabrás de todo sobre ESTO.",
+     "text": "steam"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¿Cuál es otra palabra para un arroyo?",
+     "text": "stream"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Piensa en deportes grupales.",
+     "text": "team"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "teem"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "theme"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "exactSpelling": true,
+   "id": "77336",
+   "isValid": "",
+   "prompt": "¿Qué palabras en inglés riman con “meme”? (solo palabras comunes de una sílaba)",
+   "subtype": "rimas",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "¿Cuál es otra palabra para un cajero?",
+     "text": "clerk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "dirk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Uh, una de estas palabras me molesta mucho.",
+     "text": "irk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "jerk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "lurk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "murk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¿Cuál es otra palabra para ventaja?",
+     "text": "perk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "quirk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Si evades responsabilidades, estás haciendo ESTO.",
+     "text": "shirk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Si piensas en ESTA, puede que aparezca una sonrisa pícara en tu cara.",
+     "text": "smirk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "stirk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "turk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "work"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¿Cuál es esa palabra francesa para circo?",
+     "text": "cirque"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "exactSpelling": true,
+   "id": "77337",
+   "isValid": "",
+   "prompt": "¿Qué palabras en inglés riman con “twerk”? (solo palabras comunes de una sílaba)",
+   "subtype": "rimas",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "ache"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "bake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "brake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "break"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "cake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "(para sí) ¿Cuál es otra palabra para falso?",
+     "text": "fake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "A menudo se encuentra esto en un tazón de cereal.",
+     "text": "flake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¿Qué es más grande que un estanque?",
+     "text": "lago"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Es “ESTO o ESTO time”.",
+     "text": "make"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "quake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "rake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "sake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "shake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Si sacias tu sed, estás haciendo ESTO.",
+     "text": "slake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "(para sí) Ahora, ¿por qué estaría pensando en el Jardín del Edén?",
+     "text": "serpiente"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "stake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¿Alguna vez se les ha antojado un buen solomillo?",
+     "text": "bistec"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "take"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Haces esto en la mañana... a menos que duermas hasta tarde, supongo.",
+     "text": "wake"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "exactSpelling": true,
+   "id": "77338",
+   "isValid": "",
+   "prompt": "¿Qué palabras en inglés riman con “Drake”? (solo palabras comunes de una sílaba)",
+   "subtype": "rimas",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "tenazas",
+      "pinza",
+      "pinzas"
+     ],
+     "hint": "¡La parte que corta! ¡Me encantan los cortes!",
+     "text": "tenaza"
+    },
+    {
+     "altSpellings": [
+      "ojo"
+     ],
+     "hint": "La manera en la que miran es muy relajante.",
+     "text": "ojos"
+    },
+    {
+     "altSpellings": [
+      "concha",
+      "exoesqueleto"
+     ],
+     "hint": "Solo tienen que mirar tras esa dureza exterior.",
+     "text": "caparazón"
+    },
+    {
+     "altSpellings": [
+      "pata",
+      "patas de cangrejo",
+      "pata de cangrejo"
+     ],
+     "hint": "¡Trae la manteca! Eran para caminar, ¡ahora son para comer!",
+     "text": "patas"
+    },
+    {
+     "altSpellings": [
+      "interior",
+      "carne de cangrejo"
+     ],
+     "hint": "Esta definitivamente no es de imitación.",
+     "text": "carne"
+    }
+   ],
+   "category": "Animales",
+   "exactSpelling": false,
+   "id": "77488",
+   "isValid": "",
+   "prompt": "Las 5 mejores partes de un cangrejo",
+   "subtype": "subjetivo",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Super Mario"
+     ],
+     "hint": "¡It's-a him! ¿Ya saben, el que tiene su nombre en el título del juego?",
+     "text": "Mario"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¡It's-a him, el hermano del personaje principal! Un fontanero sensible que intenta salir adelante.",
+     "text": "Luigi"
+    },
+    {
+     "altSpellings": [
+      "Captain Toad",
+      "Capitán Toad"
+     ],
+     "hint": "Por favor no se olviden de este pequeño champiñón que viste un chaleco.",
+     "text": "Toad"
+    },
+    {
+     "altSpellings": [
+      "Peach"
+     ],
+     "hint": "¿No había una corredora real? Alguien que era una reina, o un príncipe, o una...",
+     "text": "Princesa Peach"
+    },
+    {
+     "altSpellings": [
+      "Koopa",
+      "Tortuga Koopa"
+     ],
+     "hint": "¡No se olviden de esta tortuga erguida que usa zapatos! Se olvidaron de él, ¿verdad?",
+     "text": "Koopa Troopa"
+    },
+    {
+     "altSpellings": [
+      "Donkey Kong",
+      "DK"
+     ],
+     "hint": "Este tipo adora las bananas y odia los barriles. ¡Es como lo opuesto a mí!",
+     "text": "Donkey Kong Jr"
+    },
+    {
+     "altSpellings": [
+      "King Koopa",
+      "Rey Koopa",
+      "El Rey Koopa"
+     ],
+     "hint": "¿Y que tal el monstruo enorme y lleno de picos? ¿Lo recuerdan?",
+     "text": "Bowser"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¡Él es un dinosaurio que puede poner huevos cuando quiera! Sé que saben de quién hablo.",
+     "text": "Yoshi"
+    }
+   ],
+   "category": "Juegos",
+   "exactSpelling": false,
+   "id": "77765",
+   "isValid": "",
+   "prompt": "¿Qué 8 personajes eran jugables en el [i]Super Mario Kart[/i] original?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "supermercado",
+      "mercado",
+      "tienda",
+      "tienda de alimentos"
+     ],
+     "hint": "A Ewan McGregor le encanta comprar alimentos.",
+     "text": "tienda de comestibles"
+    },
+    {
+     "altSpellings": [
+      "Doctor",
+      "la oficina del doctor",
+      "oficina del doctor",
+      "el Doctor"
+     ],
+     "hint": "A los médicos les encanta recibir una visita de Ewan McGregor.",
+     "text": "consultorio médico"
+    },
+    {
+     "altSpellings": [
+      "mecánica",
+      "mecánico de autos",
+      "tienda de reparaciones",
+      "tienda de autos"
+     ],
+     "hint": "A veces Ewan McGregor necesita poner a punto su motocicleta.",
+     "text": "mecánico"
+    },
+    {
+     "altSpellings": [
+      "comedor",
+      "café",
+      "restorán",
+      "cenaduría",
+      "restaurant",
+      "restaurán"
+     ],
+     "hint": "El metre siempre encuentra una mesa para Ewan McGregor en este lugar.",
+     "text": "restaurante"
+    },
+    {
+     "altSpellings": [
+      "la biblioteca",
+      "librería",
+      "la librería"
+     ],
+     "hint": "A veces Ewan McGregor solo quiere retirar un libro por un mes, más o menos.",
+     "text": "biblioteca"
+    },
+    {
+     "altSpellings": [
+      "el parque",
+      "campo",
+      "el campo"
+     ],
+     "hint": "Escuché que a Ewan McGregor le gusta sentarse a observar palomas. Es relajante.",
+     "text": "parque"
+    },
+    {
+     "altSpellings": [
+      "el cine",
+      "Cinema",
+      "el Cinema",
+      "teatro",
+      "el teatro"
+     ],
+     "hint": "A veces Ewan McGregor va a las premieres de sus nuevas películas.",
+     "text": "cine"
+    },
+    {
+     "altSpellings": [
+      "el banco"
+     ],
+     "hint": "Ewan McGregor hace depósitos y extracciones. ¡Las celebridades son como nosotros!",
+     "text": "banco"
+    }
+   ],
+   "category": "Película y TV",
+   "exactSpelling": false,
+   "id": "77797",
+   "isValid": "",
+   "prompt": "Los 8 lugares del día a día donde podrías encontrarte con Ewan McGregor",
+   "subtype": "subjetivo",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "el dormitorio"
+     ],
+     "hint": "“¡No necesitas tener las luces prendidas cuando estás durmiendo!”",
+     "text": "dormitorio"
+    },
+    {
+     "altSpellings": [
+      "el baño",
+      "aseo",
+      "el aseo",
+      "cuarto de baño",
+      "el cuarto de baño",
+      "tocador",
+      "el tocador",
+      "váter",
+      "el váter"
+     ],
+     "hint": "Puedes ducharte en la oscuridad. Vi un documental sobre ello.",
+     "text": "baño"
+    },
+    {
+     "altSpellings": [
+      "la cocina"
+     ],
+     "hint": "“De paso puedo apagar la heladera, ya que estoy aquí.”",
+     "text": "cocina"
+    },
+    {
+     "altSpellings": [
+      "la sala de estar",
+      "sala familiar",
+      "la sala familiar",
+      "living room",
+      "el living room",
+      "living",
+      "el living",
+      "cuarto familiar",
+      "el cuarto familiar"
+     ],
+     "hint": "“¿Sigues mirando la tele? ¿O puedo apagar eso también?”",
+     "text": "sala de estar"
+    },
+    {
+     "altSpellings": [
+      "el comedor",
+      "sala-comedor",
+      "la sala-comedor"
+     ],
+     "hint": "“¡Lo único que me estoy comiendo ahora son las boletas de electricidad!”",
+     "text": "comedor"
+    },
+    {
+     "altSpellings": [
+      "el garage"
+     ],
+     "hint": "“El auto no necesita ver nada, ¿o sí?”",
+     "text": "garage"
+    },
+    {
+     "altSpellings": [
+      "oficina en casa",
+      "la oficina en casa",
+      "oficina en el hogar",
+      "la oficina en el hogar",
+      "la oficina"
+     ],
+     "hint": "Las horas laborales son horas diurnas.",
+     "text": "oficina"
+    },
+    {
+     "altSpellings": [
+      "el cuarto del bebé",
+      "cuarto de niños",
+      "el cuarto de niños",
+      "habitación del bebé",
+      "la habitación del bebé",
+      "habitación de niños",
+      "la habitación de niños"
+     ],
+     "hint": "“Nunca es demasiado temprano para que los bebés aprendan sobre la responsabilidad fiscal.”",
+     "text": "cuarto del bebé"
+    },
+    {
+     "altSpellings": [
+      "el invernadero",
+      "vivero",
+      "el vivero"
+     ],
+     "hint": "“¿Qué es esto, Clue? Mira, solo apaga las luces.”",
+     "text": "invernadero"
+    }
+   ],
+   "category": "Otro",
+   "exactSpelling": false,
+   "id": "77798",
+   "isValid": "",
+   "prompt": "Las 9 habitaciones en las que los padres no pueden evitar apagar las luces",
+   "subtype": "subjetivo",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "granola",
+      "museli",
+      "mezcla de frutas secas"
+     ],
+     "hint": "Puede que tengan que tirarme las pasas y los cacahuetes. No tengo manos, soy una Rueda.",
+     "text": "mezcla de frutos secos"
+    },
+    {
+     "altSpellings": [
+      "MnMs",
+      "M and Ms",
+      "MMs"
+     ],
+     "hint": "Se derriten en tu boca, no en tu… esperen, no tengo manos.",
+     "text": "M&M’S"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¿Alguna vez han intentado pelar una sin manos? No es imposible.",
+     "text": "banana"
+    },
+    {
+     "altSpellings": [
+      "Snacks Doritos"
+     ],
+     "hint": "Incluso sin manos, siempre termino con polvo de Doritos Cool Ranch por todo.",
+     "text": "Doritos"
+    },
+    {
+     "altSpellings": [
+      "Conos de queso",
+      "Bugles",
+      "Bugle Chips"
+     ],
+     "hint": "¡Dedos de bruja! Si tuviera dedos, en todo caso.",
+     "text": "Conitos de queso"
+    },
+    {
+     "altSpellings": [
+      "cecina de vaca",
+      "cecina",
+      "carne deshidratada"
+     ],
+     "hint": "Sería tremenda VACA si no les diera una pista, ¿cierto? ¿Una rodantemente grande vaca?",
+     "text": "carne seca"
+    },
+    {
+     "altSpellings": [
+      "barra snickers",
+      "barra de dulces snickers"
+     ],
+     "hint": "Verdaderamente pensaba que nos conocíamos mejor que esto. Solo escriban \"Snickers\".",
+     "text": "Snickers"
+    },
+    {
+     "altSpellings": [
+      "Combos de snacks"
+     ],
+     "hint": "Me gusta el sabor Pizzeria Pretzel.",
+     "text": "Combos"
+    }
+   ],
+   "category": "Comida y Bebida",
+   "exactSpelling": false,
+   "id": "77799",
+   "isValid": "",
+   "prompt": "Mis 8 snacks favoritos para viajes en carretera",
+   "subtype": "subjetivo",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Orgullo"
+     ],
+     "hint": "¿Ser egoista o arrogante? Eso es definitivamente un pecado.",
+     "text": "Soberbia"
+    },
+    {
+     "altSpellings": [
+      "Codicia",
+      "Ambición",
+      "Afán"
+     ],
+     "hint": "¿Acumular riqueza u otros recursos? Pues claro que es un pecado.",
+     "text": "Avaricia"
+    },
+    {
+     "altSpellings": [
+      "Anhelo",
+      "anhelo"
+     ],
+     "hint": "¿Sentimiendos de deseo o anhelo? Síp, eso es un pecado.",
+     "text": "Lujuria"
+    },
+    {
+     "altSpellings": [
+      "Celosía",
+      "Celo"
+     ],
+     "hint": "¿Quieren lo que otro tiene? ¡Bienvenido a la ciudad del pecado, populación ustedes!",
+     "text": "Envidia"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¿Permitirse demasiados gustos? Eso es un pecado.",
+     "text": "Gula"
+    },
+    {
+     "altSpellings": [
+      "Furia"
+     ],
+     "hint": "¿Furia incontrolable? Claro, eso es un pecado.",
+     "text": "Ira"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¿Están holgazaneando? Eso seguro es un pecado.",
+     "text": "Pereza"
+    }
+   ],
+   "category": "Historia",
+   "exactSpelling": false,
+   "id": "77800",
+   "isValid": "",
+   "prompt": "¿Cuáles son los siete pecados capitales?",
+   "subtype": "name",
+   "us": false,
+   "x": true
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "la viola"
+     ],
+     "hint": "",
+     "text": "viola"
+    },
+    {
+     "altSpellings": [
+      "el violín"
+     ],
+     "hint": "",
+     "text": "violín"
+    },
+    {
+     "altSpellings": [
+      "la guitarra",
+      "guitarra acústica",
+      "la guitarra acústica",
+      "guitarra eléctrica",
+      "la guitarra eléctrica"
+     ],
+     "hint": "",
+     "text": "guitarra"
+    },
+    {
+     "altSpellings": [
+      "violonchelo",
+      "cello",
+      "violoncello"
+     ],
+     "hint": "",
+     "text": "chelo"
+    },
+    {
+     "altSpellings": [
+      "arpa de pedal"
+     ],
+     "hint": "Esta cosa gigante tiene un sonido de lo más angelical.",
+     "text": "arpa"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Necesitan uno de estos si van a tocar música bluegrass. Oh, ¿no van a tocar bluegrass? Bueno, aún así, solo escriban el instrumento.",
+     "text": "banjo"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Voy a darles una pista: ¡es de Hawai!",
+     "text": "ukelele"
+    }
+   ],
+   "category": "Música",
+   "exactSpelling": false,
+   "id": "78058",
+   "isValid": "",
+   "prompt": "Mis 7 instrumentos de cuerda favoritos",
+   "subtype": "subjetivo",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "cono de helado"
+     ],
+     "hint": "",
+     "text": "helado"
+    },
+    {
+     "altSpellings": [
+      "paleta helada",
+      "paleta de hielo"
+     ],
+     "hint": "Postre en un palito. No hay nada mejor que eso.",
+     "text": "paleta de agua"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "sorbete"
+    },
+    {
+     "altSpellings": [
+      "flan"
+     ],
+     "hint": "Este está en el espectro del pudín. Un espectro que acabo de inventar.",
+     "text": "natilla"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Este postre es muy popular en Italia. Eso asumo.",
+     "text": "hielo italiano"
+    },
+    {
+     "altSpellings": [
+      "yogurt",
+      "yogur"
+     ],
+     "hint": "",
+     "text": "yogur helado"
+    },
+    {
+     "altSpellings": [
+      "granizado",
+      "slushie"
+     ],
+     "hint": "Este puedes beberlo.",
+     "text": "aguanieve"
+    }
+   ],
+   "category": "Comida y Bebida",
+   "exactSpelling": false,
+   "id": "78059",
+   "isValid": "",
+   "prompt": "Mis 7 postres helados favoritos",
+   "subtype": "subjetivo",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "¡Nueva York, baby!",
+     "text": "manhattan"
+    },
+    {
+     "altSpellings": [
+      "cosmo"
+     ],
+     "hint": "",
+     "text": "cosmopolitan"
+    },
+    {
+     "altSpellings": [],
+     "hint": "James Bond prefiere el suyo agitado, no revuelto.",
+     "text": "martini"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¡La palabra más divertida de decir! ¡Mojito! Oh, ups. Mala mía.",
+     "text": "mojito"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "whiskey sour"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Digamos que eres un tradicionalista... puede que la gente te llame ASÍ. (en inglés)",
+     "text": "old fashioned"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Moscow mule"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "mai tai"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "margarita"
+    },
+    {
+     "altSpellings": [
+      "blooding mary"
+     ],
+     "hint": "¡Tomates, gente! ¡El que lleva tomates!",
+     "text": "bloody mary"
+    },
+    {
+     "altSpellings": [
+      "tequila sun",
+      "tequila sunrise"
+     ],
+     "hint": "",
+     "text": "Acapulco"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Vladimir Putin se podría identificar con ESTA bebida.",
+     "text": "Ruso Blanco"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Una de estas no es VERDADERAMENTE un té helado.",
+     "text": "Té Helado Long Island"
+    }
+   ],
+   "category": "Comida y Bebida",
+   "exactSpelling": false,
+   "id": "78063",
+   "isValid": "",
+   "prompt": "Las 13 mejores bebidas de bares",
+   "subtype": "subjetivo",
+   "us": false,
+   "x": true
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Fiji",
+      "Fiji Water"
+     ],
+     "hint": "¡Es el nombre de una isla!",
+     "text": "Fiyi"
+    },
+    {
+     "altSpellings": [
+      "Dasani Water",
+      "Agua Dasani"
+     ],
+     "hint": "",
+     "text": "Dasani"
+    },
+    {
+     "altSpellings": [
+      "Evian Water",
+      "Agua Evian",
+      "Evian Sparkling",
+      "Evian Sparkling Water",
+      "Agua Evian Sparkling"
+     ],
+     "hint": "",
+     "text": "Evian"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Creo que esta subió mi IQ de 300 a 301.",
+     "text": "Smartwater"
+    },
+    {
+     "altSpellings": [
+      "perrier water",
+      "perrier mineral water",
+      "agua perrier",
+      "agua mineral perrier"
+     ],
+     "hint": "¡Esta es francesa! ¡Oui, oui! Si me piden mi opinión.",
+     "text": "Perrier"
+    },
+    {
+     "altSpellings": [
+      "Voss Water",
+      "Agua Voss"
+     ],
+     "hint": "Yo compro esta solo por la bella botella. Rima con... “moss” (musgo).",
+     "text": "Voss"
+    },
+    {
+     "altSpellings": [
+      "Aquafina Water",
+      "Agua Aquafina"
+     ],
+     "hint": "",
+     "text": "Aquafina"
+    },
+    {
+     "altSpellings": [
+      "Poland Spring Water",
+      "Agua Poland Spring"
+     ],
+     "hint": "De acuerdo, apuremos esto, agua de manantial de Polonia.",
+     "text": "Poland Spring"
+    }
+   ],
+   "category": "Empresas y Marcas",
+   "exactSpelling": false,
+   "id": "78663",
+   "isValid": "",
+   "prompt": "Mis 8 marcas de agua embotellada favoritas",
+   "subtype": "subjetivo",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Lobo de Wall Street",
+      "El Lobo y Wall Street",
+      "Lobo y Wall Street",
+      "Los Lobos y Wall Street",
+      "Lobos de Wall Street",
+      "Lobo Wall Street"
+     ],
+     "hint": "En ESTA, él hace de lobo, por así decirlo.",
+     "text": "[i]El lobo de Wall Street[/i]"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Ah... ESTA película fue simplemente soñada.",
+     "text": "[i]El Origen[/i]"
+    },
+    {
+     "altSpellings": [
+      "Shutter Island",
+      "The Shutter Island"
+     ],
+     "hint": "Ya saben, esa en la que muere su esposa y él piensa que es un detective.",
+     "text": "[i]La isla siniestra[/i]"
+    },
+    {
+     "altSpellings": [
+      "Gran Gatsby"
+     ],
+     "hint": "F. Scott Fitzgerald. ¿Eso los ayuda?",
+     "text": "[i]El gran Gatsby[/i]"
+    },
+    {
+     "altSpellings": [
+      "Romeo Julieta",
+      "Romeo y Julieta",
+      "Romeo & Julieta"
+     ],
+     "hint": "",
+     "text": "[i]Romeo + Julieta[/i]"
+    },
+    {
+     "altSpellings": [
+      "Aviador"
+     ],
+     "hint": "Voy a darles una pista... El aviador.",
+     "text": "[i]El aviador[/i]"
+    }
+   ],
+   "category": "Película y TV",
+   "exactSpelling": false,
+   "id": "78667",
+   "isValid": "",
+   "prompt": "Mis 6 películas favoritas de Leonardo DiCaprio",
+   "subtype": "subjetivo",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Guasón",
+      "Joker",
+      "El Joker",
+      "The Joker"
+     ],
+     "text": "El Guasón"
+    },
+    {
+     "altSpellings": [
+      "Two-Face",
+      "Two Face",
+      "2 Face",
+      "To Face",
+      "Dos-Caras",
+      "2 Caras",
+      "Harvey Dent",
+      "Dent",
+      "Harvey"
+     ],
+     "text": "Dos Caras"
+    },
+    {
+     "altSpellings": [
+      "Catwoman",
+      "Cat Woman",
+      "Selina Kyle"
+     ],
+     "text": "Gatúbela"
+    },
+    {
+     "altSpellings": [
+      "Acertijo",
+      "The Riddler",
+      "Riddler",
+      "Edward Nigma"
+     ],
+     "hint": "Uno de estos es un verdadero interrogante.",
+     "text": "El Acertijo"
+    },
+    {
+     "altSpellings": [
+      "The Penguin",
+      "Penguin",
+      "Pingüino",
+      "Oswald Chesterfield Cobblepot"
+     ],
+     "hint": "Oh vamos. ¡¿El del paraguas?!",
+     "text": "El Pingüino"
+    },
+    {
+     "hint": "Piensa en Play-Doh.",
+     "text": "Cara de Barro"
+    },
+    {
+     "altSpellings": [
+      "Pamela Lillian Isley",
+      "Pamela Isley",
+      "Pamela",
+      "Hiedra Venenosa"
+     ],
+     "text": "La Hiedra Venenosa"
+    },
+    {
+     "altSpellings": [
+      "Mr. Freeze",
+      "Freeze",
+      "Mr Freeze",
+      "Mister Freeze",
+      "Victor Fries",
+      "Sr Frío",
+      "Señor Frío",
+      "Frío"
+     ],
+     "hint": "Arnold Schwarzenegger interpretó a ESTE malito.",
+     "text": "Sr. Frío"
+    },
+    {
+     "text": "Bane"
+    },
+    {
+     "altSpellings": [
+      "Espantapájaros",
+      "Jonathan Crane",
+      "Doctor Crane",
+      "Dr. Crane",
+      "Crane"
+     ],
+     "hint": "No es el Hombre de Hojalata, sino...",
+     "text": "El Espantapájaros"
+    }
+   ],
+   "category": "Animación/Libros de cómic",
+   "exactSpelling": false,
+   "id": "78737",
+   "isValid": "",
+   "prompt": "Mis 10 villanos de Batman favoritos",
+   "subtype": "subjetivo",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "el baño"
+     ],
+     "hint": "Suena como que te podrías dormir en ese lugar.",
+     "text": "baño"
+    },
+    {
+     "altSpellings": [
+      "el toilet"
+     ],
+     "hint": "¡Piensen en inglés!",
+     "text": "toilet"
+    },
+    {
+     "altSpellings": [
+      "el excusado"
+     ],
+     "hint": "¡Piensen en inglés!",
+     "text": "excusado"
+    },
+    {
+     "altSpellings": [
+      "el sanitario"
+     ],
+     "hint": "Una palabra que usarías para baño en sociedades educadas. O en aviones.",
+     "text": "sanitario"
+    },
+    {
+     "altSpellings": [
+      "la letrina"
+     ],
+     "hint": "Si estuvieras varado en una isla desierta, es posible que necesites cavar uno de estos.",
+     "text": "letrina"
+    },
+    {
+     "altSpellings": [
+      "el lavabo"
+     ],
+     "hint": "A fregar y refregar.",
+     "text": "lavabo"
+    },
+    {
+     "altSpellings": [
+      "el váter"
+     ],
+     "hint": "La ropa podría ir aquí, acorde al nombre al menos.",
+     "text": "váter"
+    },
+    {
+     "altSpellings": [
+      "el tocador"
+     ],
+     "hint": "¡Piensen en la década de los 50!",
+     "text": "tocador"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "exactSpelling": false,
+   "id": "78745",
+   "isValid": "",
+   "prompt": "8 maneras diferentes de decir “baño”",
+   "subtype": "subjetivo",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Chipotle",
+      "Suroeste",
+      "Salsa Chipotle",
+      "Salsa suroeste",
+      "mayonesta chipotle",
+      "chipotle suroeste",
+      "mayonesa suroeste de chipotle"
+     ],
+     "hint": "¡Ya sabes! Esa salsa que de repente se convirtió en algo en la década de 2000.",
+     "text": "salsa suroeste de chipotle"
+    },
+    {
+     "altSpellings": [
+      "Mayonesa"
+     ],
+     "hint": "Cremosidad de los dioses.",
+     "text": "mayonesa light"
+    },
+    {
+     "altSpellings": [
+      "pimiento de banana",
+      "pimientos",
+      "pimientos amarillos",
+      "chiles",
+      "chiles de banana",
+      "chiles amarillos",
+      "pimiento",
+      "pimiento amarillo",
+      "chile",
+      "chile de banana",
+      "chile amarillo"
+     ],
+     "text": "pimientos de banana"
+    },
+    {
+     "altSpellings": [
+      "lechuga picada"
+     ],
+     "hint": "Verdes por favor.",
+     "text": "lechuga"
+    },
+    {
+     "altSpellings": [
+      "pepino"
+     ],
+     "hint": "No es zucchini pero está cerca.",
+     "text": "pepinos"
+    },
+    {
+     "altSpellings": [
+      "tomate"
+     ],
+     "hint": "Ustedes dicen esto, yo digo esto.",
+     "text": "tomates"
+    },
+    {
+     "altSpellings": [
+      "jamón de la selva negra",
+      "jamón con miel",
+      "jamón ahumado"
+     ],
+     "text": "jamón"
+    },
+    {
+     "altSpellings": [],
+     "text": "salame"
+    },
+    {
+     "altSpellings": [
+      "pavo rostizado",
+      "pavo al horno",
+      "pavo asado al horno"
+     ],
+     "text": "pavo"
+    }
+   ],
+   "category": "Comida y Bebida",
+   "exactSpelling": false,
+   "id": "78747",
+   "isValid": "",
+   "prompt": "¿Qué debe ir en un Pan Artesanal de doce pulgadas en Subway?",
+   "subtype": "subjetivo",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Bereishit",
+      "Bereshit",
+      "Orígenes",
+      "Bresheit",
+      "B’reshit",
+      "Ma’aseh B’reshit"
+     ],
+     "hint": "Al principio, Phil Collins estaba en esta banda...",
+     "text": "Génesis"
+    },
+    {
+     "altSpellings": [
+      "Shemot",
+      "Sh’mot",
+      "Yesi’at Misrayim"
+     ],
+     "hint": "Deja que mi gente vaya, porque cuando tienes que ir, tienes que IR.",
+     "text": "Éxodo"
+    },
+    {
+     "altSpellings": [
+      "vayikra",
+      "Ley de los Levitas",
+      "vayicra",
+      "vayyikra",
+      "Torat Kohanim",
+      "Y Él llamó"
+     ],
+     "hint": "Prefiero los jean de corte cónico, pero esta tribu sacerdotal hebrea probablemente prefería los de corte recto.",
+     "text": "Levítico"
+    },
+    {
+     "altSpellings": [
+      "Bamidbar",
+      "El Census",
+      "Bemidbar",
+      "Pekuddim",
+      "El Libro de los Números"
+     ],
+     "hint": "Empiezas con el uno y luego sigues contando para siempre.",
+     "text": "Números"
+    },
+    {
+     "altSpellings": [
+      "Devarim",
+      "Segunda Ley",
+      "La Segunda Ley",
+      "Estas son las palabras",
+      "D’varim",
+      "Mishneh Torah"
+     ],
+     "hint": "Uno pensaría que no necesitarías un segundo libro de reglas luego de tu primer libro masivo de reglas, pero aquí estamos.",
+     "text": "Deuteronomio"
+    }
+   ],
+   "category": "Religión",
+   "exactSpelling": false,
+   "id": "79190",
+   "isValid": "",
+   "prompt": "¿Cuáles son los primeros 5 libros del Antiguo Testamento?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Francis Sinatra",
+      "Old Blue Eyes",
+      "Ol’ Blue Eyes",
+      "El viejo ojos azules",
+      "El viejo de ojos azules",
+      "Viejo ojos azules",
+      "Viejo de ojos azules",
+      "Sinatra",
+      "Frank",
+      "La Voz"
+     ],
+     "hint": "ÉL lo hizo a su manera.",
+     "text": "Frank Sinatra"
+    },
+    {
+     "altSpellings": [
+      "Samuel Davis Jr",
+      "sam davis",
+      "Sammie Davis Jr.",
+      "Sammie Davis Junior",
+      "Sammy Davis",
+      "Davis",
+      "Sammy",
+      "Samuel Davis"
+     ],
+     "hint": "Fácilmente, el mejor bailarín del grupo fue ESTE tipo.",
+     "text": "Sammy Davis Jr."
+    },
+    {
+     "altSpellings": [
+      "Dino Paul Crocetti",
+      "Deano",
+      "Dino",
+      "Martin",
+      "Dean",
+      "Dino Martin",
+      "Dino Crocetti"
+     ],
+     "hint": "",
+     "text": "Dean Martin"
+    },
+    {
+     "altSpellings": [
+      "Joseph Abraham Gottlieb",
+      "Joe Bishop",
+      "Bishop",
+      "Joey",
+      "Joseph Gottlieb"
+     ],
+     "hint": "ESTE tipo solo podría moverse diagonalmente en un tablero de ajedrez.",
+     "text": "Joey Bishop"
+    },
+    {
+     "altSpellings": [
+      "Pete Lawford",
+      "Lawford",
+      "Peter"
+     ],
+     "hint": "Old Blue Eyes solía bromear que era el cuñado de John F. Kennedy.",
+     "text": "Peter Lawford"
+    }
+   ],
+   "category": "Celebridades",
+   "exactSpelling": false,
+   "id": "79191",
+   "isValid": "",
+   "prompt": "Nombra los 5 miembros del Rat Pack de los 60",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Manhattan Island",
+      "Isla de Manhattan"
+     ],
+     "hint": "Es también un popular cóctel de whisky de centeno que se sirve con una cereza.",
+     "text": "Manhattan"
+    },
+    {
+     "altSpellings": [
+      "The Bronx",
+      "El Bronx"
+     ],
+     "hint": "Una vez Jackie Chan vino aquí y hizo algo de alboroto.",
+     "text": "Bronx"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Aparentemente, los hipsters arruinaron ESTE distrito.",
+     "text": "Brooklyn"
+    },
+    {
+     "altSpellings": [
+      "Staten Isl.",
+      "Isl. Staten",
+      "Isla Staten"
+     ],
+     "hint": "La mayoría de los distritos son islas, pero ESTE lo tiene en el nombre.",
+     "text": "Staten Island"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Este distrito puede moverse en cualquier dirección en un tablero de ajedrez.",
+     "text": "Queens"
+    }
+   ],
+   "category": "Geografía y Lugares",
+   "exactSpelling": false,
+   "id": "79192",
+   "isValid": "",
+   "prompt": "¿Cuáles son los 5 distritos de la ciudad de Nueva York?",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "shahada",
+      "El Shahada",
+      "La Profesión de fe",
+      "Profesión",
+      "Testimonio",
+      "Testimonio de fe",
+      "El Testimonio de fe"
+     ],
+     "hint": "Para ser un buen musulmán tienes que decir lo que crees en voz alta.",
+     "text": "Profesión de fe"
+    },
+    {
+     "altSpellings": [
+      "salat",
+      "salah",
+      "orar",
+      "oración diaria",
+      "el salat",
+      "la salat"
+     ],
+     "hint": "",
+     "text": "Oración"
+    },
+    {
+     "altSpellings": [
+      "limosna",
+      "caridad",
+      "zakat",
+      "zakaat"
+     ],
+     "hint": "Ser generoso on tu tiempo y con tu dinero.",
+     "text": "Azaque"
+    },
+    {
+     "altSpellings": [
+      "abstinencia",
+      "ayuno durante el ramadán",
+      "Ramadán",
+      "Saum",
+      "abstenerse de comer y beber"
+     ],
+     "hint": "No necesariamente tienes que ser rápido, pero durante este mes, esperas que las puestas de sol sean más tempranas.",
+     "text": "Ayuno"
+    },
+    {
+     "altSpellings": [
+      "peregrinaje",
+      "peregrinar",
+      "romería",
+      "Visitar Mecca",
+      "Mecca",
+      "Peregrinación a Mecca",
+      "Ka’ba",
+      "Kaaba"
+     ],
+     "hint": "No estaría de más que cruzaras el mundo para visitarlo una vez en la vida.",
+     "text": "Peregrinación"
+    }
+   ],
+   "category": "Religión",
+   "exactSpelling": false,
+   "id": "79196",
+   "isValid": "",
+   "prompt": "¿Cuáles son los cinco pilares del Islam?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "¡Oh hoh hoh! ¡Baguette si'l vous plait!",
+     "text": "Francia"
+    },
+    {
+     "altSpellings": [
+      "Italia"
+     ],
+     "hint": "",
+     "text": "Italia"
+    },
+    {
+     "altSpellings": [
+      "Deutchland",
+      "Germania",
+      "Allemagne"
+     ],
+     "hint": "¡Achtung!",
+     "text": "Alemania"
+    },
+    {
+     "altSpellings": [
+      "Osterreich"
+     ],
+     "hint": "¡El otro Achtung!",
+     "text": "Austria"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Una ex primera dama procede de este país.",
+     "text": "Eslovenia"
+    },
+    {
+     "altSpellings": [
+      "Schweiz",
+      "Suisse",
+      "Svizzera",
+      "Svizra"
+     ],
+     "hint": "Con la voz más neutral que pueda, debo decir, hacen chocolates excelentes y aun mejores cuchillos.",
+     "text": "Suiza"
+    },
+    {
+     "altSpellings": [
+      "Lichtenstein"
+     ],
+     "hint": "Esta pequeña nación tiene un nombre largo y aparentemente unas grandes montañas.",
+     "text": "Liechtenstein"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Si alguna vez buscan un Grand Prix, conozco una ciudad-estado.",
+     "text": "Mónaco"
+    }
+   ],
+   "category": "Geografía y Lugares",
+   "exactSpelling": false,
+   "id": "79220",
+   "isValid": "",
+   "prompt": "¿Por qué 8 países atraviesan los Alpes?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Anaheim, California",
+      "Los Ángeles",
+      "LA",
+      "Hollywood"
+     ],
+     "hint": "No es solo un lugar para ver a los Ducks jugar hockey. Aquí también puedes encontrarte a Donald.",
+     "text": "Anaheim"
+    },
+    {
+     "altSpellings": [
+      "París, Francia",
+      "Disneylandia París",
+      "Disneyland París"
+     ],
+     "hint": "¿Torre Eiffel? Goofy se cayó en su jardín de flores.",
+     "text": "París"
+    },
+    {
+     "altSpellings": [
+      "Tokio, Japón",
+      "Tokio Disney",
+      "Tokio DisneySea",
+      "Tokio Disney Sea"
+     ],
+     "hint": "En el idioma de este país, ratón se pronuncia \"nezumi\".",
+     "text": "Tokio"
+    },
+    {
+     "altSpellings": [
+      "Shanghái, China",
+      "Shanghái Disney"
+     ],
+     "hint": "El país natal de Mulán tiene dos parques temáticos, uno en esta famosa ciudad.",
+     "text": "Shanghái"
+    },
+    {
+     "altSpellings": [
+      "Hong Kong, China",
+      "Hong Kong Disney",
+      "Hong Kong Disneylandia",
+      "Hong Kong Disneyland"
+     ],
+     "hint": "El país natal de Mulán tiene dos parques temáticos, uno en esta antigua colonia británica.",
+     "text": "Hong Kong"
+    },
+    {
+     "altSpellings": [
+      "Orlando, Florida",
+      "Bay Lake",
+      "Lago Buena Vista",
+      "Buena Vista",
+      "Disneyworld Orlando",
+      "WDW Orlando"
+     ],
+     "hint": "",
+     "text": "Orlando"
+    }
+   ],
+   "category": "Geografía y Lugares",
+   "exactSpelling": false,
+   "id": "79222",
+   "isValid": "",
+   "prompt": "¿En qué ciudades del mundo puedes encontrar un parque temático de Disney?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Sr. Boddy",
+      "Mister Boddy",
+      "Mr. Boddy",
+      "Boddy",
+      "Body",
+      "El cuerpo"
+     ],
+     "hint": "Este es el nombre del anfitrión y aparece muerto.",
+     "text": "Señor Boddy"
+    },
+    {
+     "altSpellings": [
+      "Coronel Michael Mostaza",
+      "Coronel Michael Mustard",
+      "Mostaza",
+      "Mustard",
+      "Michael Mostaza",
+      "Michael Mustard",
+      "Col. Mostaza",
+      "Col. Mustard"
+     ],
+     "hint": "¿Alguien quiere Grey Poupon?",
+     "text": "Coronel Mostaza"
+    },
+    {
+     "altSpellings": [
+      "Sra. Blanche Blanco",
+      "Sra. Blanche White",
+      "Ms. Blanche Blanco",
+      "Ms. Blanche White",
+      "Sra. Blanco",
+      "Sra. White",
+      "Ms. Blanco",
+      "Ms. White",
+      "Blanco",
+      "White",
+      "Blanche Blanco",
+      "Blanche White"
+     ],
+     "hint": "Una de ellos tiene un tono de palidez.",
+     "text": "Señora Blanco"
+    },
+    {
+     "altSpellings": [
+      "Profesor Peter Plum",
+      "Profesor Peter Moradillo",
+      "Plum",
+      "Moradillo",
+      "Peter Plum",
+      "Peter Moradillo"
+     ],
+     "hint": "",
+     "text": "Profesor Moradillo"
+    },
+    {
+     "altSpellings": [
+      "Sra. Azulino",
+      "Ms. Azulino",
+      "Sra. Patricia Peacock",
+      "Sra. Patricia Azulino",
+      "Ms. Patricia Peacock",
+      "Ms. Patricia Azulino",
+      "Peacock",
+      "Azulino",
+      "Patricia Azulino",
+      "Patricia Peacock"
+     ],
+     "hint": "¡Una está siempre pavoneándose como si fuera del color de un pájaro extravagante!",
+     "text": "Señora Azulino"
+    },
+    {
+     "altSpellings": [
+      "Reverendo John Green",
+      "Reverendo John Verdi",
+      "Verdi",
+      "Rev. Green",
+      "Rev. Verdi",
+      "John Green",
+      "John Verdi"
+     ],
+     "hint": "El cesped ciertamente es ESTO en el otro lado, donde no estás acusado de asesinato.",
+     "text": "Señor Verdi"
+    },
+    {
+     "altSpellings": [
+      "Señorita Josephine Scarlet",
+      "Señorita Josephine Escarlata",
+      "Scarlet",
+      "Escarlata",
+      "Scarlett",
+      "Josephine Scarlet",
+      "Josephine Escarlata"
+     ],
+     "hint": "Un personaje ciertamente es una damisela más bien ROJA.",
+     "text": "Señorita Escarlata"
+    }
+   ],
+   "category": "Juegos",
+   "exactSpelling": true,
+   "id": "79326",
+   "isValid": "",
+   "prompt": "Nombra los 7 personajes de [i]Clue[/i]",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Mike Brady",
+      "Michael",
+      "Michael Brady"
+     ],
+     "hint": "¿El padre no era un arquitecto? ¿Oh, cuál era su nombre?",
+     "text": "Mike"
+    },
+    {
+     "altSpellings": [
+      "Greg Brady",
+      "Gregory",
+      "Gregory Brady"
+     ],
+     "hint": "Oh, ¿quién es el hijo mayor? Es tan guapo.",
+     "text": "Greg"
+    },
+    {
+     "altSpellings": [
+      "Peter Brady"
+     ],
+     "hint": "",
+     "text": "Peter"
+    },
+    {
+     "altSpellings": [
+      "Bobby Brady"
+     ],
+     "hint": "¿Están aceitando sus engranajes? El nombre de pila del hijo menor es Robert.",
+     "text": "Bobby"
+    },
+    {
+     "altSpellings": [
+      "Carol Martin",
+      "Carol Brady",
+      "Carol Tyler"
+     ],
+     "hint": "",
+     "text": "Carol"
+    },
+    {
+     "altSpellings": [
+      "Marcia Martin",
+      "Marcia Brady"
+     ],
+     "hint": "¿Recuerdan \"Marcia, Marcia, Marcia\"? ¿No? Bueno, solo escriban Marcia.",
+     "text": "Marcia"
+    },
+    {
+     "altSpellings": [
+      "Jan Brady",
+      "Jan Martin",
+      "Janet Brady"
+     ],
+     "hint": "¿Recuerdan a la hermana del medio? Desafortunadamente para ella, nadie más se acordó.",
+     "text": "Jan"
+    },
+    {
+     "altSpellings": [
+      "Cindy Brady",
+      "Cindy Martin"
+     ],
+     "hint": "",
+     "text": "Cindy"
+    },
+    {
+     "altSpellings": [
+      "Alice Nelson"
+     ],
+     "hint": "La ama de llaves se cayó por una madriguera de conejo cuando se unió a los Brady. No literalmente, es solo una pista sobre su nombre.",
+     "text": "Alice"
+    }
+   ],
+   "category": "Película y TV",
+   "exactSpelling": false,
+   "id": "79408",
+   "isValid": "",
+   "prompt": "Nombren los miembros de [i]La tribu Brady[/i]",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "tomates"
+     ],
+     "hint": "",
+     "text": "tomate"
+    },
+    {
+     "altSpellings": [
+      "zanahoria"
+     ],
+     "hint": "Naranja, ¿estás contenta de que este vegetal naranja esté ahí?",
+     "text": "zanahorias"
+    },
+    {
+     "altSpellings": [
+      "tallos de apio",
+      "palitos de apio",
+      "ramas de apio"
+     ],
+     "hint": "",
+     "text": "apio"
+    },
+    {
+     "altSpellings": [
+      "remolachas"
+     ],
+     "hint": "",
+     "text": "remolacha"
+    },
+    {
+     "altSpellings": [
+      "hojas de perejil",
+      "hierba de perejil"
+     ],
+     "hint": "V8 contiene esta hierba común, y no muy escasamente.",
+     "text": "perejil"
+    },
+    {
+     "altSpellings": [
+      "lechuga iceberg"
+     ],
+     "hint": "Que \"lechuga\" muy claro: ¡No voy a dejarlos sin hojas! Eso fue una pista.",
+     "text": "lechuga"
+    },
+    {
+     "altSpellings": [
+      "berro de agua"
+     ],
+     "hint": "¿Sabían que el berro está en el V8? Es cierto. Escriban \"berro\".",
+     "text": "berro"
+    },
+    {
+     "altSpellings": [
+      "hojas de espinaca"
+     ],
+     "hint": "Cada lata de V8 incluye un poco de la verdura favorita de Popeye.",
+     "text": "espinaca"
+    }
+   ],
+   "category": "Comida y Bebida",
+   "exactSpelling": false,
+   "id": "79413",
+   "isValid": "",
+   "prompt": "¿Cuáles son las 8 verduras V8 originales?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "New York Yankees",
+      "The Yankees",
+      "NY Yankees",
+      "The New York Yankees",
+      "Yanquis",
+      "Yanquis de Nueva York",
+      "Los Yanquis",
+      "Yanquis de NY",
+      "Los Yanquis de Nueva York"
+     ],
+     "hint": "Y lo llamó Macarrones. Vamos Jeter, este es un regalo de promoción.",
+     "text": "Yankees"
+    },
+    {
+     "altSpellings": [
+      "New York Mets",
+      "Metropolitans",
+      "The Mets",
+      "The New York Mets",
+      "NY Mets",
+      "Mets de Nueva York",
+      "Metropolitanos",
+      "Los Mets",
+      "Los Mets de Nueva York",
+      "Mets de NY"
+     ],
+     "hint": "Si han estado en varias de estas galas, han ido a varias...",
+     "text": "Mets"
+    },
+    {
+     "altSpellings": [
+      "New York Giants",
+      "The Giants",
+      "NY Giants",
+      "The New York Giants",
+      "Gigantes",
+      "Gigantes de Nueva York",
+      "Los Gigantes",
+      "Gigantes de NY",
+      "Los Gigantes de Nueva York"
+     ],
+     "hint": "Jack junto a sus habichuelas mágicas conoció a uno de estos tontuelos.",
+     "text": "Giants"
+    },
+    {
+     "altSpellings": [
+      "New York Jets",
+      "The Jets",
+      "NY Jets",
+      "The New York Jets",
+      "Jets de Nueva York",
+      "Los Jets",
+      "Jets de NY",
+      "Los Jets de Nueva York"
+     ],
+     "hint": "¡Oye! ¡No ves que voy Mach 3 por aquí!",
+     "text": "Jets"
+    },
+    {
+     "altSpellings": [
+      "Brooklyn Nets",
+      "The Nets",
+      "The Brooklyn Nets",
+      "Nets de Brooklyn",
+      "Los Nets",
+      "Los Nets de Brooklyn"
+     ],
+     "hint": "Si recién estás arrancando como acróbata, probablemente quieras una de estas.",
+     "text": "Nets"
+    },
+    {
+     "altSpellings": [
+      "New York Rangers",
+      "NY Rangers",
+      "The Rangers",
+      "Rangers de Nueva York",
+      "Rangers de NY",
+      "Los Rangers"
+     ],
+     "hint": "Oh, hi-ho, Silver!",
+     "text": "Rangers"
+    },
+    {
+     "altSpellings": [
+      "New York Islanders",
+      "The Islanders",
+      "NY Islanders",
+      "The New York Islanders",
+      "Islanders de Nueva York",
+      "Los Islanders",
+      "Islanders de NY",
+      "Los Islanders de Nueva York"
+     ],
+     "hint": "Si tu casa está completamente rodeada de agua, eres uno de ellos. O necesita un plomero.",
+     "text": "Islanders"
+    },
+    {
+     "altSpellings": [
+      "New York Knicks",
+      "New York Knickerbockers",
+      "The Knicks",
+      "The New York Knicks",
+      "Knicks de Nueva York",
+      "Knickerbockers de Nueva York",
+      "Los Knicks",
+      "The Knicks de Nueva York"
+     ],
+     "hint": "Estoy seguro de que me haría un par de estos pequeños e incómodos cortes si alguna vez necesitara afeitarme.",
+     "text": "Knicks"
+    },
+    {
+     "altSpellings": [
+      "New York Liberty",
+      "Brooklyn Liberty",
+      "Liberty de Nueva York",
+      "Liberty de Brooklyn"
+     ],
+     "hint": "¡Una dama con una antorcha está en el río!",
+     "text": "Liberty"
+    },
+    {
+     "altSpellings": [
+      "New York Red Bulls",
+      "The Red Bulls",
+      "The New York Red Bulls",
+      "Red Bulls de Nueva York",
+      "Los Red Bulls",
+      "Los Red Bulls de Nueva York"
+     ],
+     "hint": "¡Este equipo de fútbol te da alas!",
+     "text": "Red Bulls"
+    },
+    {
+     "altSpellings": [
+      "New York Magic",
+      "The Magic",
+      "Magic de Nueva York",
+      "Los Magic"
+     ],
+     "hint": "Pueden ver a estas chicas jugar fútbol, o pueden ver a David Blaine hacer esto por Times Square.",
+     "text": "Magic"
+    }
+   ],
+   "category": "Deportes",
+   "exactSpelling": false,
+   "id": "79420",
+   "isValid": "",
+   "prompt": "Nombres los equipos deportivos profesionales de la ciudad de Nueva York",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "¿Cómo pueden olvidarse del color de los tomates?",
+     "text": "rojo"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¡Es el color de las zanahorias! Ya saben cuál.",
+     "text": "naranja"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¿En dónde estaríamos sin este color primario? ¡La mostaza sería gris!",
+     "text": "amarillo"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¡Es del color de la crujiente y frondosa lechuga! ¡Perfecto en un sándwich!",
+     "text": "verde"
+    },
+    {
+     "altSpellings": [
+      "cian"
+     ],
+     "hint": "¡No te olvides del color de los arándanos! Oh, ups.",
+     "text": "azul"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Estarás \"más cerca de estar bien\" si puedes recordar lo que significa la I en Roy G Biv.",
+     "text": "índigo"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Es la palabra para púrpura que comienza con V. El espectro visible de la luz es así de extravagante.",
+     "text": "violeta"
+    }
+   ],
+   "category": "Ciencia y Medicina",
+   "exactSpelling": false,
+   "id": "79424",
+   "isValid": "",
+   "prompt": "¿Qué 7 colores están en el espectro visible de la luz?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Copperfield"
+     ],
+     "hint": "¿Ya saben, como el personaje de Dickens?",
+     "text": "David Copperfield"
+    },
+    {
+     "altSpellings": [
+      "Siegfried & Roy",
+      "Siegfried y Roy",
+      "Roy and Siegfried",
+      "Roy y Siegfried",
+      "Roy & Siegfried",
+      "Siegfried Roy"
+     ],
+     "hint": "¡Ellos tenían los tigres! Los tigres mágicos",
+     "text": "Siegfried and Roy"
+    },
+    {
+     "altSpellings": [
+      "Burton"
+     ],
+     "hint": "",
+     "text": "Lance Burton"
+    },
+    {
+     "altSpellings": [
+      "Jay",
+      "Ricky"
+     ],
+     "hint": "",
+     "text": "Ricky Jay"
+    },
+    {
+     "altSpellings": [
+      "Penn & Teller",
+      "Penn Teller",
+      "Penn y Teller"
+     ],
+     "hint": "Hay algo mágico sobre su diferencia de altura.",
+     "text": "Penn and Teller"
+    },
+    {
+     "altSpellings": [
+      "Angel"
+     ],
+     "hint": "¿Ya saben, el chico malo de la magia?",
+     "text": "Criss Angel"
+    },
+    {
+     "altSpellings": [
+      "Houdini"
+     ],
+     "hint": "El hombre que empezó todo, si por “todo” se refieren a ahogarse llevando esposas.",
+     "text": "Harry Houdini"
+    },
+    {
+     "altSpellings": [
+      "Blane"
+     ],
+     "hint": "Oh, ¿qué tal el tipo que estuvo encerrado en una caja por 44 días? Eso fue bastante mágico.",
+     "text": "David Blaine"
+    }
+   ],
+   "category": "Cultura Pop",
+   "exactSpelling": false,
+   "id": "79427",
+   "isValid": "",
+   "prompt": "Mis 8 magos famosos favoritos",
+   "subtype": "subjetivo",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "mini iPad",
+      "un iPad",
+      "un iPad mini"
+     ],
+     "hint": "Es como un iPad, pero más pequeño.",
+     "text": "iPad mini"
+    },
+    {
+     "altSpellings": [
+      "El iPhone",
+      "un iPhone"
+     ],
+     "hint": "",
+     "text": "iPhone"
+    },
+    {
+     "altSpellings": [
+      "Watch"
+     ],
+     "hint": "Lo llevas en tu muñeca.",
+     "text": "Apple Watch"
+    },
+    {
+     "altSpellings": [
+      "tv"
+     ],
+     "hint": "",
+     "text": "Apple TV"
+    },
+    {
+     "altSpellings": [
+      "Audífonos de Apple",
+      "Auriculares de Apple",
+      "AirPods Pro"
+     ],
+     "hint": "",
+     "text": "AirPods"
+    },
+    {
+     "altSpellings": [
+      "el ipod",
+      "un ipod"
+     ],
+     "hint": "Este es un dispositivo que almacenaba música en los viejos tiempos.",
+     "text": "iPod"
+    }
+   ],
+   "category": "Factoides",
+   "exactSpelling": false,
+   "id": "79461",
+   "isValid": "",
+   "prompt": "¿Qué 6 productos Apple entran en una caja de zapatos estándar?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "chocolate semi-dulce",
+      "chocolate agridulce"
+     ],
+     "hint": "¡Oh vamos, está en el nombre, gente!",
+     "text": "chocolate"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Si quieres hacer un soufflé, tienes que romper un par de estos pequeños.",
+     "text": "huevos"
+    },
+    {
+     "altSpellings": [
+      "crémor tártaro",
+      "tártaro",
+      "crema de tártaro",
+      "el cremor tártaro"
+     ],
+     "hint": "",
+     "text": "crema"
+    },
+    {
+     "altSpellings": [
+      "sal marina"
+     ],
+     "hint": "No puedo creer que no se les haya ocurrido poner una pizca de esto.",
+     "text": "sal"
+    },
+    {
+     "altSpellings": [
+      "azúcar granulada"
+     ],
+     "hint": "",
+     "text": "azúcar"
+    },
+    {
+     "altSpellings": [
+      "vainilla"
+     ],
+     "hint": "Les daré una pista... es un extracto... hecho de vainilla.",
+     "text": "extracto de vainilla"
+    },
+    {
+     "altSpellings": [
+      "barra de manteca",
+      "manteca sin sal",
+      "mantequilla",
+      "barra de mantequilla",
+      "mantequilla sin sal"
+     ],
+     "hint": "",
+     "text": "manteca"
+    }
+   ],
+   "category": "Comida y Bebida",
+   "exactSpelling": false,
+   "id": "79462",
+   "isValid": "",
+   "prompt": "¿Cuáles son los ingredientes de un soufflé de chocolate?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "triángulo"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¡Tiene 8 lados! Eso sí que sería genial. Me refiero a tener lados.",
+     "text": "octágono"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "cuadrado"
+    },
+    {
+     "altSpellings": [
+      "rombo"
+     ],
+     "hint": "¡Dicen que ESTE es el mejor amigo de una chica!",
+     "text": "diamante"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "rectángulo"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Esta me haría parecer como la señal de alto más asombrosa de todas.",
+     "text": "hexágono"
+    }
+   ],
+   "category": "Matemáticas",
+   "exactSpelling": false,
+   "id": "79467",
+   "isValid": "",
+   "prompt": "Las 6 formas que me gustaría ser si no fuera una ruleta",
+   "subtype": "subjetivo",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Premio de Física"
+     ],
+     "hint": "",
+     "text": "Física"
+    },
+    {
+     "altSpellings": [
+      "Premio de Química"
+     ],
+     "hint": "Es una ciencia y algo que Mulder y Scully tenían.",
+     "text": "Química"
+    },
+    {
+     "altSpellings": [
+      "Fisiología",
+      "Fisiología o Medicina",
+      "Fisiología y Medicina",
+      "Fisiología Medicina",
+      "Medicina o Fisiología",
+      "Medicina Fisiología",
+      "Medicina y Fisiología",
+      "Premio de Medicina",
+      "Premio de Fisiología"
+     ],
+     "hint": "",
+     "text": "Medicina"
+    },
+    {
+     "altSpellings": [
+      "Premio de Paz"
+     ],
+     "hint": "Los ganadores de una categoría incluyen a Nelson Mandela y la Madre Teresa.",
+     "text": "Paz"
+    },
+    {
+     "altSpellings": [
+      "Premio de Literatura"
+     ],
+     "hint": "",
+     "text": "Literatura"
+    },
+    {
+     "altSpellings": [
+      "Ciencia Económica",
+      "Economía",
+      "Premio en Ciencias Económicas",
+      "Premio en Economía",
+      "Premio en Ciencia Económica"
+     ],
+     "hint": "(a sí mismo) Dinero, dinero, dinero.",
+     "text": "Ciencias Económicas"
+    }
+   ],
+   "category": "Ciencia y Medicina",
+   "exactSpelling": false,
+   "id": "79471",
+   "isValid": "",
+   "prompt": "¿Cuáles son las 6 categorías del Premio Nobel?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Delta Airlines",
+      "Delta Airline",
+      "Delta Air",
+      "Aerolíneas Delta",
+      "Aerolínea Delta"
+     ],
+     "hint": "¿Llamada así por el final de un río? Bastante aburrido.",
+     "text": "Delta"
+    },
+    {
+     "altSpellings": [
+      "Virgin Atlantic",
+      "Virgin Australia",
+      "Virgin Airline",
+      "Virgin Airlines",
+      "Virgin Air",
+      "Aerolíneas Virgin",
+      "Aerolínea Virgin"
+     ],
+     "hint": "¡Vuelve a vender CDs en la megatienda!",
+     "text": "Virgin"
+    },
+    {
+     "altSpellings": [
+      "Southwest Airlines",
+      "Southwest Airline",
+      "Southwest Air",
+      "Aerolíneas Southwest",
+      "Aerolínea Southwest"
+     ],
+     "hint": "Una dirección y otra dirección... WOW, original!",
+     "text": "Southwest"
+    },
+    {
+     "altSpellings": [
+      "Frontier Airlines",
+      "Frontier Airline",
+      "Frontier Air",
+      "Aerolíneas Frontier",
+      "Aerolínea Frontier"
+     ],
+     "hint": "Este es irónico porque ya no entra en el gran desconocido, solo Cleveland.",
+     "text": "Frontier"
+    },
+    {
+     "altSpellings": [
+      "JetBlue Airways",
+      "JetBlue Airline",
+      "JetBlue Airlines",
+      "JetBlue Air",
+      "Aerolíneas JetBlue",
+      "Aerolínea JetBlue"
+     ],
+     "hint": "¡No puedes simplemente decir lo que eres y luego un color!",
+     "text": "JetBlue"
+    },
+    {
+     "altSpellings": [
+      "Emirates Airline",
+      "Emirates Airlines",
+      "Aerolíneas Emirates",
+      "Aerolínea Emirates"
+     ],
+     "hint": "Iba a volar a la sede corporativa para quejarme, pero Dubái está demasiado lejos para mí.",
+     "text": "Emirates"
+    },
+    {
+     "altSpellings": [
+      "Aer Lingus Airline",
+      "Aer Lingus Airlines",
+      "Aerolíneas Aer Lingus",
+      "Aerolínea Aer Lingus"
+     ],
+     "hint": "Esta aerolínea Europea suena sucia.\n\nALT. Qué decir de esta aerolínea Europea... bueno... todo está en la lengua.",
+     "text": "Aer Lingus"
+    },
+    {
+     "altSpellings": [
+      "Deutsche Lufthansa",
+      "Lufthansa Airline",
+      "Lufthansa Airlines",
+      "Aerolíneas Lufthansa",
+      "Aerolínea Lufthansa"
+     ],
+     "hint": "Suena como \"Lift Hans\", ¿verdad? Lo que sea.",
+     "text": "Lufthansa"
+    },
+    {
+     "altSpellings": [
+      "Spirit Airlines",
+      "Spirit Airline",
+      "Spirit Air",
+      "Aerolíneas Spirit",
+      "Aerolínea Spirit"
+     ],
+     "hint": "Lo llaman así porque si tomas uno de sus vuelos tu alma abandona tu cuerpo.\n\nALT. (imitando la alegría del espíritu) \"Tenemos una aerolínea, sí, tenemos una aerolínea, ¿y tú?\"",
+     "text": "Spirit"
+    },
+    {
+     "altSpellings": [
+      "United Airlines",
+      "United Airline",
+      "United Air",
+      "Aerolíneas United",
+      "Aerolínea United"
+     ],
+     "hint": "Es hora de disolver esta \"unión\".",
+     "text": "United"
+    }
+   ],
+   "category": "Vehículos",
+   "exactSpelling": false,
+   "id": "79500",
+   "isValid": "",
+   "prompt": "Las 10 Aerolíneas que Boicoteo porque no Puedo Caber en los Aviones",
+   "subtype": "subjetivo",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "pastel de manzana",
+      "pie de manzana"
+     ],
+     "hint": "Pastel americano clásico para una ruleta clásica no afiliada a una nación.",
+     "text": "manzana"
+    },
+    {
+     "altSpellings": [
+      "pastel de cereza",
+      "pie de cereza"
+     ],
+     "hint": "Sabrosa, deliciosa y rojiza por dentro, como yo.",
+     "text": "cereza"
+    },
+    {
+     "altSpellings": [
+      "pastel de durazno",
+      "pie de durazno"
+     ],
+     "hint": "Tienes que rodar hasta Georgia para ESTE regalo.",
+     "text": "durazno"
+    },
+    {
+     "altSpellings": [
+      "pastel de calabaza",
+      "pie de calabaza"
+     ],
+     "hint": "Este pastel es una verdadera calabaza de todos los oficios.",
+     "text": "calabaza"
+    },
+    {
+     "altSpellings": [
+      "pastel de key lime",
+      "pie de key lime"
+     ],
+     "hint": "Tarta con corteza de galleta graham, ESTA tarta me pone en el estado de ánimo isleño.",
+     "text": "key lime"
+    },
+    {
+     "altSpellings": [
+      "pastel de merengue de limon",
+      "pie de merengue de limon",
+      "crema de limón",
+      "pastel de crema de limon",
+      "pie de crema de limon",
+      "natilla de limón",
+      "pastel de natilla de limon",
+      "pie de natilla de limon",
+      "flan de limón",
+      "pastel de flan de limon",
+      "pie de flan de limon",
+      "limón helado",
+      "pastel de limón helado",
+      "pie de limón helado"
+     ],
+     "hint": "Equilibra lo agrio con un poco de dulce batido y difícil de hornear. ¡Frunce los labios!",
+     "text": "merengue de limon"
+    }
+   ],
+   "category": "Comida y Bebida",
+   "exactSpelling": false,
+   "id": "79502",
+   "isValid": "",
+   "prompt": "Ojalá Mis Porciones Faciales Estuvieran Llenas de Estos 6 [i]Pasteles[/i] en Lugar de Sus Nombres",
+   "subtype": "subjetivo",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Larson",
+      "Brie"
+     ],
+     "hint": "Más como Capitana MARAVILLOSA.",
+     "text": "Brie Larson"
+    },
+    {
+     "altSpellings": [
+      "Evans",
+      "Kris Evans"
+     ],
+     "hint": "El supersoldado original, y dueño del \"Trasero de América\".",
+     "text": "Chris Evans"
+    },
+    {
+     "altSpellings": [
+      "Hemsworth",
+      "Hemworth"
+     ],
+     "hint": "¡Este definitivamente tiene un lindo martillo!",
+     "text": "Chris Hemsworth"
+    },
+    {
+     "altSpellings": [
+      "Rudd",
+      "Paul"
+     ],
+     "hint": "¡El eterno Hombre Hormiga! ¡Ninguna arruga por aquí!",
+     "text": "Paul Rudd"
+    },
+    {
+     "altSpellings": [
+      "Jackson",
+      "Sam Jackson",
+      "Samuel Jackson",
+      "Samuel",
+      "Sam",
+      "Sam Jack",
+      "SLJ",
+      "S.L.J."
+     ],
+     "hint": "",
+     "text": "Samuel L. Jackson"
+    },
+    {
+     "altSpellings": [
+      "Lilly",
+      "Evangeline"
+     ],
+     "hint": "La Avispa al titular Hombre Hormiga. ¡PIÉRDANSE en sus ojos!",
+     "text": "Evangeline Lilly"
+    },
+    {
+     "altSpellings": [
+      "Benedict",
+      "Cumberbatch"
+     ],
+     "hint": "Oh sí, me encanta Humperdink Funkybunch.",
+     "text": "Benedict Cumberbatch"
+    },
+    {
+     "altSpellings": [
+      "Cheadle"
+     ],
+     "hint": "¡No hay reemplazo para ESTA Máquina de Guerra!",
+     "text": "Don Cheadle"
+    },
+    {
+     "altSpellings": [
+      "Hiddleston"
+     ],
+     "hint": "¿Saben? Este bombón es bastante mentiroso.",
+     "text": "Tom Hiddleston"
+    },
+    {
+     "altSpellings": [
+      "Sebastian",
+      "Stan"
+     ],
+     "hint": "Bucky Barnes sí que me saca emociones. Ahora es el Soldado del Invierno de nuestro descontento... ¡de lo ardiente que es!",
+     "text": "Sebastian Stan"
+    },
+    {
+     "altSpellings": [
+      "Elizabeth",
+      "Olsen"
+     ],
+     "hint": "Esta mágica actriz nos tiene viendo rojo... y desarrollando una dimensión mental donde nada puede salir mal como resultado de un trauma.",
+     "text": "Elizabeth Olsen"
+    },
+    {
+     "altSpellings": [
+      "Anthony",
+      "Mackie"
+     ],
+     "hint": "¿Es él Falcon? ¿Capitán América? ¡Dos en uno!",
+     "text": "Anthony Mackie"
+    }
+   ],
+   "category": "Celebridades",
+   "exactSpelling": false,
+   "id": "79503",
+   "isValid": "",
+   "prompt": "Los 12 mayores bombones del universo cinematográfico de Marvel (nombres de celebridades)",
+   "subtype": "subjetivo",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Angel Soft Ultra"
+     ],
+     "hint": "¿Qué es más suave para tu tierno trasero que el toque de Cupido?",
+     "text": "Angel Soft"
+    },
+    {
+     "altSpellings": [
+      "Charmin Ultra Soft",
+      "Charmin Ultra Strong",
+      "Charmin Ultra"
+     ],
+     "hint": "Ok, ¿qué pasa con los osos? ¿Alguien puede explicármelo?",
+     "text": "Charmin"
+    },
+    {
+     "altSpellings": [
+      "Cottonelle Ultra",
+      "Cottonelle Ultra GentleCare",
+      "Cottonelle Ultra CleanCare",
+      "Cottonelle Ultra ComfortCare"
+     ],
+     "hint": "Lleva el nombre de una tela, pero no es una tela. ¿O sí?",
+     "text": "Cottonelle"
+    },
+    {
+     "altSpellings": [
+      "Walmart Great Value",
+      "Great Value Walmart"
+     ],
+     "hint": "Esta es la línea de productos internos de Walmart, así que espero que sea una ganga tan buena como dice que es.",
+     "text": "Great Value"
+    },
+    {
+     "altSpellings": [
+      "Quilted Northern Ultra",
+      "Quilting Northern",
+      "Northern"
+     ],
+     "hint": "Imagina a la abuela de alguien tejiendo ESTE papel higiénico mientras haces tus negocios... en el norte.",
+     "text": "Quilted Northern"
+    },
+    {
+     "altSpellings": [
+      "Kirkland Signature",
+      "Kirkland Costco",
+      "Costco Kirkland",
+      "Kirkland Signature Bath Tissue"
+     ],
+     "hint": "Uno lleva el nombre de la marca personal de Coscto, pero suena como el patio trasero de mi amigo Kirk.",
+     "text": "Kirkland"
+    },
+    {
+     "altSpellings": [
+      "Scott’s"
+     ],
+     "hint": "Ok, este es literalmente solo el nombre de un chico. ¿En serio, me están haciendo una broma?",
+     "text": "Scott"
+    },
+    {
+     "altSpellings": [
+      "Panda Ultra Premium"
+     ],
+     "hint": "¡Estos osos son demasiado raros y hermosos para que nombremos nuestro papel higiénico con su nombre!",
+     "text": "Panda"
+    },
+    {
+     "altSpellings": [
+      "Seven Generation",
+      "7th Generation",
+      "Seventh Gen",
+      "7th Gen"
+     ],
+     "hint": "Ya sabes cuál: ecológico, tiene una hoja como logotipo, probablemente más cómodo que una hoja real.",
+     "text": "Seventh Generation"
+    }
+   ],
+   "category": "Empresas y Marcas",
+   "exactSpelling": false,
+   "id": "79515",
+   "isValid": "",
+   "prompt": "Las 9 Marcas de Papel Higiénico que me Encantan",
+   "subtype": "subjetivo",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Wear",
+      "ware"
+     ],
+     "text": "where"
+    },
+    {
+     "altSpellings": [
+      "stair"
+     ],
+     "text": "stare"
+    },
+    {
+     "altSpellings": [
+      "bare"
+     ],
+     "text": "bear"
+    },
+    {
+     "text": "rare"
+    },
+    {
+     "text": "tear"
+    },
+    {
+     "text": "dare"
+    },
+    {
+     "text": "glare"
+    },
+    {
+     "altSpellings": [
+      "flair"
+     ],
+     "text": "flare"
+    },
+    {
+     "text": "share"
+    },
+    {
+     "altSpellings": [
+      "hare"
+     ],
+     "text": "hair"
+    },
+    {
+     "altSpellings": [
+      "ayer"
+     ],
+     "text": "air"
+    },
+    {
+     "text": "lair"
+    },
+    {
+     "text": "square"
+    },
+    {
+     "altSpellings": [
+      "they're",
+      "their"
+     ],
+     "text": "there"
+    },
+    {
+     "altSpellings": [
+      "pair",
+      "pare"
+     ],
+     "text": "pear"
+    },
+    {
+     "text": "snare"
+    },
+    {
+     "text": "swear"
+    },
+    {
+     "text": "scare"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "mare"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "exactSpelling": true,
+   "id": "79613",
+   "isValid": "",
+   "prompt": "¿Qué palabras en inglés riman con “care”? (solo palabras comunes de una sílaba)",
+   "subtype": "rimas",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "bhang"
+     ],
+     "text": "bang"
+    },
+    {
+     "text": "clang"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¡Vamos, figuritas! Métanle los colmillos.",
+     "text": "fang"
+    },
+    {
+     "text": "gang"
+    },
+    {
+     "text": "hang"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¡Ding dong! Oigan, ¿ese era el timbre?",
+     "text": "rang"
+    },
+    {
+     "text": "sang"
+    },
+    {
+     "hint": "¿Cuál es otra palabra para jerga?",
+     "text": "slang"
+    },
+    {
+     "hint": "Estoy pensando en una palabra que se parezca a \"picor\". Quizá algo amargo.",
+     "text": "tang"
+    },
+    {
+     "altSpellings": [],
+     "hint": "La trivia verdaderamente buena hace que mi corazón sienta una de estas cosas.",
+     "text": "pang"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "exactSpelling": true,
+   "id": "79614",
+   "isValid": "",
+   "prompt": "¿Qué palabras en inglés riman con “dang”? (solo palabras comunes de una sílaba)",
+   "subtype": "rimas",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "cort"
+     ],
+     "text": "court"
+    },
+    {
+     "altSpellings": [
+      "forte"
+     ],
+     "text": "fort"
+    },
+    {
+     "text": "port"
+    },
+    {
+     "text": "quart"
+    },
+    {
+     "text": "short"
+    },
+    {
+     "text": "skort"
+    },
+    {
+     "text": "snort"
+    },
+    {
+     "text": "sort"
+    },
+    {
+     "text": "sport"
+    },
+    {
+     "text": "thwart"
+    },
+    {
+     "altSpellings": [
+      "torte"
+     ],
+     "text": "tort"
+    },
+    {
+     "text": "wart"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "exactSpelling": true,
+   "id": "79615",
+   "isValid": "",
+   "prompt": "¿Qué palabras en inglés riman con “Bort”? (solo palabras comunes de una sílaba)",
+   "subtype": "rimas",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "contacto",
+      "tocar"
+     ],
+     "hint": "",
+     "text": "tacto"
+    },
+    {
+     "altSpellings": [
+      "visión",
+      "ojos",
+      "ver",
+      "visual"
+     ],
+     "hint": "",
+     "text": "vista"
+    },
+    {
+     "altSpellings": [
+      "sabor",
+      "papilas gustativas",
+      "lengua",
+      "degustar"
+     ],
+     "hint": "",
+     "text": "gusto"
+    },
+    {
+     "altSpellings": [
+      "oler",
+      "nariz",
+      "olfatear"
+     ],
+     "hint": "",
+     "text": "olfato"
+    },
+    {
+     "altSpellings": [
+      "escuchar",
+      "auditivo"
+     ],
+     "hint": "",
+     "text": "audición"
+    },
+    {
+     "altSpellings": [
+      "puede ver gente muerta",
+      "él puede ver gente muerta",
+      "puedes ver gente muerta",
+      "puede ver los muertos",
+      "Puedo ver gente muerta",
+      "veo gente muerta",
+      "gente muerta",
+      "ver fantasmas",
+      "fantasmas",
+      "ve gente muerta"
+     ],
+     "hint": "",
+     "text": "ver gente muerta"
+    }
+   ],
+   "category": "Factoides",
+   "exactSpelling": false,
+   "id": "80249",
+   "isValid": "",
+   "prompt": "Nombra los cinco sentidos + el que tiene Haley Joel Osmont",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "AK"
+     ],
+     "hint": "Tienen que tener estrechos ... sus BERINGS.",
+     "text": "Alaska"
+    },
+    {
+     "altSpellings": [
+      "WA"
+     ],
+     "hint": "Piensa en \"oeste\", como lo más al oeste que puedas ir.",
+     "text": "Washington"
+    },
+    {
+     "altSpellings": [
+      "ID"
+     ],
+     "hint": "¿Papas, alguien? ¿Patatas?",
+     "text": "Idaho"
+    },
+    {
+     "altSpellings": [
+      "MT"
+     ],
+     "hint": "No te olvides de Big Sky Country.",
+     "text": "Montana"
+    },
+    {
+     "altSpellings": [
+      "ND",
+      "North Dakota"
+     ],
+     "hint": "¿Cuál es el estado con el Monte Rushmore? ¿Es ese? No estoy seguro.",
+     "text": "Dakota del Norte"
+    },
+    {
+     "altSpellings": [
+      "MN",
+      "Minesota"
+     ],
+     "hint": "Si hay uno que no te puedes perder, es este. Imagínate Canadá, pero con un centro comercial gigantesco.",
+     "text": "Minnesota"
+    },
+    {
+     "altSpellings": [
+      "MI",
+      "Michigan"
+     ],
+     "hint": "",
+     "text": "Míchigan"
+    },
+    {
+     "altSpellings": [
+      "OH"
+     ],
+     "hint": "La contraseña de este estado es... Lago Erie. Buena suerte.",
+     "text": "Ohio"
+    },
+    {
+     "altSpellings": [
+      "PA",
+      "Pennsylvania"
+     ],
+     "hint": "¿Sabías que Ben Franklin visitó Canadá? Tenía ese estúpido sombrero para mantenerlo caliente, supongo.",
+     "text": "Pensilvania"
+    },
+    {
+     "altSpellings": [
+      "NY",
+      "New York"
+     ],
+     "hint": "Es solo el cuarto estado más poblado de los EE. UU. Fácil de olvidar.",
+     "text": "Nueva York"
+    },
+    {
+     "altSpellings": [
+      "VT"
+     ],
+     "hint": "Me pregunto si Bernie Sanders alguna vez fue a Canadá.",
+     "text": "Vermont"
+    },
+    {
+     "altSpellings": [
+      "NH",
+      "New Hampshire"
+     ],
+     "hint": "",
+     "text": "Nuevo Hampshire"
+    },
+    {
+     "altSpellings": [
+      "ME"
+     ],
+     "hint": "Estoy seguro de que Stephen King pasó un tiempo en Canadá. Educado y aterrador es una combinación terrorífica.",
+     "text": "Maine"
+    }
+   ],
+   "category": "Geografía y Lugares",
+   "exactSpelling": true,
+   "id": "80323",
+   "isValid": "",
+   "prompt": "¿Qué estados de los Estados Unidos limitan a Canadá?",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Homie",
+      "Homero Simpson",
+      "Homer Simpson",
+      "Homer"
+     ],
+     "hint": "Él no escribió la Odisea.",
+     "text": "Homero"
+    },
+    {
+     "altSpellings": [
+      "Margie",
+      "Marjorie",
+      "Marge Simpson"
+     ],
+     "hint": "¡La matriarca lleva su pelo en una colmena ENORME!",
+     "text": "Marge"
+    },
+    {
+     "altSpellings": [
+      "Bartolomeo",
+      "Bort",
+      "Bart Simpson"
+     ],
+     "hint": "¡Si no entiendes esto, cómete mis calzones, viejo!",
+     "text": "Bart"
+    },
+    {
+     "altSpellings": [
+      "Lisa Marie",
+      "Lisa Simpson"
+     ],
+     "hint": "",
+     "text": "Lisa"
+    },
+    {
+     "altSpellings": [
+      "Margaret",
+      "Maggie Simpson"
+     ],
+     "hint": "",
+     "text": "Maggie"
+    }
+   ],
+   "category": "Animación/Libros de cómic",
+   "exactSpelling": false,
+   "id": "82672",
+   "isValid": "",
+   "prompt": "¿Quiénes son los 5 miembros principales de la familia [i]Simpson[/i]?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Boriquén",
+      "Borikén",
+      "Borinquen"
+     ],
+     "hint": "Este país tiene una gran empresa de PR (Relaciones Públicas). Ocupa un lugar destacado en el musical [i]West Side Story[/i].",
+     "text": "Puerto Rico"
+    },
+    {
+     "altSpellings": [
+      "Islas Vírgenes",
+      "Las Islas Vírgenes",
+      "Las Islas Vírgenes de EE.UU.",
+      "Islas Vírgenes de los EE.UU.",
+      "Las Islas Vírgenes de los EE.UU.",
+      "Islas Vírgenes de Estados Unidos",
+      "Las Islas Vírgenes de Estados Unidos",
+      "Islas Vírgenes de los Estados Unidos",
+      "Las Islas Vírgenes de los Estados Unidos"
+     ],
+     "hint": "Si estás pensando en Virgin Records, estás en el camino correcto.",
+     "text": "Islas Vírgenes de EE.UU."
+    },
+    {
+     "altSpellings": [
+      "Samoa Estadounidense"
+     ],
+     "hint": "No confundas uno de estos territorios con Samoa, pero suena similar.",
+     "text": "Samoa Americana"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Este territorio está en el Pacífico y es el punto más occidental de los Estados Unidos.",
+     "text": "Guam"
+    },
+    {
+     "altSpellings": [
+      "Islas Marianas",
+      "CNMI"
+     ],
+     "hint": "",
+     "text": "Islas Marianas del Norte"
+    }
+   ],
+   "category": "Geografía y Lugares",
+   "exactSpelling": false,
+   "id": "82674",
+   "isValid": "",
+   "prompt": "Hasta el 2020, ¿cuáles son los 5 territorios habitados de los Estados Unidos que tienen residentes permanentes?",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Cabeza"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Hombros"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Rodillas"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Dedos de los Pies"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Oye, mira aquí. MIRA aquí arriba.",
+     "text": "Ojos"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Presta atención y escucha.",
+     "text": "Oídos"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Boca"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Nariz"
+    }
+   ],
+   "category": "Música",
+   "exactSpelling": false,
+   "id": "82695",
+   "isValid": "",
+   "prompt": "Nombra todas las partes del cuerpo mencionadas en la canción infantil \"Cabeza, hombros, rodillas y Dedos de los Pies\".",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "Si mi cara fuera capaz de esto, seguramente lo haría.",
+     "text": "blush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "brush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Soy tan enorme, que si me cayera seguramente les haría ESTO.",
+     "text": "crush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¡Oigan, usuarios del baño, no se olviden de...!",
+     "text": "flush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "gush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "hush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "lush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Podrían decirle esto a un equipo de trineo de perros.",
+     "text": "mush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "En las mañanas y el atardecer, esta hora suele estar llena de tráfico.",
+     "text": "rush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "shush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Cuando la nieve del invierno se derrite, se convierte en esta molestia gris.",
+     "text": "slush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Este es un pajarito.",
+     "text": "thrush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "smush"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "exactSpelling": true,
+   "id": "82701",
+   "isValid": "",
+   "prompt": "¿Qué palabras en inglés riman con “plush”? (solo palabras comunes de una sílaba)",
+   "subtype": "rimas",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "Soy un poco grande para dormir en la de arriba, así que elegiré la de abajo.",
+     "text": "bunk"
+    },
+    {
+     "altSpellings": [
+      "klunk"
+     ],
+     "hint": "",
+     "text": "clunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "crunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Tomar mucha hidromiel puede hacerte ESTO. ¿Las personas aún beben hidromiel?",
+     "text": "drunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Michael Jordan era conocido por hacer esto.",
+     "text": "dunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Si fracasas en esta partida, ESTA palabra puede ser adecuada.",
+     "text": "flunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "funk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "gunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Los hombres guapos y musculosos muchas veces se les dice así.",
+     "text": "hunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "junk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "monk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "plunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "punk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Los hijos de Rick Moranis se...",
+     "text": "shrunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "skunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Consideren el pasado de “slink”.",
+     "text": "slunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "spunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Se pusieron desodorante ayer porque ustedes...",
+     "text": "stunk"
+    },
+    {
+     "altSpellings": [
+      "it sunk"
+     ],
+     "hint": "Díganme, ¿qué hizo el Titanic?",
+     "text": "sunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "trunk"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "exactSpelling": true,
+   "id": "82702",
+   "isValid": "",
+   "prompt": "¿Qué palabras en inglés riman con “chunk”? (solo palabras comunes de una sílaba)",
+   "subtype": "rimas",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Bill Clinton",
+      "William Jefferson Clinton",
+      "Bill",
+      "The Comeback Kid"
+     ],
+     "hint": "La esposa de este hombre también se postulo para la presidencia.",
+     "text": "Clinton"
+    },
+    {
+     "altSpellings": [
+      "George Herbert Walker Bush",
+      "H. W. Bush",
+      "George",
+      "George Bush",
+      "George H. W. Bush",
+      "George H. Bush",
+      "Bush Senior",
+      "Bush Sr"
+     ],
+     "hint": "El hijo de este hombre también fue presidente en el próximo siglo.",
+     "text": "Bush"
+    },
+    {
+     "altSpellings": [
+      "Ronald Reagan",
+      "Ronald Wilson Reagan",
+      "Ronnie"
+     ],
+     "hint": "Uno fue anteriormente el gobernador de California y, antes de eso, en películas.",
+     "text": "Reagan"
+    },
+    {
+     "altSpellings": [
+      "James Carter",
+      "James Earl Carter",
+      "Jimmy Carter",
+      "Jimmy"
+     ],
+     "hint": "",
+     "text": "Carter"
+    },
+    {
+     "altSpellings": [
+      "Gerald R. Ford",
+      "Gerald Rudolph Ford",
+      "Jerry",
+      "Gerald Ford"
+     ],
+     "hint": "",
+     "text": "Ford"
+    },
+    {
+     "altSpellings": [
+      "Richard M. Nixon",
+      "Richard Milhouse Nixon",
+      "Dick",
+      "Richard Nixon",
+      "Tricky Dick"
+     ],
+     "hint": "Este fue el primer presidente en renunciar a su cargo.",
+     "text": "Nixon"
+    },
+    {
+     "altSpellings": [
+      "LBJ",
+      "Lyndon B. Johnson",
+      "Lyndon Baines Johnson",
+      "Lyndon",
+      "Lyndon Johnson"
+     ],
+     "hint": "Este se volvió presidente luego de que JFK fuera asesinado.",
+     "text": "Johnson"
+    }
+   ],
+   "category": "Figuras Históricas",
+   "exactSpelling": false,
+   "id": "82707",
+   "isValid": "",
+   "prompt": "¿Quiénes fueron los últimos 7 presidentes estadounidenses del siglo XX?",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "creep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "deep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "peep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "sleep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "sweep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "weep"
+    },
+    {
+     "altSpellings": [
+      "cheep"
+     ],
+     "hint": "",
+     "text": "cheap"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "keep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "weep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Miras antes de que hagas ESTO.",
+     "text": "leap"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Oh, (SFX: pitido largo) madre",
+     "text": "bleep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "heap"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "reap"
+    },
+    {
+     "altSpellings": [],
+     "hint": "No cuento estos mientras duermo, pero algunos sí.",
+     "text": "oveja"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "steep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Piensen en el sonido que hace un pájaro.",
+     "text": "cheep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "jeep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Un vicepresidente a veces se le dice así.",
+     "text": "veep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "meep"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "exactSpelling": true,
+   "id": "83258",
+   "isValid": "",
+   "prompt": "¿Qué palabras en inglés riman con “beep”? (solo palabras comunes de una sílaba)",
+   "subtype": "rimas",
+   "us": true,
+   "x": true
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "car"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "bar"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "star"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "mar"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "are"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "far"
+    },
+    {
+     "altSpellings": [],
+     "hint": "No se quemen.",
+     "text": "char"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Piensen en... golfear.",
+     "text": "par"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "tar"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Piensen en... boxeo.",
+     "text": "spar"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "scar"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "jar"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "exactSpelling": true,
+   "id": "83260",
+   "isValid": "",
+   "prompt": "¿Qué palabras en inglés riman con “czar”? (solo palabras comunes de una sílaba)",
+   "subtype": "rimas",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      ""
+     ],
+     "hint": "",
+     "text": "beach"
+    },
+    {
+     "altSpellings": [
+      "breech"
+     ],
+     "hint": "",
+     "text": "breach"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Esta palabra hace que tu sonrisa sea más blanca.",
+     "text": "bleach"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "screech"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "teach"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Quizá esta pregunta está sobre... el tuyo.",
+     "text": "reach"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "speech"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "each"
+    },
+    {
+     "altSpellings": [
+      "leach"
+     ],
+     "hint": "",
+     "text": "leech"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "preach"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Estoy pensando en un tipo popular de madera.",
+     "text": "beech"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "exactSpelling": true,
+   "id": "83261",
+   "isValid": "",
+   "prompt": "¿Qué palabras en inglés riman con “peach”? (solo palabras comunes de una sílaba)",
+   "subtype": "rimas",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "art"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "start"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "cart"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¿Cuál es ese lugar donde se hacen las compras?",
+     "text": "mart"
+    },
+    {
+     "altSpellings": [],
+     "hint": "(se tira un pedo) Discúlpenme.",
+     "text": "fart"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "chart"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "dart"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Estoy pensando en un bizcochuelo de masa quebrada. Bueno, ¿cuándo no estoy pensando en esos?",
+     "text": "tart"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Si aciertan esta, definitivamente se sentirán así.",
+     "text": "smart"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "part"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "hart"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "exactSpelling": true,
+   "id": "83262",
+   "isValid": "",
+   "prompt": "¿Qué palabras en inglés riman con “heart”? (solo palabras comunes de una sílaba)",
+   "subtype": "rimas",
+   "us": true,
+   "x": true
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "fling"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "thing"
+    },
+    {
+     "altSpellings": [
+      "ding ding ding"
+     ],
+     "hint": "¡¿Cuál es el sonido de acertar en algo?!",
+     "text": "ding"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "sing"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "sling"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "bring"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "cling"
+    },
+    {
+     "altSpellings": [
+      "a king"
+     ],
+     "hint": "Ni una jota, ni una reina...",
+     "text": "king"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "ring"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "swing"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Necesitan dos de estas para volar, pequeñitos.",
+     "text": "wing"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "ping"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "zing"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "sting"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "bing"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Si ganan, pueden adornarse con tanto de esto.",
+     "text": "bling"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "wring"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "ting"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "exactSpelling": true,
+   "id": "83263",
+   "isValid": "",
+   "prompt": "¿Qué palabras en inglés riman con “string”? (solo palabras comunes de una sílaba)",
+   "subtype": "rimas",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "flower"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "cower"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "dour"
+    },
+    {
+     "altSpellings": [],
+     "hint": "A algunos de ustedes puede que les guste su crema así.",
+     "text": "sour"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "tower"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "power"
+    },
+    {
+     "altSpellings": [
+      "plougher"
+     ],
+     "hint": "¿Cómo llamas al que trabaja en un campo?",
+     "text": "plower"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "scour"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "hour"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "our"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¡Oigan! ¡No me miren así!",
+     "text": "glower"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Necesitarán de esto para un buen pastel.",
+     "text": "flour"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "exactSpelling": true,
+   "id": "83264",
+   "isValid": "",
+   "prompt": "¿Qué palabras en inglés riman con “shower”? (solo palabras comunes de una o dos sílabas)",
+   "subtype": "rimas",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "cheque"
+     ],
+     "hint": "",
+     "text": "check"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Estoy listo para tu “esto and call”. Así de genial soy.",
+     "text": "beck"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "neck"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "deck"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¿Cuál es otra palabra para un pequeñito besito?",
+     "text": "peck"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "speck"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Me imagino que quizá alguno de ustedes trabaja en ESTA industria.",
+     "text": "tech"
+    },
+    {
+     "altSpellings": [
+      "treck"
+     ],
+     "hint": "Todos ustedes hicieron un viaje a la cima de mi montaña. Podrías decir que hiciste uno de estos.",
+     "text": "trek"
+    },
+    {
+     "altSpellings": [
+      "wrek"
+     ],
+     "hint": "",
+     "text": "wreck"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "heck"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Algunos eslovacos puede que se identifiquen con ESTA palabra.",
+     "text": "Czech"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "dreck"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "fleck"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "exactSpelling": true,
+   "id": "83267",
+   "isValid": "",
+   "prompt": "¿Qué palabras en inglés riman con “Shrek”? (solo palabras comunes de una sílaba)",
+   "subtype": "rimas",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Polonia"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Uno de estos lugares es conocido por su canal.",
+     "text": "Panamá"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Hay dos países que comienzan con P en América del Sur.",
+     "text": "Perú"
+    },
+    {
+     "altSpellings": [],
+     "hint": "No es Afganistán, sino...",
+     "text": "Pakistán"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Papúa Nueva Guinea"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Un país limita con España. Y no es Francia.",
+     "text": "Portugal"
+    },
+    {
+     "altSpellings": [
+      "Filipinas"
+     ],
+     "hint": "",
+     "text": "Países Bajos"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Hay dos países que comienzan con P en América del Sur.",
+     "text": "Paraguay"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Palaos"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Uno de ellos es reconocido como un estado soberano. Está en la Ribera Occidental del río Jordán.",
+     "text": "Palestina"
+    }
+   ],
+   "category": "Geografía y Lugares",
+   "exactSpelling": false,
+   "id": "83271",
+   "isValid": "",
+   "prompt": "¿Qué países comienzan con la letra “P”?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Airies",
+      "Aryes"
+     ],
+     "hint": "¿Cuál es el signo del carnero?",
+     "text": "Aries"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¡Roooaaar! (carraspea la garganta)",
+     "text": "Leo"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Sagitario"
+    },
+    {
+     "altSpellings": [
+      "Scorpio",
+      "Escorpyo",
+      "Scorpyo"
+     ],
+     "hint": "",
+     "text": "Escorpio"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¿Por qué tengo antojos de cangrejo?",
+     "text": "Cáncer"
+    },
+    {
+     "altSpellings": [
+      "Pisis"
+     ],
+     "hint": "Piensen en... peces.",
+     "text": "Piscis"
+    }
+   ],
+   "category": "Religión",
+   "exactSpelling": false,
+   "id": "83273",
+   "isValid": "",
+   "prompt": "¿Cuáles son los 6 signos de fuego y de agua del zodíaco?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "manzanas"
+     ],
+     "hint": "¡Uno de estas al día puede mantener alejado al médico o usarse para hacer una ensalada Waldorf!",
+     "text": "manzana"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Recuerde, necesita un poco de crujido.",
+     "text": "apio"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Es una... ensalada... cremosa.",
+     "text": "mayonesa"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¡No olvides la sazón!",
+     "text": "sal"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¡Un poco de calor nunca hace daño a nadie!",
+     "text": "pimienta"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "lechuga"
+    }
+   ],
+   "category": "Comida y Bebida",
+   "exactSpelling": false,
+   "id": "83283",
+   "isValid": "",
+   "prompt": "Según el [i]The New York Times[/i], ¿cúales son los 6 ingredientes que necesitas para hacer una ensalada Waldorf clásica?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Dorothy Zbornak",
+      "Zbornak",
+      "Dorthea",
+      "Dor"
+     ],
+     "hint": "¿Quién es la protagonista de el Mago de Oz?\nEscribe ese nombre.",
+     "text": "Dorothy"
+    },
+    {
+     "altSpellings": [
+      "Rose Nylund",
+      "Nylund"
+     ],
+     "hint": "Lo que llamamos ESPACIO sería tan fragante con cualquier otro nombre.",
+     "text": "Rose"
+    },
+    {
+     "altSpellings": [
+      "Blanche Devereaux",
+      "Devereaux"
+     ],
+     "hint": "",
+     "text": "Blanche"
+    },
+    {
+     "altSpellings": [
+      "Sophia Petrillo",
+      "Petrillo"
+     ],
+     "hint": "",
+     "text": "Sophia"
+    },
+    {
+     "altSpellings": [
+      "Vincent Chase",
+      "Vinny",
+      "Vinny Chase"
+     ],
+     "hint": "Piensen en... ¡van Gogh!",
+     "text": "Vincent"
+    },
+    {
+     "altSpellings": [
+      "E",
+      "Eric Murphy",
+      "E Murphy",
+      "Eric “E” Murphy"
+     ],
+     "hint": "",
+     "text": "Eric"
+    },
+    {
+     "altSpellings": [
+      "Salvatore",
+      "Salvatore \"Turtle\" Assante",
+      "Salvatore Assante"
+     ],
+     "hint": "No es un galápago sino...",
+     "text": "Tortuga"
+    },
+    {
+     "altSpellings": [
+      "Johnny \"Drama\" Chase",
+      "Drama",
+      "Johnny Chase",
+      "Johnny"
+     ],
+     "hint": "",
+     "text": "Johnny Drama"
+    },
+    {
+     "altSpellings": [
+      "Ari Gold",
+      "Gold"
+     ],
+     "hint": "",
+     "text": "Ari"
+    }
+   ],
+   "category": "Película y TV",
+   "exactSpelling": false,
+   "id": "83285",
+   "isValid": "",
+   "prompt": "Nombren las chicas en la casa de [i]Los años dorados[/i] Y los chicos en el séquito de [i]El séquito[/i] (Entourage)",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "rojo"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "naranja"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¿Por qué no escribir el color del sol, solo para reírnos? Después de todo, el sol es el mayor enemigo del chocolate.",
+     "text": "amarillo"
+    },
+    {
+     "altSpellings": [],
+     "hint": "La hierba recién cortada, el guacamole y los M&M'S son todos de este color... por extraño que parezca.",
+     "text": "verde"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "azul"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¿Has considerado escribir el color del chocolate en sí? Solo una idea.",
+     "text": "marrón"
+    }
+   ],
+   "category": "Comida y Bebida",
+   "exactSpelling": false,
+   "id": "83286",
+   "isValid": "",
+   "prompt": "¿Qué 6 colores encontrarían en un paquete de chocolates con leche M&M’S?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "primera",
+      "jugador de primera base"
+     ],
+     "hint": "",
+     "text": "primera base"
+    },
+    {
+     "altSpellings": [
+      "segunda",
+      "jugador de segunda base"
+     ],
+     "hint": "",
+     "text": "segunda base"
+    },
+    {
+     "altSpellings": [
+      "tercera",
+      "jugador de tercera base"
+     ],
+     "hint": "",
+     "text": "tercera base"
+    },
+    {
+     "altSpellings": [
+      "shortstop",
+      "short"
+     ],
+     "hint": "¿Quién ve la mayor parte de la acción en la esquina inferior? Esta posición.",
+     "text": "campocorto"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¿Quién es el peor bateador en el equipo? ¡Este!",
+     "text": "lanzador"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Esta posición es conocida por el liderazgo y las cirugías de rodilla.",
+     "text": "receptor"
+    },
+    {
+     "altSpellings": [
+      "jardinera izquierda",
+      "jardín izquierdo"
+     ],
+     "hint": "",
+     "text": "jardinero izquierdo"
+    },
+    {
+     "altSpellings": [
+      "jardinera derecho",
+      "jardín derecho"
+     ],
+     "hint": "",
+     "text": "jardinero derecho"
+    },
+    {
+     "altSpellings": [
+      "jardinera central",
+      "jardín central"
+     ],
+     "hint": "Está ahí en el medio del campo. Juuusto en el medio.",
+     "text": "jardinero central"
+    }
+   ],
+   "category": "Deportes",
+   "exactSpelling": false,
+   "id": "83326",
+   "isValid": "",
+   "prompt": "¿Cuáles son las 9 posiciones defensivas que se pueden jugar en el béisbol?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Dos"
+     ],
+     "hint": "",
+     "text": "2"
+    },
+    {
+     "altSpellings": [
+      "Tres"
+     ],
+     "hint": "",
+     "text": "3"
+    },
+    {
+     "altSpellings": [
+      "Cinco"
+     ],
+     "hint": "",
+     "text": "5"
+    },
+    {
+     "altSpellings": [
+      "Siete"
+     ],
+     "hint": "",
+     "text": "7"
+    },
+    {
+     "altSpellings": [
+      "Once"
+     ],
+     "hint": "",
+     "text": "11"
+    },
+    {
+     "altSpellings": [
+      "Trece"
+     ],
+     "hint": "",
+     "text": "13"
+    },
+    {
+     "altSpellings": [
+      "Diecisiete"
+     ],
+     "hint": "",
+     "text": "17"
+    },
+    {
+     "altSpellings": [
+      "Diecinueve"
+     ],
+     "hint": "",
+     "text": "19"
+    },
+    {
+     "altSpellings": [
+      "Veintitrés"
+     ],
+     "hint": "",
+     "text": "23"
+    },
+    {
+     "altSpellings": [
+      "Veintinueve"
+     ],
+     "hint": "",
+     "text": "29"
+    }
+   ],
+   "category": "Matemáticas",
+   "exactSpelling": false,
+   "id": "83327",
+   "isValid": "",
+   "prompt": "¿Cuáles son todos los números primos entre el 1 y el 30?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "Este estado lleva el nombre de una reina.",
+     "text": "Maryland"
+    },
+    {
+     "altSpellings": [],
+     "hint": "No olvides tus guantes cuando visites este estado del norte con forma de guante.",
+     "text": "Michigan"
+    },
+    {
+     "altSpellings": [],
+     "hint": "El apodo de este estado es Big Sky Country.",
+     "text": "Montana"
+    },
+    {
+     "altSpellings": [],
+     "hint": "A pesar de no ser Kansas, la ciudad más grande de este estado es Kansas City.",
+     "text": "Missouri"
+    },
+    {
+     "altSpellings": [],
+     "hint": "(acento de Boston) ¡Vamos Sox!",
+     "text": "Massachusetts"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Un estado querido para deletrear, este largo nombre coincide con el largo río que le da nombre.",
+     "text": "Misisipi"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Este estado es conocido como la Tierra de los 10.000 Lagos.",
+     "text": "Minnesota"
+    },
+    {
+     "altSpellings": [],
+     "hint": "El principal atractivo de este estado es la langosta. El principal elemento disuasorio es Stephen King.",
+     "text": "Maine"
+    }
+   ],
+   "category": "Geografía y Lugares",
+   "exactSpelling": false,
+   "id": "83328",
+   "isValid": "",
+   "prompt": "¿Cuáles son los 8 estados de EE. UU. que comienzan con la letra “M”?",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Nile",
+      "Nyle",
+      "Nial",
+      "Niall Horan"
+     ],
+     "hint": "Suena como ese río en Egipto.",
+     "text": "Niall"
+    },
+    {
+     "altSpellings": [
+      "Zane",
+      "Zayn Malik"
+     ],
+     "hint": "¡Similar al apellido de Billy! ¡Súbete al tren!",
+     "text": "Zayn"
+    },
+    {
+     "altSpellings": [
+      "Liam Payne"
+     ],
+     "hint": "¡Comparte el nombre con el señor Neeson!",
+     "text": "Liam"
+    },
+    {
+     "altSpellings": [
+      "Harry Styles"
+     ],
+     "hint": "¡Comparte el nombre con el señor Potter!",
+     "text": "Harry"
+    },
+    {
+     "altSpellings": [
+      "Lewis",
+      "Louis Tomlinson"
+     ],
+     "hint": "Como el apellido de ese autor de fantasía, C. S. ...",
+     "text": "Louis"
+    }
+   ],
+   "category": "Música",
+   "exactSpelling": false,
+   "id": "83329",
+   "isValid": "",
+   "prompt": "¡Rápido! ¿Cuáles son los nombres de pila de todos los miembros de One Direction?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Quiplash",
+      "Q3",
+      "Quip 3"
+     ],
+     "hint": "¡Pueden aprender más sobre este juego en jackboxgames punto com barra quiplash guion tres! ¡Qué momento para estar vivo!",
+     "text": "[i]Quiplash 3[/i]"
+    },
+    {
+     "altSpellings": [
+      "The Devils and the Details",
+      "The Devs and the Details",
+      "Devils",
+      "Devils and the Details",
+      "Devils and Details",
+      "The Devils & the Details",
+      "Devils & Details",
+      "D&D",
+      "Devils Details",
+      "The Devils and Details",
+      "Familia es un Infierno",
+      "Familia",
+      "Familia es Infierno",
+      "La Familia es Infierno",
+      "LFEUI",
+      "Familia Infierno"
+     ],
+     "hint": "¡3 a 8 jugadores pueden jugar este juego! ¡Guau! Para más información, ¡ve a jackboxgames punto com guion the guion devils guion and guion the guion details!",
+     "text": "[i]La Familia es un Infierno[/i]"
+    },
+    {
+     "altSpellings": [
+      "Champ’d Up",
+      "Champd Up",
+      "Champd",
+      "Champ’d Up Batalla de Campeones",
+      "Champ’d Up BDC",
+      "Champ’d Up: BDC",
+      "Champd Up: BDC"
+     ],
+     "hint": "¡Me han contado que recibiré una pequeña comisión si van a jackboxgames punto com barra champd barra up!",
+     "text": "[i]Champ’d Up: Batalla de Campeones[/i]"
+    },
+    {
+     "altSpellings": [
+      "Talk Points"
+     ],
+     "hint": "¡A veces me gusta ir a jackboxgames punto com barra talking guion points! Es como logro mantenerme tan joven y girar tan fluidamente.",
+     "text": "[i]Talking Points[/i]"
+    },
+    {
+     "altSpellings": [
+      "Blather ‘Round",
+      "Blather Around",
+      "Blather",
+      "Balbuceando"
+     ],
+     "hint": "¡Guau! ¿Cuántos juegos tienen el gran dominio de internet jackboxgames punto com barra blather guion round? ¡Hay uno que DEFINITIVAMENTE lo tiene!",
+     "text": "[i]Balbuceando Juntos[/i]"
+    }
+   ],
+   "category": "Juegos",
+   "exactSpelling": false,
+   "id": "83333",
+   "isValid": "",
+   "prompt": "¿Qué 5 juegos están incluidos en [i]The Jackbox Party Pack 7[/i]?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Océano Ártico",
+      "El Océano Ártico"
+     ],
+     "hint": "¡Brr! ¡Este océano está helado! ¿Cómo lo soportan esos pingüinos?",
+     "text": "Ártico"
+    },
+    {
+     "altSpellings": [
+      "Océano del Sur",
+      "El Océano del Sur",
+      "Antártico",
+      "Océano Antártico",
+      "El Océano Antártico"
+     ],
+     "hint": "Olvídense del pastel de melocotón y el té dulce: no hay nada más sureño que este océano.",
+     "text": "Austral"
+    },
+    {
+     "altSpellings": [
+      "Océano Índico",
+      "El Océano Índico"
+     ],
+     "hint": "Irónicamente, ¡este océano no está ni cerca de India! Es broma, está, tipo, al lado de India.",
+     "text": "Índico"
+    },
+    {
+     "altSpellings": [
+      "Océano Atlántico",
+      "El Océano Atlántico"
+     ],
+     "hint": "",
+     "text": "Atlántico"
+    },
+    {
+     "altSpellings": [
+      "Océano Pacífico",
+      "El Océano Pacífico"
+     ],
+     "hint": "",
+     "text": "Pacífico"
+    }
+   ],
+   "category": "Geografía y Lugares",
+   "exactSpelling": false,
+   "id": "83335",
+   "isValid": "",
+   "prompt": "¿Cuáles son los 5 océanos con nombre en la Tierra?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "1 centavo",
+      "un centavo",
+      "centavo",
+      "pennies",
+      "el penny",
+      "penique",
+      "el penique"
+     ],
+     "hint": "¡Esta es la moneda más pequeña!",
+     "text": "penny"
+    },
+    {
+     "altSpellings": [
+      "cinco centavos",
+      "5 centavos",
+      "nikel",
+      "nickle",
+      "niquel",
+      "el nickel",
+      "nickels"
+     ],
+     "hint": "Chocaré los cinco con esta moneda.",
+     "text": "nickel"
+    },
+    {
+     "altSpellings": [
+      "10 centavos",
+      "diez centavos",
+      "dimes",
+      "el dime"
+     ],
+     "hint": "¡Pon esta moneda en una tabla de surf, porque está colgando diez!",
+     "text": "dime"
+    },
+    {
+     "altSpellings": [
+      "25 centavos",
+      "veinticinco centavos",
+      "un quarter",
+      "el quarter"
+     ],
+     "hint": "Estamos a un cuarto de camino a ESTA moneda.",
+     "text": "quarter"
+    },
+    {
+     "altSpellings": [
+      "twoonie",
+      "dos dólares",
+      "toonies",
+      "el toonie",
+      "2 dólares",
+      "dos dolares",
+      "2 dolares"
+     ],
+     "hint": "Esta moneda rima con el apodo para la moneda de un dólar.",
+     "text": "toonie"
+    },
+    {
+     "altSpellings": [
+      "un dólar",
+      "moneda de un dólar",
+      "el loonie",
+      "loonies",
+      "un dolar",
+      "moneda de un dolar",
+      "1 dólar",
+      "moneda de 1 dólar",
+      "1 dolar",
+      "moneda de 1 dolar"
+     ],
+     "hint": "Esta debe su nombre al ave en ella.",
+     "text": "loonie"
+    },
+    {
+     "altSpellings": [
+      "cincuenta centavos",
+      "50 centavos",
+      "medio dólar",
+      "1/2 dólar",
+      "medio dolar",
+      "1/2 dolar"
+     ],
+     "hint": "¡No es tan usada, pero es al menos la mitad de divertida que un loonie!",
+     "text": "half-dollar"
+    }
+   ],
+   "category": "Dinero",
+   "exactSpelling": true,
+   "id": "83337",
+   "isValid": "",
+   "prompt": "¿Cuáles son las 7 denominaciones de las monedas canadienses?",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "daga",
+      "cuchillo"
+     ],
+     "hint": "Vamos gente, denle una puñalada.",
+     "text": "puñal"
+    },
+    {
+     "altSpellings": [
+      "arma revólver",
+      "pistola revólver"
+     ],
+     "hint": "Un arma es un tipo de pistola. Y no, pistola no se acepta, ¡vamos!",
+     "text": "revólver"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "cuerda"
+    },
+    {
+     "altSpellings": [
+      "llave de tubo",
+      "llave de tuercas",
+      "aprietatuercas"
+     ],
+     "hint": "Está buena tener esta en tu caja de herramientas... ¡de ASESINATO!",
+     "text": "llave inglesa"
+    },
+    {
+     "altSpellings": [
+      "vela"
+     ],
+     "hint": "",
+     "text": "candelabro"
+    },
+    {
+     "altSpellings": [
+      "tubería",
+      "caño de plomo",
+      "caño"
+     ],
+     "hint": "Una está hecha de plomo, y no es pintura con plomo. Aunque eso tampoco es bueno para ti.",
+     "text": "tubería de plomo"
+    }
+   ],
+   "category": "Juegos",
+   "exactSpelling": false,
+   "id": "83338",
+   "isValid": "",
+   "prompt": "¿Cuáles eran las 6 armas originales del juego de mesa [i]Clue[/i]?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Lake Ontario",
+      "Lago Ontario"
+     ],
+     "hint": "¡Uno es también el nombre de una provincia canadiense!",
+     "text": "Ontario"
+    },
+    {
+     "altSpellings": [
+      "Lake Huron",
+      "Lago Huron"
+     ],
+     "hint": "Este lago lleva el nombre de una tribu iroquesa.",
+     "text": "Hurón"
+    },
+    {
+     "altSpellings": [
+      "Lake Michigan",
+      "Lago Michigan"
+     ],
+     "hint": "Si alguna vez han conocido a alguien de este estado usualmente levantan su mano derecha y apuntan hacia de dónde vienen.",
+     "text": "Michigan"
+    },
+    {
+     "altSpellings": [
+      "Lake Erie",
+      "Lago Erie"
+     ],
+     "hint": "¡Este lago sí que da miedo!",
+     "text": "Erie"
+    },
+    {
+     "altSpellings": [
+      "Lake Superior",
+      "Lago Superior"
+     ],
+     "hint": "¡Este lago sí que es grande!",
+     "text": "Superior"
+    }
+   ],
+   "category": "Geografía y Lugares",
+   "exactSpelling": false,
+   "id": "83340",
+   "isValid": "",
+   "prompt": "¿Cuáles son los 5 Grandes Lagos de Norteamérica?",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Mandarín",
+      "Idioma Chino",
+      "Chino Mandarín",
+      "Chino Avanzado"
+     ],
+     "hint": "¿Pueden decir \"Ni hao\"?",
+     "text": "Chino"
+    },
+    {
+     "altSpellings": [
+      "Idioma Francés",
+      "Francés Avanzado"
+     ],
+     "hint": "¿Pueden decir \"Bonjour\"?",
+     "text": "Francés"
+    },
+    {
+     "altSpellings": [
+      "Idioma Alemán",
+      "Alemán Avanzado"
+     ],
+     "hint": "¿Pueden decir \"Hallo\"?",
+     "text": "Alemán"
+    },
+    {
+     "altSpellings": [
+      "Idioma Italiano",
+      "Italiano Avanzado"
+     ],
+     "hint": "¿Pueden decir \"Ciao\"?",
+     "text": "Italiano"
+    },
+    {
+     "altSpellings": [
+      "Idioma Japonés",
+      "Japonés Avanzado"
+     ],
+     "hint": "¿Pueden decir \"Kon'nichiwa\"?",
+     "text": "Japonés"
+    },
+    {
+     "altSpellings": [
+      "Idioma Latín",
+      "Latín Avanzado"
+     ],
+     "hint": "¿Pueden decir \"Salve\"? (Probablemente no, es una lengua muerta.)",
+     "text": "Latín"
+    },
+    {
+     "altSpellings": [
+      "Espanol",
+      "Idioma Español",
+      "Literatura Española",
+      "Español Avanzado",
+      "Idioma Espanol",
+      "Literatura Espanola",
+      "Espanol Avanzado"
+     ],
+     "hint": "¿Pueden decir \"Hola\"?",
+     "text": "Español"
+    },
+    {
+     "altSpellings": [
+      "Literatura Inglesa",
+      "Idioma Inglés",
+      "Inglés Avanzado"
+     ],
+     "hint": "¿Pueden decir \"Hello\"? (Me imagino que sí.)",
+     "text": "Inglés"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "exactSpelling": false,
+   "id": "83342",
+   "isValid": "",
+   "prompt": "¿Qué idiomas pueden estudiar los estudiantes de secundaria en el nivel de Ubicación Avanzada (AP)?",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "Como un escarabajo o una hormiga.",
+     "text": "bug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¿Podrían hacer esto con agua, o una cerveza, o incluso leche? No sé, yo no hago esto.",
+     "text": "chug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Como aspirina o... mmm... algo más fuerte que aspirina.",
+     "text": "drug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "dug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Desearía que pudiera realizar este acto... si tan solo tuviera brazos.",
+     "text": "hug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "jug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Si no revisan sus maletas, tendrán que hacer esto con ellas por todo el aeropuerto.",
+     "text": "lug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "plug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "pug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Barran debajo de esto en algún momento, ¿por qué no?",
+     "text": "rug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "No sé. Si tuviera hombros, estaría haciendo esto. No sé.",
+     "text": "shrug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Como un caracol que perdió su casa.",
+     "text": "slug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "smug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "snug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "tug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Charlie Brown dice esta interjección cuando está molesto. Algunos de ustedes la han estado diciendo mucho por mis enunciados.",
+     "text": "ugh"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "thug"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "exactSpelling": true,
+   "id": "83399",
+   "isValid": "",
+   "prompt": "¿Qué palabras en inglés riman con “mug”? (solo palabras comunes de una sílaba)",
+   "subtype": "rimas",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "¡Más de una bebida alcohólica de este tipo para mí!",
+     "text": "beers"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "clears"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¡Sus dos pequeños orificios de oreja!",
+     "text": "ears"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Muchas personas tienen estos, como tener miedo a las arañas. O a cuadriláteros.",
+     "text": "fears"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Estas son las cositas que hacen que los relojes se muevan. Y también las ruedas.",
+     "text": "gears"
+    },
+    {
+     "altSpellings": [
+      "piers"
+     ],
+     "hint": "O tus compañeros, O un camino por el que puedes caminar sobre el océano.",
+     "text": "peers"
+    },
+    {
+     "altSpellings": [
+      "tiers"
+     ],
+     "hint": "Estas salen de los agujeros de sus ojos cuando están tristes.",
+     "text": "tears"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Oh, como vuelan los ESTOS.",
+     "text": "years"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "sears"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Tengo... más o menos... una forma como esta.",
+     "text": "spheres"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "spears"
+    },
+    {
+     "altSpellings": [],
+     "hint": "La rueda en tu auto hace esto.",
+     "text": "steers"
+    },
+    {
+     "altSpellings": [
+      "dears"
+     ],
+     "hint": "¡Oh Frankie! ¡Ven a ver! ¡Hay un montón de esos animalitos con astas en el jardín!",
+     "text": "deers"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Cuando la criatura se acerca, hace esto.",
+     "text": "nears"
+    },
+    {
+     "altSpellings": [],
+     "hint": "El villano malvado hace esto con su boca despiadada.",
+     "text": "sneers"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "sheers"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "veers"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "smears"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "exactSpelling": true,
+   "id": "83404",
+   "isValid": "",
+   "prompt": "¿Qué palabras en inglés riman con “cheers”? (solo palabras comunes de una sílaba)",
+   "subtype": "rimas",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "¿Les gusta toda mi joyería gigante? ¿O mi banda favorita de los 80?",
+     "text": "bangle"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Los pendientes hacen esto desde la oreja.",
+     "text": "dangle"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Las campanas del trineo suenan y...",
+     "text": "jangle"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "mangle"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Esto es poner una decoración brillante en algo.",
+     "text": "spangle"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Si uso un collar demasiado apretado, se siente como esto.",
+     "text": "strangle"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Asegúrense de peinarse el cabello, sino consiguen esto.",
+     "text": "tangle"
+    },
+    {
+     "altSpellings": [],
+     "hint": "La definición oficial de esto es “lograr algo a través del engaño”.",
+     "text": "wangle"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Esto es lo que tengo que hacer para reunir a todas mis vacas que se portan mal.",
+     "text": "wrangle"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "exactSpelling": true,
+   "id": "83441",
+   "isValid": "",
+   "prompt": "¿Qué palabras en inglés riman con “angle”? (solo palabras comunes de dos sílabas)",
+   "subtype": "rimas",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "En el supermercado, les encanta tomarse su tiempo caminando por esto.",
+     "text": "aisle"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Esta es esa cosa amarga y repugnante en su estómago.",
+     "text": "bile"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Los niños de hoy en día nunca vieron un teléfono con esto.",
+     "text": "dial"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Déjenme que ponga sus documentos en esto.",
+     "text": "file"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¡Soy inocente! Incapaz de engañar a nadie, ¡no cuento con esto!",
+     "text": "guile"
+    },
+    {
+     "altSpellings": [
+      "isles"
+     ],
+     "hint": "Oh, qué lindo sería volver a esas hermosas otra palabra para islas.",
+     "text": "isle"
+    },
+    {
+     "altSpellings": [
+      "ill"
+     ],
+     "hint": "¡Forma abreviada de \"I will\"!",
+     "text": "i'll"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Se dice que Eminem tiene ocho de estas.",
+     "text": "mile"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Un montón de cosas una arriba de otra en un lugar.",
+     "text": "pile"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "rile"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¿Cómo puedo decirle que no a ese conglomerado de dientes y labios?",
+     "text": "smile"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¡Uh! ¡Esta palabra tiene estética!",
+     "text": "style"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Todos los jugadores de la Ruleta se les brinda un justo y gratuito uno de estos por un jurado de sus compañeros.",
+     "text": "trial"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¡Esta palabra es repugnante! ¡Qué asco!",
+     "text": "vile"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Esta palabra va a tomar... un rato.",
+     "text": "while"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Significando \"travesura\", esta se usa más a menudo como descriptor.",
+     "text": "wile"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "exactSpelling": true,
+   "id": "83445",
+   "isValid": "",
+   "prompt": "¿Qué palabras en inglés riman con “tile”? (solo palabras comunes de una sílaba)",
+   "subtype": "rimas",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "pipas",
+      "cachimba",
+      "cachimbas"
+     ],
+     "hint": "",
+     "text": "pipa"
+    },
+    {
+     "altSpellings": [
+      "cigarrillos",
+      "pitillo",
+      "pitillos"
+     ],
+     "hint": "",
+     "text": "cigarrillo"
+    },
+    {
+     "altSpellings": [
+      "puro",
+      "cigarro puro",
+      "cigarros puros",
+      "cigarros",
+      "puros",
+      "habano",
+      "habanos",
+      "túbano",
+      "túbanos",
+      "tubano",
+      "tubanos"
+     ],
+     "hint": "¿Qué es esa cosa que tu tío fuma cuando está tomando su copa de brandy?",
+     "text": "cigarro"
+    },
+    {
+     "altSpellings": [
+      "marijuana",
+      "marihuana",
+      "porros",
+      "carrujo",
+      "carrujos",
+      "petardo",
+      "petardos",
+      "troncho",
+      "tronchos",
+      "canuto",
+      "canutos",
+      "bareto",
+      "baretos",
+      "churro",
+      "churros"
+     ],
+     "hint": "Piensen en... enrollar papeles.",
+     "text": "porro"
+    },
+    {
+     "altSpellings": [
+      "e-cigarette",
+      "ecigarette",
+      "e cigarette",
+      "vapeador",
+      "vapeadores",
+      "cigarros electrónicos",
+      "vape",
+      "vaporizadores",
+      "cigarrillo electronico",
+      "cigarro electrónico",
+      "cigarro electronico",
+      "vapeadores",
+      "cigarrillos electrónicos"
+     ],
+     "hint": "",
+     "text": "cigarrillo electrónico"
+    },
+    {
+     "altSpellings": [
+      "bongs"
+     ],
+     "hint": "Puede que se hayan encontrado ESTA chimenea en un dormitorio universitario. No USTEDES personalmente, por supuesto.",
+     "text": "bong"
+    },
+    {
+     "altSpellings": [
+      "hooka",
+      "shisha",
+      "hookahs",
+      "hookas",
+      "huka",
+      "hukas",
+      "hookah",
+      "pipa oriental",
+      "cachimba",
+      "narguilé"
+     ],
+     "hint": "Un dispositivo que se hizo famoso por la oruga de Alicia en el país de las maravillas.",
+     "text": "narguile"
+    }
+   ],
+   "category": "Tecnología",
+   "exactSpelling": true,
+   "id": "86163",
+   "isValid": "",
+   "prompt": "Los 7 dispositivos populares que algunos humanos usan para inhalar y exhalar humo",
+   "subtype": "name",
+   "us": false,
+   "x": true
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "bound"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Uno de estos es un término de cocina. Necesitan de altas temperaturas para que ocurra.",
+     "text": "browned"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Piensen en reyes y reinas.",
+     "text": "crowned"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "downed"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "drowned"
+    },
+    {
+     "altSpellings": [],
+     "hint": "PERDIDO y...",
+     "text": "found"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Hay otra palabra para piso, pero piensen “al aire libre”.",
+     "text": "ground"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Les falta una fácil. Es una especie de perro.",
+     "text": "hound"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "mound"
+    },
+    {
+     "altSpellings": [
+      "lb.",
+      "lb"
+     ],
+     "hint": "¿Cómo se llama esa moneda inglesa?",
+     "text": "pound"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "sound"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "wound"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Vamos. No sean un Bozo.",
+     "text": "clowned"
+    },
+    {
+     "altSpellings": [],
+     "hint": "¿Este enunciado pone una mirada triste en tu rostro?",
+     "text": "frowned"
+    }
+   ],
+   "category": "Idioma/Palabras/Gramática",
+   "exactSpelling": true,
+   "id": "86377",
+   "isValid": "",
+   "prompt": "¿Qué palabras en inglés riman con “round”? (solo palabras comunes de una sílaba)",
+   "subtype": "rimas",
+   "us": true,
+   "x": false
+  }
+ ]
+}

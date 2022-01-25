@@ -1,0 +1,183 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Las 13 mejores bebidas de bares"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "answers_0_hint",
+   "n": "ClueAudio0",
+   "s": "¡Nueva York, baby!"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "answers_1_hint",
+   "n": "ClueAudio1"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "A",
+   "v": "answers_2_hint",
+   "n": "ClueAudio2",
+   "s": "James Bond prefiere el suyo agitado, no revuelto."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "A",
+   "v": "answers_3_hint",
+   "n": "ClueAudio3",
+   "s": "¡La palabra más divertida de decir! ¡Mojito! Oh, ups. Mala mía."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio4"
+  },
+  {
+   "t": "A",
+   "v": "answers_4_hint",
+   "n": "ClueAudio4"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio5"
+  },
+  {
+   "t": "A",
+   "v": "answers_5_hint",
+   "n": "ClueAudio5",
+   "s": "Digamos que eres un tradicionalista... puede que la gente te llame ASÍ. (en inglés)"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio6"
+  },
+  {
+   "t": "A",
+   "v": "answers_6_hint",
+   "n": "ClueAudio6"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio7"
+  },
+  {
+   "t": "A",
+   "v": "answers_7_hint",
+   "n": "ClueAudio7"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio8"
+  },
+  {
+   "t": "A",
+   "v": "answers_8_hint",
+   "n": "ClueAudio8"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio9"
+  },
+  {
+   "t": "A",
+   "v": "answers_9_hint",
+   "n": "ClueAudio9",
+   "s": "¡Tomates, gente! ¡El que lleva tomates!"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio10"
+  },
+  {
+   "t": "A",
+   "v": "answers_10_hint",
+   "n": "ClueAudio10"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio11"
+  },
+  {
+   "t": "A",
+   "v": "answers_11_hint",
+   "n": "ClueAudio11",
+   "s": "Vladimir Putin se podría identificar con ESTA bebida."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio12"
+  },
+  {
+   "t": "A",
+   "v": "answers_12_hint",
+   "n": "ClueAudio12",
+   "s": "Una de estas no es VERDADERAMENTE un té helado."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio",
+   "s": "A veces los jugadores me ofrecen un cóctel de sacrificio. Hasta ahora, estos son mis favoritos."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio"
+  }
+ ]
+}

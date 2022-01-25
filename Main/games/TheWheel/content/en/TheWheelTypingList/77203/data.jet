@@ -1,0 +1,132 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Los 10 Mejores Sabores de Helado"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "answers_0_hint",
+   "n": "ClueAudio0",
+   "s": "(perturbado) Te lo voy a deletrear. ¡Chocolate! ¡Solo escribe chocolate!"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "answers_1_hint",
+   "n": "ClueAudio1",
+   "s": "Algunos podrían decir que es el sabor más aburrido."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio4"
+  },
+  {
+   "t": "A",
+   "v": "answers_4_hint",
+   "n": "ClueAudio4",
+   "s": "¿Te gusta tu helado con cafeína?"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio5"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio6"
+  },
+  {
+   "t": "A",
+   "v": "answers_6_hint",
+   "n": "ClueAudio6",
+   "s": "Aunque el camino puede ser largo, espero que también sea ESTO."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio7"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio8"
+  },
+  {
+   "t": "A",
+   "v": "answers_8_hint",
+   "n": "ClueAudio8",
+   "s": "Uno de mis favoritos es agradable y mantecoso."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio9"
+  },
+  {
+   "t": "A",
+   "v": "answers_9_hint",
+   "n": "ClueAudio9",
+   "s": "Uno de mis favoritos tiene un tinte verde con sabor a nuez."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio",
+   "s": "Según yo."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio"
+  }
+ ]
+}

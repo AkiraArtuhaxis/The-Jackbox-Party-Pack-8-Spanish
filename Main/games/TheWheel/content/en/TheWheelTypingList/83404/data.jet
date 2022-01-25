@@ -1,0 +1,239 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "¿Qué palabras en inglés riman con “cheers”? (solo palabras comunes de una sílaba)"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "answers_0_hint",
+   "n": "ClueAudio0",
+   "s": "¡Más de una bebida alcohólica de este tipo para mí!"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "answers_1_hint",
+   "n": "ClueAudio1"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "A",
+   "v": "answers_2_hint",
+   "n": "ClueAudio2",
+   "s": "¡Sus dos pequeños orificios de oreja!"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "A",
+   "v": "answers_3_hint",
+   "n": "ClueAudio3",
+   "s": "Muchas personas tienen estos, como tener miedo a las arañas. O a cuadriláteros."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio4"
+  },
+  {
+   "t": "A",
+   "v": "answers_4_hint",
+   "n": "ClueAudio4",
+   "s": "Estas son las cositas que hacen que los relojes se muevan. Y también las ruedas."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio5"
+  },
+  {
+   "t": "A",
+   "v": "answers_5_hint",
+   "n": "ClueAudio5",
+   "s": "O tus compañeros, O un camino por el que puedes caminar sobre el océano."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio6"
+  },
+  {
+   "t": "A",
+   "v": "answers_6_hint",
+   "n": "ClueAudio6",
+   "s": "Estas salen de los agujeros de sus ojos cuando están tristes."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio7"
+  },
+  {
+   "t": "A",
+   "v": "answers_7_hint",
+   "n": "ClueAudio7",
+   "s": "Oh, como vuelan los ESTOS."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio8"
+  },
+  {
+   "t": "A",
+   "v": "answers_8_hint",
+   "n": "ClueAudio8"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio9"
+  },
+  {
+   "t": "A",
+   "v": "answers_9_hint",
+   "n": "ClueAudio9",
+   "s": "Tengo... más o menos... una forma como esta."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio10"
+  },
+  {
+   "t": "A",
+   "v": "answers_10_hint",
+   "n": "ClueAudio10"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio11"
+  },
+  {
+   "t": "A",
+   "v": "answers_11_hint",
+   "n": "ClueAudio11",
+   "s": "La rueda en tu auto hace esto."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio12"
+  },
+  {
+   "t": "A",
+   "v": "answers_12_hint",
+   "n": "ClueAudio12",
+   "s": "¡Oh Frankie! ¡Ven a ver! ¡Hay un montón de esos animalitos con astas en el jardín!"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio13"
+  },
+  {
+   "t": "A",
+   "v": "answers_13_hint",
+   "n": "ClueAudio13",
+   "s": "Cuando la criatura se acerca, hace esto."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio14"
+  },
+  {
+   "t": "A",
+   "v": "answers_14_hint",
+   "n": "ClueAudio14",
+   "s": "El villano malvado hace esto con su boca despiadada."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio15"
+  },
+  {
+   "t": "A",
+   "v": "answers_15_hint",
+   "n": "ClueAudio15"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio16"
+  },
+  {
+   "t": "A",
+   "v": "answers_16_hint",
+   "n": "ClueAudio16"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio17"
+  },
+  {
+   "t": "A",
+   "v": "answers_17_hint",
+   "n": "ClueAudio17"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio",
+   "s": "Brindo por ustedes, nobles rimas."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio",
+   "s": "Un brindis por el anfitrión con la mayor... ¡yo!"
+  }
+ ]
+}

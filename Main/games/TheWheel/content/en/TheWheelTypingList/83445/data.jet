@@ -1,0 +1,221 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "¿Qué palabras en inglés riman con “tile”? (solo palabras comunes de una sílaba)"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "answers_0_hint",
+   "n": "ClueAudio0",
+   "s": "En el supermercado, les encanta tomarse su tiempo caminando por esto."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "answers_1_hint",
+   "n": "ClueAudio1",
+   "s": "Esta es esa cosa amarga y repugnante en su estómago."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "A",
+   "v": "answers_2_hint",
+   "n": "ClueAudio2",
+   "s": "Los niños de hoy en día nunca vieron un teléfono con esto."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "A",
+   "v": "answers_3_hint",
+   "n": "ClueAudio3",
+   "s": "Déjenme que ponga sus documentos en esto."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio4"
+  },
+  {
+   "t": "A",
+   "v": "answers_4_hint",
+   "n": "ClueAudio4",
+   "s": "¡Soy inocente! Incapaz de engañar a nadie, ¡no cuento con esto!"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio5"
+  },
+  {
+   "t": "A",
+   "v": "answers_5_hint",
+   "n": "ClueAudio5",
+   "s": "Oh, qué lindo sería volver a esas hermosas otra palabra para islas."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio6"
+  },
+  {
+   "t": "A",
+   "v": "answers_6_hint",
+   "n": "ClueAudio6",
+   "s": "¡Forma abreviada de \"I will\"!"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio7"
+  },
+  {
+   "t": "A",
+   "v": "answers_7_hint",
+   "n": "ClueAudio7",
+   "s": "Se dice que Eminem tiene ocho de estas."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio8"
+  },
+  {
+   "t": "A",
+   "v": "answers_8_hint",
+   "n": "ClueAudio8",
+   "s": "Un montón de cosas una arriba de otra en un lugar."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio9"
+  },
+  {
+   "t": "A",
+   "v": "answers_9_hint",
+   "n": "ClueAudio9"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio10"
+  },
+  {
+   "t": "A",
+   "v": "answers_10_hint",
+   "n": "ClueAudio10",
+   "s": "¿Cómo puedo decirle que no a ese conglomerado de dientes y labios?"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio11"
+  },
+  {
+   "t": "A",
+   "v": "answers_11_hint",
+   "n": "ClueAudio11",
+   "s": "¡Uh! ¡Esta palabra tiene estética!"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio12"
+  },
+  {
+   "t": "A",
+   "v": "answers_12_hint",
+   "n": "ClueAudio12",
+   "s": "Todos los jugadores de la Ruleta se les brinda un justo y gratuito uno de estos por un jurado de sus compañeros."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio13"
+  },
+  {
+   "t": "A",
+   "v": "answers_13_hint",
+   "n": "ClueAudio13",
+   "s": "¡Esta palabra es repugnante! ¡Qué asco!"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio14"
+  },
+  {
+   "t": "A",
+   "v": "answers_14_hint",
+   "n": "ClueAudio14",
+   "s": "Esta palabra va a tomar... un rato."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio15"
+  },
+  {
+   "t": "A",
+   "v": "answers_15_hint",
+   "n": "ClueAudio15",
+   "s": "Significando \"travesura\", esta se usa más a menudo como descriptor."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio",
+   "s": "Lo siento, estoy hasta los ojos en muestras de salpicaduras para mi cocina."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio"
+  }
+ ]
+}

@@ -1,0 +1,180 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntroAudio"
+  },
+  {
+   "t": "A",
+   "v": "intro",
+   "n": "IntroAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "¿Qué palabras en inglés riman con “Shrek”? (solo palabras comunes de una sílaba)"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio0"
+  },
+  {
+   "t": "A",
+   "v": "answers_0_hint",
+   "n": "ClueAudio0"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio1"
+  },
+  {
+   "t": "A",
+   "v": "answers_1_hint",
+   "n": "ClueAudio1",
+   "s": "Estoy listo para tu “esto and call”. Así de genial soy."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio2"
+  },
+  {
+   "t": "A",
+   "v": "answers_2_hint",
+   "n": "ClueAudio2"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio3"
+  },
+  {
+   "t": "A",
+   "v": "answers_3_hint",
+   "n": "ClueAudio3"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio4"
+  },
+  {
+   "t": "A",
+   "v": "answers_4_hint",
+   "n": "ClueAudio4",
+   "s": "¿Cuál es otra palabra para un pequeñito besito?"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio5"
+  },
+  {
+   "t": "A",
+   "v": "answers_5_hint",
+   "n": "ClueAudio5"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio6"
+  },
+  {
+   "t": "A",
+   "v": "answers_6_hint",
+   "n": "ClueAudio6",
+   "s": "Me imagino que quizá alguno de ustedes trabaja en ESTA industria."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio7"
+  },
+  {
+   "t": "A",
+   "v": "answers_7_hint",
+   "n": "ClueAudio7",
+   "s": "Todos ustedes hicieron un viaje a la cima de mi montaña. Podrías decir que hiciste uno de estos."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio8"
+  },
+  {
+   "t": "A",
+   "v": "answers_8_hint",
+   "n": "ClueAudio8"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio9"
+  },
+  {
+   "t": "A",
+   "v": "answers_9_hint",
+   "n": "ClueAudio9"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasClueAudio10"
+  },
+  {
+   "t": "A",
+   "v": "answers_10_hint",
+   "n": "ClueAudio10",
+   "s": "Algunos eslovacos puede que se identifiquen con ESTA palabra."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio11"
+  },
+  {
+   "t": "A",
+   "v": "answers_11_hint",
+   "n": "ClueAudio11"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasClueAudio12"
+  },
+  {
+   "t": "A",
+   "v": "answers_12_hint",
+   "n": "ClueAudio12"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasFollowupAudio"
+  },
+  {
+   "t": "A",
+   "v": "followup",
+   "n": "FollowupAudio"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasOutroAudio"
+  },
+  {
+   "t": "A",
+   "v": "outro",
+   "n": "OutroAudio"
+  }
+ ]
+}
