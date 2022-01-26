@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "¿Cuál es un pasatiempo interesante que disfruta?"
+   "s": "¿Cuál es un pasatiempo interesante que disfrutas?"
   },
   {
    "t": "S",
-   "v": "¿Cuál es un pasatiempo interesante que disfruta?",
+   "v": "¿Cuál es un pasatiempo interesante que disfrutas?",
    "n": "QuestionText"
   },
   {

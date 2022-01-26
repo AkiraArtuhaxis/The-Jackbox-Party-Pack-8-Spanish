@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "¿Por qué abandonó su antigua ocupación?"
+   "s": "¿Por qué abandonaste tu antigua ocupación?"
   },
   {
    "t": "S",
-   "v": "¿Por qué abandonó su antigua ocupación?",
+   "v": "¿Por qué abandonaste tu antigua ocupación?",
    "n": "QuestionText"
   },
   {

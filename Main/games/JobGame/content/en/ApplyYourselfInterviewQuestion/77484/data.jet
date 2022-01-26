@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Trent tomó un pedazo del borde de la torta de cumpleaños de Becca sin preguntar. ¿Tú qué haces?"
+   "s": "Trent tomó un pedazo del borde del pastel de cumpleaños de Becca sin preguntar. ¿Tú qué haces?"
   },
   {
    "t": "S",
-   "v": "Trent tomó un pedazo del borde de la torta de cumpleaños de Becca sin preguntar. ¿Tú qué haces?",
+   "v": "Trent tomó un pedazo del borde del pastel de cumpleaños de Becca sin preguntar. ¿Tú qué haces?",
    "n": "QuestionText"
   },
   {

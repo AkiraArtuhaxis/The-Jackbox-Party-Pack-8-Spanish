@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "¿Qué es lo que busca en un mentor?"
+   "s": "¿Qué es lo que buscas en un mentor?"
   },
   {
    "t": "S",
-   "v": "¿Qué es lo que busca en un mentor?",
+   "v": "¿Qué es lo que buscas en un mentor?",
    "n": "QuestionText"
   },
   {

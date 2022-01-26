@@ -87,13 +87,13 @@
   {
    "id": "76162",
    "isValid": "",
-   "prompt": "¿Qué es lo que piensa sobre acampar?",
+   "prompt": "¿Qué es lo que piensas sobre acampar?",
    "x": false
   },
   {
    "id": "76163",
    "isValid": "",
-   "prompt": "¿Qué es algo que debería evitar hacer en una primera cita?",
+   "prompt": "¿Qué es algo que deberías evitar hacer en una primera cita?",
    "x": true
   },
   {
@@ -117,19 +117,19 @@
   {
    "id": "76168",
    "isValid": "",
-   "prompt": "¿Qué es lo primero que haría si perdiera su billetera?",
+   "prompt": "¿Qué es lo primero que harías si perdieras tu billetera?",
    "x": false
   },
   {
    "id": "76169",
    "isValid": "",
-   "prompt": "¿Qué es algo que haría si ganara la lotería?",
+   "prompt": "¿Qué es algo que harías si ganaras la lotería?",
    "x": false
   },
   {
    "id": "76170",
    "isValid": "",
-   "prompt": "¿Qué pregunta le haría a su celebridad favorita?",
+   "prompt": "¿Qué pregunta le harías a tu celebridad favorita?",
    "x": false
   },
   {
@@ -171,7 +171,7 @@
   {
    "id": "76177",
    "isValid": "",
-   "prompt": "¿Qué es algo que hacen otras personas que le molesta mucho?",
+   "prompt": "¿Qué es algo que hacen otras personas que te molesta mucho?",
    "x": false
   },
   {
@@ -195,7 +195,7 @@
   {
    "id": "76247",
    "isValid": "",
-   "prompt": "¿Qué le diría una paloma si pudiera hablar?",
+   "prompt": "¿Qué te diría una paloma si pudiera hablar?",
    "x": false
   },
   {
@@ -231,7 +231,7 @@
   {
    "id": "76253",
    "isValid": "",
-   "prompt": "¿Qué es lo primero que haría si de repente se encontrara con Beyoncé?",
+   "prompt": "¿Qué es lo primero que harías si de repente te encontraras con Beyoncé?",
    "x": false
   },
   {
@@ -255,13 +255,13 @@
   {
    "id": "76266",
    "isValid": "",
-   "prompt": "Cuando tenía nueve años, ¿cuál era la noche de viernes perfecta?",
+   "prompt": "Cuando tenías nueve años, ¿cuál era la noche de viernes perfecta?",
    "x": false
   },
   {
    "id": "76267",
    "isValid": "",
-   "prompt": "Tome una cita de película que le guste y cámbiele una palabra.",
+   "prompt": "Toma una cita de película que te guste y cámbiale una palabra.",
    "x": false
   },
   {
@@ -285,7 +285,7 @@
   {
    "id": "76273",
    "isValid": "",
-   "prompt": "¿Cuál es su estrategia habitual en las salas de escape (o en cualquier actividad de grupo)?",
+   "prompt": "¿Cuál es tu estrategia habitual en las salas de escape (o en cualquier actividad de grupo)?",
    "x": false
   },
   {
@@ -309,7 +309,7 @@
   {
    "id": "76289",
    "isValid": "",
-   "prompt": "¿Cuál sería el título de su autobiografía?",
+   "prompt": "¿Cuál sería el título de tu autobiografía?",
    "x": false
   },
   {
@@ -333,13 +333,13 @@
   {
    "id": "76297",
    "isValid": "",
-   "prompt": "¿Qué es algo que lo mantiene despierto cuando está intentando dormir?",
+   "prompt": "¿Qué es algo que te mantiene despierto cuando estás intentando dormir?",
    "x": false
   },
   {
    "id": "76299",
    "isValid": "",
-   "prompt": "¿Cómo sería su cielo personal?",
+   "prompt": "¿Cómo sería tu cielo personal?",
    "x": false
   },
   {
@@ -369,7 +369,7 @@
   {
    "id": "76304",
    "isValid": "",
-   "prompt": "¿Cómo pasas el tiempo en viajes largos en carro?",
+   "prompt": "¿Cómo pasas el tiempo en viajes largos en auto?",
    "x": false
   },
   {
@@ -381,19 +381,19 @@
   {
    "id": "76323",
    "isValid": "",
-   "prompt": "¿Por qué piensa que el estado de Florida es tan raro?",
+   "prompt": "¿Por qué piensas que el estado de Florida es tan raro?",
    "x": false
   },
   {
    "id": "76324",
    "isValid": "",
-   "prompt": "Si encontrara cien dólares, ¿qué haría con ellos?",
+   "prompt": "Si encontraras cien dólares, ¿qué harías con ellos?",
    "x": false
   },
   {
    "id": "76325",
    "isValid": "",
-   "prompt": "¿Qué te gustaría decir a un estafador del teléfono?",
+   "prompt": "¿Qué te gustaría decir a un estafador por teléfono?",
    "x": false
   },
   {
@@ -423,13 +423,13 @@
   {
    "id": "76331",
    "isValid": "",
-   "prompt": "Si fueras un detective de TV super genial, ¿cuál sería su frase célebre?",
+   "prompt": "Si fueras un detective de televisión súper genial, ¿cuál sería tu frase célebre?",
    "x": false
   },
   {
    "id": "76332",
    "isValid": "",
-   "prompt": "Cuál es una manera más divertida de decir “Nos vemos luego.”",
+   "prompt": "¿Cuál es una manera más divertida de decir “Nos vemos luego”?",
    "x": false
   },
   {
@@ -459,7 +459,7 @@
   {
    "id": "76365",
    "isValid": "",
-   "prompt": "Si tu fueras un póster motivacional, ¿cual sería tu título?",
+   "prompt": "Si fueras un póster motivacional, ¿cual sería tu título?",
    "x": false
   },
   {
@@ -471,7 +471,7 @@
   {
    "id": "76454",
    "isValid": "",
-   "prompt": "¿Qué imagina que hace un oso polar en un día?",
+   "prompt": "¿Qué imaginas que hace un oso polar en un día?",
    "x": false
   },
   {
@@ -483,7 +483,7 @@
   {
    "id": "76456",
    "isValid": "",
-   "prompt": "¿Qué harías si obtuvieras $10,000 y tuvieras que gastarlo hoy?",
+   "prompt": "¿Qué harías si obtuvieras $10.000 y tuvieras que gastarlos hoy?",
    "x": false
   },
   {
@@ -501,7 +501,7 @@
   {
    "id": "76459",
    "isValid": "",
-   "prompt": "¿Cuál es la última pregunta que buscó en línea? (O algo que ha estado planeando buscar.)",
+   "prompt": "¿Cuál es la última pregunta que buscaste en línea? (O algo que has estado planeando buscar.)",
    "x": false
   },
   {
@@ -537,19 +537,19 @@
   {
    "id": "76475",
    "isValid": "",
-   "prompt": "¿Cuál es la enseñanza de su libro infantil favorito?",
+   "prompt": "¿Cuál es la enseñanza de tu libro infantil favorito?",
    "x": false
   },
   {
    "id": "76476",
    "isValid": "",
-   "prompt": "¿Cómo cometería el asesinato perfecto?",
+   "prompt": "¿Cómo cometerías el asesinato perfecto?",
    "x": true
   },
   {
    "id": "76477",
    "isValid": "",
-   "prompt": "¿Cuál es una red flag importante en una primera cita?",
+   "prompt": "¿Cuál es una señal de alerta importante en una primera cita?",
    "x": true
   },
   {
@@ -573,7 +573,7 @@
   {
    "id": "76481",
    "isValid": "",
-   "prompt": "¿Cómo describiría su sentido de la moda?",
+   "prompt": "¿Cómo describirías tu sentido de la moda?",
    "x": false
   },
   {
@@ -645,7 +645,7 @@
   {
    "id": "76505",
    "isValid": "",
-   "prompt": "¿Qué sucede en su pintura favorita?",
+   "prompt": "¿Qué sucede en tu pintura favorita?",
    "x": false
   },
   {
@@ -693,19 +693,19 @@
   {
    "id": "76517",
    "isValid": "",
-   "prompt": "¿Qué puede hacer mejor que nadie?",
+   "prompt": "¿Qué puedes hacer mejor que nadie?",
    "x": false
   },
   {
    "id": "76518",
    "isValid": "",
-   "prompt": "¿Qué ocurre en su comercial favorito?",
+   "prompt": "¿Qué ocurre en tu comercial favorito?",
    "x": false
   },
   {
    "id": "76545",
    "isValid": "",
-   "prompt": "¿Cuál es la última oración de su autobiografía?",
+   "prompt": "¿Cuál es la última oración de tu autobiografía?",
    "x": false
   },
   {
@@ -993,7 +993,7 @@
   {
    "id": "76718",
    "isValid": "",
-   "prompt": "¿Qué es algo tonto que intentaste de pequeño?",
+   "prompt": "¿Qué es algo tonto que intentaste de pequeño/a?",
    "x": false
   },
   {
@@ -1203,7 +1203,7 @@
   {
    "id": "76843",
    "isValid": "",
-   "prompt": "¿Qué es algo que haces cuando estás nervioso?",
+   "prompt": "¿Qué es algo que haces cuando estás nervioso/a?",
    "x": false
   },
   {

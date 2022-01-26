@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "¿Tiene alguna pregunta para nosotros?"
+   "s": "¿Tienes alguna pregunta para nosotros?"
   },
   {
    "t": "S",
-   "v": "¿Tiene alguna pregunta para nosotros?",
+   "v": "¿Tienes alguna pregunta para nosotros?",
    "n": "QuestionText"
   },
   {

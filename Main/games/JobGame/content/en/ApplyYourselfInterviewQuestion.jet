@@ -131,7 +131,7 @@
   {
    "id": "76219",
    "isValid": "",
-   "question": "Si eres contratado, ¿qué se puede esperar de usted en sus primeros 30 días?",
+   "question": "Si eres contratado, ¿qué se puede esperar de ti en tus primeros 30 días?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -171,7 +171,7 @@
   {
    "id": "76224",
    "isValid": "",
-   "question": "¿Qué es el mas grande aporte que traerías a nuestra empresa?",
+   "question": "¿Cuál es el aporte más grande que traerías a nuestra empresa?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -211,7 +211,7 @@
   {
    "id": "76309",
    "isValid": "",
-   "question": "¿Cómo hace una buena primera impresión?",
+   "question": "¿Cómo haces una buena primera impresión?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -219,7 +219,7 @@
   {
    "id": "76310",
    "isValid": "",
-   "question": "¿Qué es algo de lo que está orgulloso?",
+   "question": "¿Qué es algo de lo que estás orgulloso?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -235,7 +235,7 @@
   {
    "id": "76312",
    "isValid": "",
-   "question": "¿Cuál es un pasatiempo interesante que disfruta?",
+   "question": "¿Cuál es un pasatiempo interesante que disfrutas?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -251,7 +251,7 @@
   {
    "id": "76314",
    "isValid": "",
-   "question": "¿Cómo describiría su ética de trabajo?",
+   "question": "¿Cómo describirías tu ética de trabajo?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -259,7 +259,7 @@
   {
    "id": "76315",
    "isValid": "",
-   "question": "¿Qué significa \"lealtad\" para usted?",
+   "question": "¿Qué significa \"lealtad\" para ti?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -291,7 +291,7 @@
   {
    "id": "76319",
    "isValid": "",
-   "question": "¿Qué le hace llorar?",
+   "question": "¿Qué te hace llorar?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -299,7 +299,7 @@
   {
    "id": "76320",
    "isValid": "",
-   "question": "¿Qué contiene su maletín en este momento?",
+   "question": "¿Qué contiene tu maletín en este momento?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -307,7 +307,7 @@
   {
    "id": "76346",
    "isValid": "",
-   "question": "¿Cuál es su espacio de trabajo ideal?",
+   "question": "¿Cuál es tu espacio de trabajo ideal?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -323,7 +323,7 @@
   {
    "id": "76348",
    "isValid": "",
-   "question": "¿Cuál es su mayor arrepentimiento?",
+   "question": "¿Cuál es tu mayor arrepentimiento?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -339,7 +339,7 @@
   {
    "id": "76350",
    "isValid": "",
-   "question": "¿Cuál fue su mayor problema con su empleador anterior?",
+   "question": "¿Cuál fue tu mayor problema con tu empleador anterior?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -347,7 +347,7 @@
   {
    "id": "76351",
    "isValid": "",
-   "question": "¿Por qué abandonó su antigua ocupación?",
+   "question": "¿Por qué abandonaste tu antigua ocupación?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -363,7 +363,7 @@
   {
    "id": "76353",
    "isValid": "",
-   "question": "¿Qué le motiva a dar el 110% cada día?",
+   "question": "¿Qué te motiva a dar el 110% cada día?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -411,7 +411,7 @@
   {
    "id": "76359",
    "isValid": "",
-   "question": "De niño/a, ¿cuál era su carrera soñada?",
+   "question": "De niño/a, ¿cuál era tu carrera soñada?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -435,7 +435,7 @@
   {
    "id": "76363",
    "isValid": "",
-   "question": "¿Qué cualidades busca en un equipo?",
+   "question": "¿Qué cualidades buscas en un equipo?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -459,7 +459,7 @@
   {
    "id": "76368",
    "isValid": "",
-   "question": "¿Dónde deberíamos enviar su primer pago?",
+   "question": "¿Dónde deberíamos enviar tu primer pago?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -531,7 +531,7 @@
   {
    "id": "76413",
    "isValid": "",
-   "question": "¿Cómo lidiaría con gente grosera?",
+   "question": "¿Cómo lidiarías con gente grosera?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -563,7 +563,7 @@
   {
    "id": "76418",
    "isValid": "",
-   "question": "¿Tiene alguna pregunta para nosotros?",
+   "question": "¿Tienes alguna pregunta para nosotros?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -651,7 +651,7 @@
   {
    "id": "76538",
    "isValid": "",
-   "question": "¿Dónde se encuentra espiritualmente/emocionalmente en la vida?",
+   "question": "¿Dónde te encuentras espiritualmente/emocionalmente en la vida?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -683,7 +683,7 @@
   {
    "id": "76543",
    "isValid": "",
-   "question": "¿Qué le gusta escuchar mientras trabaja?",
+   "question": "¿Qué te gusta escuchar mientras trabajas?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -699,7 +699,7 @@
   {
    "id": "76991",
    "isValid": "",
-   "question": "¿Cómo despediría a un compañero de trabajo?",
+   "question": "¿Cómo despedirías a un compañero de trabajo?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -707,7 +707,7 @@
   {
    "id": "76992",
    "isValid": "",
-   "question": "¿Qué es lo que busca en un mentor?",
+   "question": "¿Qué es lo que buscas en un mentor?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -739,7 +739,7 @@
   {
    "id": "76996",
    "isValid": "",
-   "question": "¿Cuál es el mayor obstáculo que ha superado?",
+   "question": "¿Cuál es el mayor obstáculo que has superado?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -747,7 +747,7 @@
   {
    "id": "76997",
    "isValid": "",
-   "question": "¿En qué cree?",
+   "question": "¿En qué crees?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -755,7 +755,7 @@
   {
    "id": "77078",
    "isValid": "",
-   "question": "¿Cuál es una meta diaria que se ha fijado para usted mismo?",
+   "question": "¿Cuál es una meta diaria que te has fijado para ti?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -827,7 +827,7 @@
   {
    "id": "78255",
    "isValid": "",
-   "question": "¿Cuál es la mejor manera de motivarle?",
+   "question": "¿Cuál es la mejor manera de motivarte?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -835,7 +835,7 @@
   {
    "id": "78258",
    "isValid": "",
-   "question": "¿De dónde obtiene sus mejores ideas?",
+   "question": "¿De dónde obtienes tus mejores ideas?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -867,7 +867,7 @@
   {
    "id": "78462",
    "isValid": "",
-   "question": "¿Cómo se mantiene motivado en el trabajo?",
+   "question": "¿Cómo te mantienes con motivación en el trabajo?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -875,7 +875,7 @@
   {
    "id": "78464",
    "isValid": "",
-   "question": "¿Cómo actúa bajo presión?",
+   "question": "¿Cómo actúas bajo presión?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -947,7 +947,7 @@
   {
    "id": "79571",
    "isValid": "",
-   "question": "Dígame, ¿por qué debería ser empleado del mes?",
+   "question": "Dime, ¿por qué deberías ser empleado del mes?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -955,7 +955,7 @@
   {
    "id": "80074",
    "isValid": "",
-   "question": "¿Cómo describiría su sentido del humor?",
+   "question": "¿Cómo describirías tu sentido del humor?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -963,7 +963,7 @@
   {
    "id": "80075",
    "isValid": "",
-   "question": "¿Cómo maneja el rechazo?",
+   "question": "¿Cómo manejas el rechazo?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -971,7 +971,7 @@
   {
    "id": "80076",
    "isValid": "",
-   "question": "¿Cuál diría que fue el punto culminante de su carrera?",
+   "question": "¿Cuál dirías que fue el punto culminante de tu carrera?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -979,7 +979,7 @@
   {
    "id": "80077",
    "isValid": "",
-   "question": "¿Cómo definiría \"integridad\"?",
+   "question": "¿Cómo definirías \"integridad\"?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -1011,7 +1011,7 @@
   {
    "id": "80083",
    "isValid": "",
-   "question": "Dame una buena razón por la cuál NO debería contratarlo.",
+   "question": "Dame una buena razón por la cuál NO debería contratarte.",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -1459,7 +1459,7 @@
   {
    "id": "76533",
    "isValid": "",
-   "question": "Un caso hipotético extraño... ¿Qué le dirías a la policía si comenzarán a investigar nuestras prácticas empresariales?",
+   "question": "Un caso hipotético extraño... ¿Qué le dirías a la policía si comenzaran a investigar nuestras prácticas empresariales?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -1699,7 +1699,7 @@
   {
    "id": "77234",
    "isValid": "",
-   "question": "El tacho de basura está lleno y todos lo están ignorando. ¿Qué haces?",
+   "question": "El bote de basura está lleno y todos lo están ignorando. ¿Qué haces?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -1723,7 +1723,7 @@
   {
    "id": "77237",
    "isValid": "",
-   "question": "Alguien superó tu puntación en la máquina de pinball de la compañía. ¿Qué haces?",
+   "question": "Alguien superó tu puntaje en la máquina de pinball de la compañía. ¿Qué haces?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -1915,7 +1915,7 @@
   {
    "id": "77264",
    "isValid": "",
-   "question": "Tu jefe está aburrido... ¿Cuál es el dato curioso más interesante que conoces?",
+   "question": "Tu jefe se aburre... ¿Cuál es el dato curioso más interesante que conoces?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2123,7 +2123,7 @@
   {
    "id": "77484",
    "isValid": "",
-   "question": "Trent tomó un pedazo del borde de la torta de cumpleaños de Becca sin preguntar. ¿Tú qué haces?",
+   "question": "Trent tomó un pedazo del borde del pastel de cumpleaños de Becca sin preguntar. ¿Tú qué haces?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3259,7 +3259,7 @@
   {
    "id": "79586",
    "isValid": "",
-   "question": "Alguien reemplazo los mejores snacks de la oficina con unos saludables. ¿Cómo reaccionas?",
+   "question": "Alguien reemplazó los mejores snacks de la oficina con unos saludables. ¿Cómo reaccionas?",
    "round": "two",
    "round3Header": null,
    "x": false

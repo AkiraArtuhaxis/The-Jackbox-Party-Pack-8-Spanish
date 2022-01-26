@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "¿En qué cree?"
+   "s": "¿En qué crees?"
   },
   {
    "t": "S",
-   "v": "¿En qué cree?",
+   "v": "¿En qué crees?",
    "n": "QuestionText"
   },
   {

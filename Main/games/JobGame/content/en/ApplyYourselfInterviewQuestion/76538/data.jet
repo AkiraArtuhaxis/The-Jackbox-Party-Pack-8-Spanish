@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "¿Dónde se encuentra espiritualmente/emocionalmente en la vida?"
+   "s": "¿Dónde te encuentras espiritualmente/emocionalmente en la vida?"
   },
   {
    "t": "S",
-   "v": "¿Dónde se encuentra espiritualmente/emocionalmente en la vida?",
+   "v": "¿Dónde te encuentras espiritualmente/emocionalmente en la vida?",
    "n": "QuestionText"
   },
   {

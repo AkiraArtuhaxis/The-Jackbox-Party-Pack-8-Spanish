@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "¿Dónde deberíamos enviar su primer pago?"
+   "s": "¿Dónde deberíamos enviar tu primer pago?"
   },
   {
    "t": "S",
-   "v": "¿Dónde deberíamos enviar su primer pago?",
+   "v": "¿Dónde deberíamos enviar tu primer pago?",
    "n": "QuestionText"
   },
   {

@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "El tacho de basura está lleno y todos lo están ignorando. ¿Qué haces?"
+   "s": "El bote de basura está lleno y todos lo están ignorando. ¿Qué haces?"
   },
   {
    "t": "S",
-   "v": "El tacho de basura está lleno y todos lo están ignorando. ¿Qué haces?",
+   "v": "El bote de basura está lleno y todos lo están ignorando. ¿Qué haces?",
    "n": "QuestionText"
   },
   {

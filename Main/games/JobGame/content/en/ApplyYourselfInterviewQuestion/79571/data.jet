@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Dígame, ¿por qué debería ser empleado del mes?"
+   "s": "Dime, ¿por qué deberías ser empleado del mes?"
   },
   {
    "t": "S",
-   "v": "Dígame, ¿por qué debería ser empleado del mes?",
+   "v": "Dime, ¿por qué deberías ser empleado del mes?",
    "n": "QuestionText"
   },
   {

@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "¿Qué le hace llorar?"
+   "s": "¿Qué te hace llorar?"
   },
   {
    "t": "S",
-   "v": "¿Qué le hace llorar?",
+   "v": "¿Qué te hace llorar?",
    "n": "QuestionText"
   },
   {

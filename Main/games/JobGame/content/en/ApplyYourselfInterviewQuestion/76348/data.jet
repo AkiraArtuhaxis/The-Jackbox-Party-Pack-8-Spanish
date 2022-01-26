@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "¿Cuál es su mayor arrepentimiento?"
+   "s": "¿Cuál es tu mayor arrepentimiento?"
   },
   {
    "t": "S",
-   "v": "¿Cuál es su mayor arrepentimiento?",
+   "v": "¿Cuál es tu mayor arrepentimiento?",
    "n": "QuestionText"
   },
   {

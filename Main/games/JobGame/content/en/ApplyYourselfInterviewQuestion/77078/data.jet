@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "¿Cuál es una meta diaria que se ha fijado para usted mismo?"
+   "s": "¿Cuál es una meta diaria que te has fijado para ti?"
   },
   {
    "t": "S",
-   "v": "¿Cuál es una meta diaria que se ha fijado para usted mismo?",
+   "v": "¿Cuál es una meta diaria que te has fijado para ti?",
    "n": "QuestionText"
   },
   {

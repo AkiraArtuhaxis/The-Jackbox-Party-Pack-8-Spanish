@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "¿Cómo describiría su sentido del humor?"
+   "s": "¿Cómo describirías tu sentido del humor?"
   },
   {
    "t": "S",
-   "v": "¿Cómo describiría su sentido del humor?",
+   "v": "¿Cómo describirías tu sentido del humor?",
    "n": "QuestionText"
   },
   {

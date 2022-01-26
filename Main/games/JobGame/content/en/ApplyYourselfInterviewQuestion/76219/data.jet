@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Si eres contratado, ¿qué se puede esperar de usted en sus primeros 30 días?"
+   "s": "Si eres contratado, ¿qué se puede esperar de ti en tus primeros 30 días?"
   },
   {
    "t": "S",
-   "v": "Si eres contratado, ¿qué se puede esperar de usted en sus primeros 30 días?",
+   "v": "Si eres contratado, ¿qué se puede esperar de ti en tus primeros 30 días?",
    "n": "QuestionText"
   },
   {

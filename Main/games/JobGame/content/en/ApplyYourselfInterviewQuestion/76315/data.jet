@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "¿Qué significa \"lealtad\" para usted?"
+   "s": "¿Qué significa \"lealtad\" para ti?"
   },
   {
    "t": "S",
-   "v": "¿Qué significa \"lealtad\" para usted?",
+   "v": "¿Qué significa \"lealtad\" para ti?",
    "n": "QuestionText"
   },
   {

@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "¿Qué es el mas grande aporte que traerías a nuestra empresa?"
+   "s": "¿Cuál es el aporte más grande que traerías a nuestra empresa?"
   },
   {
    "t": "S",
-   "v": "¿Qué es el mas grande aporte que traerías a nuestra empresa?",
+   "v": "¿Cuál es el aporte más grande que traerías a nuestra empresa?",
    "n": "QuestionText"
   },
   {

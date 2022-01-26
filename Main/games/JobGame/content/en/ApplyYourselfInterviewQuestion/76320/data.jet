@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "¿Qué contiene su maletín en este momento?"
+   "s": "¿Qué contiene tu maletín en este momento?"
   },
   {
    "t": "S",
-   "v": "¿Qué contiene su maletín en este momento?",
+   "v": "¿Qué contiene tu maletín en este momento?",
    "n": "QuestionText"
   },
   {

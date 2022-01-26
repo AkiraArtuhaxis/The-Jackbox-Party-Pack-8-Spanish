@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "¿Cuál es su espacio de trabajo ideal?"
+   "s": "¿Cuál es tu espacio de trabajo ideal?"
   },
   {
    "t": "S",
-   "v": "¿Cuál es su espacio de trabajo ideal?",
+   "v": "¿Cuál es tu espacio de trabajo ideal?",
    "n": "QuestionText"
   },
   {

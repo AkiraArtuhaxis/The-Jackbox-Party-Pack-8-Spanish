@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "¿Cuál fue su mayor problema con su empleador anterior?"
+   "s": "¿Cuál fue tu mayor problema con tu empleador anterior?"
   },
   {
    "t": "S",
-   "v": "¿Cuál fue su mayor problema con su empleador anterior?",
+   "v": "¿Cuál fue tu mayor problema con tu empleador anterior?",
    "n": "QuestionText"
   },
   {

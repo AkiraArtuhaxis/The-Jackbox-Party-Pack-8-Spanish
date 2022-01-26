@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "¿Qué le gusta escuchar mientras trabaja?"
+   "s": "¿Qué te gusta escuchar mientras trabajas?"
   },
   {
    "t": "S",
-   "v": "¿Qué le gusta escuchar mientras trabaja?",
+   "v": "¿Qué te gusta escuchar mientras trabajas?",
    "n": "QuestionText"
   },
   {

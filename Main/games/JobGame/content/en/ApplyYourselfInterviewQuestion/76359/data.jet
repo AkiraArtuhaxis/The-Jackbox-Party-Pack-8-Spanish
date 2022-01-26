@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "De niño/a, ¿cuál era su carrera soñada?"
+   "s": "De niño/a, ¿cuál era tu carrera soñada?"
   },
   {
    "t": "S",
-   "v": "De niño/a, ¿cuál era su carrera soñada?",
+   "v": "De niño/a, ¿cuál era tu carrera soñada?",
    "n": "QuestionText"
   },
   {

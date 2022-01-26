@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "¿Cuál es el mayor obstáculo que ha superado?"
+   "s": "¿Cuál es el mayor obstáculo que has superado?"
   },
   {
    "t": "S",
-   "v": "¿Cuál es el mayor obstáculo que ha superado?",
+   "v": "¿Cuál es el mayor obstáculo que has superado?",
    "n": "QuestionText"
   },
   {

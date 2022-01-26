@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Dame una buena razón por la cuál NO debería contratarlo."
+   "s": "Dame una buena razón por la cuál NO debería contratarte."
   },
   {
    "t": "S",
-   "v": "Dame una buena razón por la cuál NO debería contratarlo.",
+   "v": "Dame una buena razón por la cuál NO debería contratarte.",
    "n": "QuestionText"
   },
   {
