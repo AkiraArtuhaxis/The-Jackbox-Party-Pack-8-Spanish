@@ -1266,7 +1266,7 @@
      "text": "velero"
     },
     {
-     "text": "paraguas"
+     "text": "pipa"
     },
     {
      "text": "cuerno"
@@ -12291,7 +12291,7 @@
    ],
    "id": "82626",
    "isValid": "",
-   "prompt": "¿Qué películas presentan a John Travolta bailando?",
+   "prompt": "¿En qué películas aparece John Travolta bailando?",
    "us": false,
    "x": false
   },
@@ -12301,7 +12301,7 @@
      "text": "Stuttgart"
     },
     {
-     "text": "Frankfurt am Main"
+     "text": "Fráncfort del Meno"
     },
     {
      "text": "Berlín"
@@ -12313,10 +12313,10 @@
      "text": "Bonn"
     },
     {
-     "text": "Hamburg"
+     "text": "Hamburgo"
     },
     {
-     "text": "Dresden"
+     "text": "Dresde"
     },
     {
      "text": "Bremen"
@@ -12325,19 +12325,19 @@
    "category": "Geografía y Lugares",
    "decoys": [
     {
-     "text": "Vienna"
+     "text": "Viena"
     },
     {
-     "text": "Salzburg"
+     "text": "Salzburgo"
     },
     {
-     "text": "Warsaw"
+     "text": "Varsovia"
     },
     {
-     "text": "Zürich"
+     "text": "Zúrich"
     },
     {
-     "text": "Moscow"
+     "text": "Moscú"
     },
     {
      "text": "Innsbruck"

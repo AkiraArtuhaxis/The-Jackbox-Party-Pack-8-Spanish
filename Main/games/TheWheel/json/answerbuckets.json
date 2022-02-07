@@ -723,14 +723,18 @@
                 "Quien",
                 "Quiénes",
                 "Por quien",
+                "Por quién",
                 "Cualquiera",
-                "Quien sea",
+                "Quién será",
+                "Quien sera",
                 "¿Quién",
                 "¿Quien",
                 "¿Quiénes",
                 "¿Por quien",
+                "¿Por quién",
                 "¿Cualquiera",
-                "¿Quien sea"
+                "¿Quién será",
+                "¿Quien sera"
             ],
             "sequential": [],
             "answers": [
@@ -827,26 +831,11 @@
         {
             "keywords": [
                 "Qué",
-                "¿Qué"
+                "¿Qué",
+                "Que",
+                "¿Que"
             ],
-            "sequential": [
-                "es",
-                "no es",
-                "no son",
-                "puede",
-                "será",
-                "hacer",
-                "hizo",
-                "hace",
-                "pudo",
-                "debería",
-                "haría",
-                "son",
-                "tienen",
-                "tiene",
-                "puede",
-                "podría"
-            ],
+            "sequential": [],
             "answers": [
                 "Probablemente nada. ¿O algo? Sí, algo.",
                 "Podría decírtelo, pero no lo entenderías hasta que aprendas más sobre física de partículas.",
@@ -916,22 +905,7 @@
                 "¿Cuándo",
                 "¿Cuando"
             ],
-            "sequential": [
-                "es",
-                "son",
-                "puede",
-                "será",
-                "hacer",
-                "hace",
-                "hizo",
-                "pudo",
-                "debería",
-                "haría",
-                "tienen",
-                "tiene",
-                "puede",
-                "podría"
-            ],
+            "sequential": [],
             "answers": [
                 "Quince minutos después del postre. Ni antes, ni después.",
                 "En el mismo momento en que te duermas esta noche.",
@@ -1177,18 +1151,7 @@
                 "¿Cómo",
                 "¿Como"
             ],
-            "sequential": [
-                "puede",
-                "pudo",
-                "haría",
-                "debería",
-                "hacer",
-                "hace",
-                "será",
-                "podría",
-                "puede",
-                "hizo"
-            ],
+            "sequential": [],
             "answers": [
                 "Por ósmosis. Es complicado, pero básicamente significa… no, demasiado complicado. Solo búscalo.",
                 "Implica un poco de esfuerzo y MUCHAS toallas de papel.",
@@ -1264,17 +1227,13 @@
                 "Qué tan",
                 "Que tan",
                 "¿Qué tan",
-                "¿Que tan"
+                "¿Que tan",
+                "Qué tanto",
+                "Que tanto",
+                "¿Qué tanto",
+                "¿Que tanto"
             ],
-            "sequential": [
-                "a menudo",
-                "frecuentemente",
-                "raramente",
-                "infrecuentemente",
-                "raro",
-                "común",
-                "pronto"
-            ],
+            "sequential": [],
             "answers": [
                 "TODO. EL. TIEMPO.",
                 "Quincenal, como un cheque de pago.",

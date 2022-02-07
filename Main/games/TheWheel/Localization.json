@@ -87,7 +87,7 @@
             "TRIVIA_TYPE_RAPIDFIRE_NAME": "Eso o Esto",
             "TRIVIA_TYPE_GUESSING_NAME": "¡¿En qué estoy pensando?!",
             "GUESSING_PROMPT": "¿De qué crees que está hablando La Ruleta?",
-            "TRIVIA_TYPE_TAPPING_LIST_INSTRUCTIONS": "Pulsa sobre las respuestas que encajen con el enunciado en tu dispositivo",
+            "TRIVIA_TYPE_TAPPING_LIST_INSTRUCTIONS": "Toca las respuestas que encajen con el enunciado en tu dispositivo",
             "TRIVIA_TYPE_SUBJECTIVE_LIST_INSTRUCTIONS": "Adivina tantas respuestas como puedas antes de que se acabe el tiempo",
             "TRIVIA_TYPE_TYPING_LIST_INSTRUCTIONS": "Escribe tantas respuestas como puedas antes de que se acabe el tiempo",
             "TRIVIA_TYPE_NUMBER_TARGET_INSTRUCTIONS": "Introduce un número lo más cercano posible a la respuesta correcta",
