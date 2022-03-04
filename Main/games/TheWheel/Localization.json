@@ -120,7 +120,7 @@
             "PLAYER_SLICE_CONTESTED": "DIVIDIR",
             "HIGH_SCORE": "MEJOR PUNTAJE",
             "FASTEST_ANSWER": "RESPUESTA MÁS RÁPIDA",
-            "SLICE_EFFECT_SWAPPOINTS_NAME": "INTERCAMBIO\nDE PUNTOS",
+            "SLICE_EFFECT_SWAPPOINTS_NAME": "CAMBIO DE\nPUNTOS",
             "SLICE_EFFECT_SWAPPOINTS_DESCRIPTION": "Haz que otros dos jugadores intercambien puntos",
             "SLICE_EFFECT_SWAPPOINTS_PROMPT": "Elige a dos jugadores. Se intercambiarán los puntos.",
             "SLICE_EFFECT_EXPAND_NAME": "DUPLICAR\nPORCIÓN",

@@ -7506,7 +7506,7 @@
      "text": "Marzo"
     },
     {
-     "text": "Tal vez"
+     "text": "Mayo"
     },
     {
      "text": "Julio"
@@ -8249,13 +8249,13 @@
   {
    "answers": [
     {
-     "text": "nadie habla sobre el Club de la Lucha"
+     "text": "nadie habla sobre el Club de la Pelea"
     },
     {
-     "text": "NADIE habla sobre el Club de la Lucha!"
+     "text": "¡NADIE habla sobre el Club de la Pelea!"
     },
     {
-     "text": "la pelea termina cuando uno de los contendientes grita \"alto\", pierde la vertical o hace una señal"
+     "text": "alguien grita “Alto”, afloja o se da por vencido, la pelea termina"
     },
     {
      "text": "solo dos personas por pelea"
@@ -8270,7 +8270,7 @@
      "text": "cada pelea dura lo que tiene que durar"
     },
     {
-     "text": "si ésta es tu primera noche en el Club de la lucha, entonces tienes que pelear"
+     "text": "si es tu primera noche en el Club de la pelea, tienes que pelear"
     }
    ],
    "category": "Película y TV",
@@ -8285,12 +8285,12 @@
      "text": "todos se dan un abrazo al final de cada pelea"
     },
     {
-     "text": "si ésta es tu primera noche en el Club de la lucha, entonces tienes que comprar una pizza"
+     "text": "si es tu primera noche en el Club de la pelea, tú compras la pizza"
     }
    ],
    "id": "78882",
    "isValid": "",
-   "prompt": "¿Cuáles son las 8 Reglas del [i]Club de la Lucha[/i]?",
+   "prompt": "¿Cuáles son las 8 Reglas del [i]Club de la Pelea[/i]?",
    "us": false,
    "x": false
   },
