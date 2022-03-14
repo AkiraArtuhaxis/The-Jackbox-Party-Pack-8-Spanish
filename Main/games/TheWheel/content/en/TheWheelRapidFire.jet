@@ -3203,30 +3203,22 @@
    "answers": [
     {
      "text": "ultraexclusivamente",
-     "value": "16"
+     "value": "19"
     },
     {
      "text": "narcisistamente",
-     "value": "16"
-    },
-    {
-     "text": "objetivización",
      "value": "15"
-    },
-    {
-     "text": "bacteriólogos",
-     "value": "15"
-    },
-    {
-     "text": "ridiculez",
-     "value": "14"
     },
     {
      "text": "jellificaciones",
+     "value": "15"
+    },
+    {
+     "text": "objetivización",
      "value": "14"
     },
     {
-     "text": "charlatanes",
+     "text": "bacteriólogos",
      "value": "13"
     },
     {
@@ -3234,12 +3226,12 @@
      "value": "13"
     },
     {
-     "text": "subjetivismo",
-     "value": "12"
+    "text": "subjetivismo",
+    "value": "12"
     },
     {
-     "text": "cortauñas",
-     "value": "12"
+     "text": "charlatanes",
+     "value": "11"
     },
     {
      "text": "razzamatazz",
@@ -3250,12 +3242,20 @@
      "value": "11"
     },
     {
+     "text": "ridiculez",
+     "value": "9"
+    },
+    {
+     "text": "cortauñas",
+     "value": "9"
+    },
+    {
      "text": "vacunado",
-     "value": "10"
+     "value": "8"
     },
     {
      "text": "sabático",
-     "value": "10"
+     "value": "8"
     }
    ],
    "category": "Idioma/Palabras/Gramática",
