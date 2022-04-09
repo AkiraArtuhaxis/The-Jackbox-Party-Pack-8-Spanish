@@ -8219,19 +8219,19 @@
    "choices": [
     "Cepillo de dientes",
     "Almohada",
-    "Sheets",
-    "Plate of Scrambled Eggs",
-    "Butcher Knife",
-    "Open Pack of Gum",
-    "Hairbrush",
-    "Bottle of Pills"
+    "Sábanas",
+    "Plato de huevos revueltos",
+    "Cuchillo de carnicero",
+    "Paquete abierto de chicle",
+    "Peine",
+    "Botella de píldoras"
    ],
    "id": "81246",
-   "intro": "Let's put the phrase \"Finders, Keepers\" to the test, shall we?",
+   "intro": "Pongamos a prueba la frase \"El que lo encuentra se lo queda\", ¿de acuerdo?",
    "isValid": "",
    "outro": "Una cosa es segura... todos ustedes son asquerosos.",
-   "question": "Which of these would you find on a curb... and actually use?",
-   "questionShort": "Find On Curb; Use",
+   "question": "¿Cuál de estos encontrarías en una acera... y realmente usarías?",
+   "questionShort": "Encontrar en una acera; usar",
    "round": "third",
    "us": false,
    "x": true

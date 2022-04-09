@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Let's put the phrase \"Finders, Keepers\" to the test, shall we?"
+   "s": "Pongamos a prueba la frase \"El que lo encuentra se lo queda\", ¿de acuerdo?"
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Which of these would you find on a curb... and actually use?"
+   "s": "¿Cuál de estos encontrarías en una acera... y realmente usarías?"
   },
   {
    "t": "B",

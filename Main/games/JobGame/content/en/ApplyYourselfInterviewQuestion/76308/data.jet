@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "¿Qué es algo que lo inspira?"
+   "s": "¿Qué es algo que te inspira?"
   },
   {
    "t": "S",
-   "v": "¿Qué es algo que lo inspira?",
+   "v": "¿Qué es algo que te inspira?",
    "n": "QuestionText"
   },
   {
