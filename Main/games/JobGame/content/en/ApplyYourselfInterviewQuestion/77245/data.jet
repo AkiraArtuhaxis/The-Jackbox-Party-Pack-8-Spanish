@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Nuestra oficina funciona a bese de retroalimentación positiva. ¿Cuál es la crítica más buena que has recibido?"
+   "s": "Nuestra oficina funciona a base de retroalimentación positiva. ¿Cuál es la crítica más buena que has recibido?"
   },
   {
    "t": "S",
-   "v": "Nuestra oficina funciona a bese de retroalimentación positiva. ¿Cuál es la crítica más buena que has recibido?",
+   "v": "Nuestra oficina funciona a base de retroalimentación positiva. ¿Cuál es la crítica más buena que has recibido?",
    "n": "QuestionText"
   },
   {
