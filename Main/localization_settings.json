@@ -20,7 +20,7 @@
             "FULL_SCREEN_DESCRIPTION": "Hace que el juego tome toda la pantalla.",
             "FAMILY_FRIENDLY": "Para toda la familia",
             "FAMILY_FRIENDLY_DESCRIPTION": "Habilitarlo remueve el contenido más provocativo del juego.",
-            "PLAYER_CONTENT_FILTERING": "Filtro de lenguaje soez",
+            "PLAYER_CONTENT_FILTERING": "Filtro de lenguaje vulgar",
             "PLAYER_CONTENT_FILTERING_OFF_DESCRIPTION": "Toda respuesta es permitida.",
             "PLAYER_CONTENT_FILTERING_HATE_SPEECH_DESCRIPTION": "Usar palabras utilizadas en discurso de odio hará que se rechace la respuesta. Las malas palabras están permitidas.",
             "PLAYER_CONTENT_FILTERING_PROFANITY_DESCRIPTION": "Usar palabras utilizadas en discurso de odio y malas palabras hará que se rechace la respuesta.",
