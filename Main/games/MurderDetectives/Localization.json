@@ -83,7 +83,7 @@
       "GLOBAL_ROOM_CODE_AUDIENCE_LABEL": "Público",
       "GLOBAL_ROOM_CODE_REMINDER_LABEL": "jack<br>box<br>.lol",
       "AUDIENCE_SOUNDBOARD_PROMPT": "Toca un botón repetidamente para elegir dónde caerá un rayo. Los sonidos se activarán cuando suficientes miembros del público toquen.",
-      "AUDIENCE_SOUNDBOARD_COMPLETED_PREAMBLE": "golpear ",
+      "AUDIENCE_SOUNDBOARD_COMPLETED_PREAMBLE": "cayó en ",
       "AUDIENCE_SOUNDBOARD_OPTIONS": [
         "cerca de un gato",
         "cerca de una vaca",
@@ -121,7 +121,7 @@
       "MURDERING_ERROR_TEXT": "algo salió mal",
       "MURDER_ATTEMPT_NOTIFICATION": "%d intento de asesinato en %s",
       "MURDER_ATTEMPTS_NOTIFICATION": "%d intentos de asesinato en %s",
-      "AUDIENCE_STABBING_PROMPT_TEXT": "[header]Mientras los detectives están asesinando [/encabezado] [line]Apuñala en la oscuridad[/line]",
+      "AUDIENCE_STABBING_PROMPT_TEXT": "[header]Mientras los detectives están asesinando[/header][line]Apuñala en la oscuridad[/line]",
       "AUDIENCE_STABBING_BUTTON_TEXT": "APUÑALAR",
       "AUDIENCE_STABBING_MISS_MESSAGES": [
         "Fallaste.",
