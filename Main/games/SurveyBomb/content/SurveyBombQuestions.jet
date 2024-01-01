@@ -6446,10 +6446,10 @@
    "category": "worst",
    "choices": [
     "Colección de dientes",
-    "Rides a Horse Everywhere",
-    "Named Boat \"Paul Gia-Yacht-I\"",
+    "Monta a caballo en todas partes",
+    "Nombró a un bote \"Paul Gia-Te\"",
     "Tiene 100 títeres",
-    "Todas las citas es en los  bolos",
+    "Todas las citas son en los bolos",
     "No le gusta el queso",
     "El mejor amigo es Furby",
     "Es Nicolas Cage"
@@ -11767,7 +11767,7 @@
    "isValid": "",
    "outro": null,
    "question": "¿Qué sección de la ferretería te genera MENOS confianza?",
-   "questionShort": "Poca FErretería",
+   "questionShort": "Poca Ferretería",
    "round": "second",
    "us": false,
    "x": false
