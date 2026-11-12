@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "¡Tu mejor amigo de la oficina está almorzando con el nuevo en vez de contigo! ¿Cómo reaccionas?"
+   "s": "¡Tu mejor amigo de la oficina está almorzando con el nuevo empleado en vez de contigo! ¿Cómo reaccionas?"
   },
   {
    "t": "S",
-   "v": "¡Tu mejor amigo de la oficina está almorzando con el nuevo en vez de contigo! ¿Cómo reaccionas?",
+   "v": "¡Tu mejor amigo de la oficina está almorzando con el nuevo empleado en vez de contigo! ¿Cómo reaccionas?",
    "n": "QuestionText"
   },
   {

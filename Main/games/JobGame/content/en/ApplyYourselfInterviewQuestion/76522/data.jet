@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "A nuestra oficina le gusta participar del Día de los Inocentes. ¿Cuál es tu broma favorita?"
+   "s": "A nuestra oficina le gusta participar en el Día de los Inocentes. ¿Cuál es tu broma favorita?"
   },
   {
    "t": "S",
-   "v": "A nuestra oficina le gusta participar del Día de los Inocentes. ¿Cuál es tu broma favorita?",
+   "v": "A nuestra oficina le gusta participar en el Día de los Inocentes. ¿Cuál es tu broma favorita?",
    "n": "QuestionText"
   },
   {

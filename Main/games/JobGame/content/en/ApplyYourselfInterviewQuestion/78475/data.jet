@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "El nuevo parece súper genial. ¿Qué haces para que se sienta bienvenido en la oficina?"
+   "s": "El nuevo empleado parece súper genial. ¿Qué haces para que se sienta bienvenido en la oficina?"
   },
   {
    "t": "S",
-   "v": "El nuevo parece súper genial. ¿Qué haces para que se sienta bienvenido en la oficina?",
+   "v": "El nuevo empleado parece súper genial. ¿Qué haces para que se sienta bienvenido en la oficina?",
    "n": "QuestionText"
   },
   {

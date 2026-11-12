@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Descubres que tu almuerzo no está en la heladera de la compañía. ¿Qué haces?"
+   "s": "Descubres que tu almuerzo no está en el refrigerador de la compañía. ¿Qué haces?"
   },
   {
    "t": "S",
-   "v": "Descubres que tu almuerzo no está en la heladera de la compañía. ¿Qué haces?",
+   "v": "Descubres que tu almuerzo no está en el refrigerador de la compañía. ¿Qué haces?",
    "n": "QuestionText"
   },
   {

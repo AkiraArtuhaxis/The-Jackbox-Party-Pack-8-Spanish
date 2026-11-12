@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Has atascado la impresora costosa de la oficina, posiblemente permanentemente. ¿Qué haces?"
+   "s": "Has atascado la impresora costosa de la oficina, quizás permanentemente. ¿Qué haces?"
   },
   {
    "t": "S",
-   "v": "Has atascado la impresora costosa de la oficina, posiblemente permanentemente. ¿Qué haces?",
+   "v": "Has atascado la impresora costosa de la oficina, quizás permanentemente. ¿Qué haces?",
    "n": "QuestionText"
   },
   {

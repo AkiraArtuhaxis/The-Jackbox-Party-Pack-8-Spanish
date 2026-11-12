@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Por error bebiste una gaseosa de la heladera de la oficina que dice “No Tocar”. ¿Qué haces?"
+   "s": "Por error bebiste una gaseosa del refrigerador de la oficina que dice “No Tocar”. ¿Qué haces?"
   },
   {
    "t": "S",
-   "v": "Por error bebiste una gaseosa de la heladera de la oficina que dice “No Tocar”. ¿Qué haces?",
+   "v": "Por error bebiste una gaseosa del refrigerador de la oficina que dice “No Tocar”. ¿Qué haces?",
    "n": "QuestionText"
   },
   {

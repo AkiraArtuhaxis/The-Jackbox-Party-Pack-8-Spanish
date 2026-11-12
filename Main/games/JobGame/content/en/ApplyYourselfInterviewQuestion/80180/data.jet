@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Mentiste diciendo que hablabas alemán en tu currículum... y ha llegado ahora alguien de la oficina alemana. ¿Qué haces?"
+   "s": "Mentiste diciendo que hablabas alemán en tu currículum... y acaba de llegar alguien de la oficina alemana. ¿Qué haces?"
   },
   {
    "t": "S",
-   "v": "Mentiste diciendo que hablabas alemán en tu currículum... y ha llegado ahora alguien de la oficina alemana. ¿Qué haces?",
+   "v": "Mentiste diciendo que hablabas alemán en tu currículum... y acaba de llegar alguien de la oficina alemana. ¿Qué haces?",
    "n": "QuestionText"
   },
   {

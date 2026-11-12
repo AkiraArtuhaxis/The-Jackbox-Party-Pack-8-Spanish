@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Te encuentras trabajando hasta tarde solo con el charlatán guardia. ¿Cómo eludes el hecho de que no sabes su nombre?"
+   "s": "Te encuentras trabajando hasta tarde solo con el guardia charlatán. ¿Cómo eludes el hecho de que no sabes su nombre?"
   },
   {
    "t": "S",
-   "v": "Te encuentras trabajando hasta tarde solo con el charlatán guardia. ¿Cómo eludes el hecho de que no sabes su nombre?",
+   "v": "Te encuentras trabajando hasta tarde solo con el guardia charlatán. ¿Cómo eludes el hecho de que no sabes su nombre?",
    "n": "QuestionText"
   },
   {

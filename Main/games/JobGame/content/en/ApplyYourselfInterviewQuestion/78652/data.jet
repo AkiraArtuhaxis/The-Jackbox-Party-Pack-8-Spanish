@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "La oficina va a trasladarse a Wisconsin, pero tienes un miedo irracional al Medio Oeste estadounidense. ¿Cómo respondes?"
+   "s": "La oficina va a trasladarse a Buenos Aires, pero tienes un miedo irracional a los argentinos. ¿Cómo respondes?"
   },
   {
    "t": "S",
-   "v": "La oficina va a trasladarse a Wisconsin, pero tienes un miedo irracional al Medio Oeste estadounidense. ¿Cómo respondes?",
+   "v": "La oficina va a trasladarse a Buenos Aires, pero tienes un miedo irracional a los argentinos. ¿Cómo respondes?",
    "n": "QuestionText"
   },
   {

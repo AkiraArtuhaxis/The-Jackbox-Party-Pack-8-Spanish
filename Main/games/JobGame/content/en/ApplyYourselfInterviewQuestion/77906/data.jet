@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "¡Estás en el asado anual de la empresa y Todd está quemando toda la carne! ¿Qué haces?"
+   "s": "¡Estás en la barbacoa anual de la empresa y Todd está quemando toda la carne! ¿Qué haces?"
   },
   {
    "t": "S",
-   "v": "¡Estás en el asado anual de la empresa y Todd está quemando toda la carne! ¿Qué haces?",
+   "v": "¡Estás en la barbacoa anual de la empresa y Todd está quemando toda la carne! ¿Qué haces?",
    "n": "QuestionText"
   },
   {

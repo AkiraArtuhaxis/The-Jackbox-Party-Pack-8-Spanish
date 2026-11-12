@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Hay donas en la mesa de la cocina de la oficina con una nota que dice, \"Tomar solo una.\" ¿Qué haces?"
+   "s": "Hay donas en la mesa de la cocina de la oficina con una nota que dice, \"Tomar solo una\". ¿Qué haces?"
   },
   {
    "t": "S",
-   "v": "Hay donas en la mesa de la cocina de la oficina con una nota que dice, \"Tomar solo una.\" ¿Qué haces?",
+   "v": "Hay donas en la mesa de la cocina de la oficina con una nota que dice, \"Tomar solo una\". ¿Qué haces?",
    "n": "QuestionText"
   },
   {

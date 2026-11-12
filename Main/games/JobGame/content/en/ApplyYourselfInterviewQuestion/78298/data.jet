@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Ves que compañeros de trabajo dejan la misma casilla de baño juntos. ¿Cómo respondes?"
+   "s": "Ves que tus compañeros de trabajo dejan la misma casilla de baño juntos. ¿Cómo respondes?"
   },
   {
    "t": "S",
-   "v": "Ves que compañeros de trabajo dejan la misma casilla de baño juntos. ¿Cómo respondes?",
+   "v": "Ves que tus compañeros de trabajo dejan la misma casilla de baño juntos. ¿Cómo respondes?",
    "n": "QuestionText"
   },
   {

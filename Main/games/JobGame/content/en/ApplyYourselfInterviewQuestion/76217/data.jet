@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "¿Cuál es la decisión más difícil que has tenido que hacer?"
+   "s": "¿Cuál es la decisión más difícil que has tenido que tomar?"
   },
   {
    "t": "S",
-   "v": "¿Cuál es la decisión más difícil que has tenido que hacer?",
+   "v": "¿Cuál es la decisión más difícil que has tenido que tomar?",
    "n": "QuestionText"
   },
   {

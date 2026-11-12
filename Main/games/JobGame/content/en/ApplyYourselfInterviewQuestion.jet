@@ -115,7 +115,7 @@
   {
    "id": "76217",
    "isValid": "",
-   "question": "¿Cuál es la decisión más difícil que has tenido que hacer?",
+   "question": "¿Cuál es la decisión más difícil que has tenido que tomar?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -155,7 +155,7 @@
   {
    "id": "76222",
    "isValid": "",
-   "question": "Si pudieras cambiar una cosa sobre ti, ¿cuál sería?",
+   "question": "Si pudieras cambiar una cosa sobre ti, ¿qué sería?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -211,7 +211,7 @@
   {
    "id": "76309",
    "isValid": "",
-   "question": "¿Cómo haces una buena primera impresión?",
+   "question": "¿Cómo logras una buena primera impresión?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -627,7 +627,7 @@
   {
    "id": "76526",
    "isValid": "",
-   "question": "¿Qué te hace que te emocione despertarte por la mañana?",
+   "question": "¿Qué hace que te emocione despertarte por la mañana?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -915,7 +915,7 @@
   {
    "id": "78877",
    "isValid": "",
-   "question": "¿Cómo vas a usar tus 15 minutos de recreo obligatorios por contrato?",
+   "question": "¿Cómo vas a usar tus 15 minutos de descanso obligatorios por contrato?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -1011,7 +1011,7 @@
   {
    "id": "80083",
    "isValid": "",
-   "question": "Dame una buena razón por la cuál NO debería contratarte.",
+   "question": "Dame una buena razón por la cual NO debería contratarte.",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -1019,7 +1019,7 @@
   {
    "id": "76225",
    "isValid": "",
-   "question": "Descubres que tu almuerzo no está en la heladera de la compañía. ¿Qué haces?",
+   "question": "Descubres que tu almuerzo no está en el refrigerador de la compañía. ¿Qué haces?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -1067,7 +1067,7 @@
   {
    "id": "76231",
    "isValid": "",
-   "question": "Tu compañero/a de trabajo te invita a su rutina de comedia improvisada. ¿Qué haces?",
+   "question": "Tu compañero de trabajo te invita a su rutina de comedia improvisada. ¿Qué haces?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -1131,7 +1131,7 @@
   {
    "id": "76239",
    "isValid": "",
-   "question": "Son las 10 AM y no tenemos más café. ¿Qué haces?",
+   "question": "Son las 10 de la mañana y no tenemos más café. ¿Qué haces?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -1179,7 +1179,7 @@
   {
    "id": "76389",
    "isValid": "",
-   "question": "Un compañero de trabajo tiene a una mascota bajo su escritorio, a pesar de nuestra política de \"cero animales\". ¿Qué dices?",
+   "question": "Un compañero de trabajo tiene una mascota bajo su escritorio, a pesar de nuestra política de \"cero animales\". ¿Qué dices?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -1379,7 +1379,7 @@
   {
    "id": "76452",
    "isValid": "",
-   "question": "Digamos que un compañero de trabajo de incrimina por un delito. ¿Cómo evades a las autoridades?",
+   "question": "Digamos que un compañero de trabajo te incrimina por un delito. ¿Cómo evades a las autoridades?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -1395,7 +1395,7 @@
   {
    "id": "76522",
    "isValid": "",
-   "question": "A nuestra oficina le gusta participar del Día de los Inocentes. ¿Cuál es tu broma favorita?",
+   "question": "A nuestra oficina le gusta participar en el Día de los Inocentes. ¿Cuál es tu broma favorita?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -1403,7 +1403,7 @@
   {
    "id": "76523",
    "isValid": "",
-   "question": "Por error bebiste una gaseosa de la heladera de la oficina que dice “No Tocar”. ¿Qué haces?",
+   "question": "Por error bebiste una gaseosa del refrigerador de la oficina que dice “No Tocar”. ¿Qué haces?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -1443,7 +1443,7 @@
   {
    "id": "76531",
    "isValid": "",
-   "question": "Estás atorado en un ascensor roto con un compañero de trabajo que se ha estado robando tus lapiceras. ¿Qué le dices?",
+   "question": "Estás atorado en un ascensor roto con un compañero de trabajo que se ha estado robando tus bolígrafos. ¿Qué le dices?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -1595,7 +1595,7 @@
   {
    "id": "77122",
    "isValid": "",
-   "question": "Tu gerente quiere que escribas sus reportes por él/ella. ¿Cómo respondes a ello?",
+   "question": "Tu gerente quiere que escribas sus reportes por él. ¿Cómo respondes a ello?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -1715,7 +1715,7 @@
   {
    "id": "77236",
    "isValid": "",
-   "question": "Nuestra oficina tiene un parque de juegos; ¿cómo pasas tus 30 minutos de recreo?",
+   "question": "Nuestra oficina tiene un parque de juegos; ¿cómo pasas tus 30 minutos de receso?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -1771,7 +1771,7 @@
   {
    "id": "77243",
    "isValid": "",
-   "question": "Ah, recórcholis. Tu lapicera no tiene tinta. ¿Qué haces?",
+   "question": "Ah, recórcholis. Tu bolígrafo no tiene tinta. ¿Qué haces?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -1883,7 +1883,7 @@
   {
    "id": "77259",
    "isValid": "",
-   "question": "Tu jefe vendrá a cenar. ¿Cómo haces para caerle bien?",
+   "question": "Tu gerente vendrá a cenar. ¿Cómo haces para caerle bien?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -1971,7 +1971,7 @@
   {
    "id": "77278",
    "isValid": "",
-   "question": "No estamos acusándote de nada... ¿pero qué estabas haciendo el jueves pasado a las 7 PM?",
+   "question": "No estamos acusándote de nada... ¿pero qué estabas haciendo el jueves pasado a las 7 de la tarde?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2203,7 +2203,7 @@
   {
    "id": "77786",
    "isValid": "",
-   "question": "Tu gaseosa sin calorías favorita es reemplaza por una marca genérica. ¿Cómo armas un berrinche sobre esto profesionalmente?",
+   "question": "Tu gaseosa sin calorías favorita es reemplazada por una marca genérica. ¿Cómo armas un berrinche sobre esto profesionalmente?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2363,7 +2363,7 @@
   {
    "id": "77906",
    "isValid": "",
-   "question": "¡Estás en el asado anual de la empresa y Todd está quemando toda la carne! ¿Qué haces?",
+   "question": "¡Estás en la barbacoa anual de la empresa y Todd está quemando toda la carne! ¿Qué haces?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2411,7 +2411,7 @@
   {
    "id": "77913",
    "isValid": "",
-   "question": "Hay donas en la mesa de la cocina de la oficina con una nota que dice, \"Tomar solo una.\" ¿Qué haces?",
+   "question": "Hay donas en la mesa de la cocina de la oficina con una nota que dice, \"Tomar solo una\". ¿Qué haces?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2595,7 +2595,7 @@
   {
    "id": "78121",
    "isValid": "",
-   "question": "Te encuentras trabajando hasta tarde solo con el charlatán guardia. ¿Cómo eludes el hecho de que no sabes su nombre?",
+   "question": "Te encuentras trabajando hasta tarde solo con el guardia charlatán. ¿Cómo eludes el hecho de que no sabes su nombre?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2619,7 +2619,7 @@
   {
    "id": "78128",
    "isValid": "",
-   "question": "Llegas a la oficina y está cerrada por feriado. ¡Nadie te avisó! ¿Cómo reaccionas?",
+   "question": "Llegas a la oficina y está cerrada por día festivo. ¡Nadie te avisó! ¿Cómo reaccionas?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2659,7 +2659,7 @@
   {
    "id": "78136",
    "isValid": "",
-   "question": "Has atascado la impresora costosa de la oficina, posiblemente permanentemente. ¿Qué haces?",
+   "question": "Has atascado la impresora costosa de la oficina, quizás permanentemente. ¿Qué haces?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2723,7 +2723,7 @@
   {
    "id": "78298",
    "isValid": "",
-   "question": "Ves que compañeros de trabajo dejan la misma casilla de baño juntos. ¿Cómo respondes?",
+   "question": "Ves que tus compañeros de trabajo dejan la misma casilla de baño juntos. ¿Cómo respondes?",
    "round": "two",
    "round3Header": null,
    "x": true
@@ -2771,7 +2771,7 @@
   {
    "id": "78475",
    "isValid": "",
-   "question": "El nuevo parece súper genial. ¿Qué haces para que se sienta bienvenido en la oficina?",
+   "question": "El nuevo empleado parece súper genial. ¿Qué haces para que se sienta bienvenido en la oficina?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2803,7 +2803,7 @@
   {
    "id": "78551",
    "isValid": "",
-   "question": "Un compañero de trabajo que arrancó antes que tú acaba de preguntarte cuál es tu salario. ¿Cómo respondes?",
+   "question": "Un compañero de trabajo que empezó antes que tú acaba de preguntarte cuál es tu salario. ¿Cómo respondes?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2819,7 +2819,7 @@
   {
    "id": "78553",
    "isValid": "",
-   "question": "Frank se robó la silla buena tuya que gira. De nuevo. ¿Cómo respondes?",
+   "question": "Frank se robó tu silla buena que gira. Otra vez. ¿Cómo respondes?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2867,7 +2867,7 @@
   {
    "id": "78652",
    "isValid": "",
-   "question": "La oficina va a trasladarse a Wisconsin, pero tienes un miedo irracional al Medio Oeste estadounidense. ¿Cómo respondes?",
+   "question": "La oficina va a trasladarse a Buenos Aires, pero tienes un miedo irracional a los argentinos. ¿Cómo respondes?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2883,7 +2883,7 @@
   {
    "id": "78655",
    "isValid": "",
-   "question": "¡Tu mejor amigo de la oficina está almorzando con el nuevo en vez de contigo! ¿Cómo reaccionas?",
+   "question": "¡Tu mejor amigo de la oficina está almorzando con el nuevo empleado en vez de contigo! ¿Cómo reaccionas?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2995,7 +2995,7 @@
   {
    "id": "78958",
    "isValid": "",
-   "question": "Tu gerente te informa que el director ejecutivo está siendo reemplazada por la junta de la compañía. ¿Cómo reaccionas?",
+   "question": "Tu gerente te informa que el director ejecutivo está siendo reemplazado por la junta de la compañía. ¿Cómo reaccionas?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3035,7 +3035,7 @@
   {
    "id": "78963",
    "isValid": "",
-   "question": "La compañía instala una nueva heladera cervecera para usar los viernes por la tarde. ¿Cómo reaccionas?",
+   "question": "La compañía instala un nuevo refrigerador cervecero para usar los viernes por la tarde. ¿Cómo reaccionas?",
    "round": "two",
    "round3Header": null,
    "x": true
@@ -3291,7 +3291,7 @@
   {
    "id": "80088",
    "isValid": "",
-   "question": "Te han culpado de comer el almuerzo de alguien más de la heladera. ¿Cómo reaccionarías?",
+   "question": "Te han culpado de comer el almuerzo de alguien más del refrigerador. ¿Cómo reaccionarías?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3347,7 +3347,7 @@
   {
    "id": "80180",
    "isValid": "",
-   "question": "Mentiste diciendo que hablabas alemán en tu currículum... y ha llegado ahora alguien de la oficina alemana. ¿Qué haces?",
+   "question": "Mentiste diciendo que hablabas alemán en tu currículum... y acaba de llegar alguien de la oficina alemana. ¿Qué haces?",
    "round": "two",
    "round3Header": null,
    "x": false

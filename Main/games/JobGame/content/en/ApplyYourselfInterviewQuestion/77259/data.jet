@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Tu jefe vendrá a cenar. ¿Cómo haces para caerle bien?"
+   "s": "Tu gerente vendrá a cenar. ¿Cómo haces para caerle bien?"
   },
   {
    "t": "S",
-   "v": "Tu jefe vendrá a cenar. ¿Cómo haces para caerle bien?",
+   "v": "Tu gerente vendrá a cenar. ¿Cómo haces para caerle bien?",
    "n": "QuestionText"
   },
   {
