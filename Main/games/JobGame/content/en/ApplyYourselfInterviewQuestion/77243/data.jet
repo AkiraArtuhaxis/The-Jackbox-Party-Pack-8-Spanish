@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Ah, recórcholis. Tu lapicera no tiene tinta. ¿Qué haces?"
+   "s": "Ah, recórcholis. Tu bolígrafo no tiene tinta. ¿Qué haces?"
   },
   {
    "t": "S",
-   "v": "Ah, recórcholis. Tu lapicera no tiene tinta. ¿Qué haces?",
+   "v": "Ah, recórcholis. Tu bolígrafo no tiene tinta. ¿Qué haces?",
    "n": "QuestionText"
   },
   {

@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "¿Qué te hace que te emocione despertarte por la mañana?"
+   "s": "¿Qué hace que te emocione despertarte por la mañana?"
   },
   {
    "t": "S",
-   "v": "¿Qué te hace que te emocione despertarte por la mañana?",
+   "v": "¿Qué hace que te emocione despertarte por la mañana?",
    "n": "QuestionText"
   },
   {

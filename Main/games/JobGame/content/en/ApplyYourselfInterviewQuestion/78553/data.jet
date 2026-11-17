@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Frank se robó la silla buena tuya que gira. De nuevo. ¿Cómo respondes?"
+   "s": "Frank se robó tu silla buena que gira. Otra vez. ¿Cómo respondes?"
   },
   {
    "t": "S",
-   "v": "Frank se robó la silla buena tuya que gira. De nuevo. ¿Cómo respondes?",
+   "v": "Frank se robó tu silla buena que gira. Otra vez. ¿Cómo respondes?",
    "n": "QuestionText"
   },
   {

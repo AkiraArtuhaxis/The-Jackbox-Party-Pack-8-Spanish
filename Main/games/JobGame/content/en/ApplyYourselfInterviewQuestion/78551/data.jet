@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Un compañero de trabajo que arrancó antes que tú acaba de preguntarte cuál es tu salario. ¿Cómo respondes?"
+   "s": "Un compañero de trabajo que empezó antes que tú acaba de preguntarte cuál es tu salario. ¿Cómo respondes?"
   },
   {
    "t": "S",
-   "v": "Un compañero de trabajo que arrancó antes que tú acaba de preguntarte cuál es tu salario. ¿Cómo respondes?",
+   "v": "Un compañero de trabajo que empezó antes que tú acaba de preguntarte cuál es tu salario. ¿Cómo respondes?",
    "n": "QuestionText"
   },
   {

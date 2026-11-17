@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Estás atorado en un ascensor roto con un compañero de trabajo que se ha estado robando tus lapiceras. ¿Qué le dices?"
+   "s": "Estás atorado en un ascensor roto con un compañero de trabajo que se ha estado robando tus bolígrafos. ¿Qué le dices?"
   },
   {
    "t": "S",
-   "v": "Estás atorado en un ascensor roto con un compañero de trabajo que se ha estado robando tus lapiceras. ¿Qué le dices?",
+   "v": "Estás atorado en un ascensor roto con un compañero de trabajo que se ha estado robando tus bolígrafos. ¿Qué le dices?",
    "n": "QuestionText"
   },
   {

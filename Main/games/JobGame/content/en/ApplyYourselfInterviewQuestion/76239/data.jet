@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Son las 10 AM y no tenemos más café. ¿Qué haces?"
+   "s": "Son las 10 de la mañana y no tenemos más café. ¿Qué haces?"
   },
   {
    "t": "S",
-   "v": "Son las 10 AM y no tenemos más café. ¿Qué haces?",
+   "v": "Son las 10 de la mañana y no tenemos más café. ¿Qué haces?",
    "n": "QuestionText"
   },
   {

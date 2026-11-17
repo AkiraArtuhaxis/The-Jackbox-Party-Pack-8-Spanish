@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Si pudieras cambiar una cosa sobre ti, ¿cuál sería?"
+   "s": "Si pudieras cambiar una cosa sobre ti, ¿qué sería?"
   },
   {
    "t": "S",
-   "v": "Si pudieras cambiar una cosa sobre ti, ¿cuál sería?",
+   "v": "Si pudieras cambiar una cosa sobre ti, ¿qué sería?",
    "n": "QuestionText"
   },
   {

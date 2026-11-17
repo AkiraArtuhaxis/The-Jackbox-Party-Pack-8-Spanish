@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "La compañía instala una nueva heladera cervecera para usar los viernes por la tarde. ¿Cómo reaccionas?"
+   "s": "La compañía instala un nuevo refrigerador cervecero para usar los viernes por la tarde. ¿Cómo reaccionas?"
   },
   {
    "t": "S",
-   "v": "La compañía instala una nueva heladera cervecera para usar los viernes por la tarde. ¿Cómo reaccionas?",
+   "v": "La compañía instala un nuevo refrigerador cervecero para usar los viernes por la tarde. ¿Cómo reaccionas?",
    "n": "QuestionText"
   },
   {

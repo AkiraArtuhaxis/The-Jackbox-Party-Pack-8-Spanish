@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Tu gerente te informa que el director ejecutivo está siendo reemplazada por la junta de la compañía. ¿Cómo reaccionas?"
+   "s": "Tu gerente te informa que el director ejecutivo está siendo reemplazado por la junta de la compañía. ¿Cómo reaccionas?"
   },
   {
    "t": "S",
-   "v": "Tu gerente te informa que el director ejecutivo está siendo reemplazada por la junta de la compañía. ¿Cómo reaccionas?",
+   "v": "Tu gerente te informa que el director ejecutivo está siendo reemplazado por la junta de la compañía. ¿Cómo reaccionas?",
    "n": "QuestionText"
   },
   {

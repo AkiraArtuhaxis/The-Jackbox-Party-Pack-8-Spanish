@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "No estamos acusándote de nada... ¿pero qué estabas haciendo el jueves pasado a las 7 PM?"
+   "s": "No estamos acusándote de nada... ¿pero qué estabas haciendo el jueves pasado a las 7 de la tarde?"
   },
   {
    "t": "S",
-   "v": "No estamos acusándote de nada... ¿pero qué estabas haciendo el jueves pasado a las 7 PM?",
+   "v": "No estamos acusándote de nada... ¿pero qué estabas haciendo el jueves pasado a las 7 de la tarde?",
    "n": "QuestionText"
   },
   {

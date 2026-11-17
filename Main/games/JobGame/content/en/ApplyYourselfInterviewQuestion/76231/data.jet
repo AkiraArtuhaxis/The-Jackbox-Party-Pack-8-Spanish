@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Tu compañero/a de trabajo te invita a su rutina de comedia improvisada. ¿Qué haces?"
+   "s": "Tu compañero de trabajo te invita a su rutina de comedia improvisada. ¿Qué haces?"
   },
   {
    "t": "S",
-   "v": "Tu compañero/a de trabajo te invita a su rutina de comedia improvisada. ¿Qué haces?",
+   "v": "Tu compañero de trabajo te invita a su rutina de comedia improvisada. ¿Qué haces?",
    "n": "QuestionText"
   },
   {

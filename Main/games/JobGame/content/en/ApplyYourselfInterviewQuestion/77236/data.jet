@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Nuestra oficina tiene un parque de juegos; ¿cómo pasas tus 30 minutos de recreo?"
+   "s": "Nuestra oficina tiene un parque de juegos; ¿cómo pasas tus 30 minutos de receso?"
   },
   {
    "t": "S",
-   "v": "Nuestra oficina tiene un parque de juegos; ¿cómo pasas tus 30 minutos de recreo?",
+   "v": "Nuestra oficina tiene un parque de juegos; ¿cómo pasas tus 30 minutos de receso?",
    "n": "QuestionText"
   },
   {

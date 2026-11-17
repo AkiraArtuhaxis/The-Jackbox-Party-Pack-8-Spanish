@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Te han culpado de comer el almuerzo de alguien más de la heladera. ¿Cómo reaccionarías?"
+   "s": "Te han culpado de comer el almuerzo de alguien más del refrigerador. ¿Cómo reaccionarías?"
   },
   {
    "t": "S",
-   "v": "Te han culpado de comer el almuerzo de alguien más de la heladera. ¿Cómo reaccionarías?",
+   "v": "Te han culpado de comer el almuerzo de alguien más del refrigerador. ¿Cómo reaccionarías?",
    "n": "QuestionText"
   },
   {
